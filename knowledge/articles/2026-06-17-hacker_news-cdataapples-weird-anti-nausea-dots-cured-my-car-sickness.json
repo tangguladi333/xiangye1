@@ -1,0 +1,30 @@
+{
+  "id": "20260617-017",
+  "title": "<![CDATA[Apple's weird anti-nausea dots cured my car sickness]]>",
+  "source_url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+  "source_type": "hacker_news",
+  "summary": "苹果车辆运动提示功能通过屏幕边缘动态点缓解晕车，实际体验有效。",
+  "highlights": [
+    "苹果专利技术用视觉提示减少感官冲突",
+    "用户实测称能显著缓解乘车晕动症",
+    "功能依赖设备传感器和屏幕显示协同"
+  ],
+  "use_cases": [
+    "乘车时减少晕车不适",
+    "长途旅行提升舒适度",
+    "车载娱乐系统辅助功能"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 16:12:06 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-modal",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:56Z",
+  "analyzed_at": "2026-06-17T07:53:56Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

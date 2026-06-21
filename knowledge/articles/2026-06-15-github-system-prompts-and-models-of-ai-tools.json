@@ -1,0 +1,18 @@
+{
+  "id": "20260615-008",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source": "github_trending",
+  "popularity": 1642,
+  "summary": "收集整理 Cursor、Claude Code、Gemini 等数十款 AI 工具的 System Prompt 和模型信息",
+  "highlights": [
+    "覆盖极广，持续更新主流 AI 工具",
+    "对 Agent 开发者和 Prompt 工程师有直接参考价值"
+  ],
+  "score": 6,
+  "tags": ["llm", "devtools"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

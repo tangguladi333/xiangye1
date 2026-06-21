@@ -1,0 +1,31 @@
+{
+  "id": "20260621-github_trending-004",
+  "title": "ai-engineering-hub",
+  "source_url": "https://github.com/patchy631/ai-engineering-hub",
+  "source_type": "github_trending",
+  "summary": "提供LLM、RAG和AI Agent应用的深度教程，涵盖MCP等前沿技术，拥有3.5万星标。",
+  "highlights": [
+    "教程深入且实战性强",
+    "覆盖LLM、RAG、Agent等核心主题",
+    "社区活跃，星标数高"
+  ],
+  "use_cases": [
+    "学习构建AI Agent应用",
+    "掌握RAG技术实现",
+    "研究MCP协议实践"
+  ],
+  "maturity": {
+    "stars": 35906,
+    "last_updated": "2026-06-21",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:13:38Z",
+  "analyzed_at": "2026-06-21T11:13:38Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

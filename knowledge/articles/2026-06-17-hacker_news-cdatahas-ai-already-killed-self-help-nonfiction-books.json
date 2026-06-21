@@ -1,0 +1,29 @@
+{
+  "id": "20260617-013",
+  "title": "<![CDATA[Has AI already killed self-help nonfiction books?]]>",
+  "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+  "source_type": "hacker_news",
+  "summary": "探讨AI是否已取代自助类非虚构书籍，分析AI在知识获取和个性化建议方面的优势，以及传统书籍的价值。",
+  "highlights": [
+    "AI能提供个性化、即时反馈的自助建议",
+    "传统非虚构书籍的深度和系统性仍具价值",
+    "AI可能改变但不会完全取代自助类书籍"
+  ],
+  "use_cases": [
+    "评估AI对出版业的影响",
+    "分析知识获取方式的变革",
+    "探讨AI与人类内容创作的关系"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 17:11:05 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:46Z",
+  "analyzed_at": "2026-06-17T07:53:46Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

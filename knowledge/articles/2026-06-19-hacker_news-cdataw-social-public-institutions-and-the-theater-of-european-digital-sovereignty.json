@@ -1,0 +1,29 @@
+{
+  "id": "20260619-hacker_news-013",
+  "title": "<![CDATA[W Social, public institutions and the theater of European digital sovereignty]]>",
+  "source_url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+  "source_type": "hacker_news",
+  "summary": "文章批评欧洲数字主权倡议是政治表演，缺乏实际投入和公共机构参与，呼吁回归公共服务导向。",
+  "highlights": [
+    "欧洲数字主权倡议被指为政治表演，缺乏实质投入",
+    "公共机构在数字主权建设中角色被边缘化",
+    "呼吁回归公共服务导向的数字政策"
+  ],
+  "use_cases": [
+    "分析欧洲数字政策与政治修辞",
+    "评估公共机构在技术主权中的参与度",
+    "批判性研究数字主权倡议的实际影响"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 12:46:04 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:35:01Z",
+  "analyzed_at": "2026-06-19T14:35:01Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

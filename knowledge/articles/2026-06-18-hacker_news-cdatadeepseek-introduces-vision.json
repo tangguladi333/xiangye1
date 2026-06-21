@@ -1,0 +1,30 @@
+{
+  "id": "20260618-hacker_news-003",
+  "title": "<![CDATA[DeepSeek Introduces Vision]]>",
+  "source_url": "https://chat.deepseek.com/",
+  "source_type": "hacker_news",
+  "summary": "DeepSeek推出视觉能力，扩展多模态功能。",
+  "highlights": [
+    "新增视觉理解能力",
+    "基于DeepSeek模型",
+    "支持图像输入分析"
+  ],
+  "use_cases": [
+    "图像内容识别与问答",
+    "多模态交互应用",
+    "视觉辅助分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 06:17:40 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-18T07:07:20Z",
+  "analyzed_at": "2026-06-18T07:07:20Z",
+  "curated_at": "2026-06-18T07:07:20Z"
+}

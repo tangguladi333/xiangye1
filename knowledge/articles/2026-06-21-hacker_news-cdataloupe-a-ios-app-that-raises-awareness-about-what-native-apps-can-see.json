@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-018",
+  "title": "<![CDATA[Loupe – A iOS app that raises awareness about what native apps can see]]>",
+  "source_url": "https://github.com/mysk-research/loupe",
+  "source_type": "hacker_news",
+  "summary": "Loupe是一款iOS应用，旨在提高用户对原生应用可访问数据的意识，揭示隐私风险。",
+  "highlights": [
+    "揭示iOS原生应用可访问的敏感数据",
+    "提升用户对移动应用隐私风险的认识",
+    "基于mysk-research的安全研究项目"
+  ],
+  "use_cases": [
+    "隐私意识教育",
+    "移动应用安全审计",
+    "用户数据权限管理"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 12:08:23 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:53Z",
+  "analyzed_at": "2026-06-21T11:14:53Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

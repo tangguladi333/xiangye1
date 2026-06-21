@@ -1,0 +1,18 @@
+{
+  "id": "20260615-010",
+  "title": "asgeirtj/system_prompts_leaks",
+  "url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "source": "github_trending",
+  "popularity": 819,
+  "summary": "逆向提取的 Claude、GPT、Gemini、Grok 等主流模型 System Prompt 合集，持续更新",
+  "highlights": [
+    "包含 Claude Fable 5、GPT 5.5 等最新模型提示词",
+    "更新频繁，对 Prompt 研究和模型行为分析有参考价值"
+  ],
+  "score": 6,
+  "tags": ["llm"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

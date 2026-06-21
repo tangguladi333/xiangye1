@@ -1,0 +1,29 @@
+{
+  "id": "20260620-hacker_news-005",
+  "title": "<![CDATA[Surprising economics of load-balanced systems]]>",
+  "source_url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+  "source_type": "hacker_news",
+  "summary": "探讨负载均衡系统在经济学视角下的反直觉特性，分析其效率与成本权衡。",
+  "highlights": [
+    "负载均衡系统存在反直觉的经济学特性",
+    "系统效率与成本之间存在复杂权衡",
+    "文章通过Erlang模型分析系统行为"
+  ],
+  "use_cases": [
+    "分布式系统架构设计",
+    "云计算资源调度优化",
+    "高并发服务性能分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 20:30:59 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:13Z",
+  "analyzed_at": "2026-06-20T10:31:13Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

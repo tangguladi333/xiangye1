@@ -1,0 +1,30 @@
+{
+  "id": "20260619-hacker_news-017",
+  "title": "<![CDATA[Hospitals and universities repurposing drugs at lower cost]]>",
+  "source_url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+  "source_type": "hacker_news",
+  "summary": "医院和大学以低成本重新利用现有药物，降低90%费用，提高治疗可及性。",
+  "highlights": [
+    "重新利用现有药物可大幅降低成本",
+    "涉及医院和大学合作",
+    "降低90%费用提高治疗可及性"
+  ],
+  "use_cases": [
+    "药物研发成本优化",
+    "罕见病治疗",
+    "公共健康项目"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 10:33:22 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:35:11Z",
+  "analyzed_at": "2026-06-19T14:35:11Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

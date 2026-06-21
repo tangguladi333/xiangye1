@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-014",
+  "title": "<![CDATA[There are no instances in ATProto]]>",
+  "source_url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+  "source_type": "hacker_news",
+  "summary": "文章探讨ATProto协议中无“实例”概念的设计哲学，强调去中心化与数据可移植性，引发技术社区热议。",
+  "highlights": [
+    "ATProto协议摒弃传统实例模型，采用数据仓库与中继架构",
+    "强调用户数据自主控制与跨服务迁移能力",
+    "引发关于去中心化社交协议设计取舍的深度讨论"
+  ],
+  "use_cases": [
+    "理解去中心化社交协议设计理念",
+    "对比ATProto与ActivityPub等协议差异",
+    "启发分布式应用数据架构设计"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 15:10:02 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:35Z",
+  "analyzed_at": "2026-06-20T10:31:35Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

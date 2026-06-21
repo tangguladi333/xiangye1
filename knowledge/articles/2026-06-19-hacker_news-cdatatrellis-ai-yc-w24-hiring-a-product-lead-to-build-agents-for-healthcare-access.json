@@ -1,0 +1,30 @@
+{
+  "id": "20260619-hacker_news-019",
+  "title": "<![CDATA[Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access]]>",
+  "source_url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+  "source_type": "hacker_news",
+  "summary": "Trellis AI（YC W24）正在招聘产品负责人，构建用于医疗保健访问的AI代理。",
+  "highlights": [
+    "专注于医疗保健领域的AI代理开发",
+    "YC W24孵化项目，处于早期阶段",
+    "招聘产品负责人推动产品落地"
+  ],
+  "use_cases": [
+    "医疗保健访问自动化",
+    "患者服务流程优化",
+    "医疗资源调度"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 17:00:02 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:35:15Z",
+  "analyzed_at": "2026-06-19T14:35:15Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

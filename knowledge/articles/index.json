@@ -1,0 +1,3501 @@
+[
+  {
+    "id": "20260615-005",
+    "title": "Panniantong/Agent-Reach",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "agent",
+      "data"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-003",
+    "title": "addyosmani/agent-skills",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "agent",
+      "devtools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-002",
+    "title": "chopratejas/headroom",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "llm",
+      "infra"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-001",
+    "title": "mvanhorn/last30days-skill",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "agent",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-009",
+    "title": "openai/plugins",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-006",
+    "title": "NVIDIA/SkillSpector",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "agent",
+      "infra"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-007",
+    "title": "roboflow/supervision",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "cv",
+      "devtools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-008",
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "llm",
+      "devtools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-010",
+    "title": "asgeirtj/system_prompts_leaks",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260615-004",
+    "title": "Leonxlnx/taste-skill",
+    "source_url": "",
+    "source_type": "",
+    "tags": [
+      "agent",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-15T08:10:00Z"
+  },
+  {
+    "id": "20260616-004",
+    "title": "browser-use",
+    "source_url": "https://github.com/browser-use/browser-use",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-013",
+    "title": "cherry-studio",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-015",
+    "title": "CowAgent",
+    "source_url": "https://github.com/zhayujie/CowAgent",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "embeddings",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-008",
+    "title": "deer-flow",
+    "source_url": "https://github.com/bytedance/deer-flow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-002",
+    "title": "dify",
+    "source_url": "https://github.com/langgenius/dify",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-012",
+    "title": "goose",
+    "source_url": "https://github.com/aaif-goose/goose",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-001",
+    "title": "hermes-agent",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-014",
+    "title": "JeecgBoot",
+    "source_url": "https://github.com/jeecgboot/JeecgBoot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-003",
+    "title": "langchain",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-007",
+    "title": "LlamaFactory",
+    "source_url": "https://github.com/hiyouga/LlamaFactory",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "inference",
+      "fine-tuning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-011",
+    "title": "mem0",
+    "source_url": "https://github.com/mem0ai/mem0",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "embeddings"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-009",
+    "title": "MetaGPT",
+    "source_url": "https://github.com/FoundationAgents/MetaGPT",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-006",
+    "title": "OpenHands",
+    "source_url": "https://github.com/OpenHands/OpenHands",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-010",
+    "title": "pi",
+    "source_url": "https://github.com/earendil-works/pi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260616-005",
+    "title": "ragflow",
+    "source_url": "https://github.com/infiniflow/ragflow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "evaluation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-16T13:31:12Z"
+  },
+  {
+    "id": "20260617-github_trending-004",
+    "title": "ai-engineering-hub",
+    "source_url": "https://github.com/patchy631/ai-engineering-hub",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-014",
+    "title": "aichat",
+    "source_url": "https://github.com/sigoden/aichat",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-006",
+    "title": "AstrBot",
+    "source_url": "https://github.com/AstrBotDevs/AstrBot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-017",
+    "title": "awesome-LLM-resources",
+    "source_url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-012",
+    "title": "bisheng",
+    "source_url": "https://github.com/dataelement/bisheng",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-003",
+    "title": "cherry-studio",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-019",
+    "title": "codefather",
+    "source_url": "https://github.com/liyupi/codefather",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-020",
+    "title": "FinRobot",
+    "source_url": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-002",
+    "title": "goose",
+    "source_url": "https://github.com/aaif-goose/goose",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-008",
+    "title": "haystack",
+    "source_url": "https://github.com/deepset-ai/haystack",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-016",
+    "title": "hexstrike-ai",
+    "source_url": "https://github.com/0x4m4/hexstrike-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-005",
+    "title": "khoj",
+    "source_url": "https://github.com/khoj-ai/khoj",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-013",
+    "title": "KrillinAI",
+    "source_url": "https://github.com/krillinai/KrillinAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-015",
+    "title": "MemOS",
+    "source_url": "https://github.com/MemTensor/MemOS",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-007",
+    "title": "mlflow",
+    "source_url": "https://github.com/mlflow/mlflow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-011",
+    "title": "nanobrowser",
+    "source_url": "https://github.com/nanobrowser/nanobrowser",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-009",
+    "title": "parlant",
+    "source_url": "https://github.com/emcie-co/parlant",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-001",
+    "title": "pi",
+    "source_url": "https://github.com/earendil-works/pi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-018",
+    "title": "PraisonAI",
+    "source_url": "https://github.com/MervinPraison/PraisonAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-github_trending-010",
+    "title": "RagaAI-Catalyst",
+    "source_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "source_type": "github_trending",
+    "tags": [
+      "agent",
+      "llm",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-002",
+    "title": "<![CDATA[Agentic coding deserves more than a chat box bolted onto VS Code]]>",
+    "source_url": "https://github.com/evanklem/polypore",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-008",
+    "title": "<![CDATA[AI demands more engineering discipline. Not less]]>",
+    "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-010",
+    "title": "<![CDATA[Apple is about to make Hide My Email useless]]>",
+    "source_url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-017",
+    "title": "<![CDATA[Apple's weird anti-nausea dots cured my car sickness]]>",
+    "source_url": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work",
+    "source_type": "hacker_news",
+    "tags": [
+      "multi-modal",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-020",
+    "title": "<![CDATA[But yak shaving is fun (2019)]]>",
+    "source_url": "https://parksb.github.io/en/article/32.html",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-018",
+    "title": "<![CDATA[Calvin and Hobbes and the price of integrity]]>",
+    "source_url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-hacker_news-006",
+    "title": "<![CDATA[Epic Games announces Lore version control system]]>",
+    "source_url": "https://lore.org/",
+    "source_type": "hacker_news",
+    "tags": [
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-003",
+    "title": "<![CDATA[French physicist and media star loses doctorate after plagiarism investigation]]>",
+    "source_url": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-009",
+    "title": "<![CDATA[Frood, an Alpine Initramfs NAS (2024)]]>",
+    "source_url": "https://words.filippo.io/frood/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-hacker_news-016",
+    "title": "<![CDATA[GLM-5.2 is the new leading open weights model on Artificial Analysis]]>",
+    "source_url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-019",
+    "title": "<![CDATA[GLM 5.2 Performance Benchmarks]]>",
+    "source_url": "https://artificialanalysis.ai/models/glm-5-2",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-020",
+    "title": "<![CDATA[GPT‑NL: a sovereign language model for the Netherlands]]>",
+    "source_url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "fine-tuning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T15:51:10Z"
+  },
+  {
+    "id": "20260617-hacker_news-019",
+    "title": "<![CDATA[GrapheneOS has been ported to Android 17]]>",
+    "source_url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T15:51:10Z"
+  },
+  {
+    "id": "20260617-hacker_news-018",
+    "title": "<![CDATA[Hacker News but for Independent Blogs]]>",
+    "source_url": "https://bubbles.town/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-013",
+    "title": "<![CDATA[Has AI already killed self-help nonfiction books?]]>",
+    "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-hacker_news-020",
+    "title": "<![CDATA[Humiliating IIS servers for fun and jail time]]>",
+    "source_url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "source_type": "hacker_news",
+    "tags": [
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-007",
+    "title": "<![CDATA[ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker]]>",
+    "source_url": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T15:51:10Z"
+  },
+  {
+    "id": "20260617-015",
+    "title": "<![CDATA[Is Meta destroying its engineering organization?]]>",
+    "source_url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-hacker_news-001",
+    "title": "<![CDATA[Launch HN: Adam (YC W25) – Open-Source AI CAD]]>",
+    "source_url": "https://github.com/Adam-CAD/CADAM",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-012",
+    "title": "<![CDATA[MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C]]>",
+    "source_url": "https://github.com/rxi/microui",
+    "source_type": "hacker_news",
+    "tags": [
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-017",
+    "title": "<![CDATA[Most of the CVE-2026-4020 attackers are the same client]]>",
+    "source_url": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+    "source_type": "hacker_news",
+    "tags": [
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-002",
+    "title": "<![CDATA[NetNewsWire Status]]>",
+    "source_url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-hacker_news-007",
+    "title": "<![CDATA[Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)]]>",
+    "source_url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-013",
+    "title": "<![CDATA[RFC 10008: The new HTTP Query Method]]>",
+    "source_url": "https://www.rfc-editor.org/info/rfc10008/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-019",
+    "title": "<![CDATA[Running local models is good now]]>",
+    "source_url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-003",
+    "title": "<![CDATA[Semiclassical Gravity Efficiently Solves NP-Complete Problems]]>",
+    "source_url": "https://arxiv.org/abs/2606.14806",
+    "source_type": "hacker_news",
+    "tags": [
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-008",
+    "title": "<![CDATA[Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust]]>",
+    "source_url": "https://github.com/nvlabs/cutile-rs",
+    "source_type": "hacker_news",
+    "tags": [
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-hacker_news-015",
+    "title": "<![CDATA[Show HN: High-Res Neural Cellular Automata]]>",
+    "source_url": "https://cells2pixels.github.io/",
+    "source_type": "hacker_news",
+    "tags": [
+      "multi-modal",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-014",
+    "title": "<![CDATA[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload]]>",
+    "source_url": "https://brevio.pro",
+    "source_type": "hacker_news",
+    "tags": [
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-011",
+    "title": "<![CDATA[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff]]>",
+    "source_url": "https://wpvip.com/future-of-the-web-2026/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-004",
+    "title": "<![CDATA[Stop Killing Games fails to secure EU law despite 1.3M signatures]]>",
+    "source_url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-014",
+    "title": "<![CDATA[Stop Using JWTs]]>",
+    "source_url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-001",
+    "title": "<![CDATA[The founder's playbook: Building an AI-native startup]]>",
+    "source_url": "https://claude.com/blog/the-founders-playbook",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-hacker_news-004",
+    "title": "<![CDATA[Volkswagen started blocking GrapheneOS users]]>",
+    "source_url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-009",
+    "title": "<![CDATA[Want your images back? Sure... That'll be $5!]]>",
+    "source_url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-005",
+    "title": "<![CDATA[Why stdx is not on crates.io]]>",
+    "source_url": "https://kerkour.com/stdx-cratesio",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-hacker_news-010",
+    "title": "<![CDATA[Why thinking out loud with someone beats thinking alone]]>",
+    "source_url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T16:26:27Z"
+  },
+  {
+    "id": "20260617-005",
+    "title": "<![CDATA[Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More]]>",
+    "source_url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-012",
+    "title": "s Ethernet: switching to a Broadcom SFP+ module]]>",
+    "source_url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+    "source_type": "hacker_news",
+    "tags": [
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260617-016",
+    "title": "TCP]]>",
+    "source_url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+    "source_type": "hacker_news",
+    "tags": [
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-17T07:54:04Z"
+  },
+  {
+    "id": "20260618-github_trending-003",
+    "title": "cherry-studio",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T07:07:20Z"
+  },
+  {
+    "id": "20260618-github_trending-002",
+    "title": "goose",
+    "source_url": "https://github.com/aaif-goose/goose",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T07:07:20Z"
+  },
+  {
+    "id": "20260618-github_trending-001",
+    "title": "pi",
+    "source_url": "https://github.com/earendil-works/pi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T07:07:20Z"
+  },
+  {
+    "id": "20260618-hacker_news-003",
+    "title": "<![CDATA[DeepSeek Introduces Vision]]>",
+    "source_url": "https://chat.deepseek.com/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T07:07:20Z"
+  },
+  {
+    "id": "20260618-hacker_news-002",
+    "title": "<![CDATA[How to Become a Person After Smartphones Have Rotted Your Brain]]>",
+    "source_url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T07:07:20Z"
+  },
+  {
+    "id": "20260618-hacker_news-001",
+    "title": "MMS Sender ID Registraion]]>",
+    "source_url": "https://www.acma.gov.au/sms-sender-id-register",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T07:07:20Z"
+  },
+  {
+    "id": "20260619-github_trending-004",
+    "title": "ai-engineering-hub",
+    "source_url": "https://github.com/patchy631/ai-engineering-hub",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-014",
+    "title": "aichat",
+    "source_url": "https://github.com/sigoden/aichat",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-006",
+    "title": "AstrBot",
+    "source_url": "https://github.com/AstrBotDevs/AstrBot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-017",
+    "title": "awesome-LLM-resources",
+    "source_url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-012",
+    "title": "bisheng",
+    "source_url": "https://github.com/dataelement/bisheng",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-003",
+    "title": "cherry-studio",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-019",
+    "title": "codefather",
+    "source_url": "https://github.com/liyupi/codefather",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-020",
+    "title": "FinRobot",
+    "source_url": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-002",
+    "title": "goose",
+    "source_url": "https://github.com/aaif-goose/goose",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-008",
+    "title": "haystack",
+    "source_url": "https://github.com/deepset-ai/haystack",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-016",
+    "title": "hexstrike-ai",
+    "source_url": "https://github.com/0x4m4/hexstrike-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-005",
+    "title": "khoj",
+    "source_url": "https://github.com/khoj-ai/khoj",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-013",
+    "title": "KrillinAI",
+    "source_url": "https://github.com/krillinai/KrillinAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-015",
+    "title": "MemOS",
+    "source_url": "https://github.com/MemTensor/MemOS",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-007",
+    "title": "mlflow",
+    "source_url": "https://github.com/mlflow/mlflow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-011",
+    "title": "nanobrowser",
+    "source_url": "https://github.com/nanobrowser/nanobrowser",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-009",
+    "title": "parlant",
+    "source_url": "https://github.com/emcie-co/parlant",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-001",
+    "title": "pi",
+    "source_url": "https://github.com/earendil-works/pi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-018",
+    "title": "PraisonAI",
+    "source_url": "https://github.com/MervinPraison/PraisonAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-github_trending-010",
+    "title": "RagaAI-Catalyst",
+    "source_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-016",
+    "title": "<![CDATA[CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)]]>",
+    "source_url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-007",
+    "title": "<![CDATA[Datasette Apps: Host custom HTML applications inside Datasette]]>",
+    "source_url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-008",
+    "title": "<![CDATA[Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand]]>",
+    "source_url": "https://www.flexport.com/company/careers/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-018",
+    "title": "<![CDATA[.gitignore Isn't the only way to ignore files in Git]]>",
+    "source_url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+    "source_type": "hacker_news",
+    "tags": [
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-017",
+    "title": "<![CDATA[Hospitals and universities repurposing drugs at lower cost]]>",
+    "source_url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-020",
+    "title": "<![CDATA[How Japan's railways stayed one while splitting apart]]>",
+    "source_url": "https://arun.is/blog/jr-logo/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-014",
+    "title": "<![CDATA[I found 10k GitHub repositories distributing Trojan malware]]>",
+    "source_url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-001",
+    "title": "<![CDATA[Leave a Trace]]>",
+    "source_url": "https://www.jakeworth.com/posts/leave-a-trace",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-015",
+    "title": "<![CDATA[Modos Color Monitor Pushes E-Paper Displays Further]]>",
+    "source_url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+    "source_type": "hacker_news",
+    "tags": [
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-002",
+    "title": "<![CDATA[NASA picks Eric Schmidt's rocket company for Mars mission]]>",
+    "source_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+    "source_type": "hacker_news",
+    "tags": [
+      "agent",
+      "multi-agent",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-004",
+    "title": "<![CDATA[Norway greenlights first full-scale ship tunnel]]>",
+    "source_url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-005",
+    "title": "<![CDATA[Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28]]>",
+    "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-012",
+    "title": "<![CDATA[Show HN: Talos – Open-source WASM interpreter for Lean]]>",
+    "source_url": "https://github.com/cajal-technologies/talos",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-006",
+    "title": "<![CDATA[So You Want to Define a Well-Known URI]]>",
+    "source_url": "https://mnot.net/blog/2026/well_known_uris",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-009",
+    "title": "<![CDATA[The AirPods Effect]]>",
+    "source_url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-003",
+    "title": "<![CDATA[The room the economy can't see]]>",
+    "source_url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-019",
+    "title": "<![CDATA[Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access]]>",
+    "source_url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-011",
+    "title": "<![CDATA[Ubiquiti: Enterprise NAS, Built on ZFS]]>",
+    "source_url": "https://blog.ui.com/article/introducing-enterprise-nas",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-013",
+    "title": "<![CDATA[W Social, public institutions and the theater of European digital sovereignty]]>",
+    "source_url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260619-hacker_news-010",
+    "title": "<![CDATA[Zero-Touch OAuth for MCP]]>",
+    "source_url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T14:35:18Z"
+  },
+  {
+    "id": "20260620-github_trending-004",
+    "title": "ai-engineering-hub",
+    "source_url": "https://github.com/patchy631/ai-engineering-hub",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-014",
+    "title": "aichat",
+    "source_url": "https://github.com/sigoden/aichat",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-006",
+    "title": "AstrBot",
+    "source_url": "https://github.com/AstrBotDevs/AstrBot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-017",
+    "title": "awesome-LLM-resources",
+    "source_url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-012",
+    "title": "bisheng",
+    "source_url": "https://github.com/dataelement/bisheng",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-003",
+    "title": "cherry-studio",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-019",
+    "title": "codefather",
+    "source_url": "https://github.com/liyupi/codefather",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-020",
+    "title": "FinRobot",
+    "source_url": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-002",
+    "title": "goose",
+    "source_url": "https://github.com/aaif-goose/goose",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-008",
+    "title": "haystack",
+    "source_url": "https://github.com/deepset-ai/haystack",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-016",
+    "title": "hexstrike-ai",
+    "source_url": "https://github.com/0x4m4/hexstrike-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-005",
+    "title": "khoj",
+    "source_url": "https://github.com/khoj-ai/khoj",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-013",
+    "title": "KrillinAI",
+    "source_url": "https://github.com/krillinai/KrillinAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-015",
+    "title": "MemOS",
+    "source_url": "https://github.com/MemTensor/MemOS",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-007",
+    "title": "mlflow",
+    "source_url": "https://github.com/mlflow/mlflow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-011",
+    "title": "nanobrowser",
+    "source_url": "https://github.com/nanobrowser/nanobrowser",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-009",
+    "title": "parlant",
+    "source_url": "https://github.com/emcie-co/parlant",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-001",
+    "title": "pi",
+    "source_url": "https://github.com/earendil-works/pi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-018",
+    "title": "PraisonAI",
+    "source_url": "https://github.com/MervinPraison/PraisonAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-github_trending-010",
+    "title": "RagaAI-Catalyst",
+    "source_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-004",
+    "title": "<![CDATA[Ask HN: Will programmers write more efficient code during the memory shortage?]]>",
+    "source_url": "https://news.ycombinator.com/item?id=48604232",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-010",
+    "title": "<![CDATA[AURpocalypse now: a look at the recent AUR attacks]]>",
+    "source_url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
+    "source_type": "hacker_news",
+    "tags": [
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-007",
+    "title": "<![CDATA[Big Banana Car]]>",
+    "source_url": "https://bigbananacar.com/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-006",
+    "title": "<![CDATA[Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died]]>",
+    "source_url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-019",
+    "title": "<![CDATA[Building a robotics research setup that lives next to my desk]]>",
+    "source_url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "source_type": "hacker_news",
+    "tags": [
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-020",
+    "title": "<![CDATA[Can you see three trees?]]>",
+    "source_url": "https://www.not-ship.com/can-you-see-three-trees/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-009",
+    "title": "<![CDATA[Court Records Should Be Free]]>",
+    "source_url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-017",
+    "title": "<![CDATA[Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand]]>",
+    "source_url": "https://www.flexport.com/company/careers/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-012",
+    "title": "<![CDATA[GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2]]>",
+    "source_url": "https://arrowtsx.dev/bigger-models/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-015",
+    "title": "<![CDATA[How many of the 170k English words do you know?]]>",
+    "source_url": "https://vocabowl-870366514258.us-west1.run.app/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-011",
+    "title": "<![CDATA[Hyundai buys Boston Dynamics]]>",
+    "source_url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "source_type": "hacker_news",
+    "tags": [
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-001",
+    "title": "<![CDATA[I Stored a Website in a Favicon]]>",
+    "source_url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-008",
+    "title": "<![CDATA[John Jumper to join Anthropic]]>",
+    "source_url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-013",
+    "title": "<![CDATA[Norway imposes near ban on AI in elementary school]]>",
+    "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-016",
+    "title": "<![CDATA[Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28]]>",
+    "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "source_type": "hacker_news",
+    "tags": [
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-002",
+    "title": "<![CDATA[Satellite reveals immense scale of GPS signal tampering]]>",
+    "source_url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-005",
+    "title": "<![CDATA[Surprising economics of load-balanced systems]]>",
+    "source_url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+    "source_type": "hacker_news",
+    "tags": [
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-018",
+    "title": "<![CDATA[The AirPods Effect]]>",
+    "source_url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-014",
+    "title": "<![CDATA[There are no instances in ATProto]]>",
+    "source_url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260620-hacker_news-003",
+    "title": "<![CDATA[Where to Find the Colors Your Screen Can't Show You]]>",
+    "source_url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "source_type": "hacker_news",
+    "tags": [
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-20T10:31:50Z"
+  },
+  {
+    "id": "20260621-github_trending-004",
+    "title": "ai-engineering-hub",
+    "source_url": "https://github.com/patchy631/ai-engineering-hub",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-014",
+    "title": "aichat",
+    "source_url": "https://github.com/sigoden/aichat",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-006",
+    "title": "AstrBot",
+    "source_url": "https://github.com/AstrBotDevs/AstrBot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-017",
+    "title": "awesome-LLM-resources",
+    "source_url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-012",
+    "title": "bisheng",
+    "source_url": "https://github.com/dataelement/bisheng",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-003",
+    "title": "cherry-studio",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-019",
+    "title": "codefather",
+    "source_url": "https://github.com/liyupi/codefather",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-020",
+    "title": "FinRobot",
+    "source_url": "https://github.com/AI4Finance-Foundation/FinRobot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-002",
+    "title": "goose",
+    "source_url": "https://github.com/aaif-goose/goose",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-008",
+    "title": "haystack",
+    "source_url": "https://github.com/deepset-ai/haystack",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-016",
+    "title": "hexstrike-ai",
+    "source_url": "https://github.com/0x4m4/hexstrike-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-005",
+    "title": "khoj",
+    "source_url": "https://github.com/khoj-ai/khoj",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-013",
+    "title": "KrillinAI",
+    "source_url": "https://github.com/krillinai/KrillinAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "multi-modal",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-015",
+    "title": "MemOS",
+    "source_url": "https://github.com/MemTensor/MemOS",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "mcp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-007",
+    "title": "mlflow",
+    "source_url": "https://github.com/mlflow/mlflow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-011",
+    "title": "nanobrowser",
+    "source_url": "https://github.com/nanobrowser/nanobrowser",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-009",
+    "title": "parlant",
+    "source_url": "https://github.com/emcie-co/parlant",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-001",
+    "title": "pi",
+    "source_url": "https://github.com/earendil-works/pi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-018",
+    "title": "PraisonAI",
+    "source_url": "https://github.com/MervinPraison/PraisonAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-github_trending-010",
+    "title": "RagaAI-Catalyst",
+    "source_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-003",
+    "title": "<![CDATA[A 3D voxel game engine written in APL]]>",
+    "source_url": "https://github.com/namgyaaal/avoxelgame",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-012",
+    "title": "<![CDATA[Alice is impatient]]>",
+    "source_url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-005",
+    "title": "<![CDATA[Building reliable agentic AI systems]]>",
+    "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-001",
+    "title": "<![CDATA[CTOs Agree: Cognitive Debt Is the New Technical Debt]]>",
+    "source_url": "https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-006",
+    "title": "<![CDATA[Developers don't understand CORS (2019)]]>",
+    "source_url": "https://fosterelli.co/developers-dont-understand-cors",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-017",
+    "title": "<![CDATA[DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots]]>",
+    "source_url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+    "source_type": "hacker_news",
+    "tags": [
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-008",
+    "title": "<![CDATA[Epoll vs. io_uring in Linux]]>",
+    "source_url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+    "source_type": "hacker_news",
+    "tags": [
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-002",
+    "title": "<![CDATA[Google Hits 50% IPv6]]>",
+    "source_url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "source_type": "hacker_news",
+    "tags": [
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-011",
+    "title": "<![CDATA[Linux eliminates the strncpy API after six years of work, 360 patches]]>",
+    "source_url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+    "source_type": "hacker_news",
+    "tags": [
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-018",
+    "title": "<![CDATA[Loupe – A iOS app that raises awareness about what native apps can see]]>",
+    "source_url": "https://github.com/mysk-research/loupe",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-007",
+    "title": "<![CDATA[Project Fetch: Phase Two]]>",
+    "source_url": "https://www.anthropic.com/research/project-fetch-phase-two",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-009",
+    "title": "<![CDATA[Renting a sewing machine from the library]]>",
+    "source_url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-016",
+    "title": "<![CDATA[Show HN: StartupWiki – A Free Alternative to Crunchbase]]>",
+    "source_url": "https://startupwiki.tech/",
+    "source_type": "hacker_news",
+    "tags": [
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-019",
+    "title": "<![CDATA[Show HN: TownSquare, a tiny presence layer for websites]]>",
+    "source_url": "https://townsquare.cauenapier.com/",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-010",
+    "title": "<![CDATA[Slow breathing modulates brain function and risk behavior]]>",
+    "source_url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "source_type": "hacker_news",
+    "tags": [
+      "multi-modal",
+      "inference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-015",
+    "title": "<![CDATA[SMPTE Makes Its Standards Freely Accessible]]>",
+    "source_url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-020",
+    "title": "<![CDATA[Temporary Cloudflare accounts for AI agents]]>",
+    "source_url": "https://blog.cloudflare.com/temporary-accounts/",
+    "source_type": "hacker_news",
+    "tags": [
+      "agent",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-014",
+    "title": "<![CDATA[UHF X11: X11 Built for VisionOS and Apple Vision Pro]]>",
+    "source_url": "https://www.lispm.net/apps/uhf-x11/",
+    "source_type": "hacker_news",
+    "tags": [
+      "multi-modal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-013",
+    "title": "<![CDATA[Unauthorized alert sent to cell phones across Brazil]]>",
+    "source_url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260621-hacker_news-004",
+    "title": "<![CDATA[Windows UI evolution: Clicking an unassociated file]]>",
+    "source_url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+    "source_type": "hacker_news",
+    "tags": [
+      "llm",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T11:14:58Z"
+  },
+  {
+    "id": "20260618-github-bytedancedeer-flow",
+    "title": "bytedance/deer-flow",
+    "source_url": "https://github.com/bytedance/deer-flow",
+    "source_type": "github_trending",
+    "tags": [
+      "flink",
+      "stream-processing",
+      "real-time",
+      "data-pipeline",
+      "byte-dance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-fighting41lovefunnlp",
+    "title": "fighting41love/funNLP",
+    "source_url": "https://github.com/fighting41love/funNLP",
+    "source_type": "github_trending",
+    "tags": [
+      "nlp",
+      "chinese-nlp",
+      "resources",
+      "tools",
+      "datasets"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-foundationagentsmeta",
+    "title": "FoundationAgents/MetaGPT",
+    "source_url": "https://github.com/FoundationAgents/MetaGPT",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent",
+      "code-generation",
+      "software-engineering"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-huggingfacetransform",
+    "title": "huggingface/transformers",
+    "source_url": "https://github.com/huggingface/transformers",
+    "source_type": "github_trending",
+    "tags": [
+      "nlp",
+      "deep-learning",
+      "pretrained-models",
+      "pytorch",
+      "tensorflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-infiniflowragflow",
+    "title": "infiniflow/ragflow",
+    "source_url": "https://github.com/infiniflow/ragflow",
+    "source_type": "github_trending",
+    "tags": [
+      "rag",
+      "llm",
+      "document-understanding",
+      "retrieval-augmented-generation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-langchain-aideepagen",
+    "title": "langchain-ai/deepagents",
+    "source_url": "https://github.com/langchain-ai/deepagents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent",
+      "langchain",
+      "workflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "rag",
+      "chatbot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-langchain-ailanggrap",
+    "title": "langchain-ai/langgraph",
+    "source_url": "https://github.com/langchain-ai/langgraph",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "langchain"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-langflow-ailangflow",
+    "title": "langflow-ai/langflow",
+    "source_url": "https://github.com/langflow-ai/langflow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "low-code",
+      "workflow",
+      "agent",
+      "visual-programming"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-langgeniusdify",
+    "title": "langgenius/dify",
+    "source_url": "https://github.com/langgenius/dify",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "workflow",
+      "low-code"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-nirdiamantgenaiagent",
+    "title": "NirDiamant/GenAI_Agents",
+    "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "source_type": "github_trending",
+    "tags": [
+      "genai",
+      "agents",
+      "tutorial",
+      "rag",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-nousresearchhermes-a",
+    "title": "NousResearch/hermes-agent",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "autonomous",
+      "reasoning",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-open-webuiopen-webui",
+    "title": "open-webui/open-webui",
+    "source_url": "https://github.com/open-webui/open-webui",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "webui",
+      "rag",
+      "ollama",
+      "openai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-pathwaycompathway",
+    "title": "pathwaycom/pathway",
+    "source_url": "https://github.com/pathwaycom/pathway",
+    "source_type": "github_trending",
+    "tags": [
+      "data-pipeline",
+      "stream-processing",
+      "etl",
+      "python",
+      "rust"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "chatbot",
+      "multimodal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-significant-gravitas",
+    "title": "Significant-Gravitas/AutoGPT",
+    "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "gpt-4",
+      "autonomous",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-snailclimbjavaguide",
+    "title": "Snailclimb/JavaGuide",
+    "source_url": "https://github.com/Snailclimb/JavaGuide",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "学习指南",
+      "面试",
+      "spring",
+      "jvm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260618-github-tauricresearchtradin",
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "trading",
+      "quantitative-finance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-18T15:17:50Z"
+  },
+  {
+    "id": "20260619-github-bytedancedeer-flow",
+    "title": "bytedance/deer-flow",
+    "source_url": "https://github.com/bytedance/deer-flow",
+    "source_type": "github_trending",
+    "tags": [
+      "stream-processing",
+      "flink",
+      "kafka",
+      "real-time",
+      "byte-dance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-fighting41lovefunnlp",
+    "title": "fighting41love/funNLP",
+    "source_url": "https://github.com/fighting41love/funNLP",
+    "source_type": "github_trending",
+    "tags": [
+      "nlp",
+      "chinese-nlp",
+      "resources",
+      "dataset",
+      "toolkit"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-foundationagentsmeta",
+    "title": "FoundationAgents/MetaGPT",
+    "source_url": "https://github.com/FoundationAgents/MetaGPT",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent",
+      "code-generation",
+      "software-development"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-huggingfacetransform",
+    "title": "huggingface/transformers",
+    "source_url": "https://github.com/huggingface/transformers",
+    "source_type": "github_trending",
+    "tags": [
+      "nlp",
+      "deep-learning",
+      "transformers",
+      "pytorch",
+      "tensorflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-langchain-aideepagen",
+    "title": "langchain-ai/deepagents",
+    "source_url": "https://github.com/langchain-ai/deepagents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent",
+      "langchain",
+      "workflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "chain",
+      "nlp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-langchain-ailanggrap",
+    "title": "langchain-ai/langgraph",
+    "source_url": "https://github.com/langchain-ai/langgraph",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "langchain",
+      "state-machine"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-langflow-ailangflow",
+    "title": "langflow-ai/langflow",
+    "source_url": "https://github.com/langflow-ai/langflow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "low-code",
+      "visual-programming",
+      "agent",
+      "workflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-langgeniusdify",
+    "title": "langgenius/dify",
+    "source_url": "https://github.com/langgenius/dify",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "workflow",
+      "low-code"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-nirdiamantgenaiagent",
+    "title": "NirDiamant/GenAI_Agents",
+    "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "source_type": "github_trending",
+    "tags": [
+      "genai",
+      "agents",
+      "tutorial",
+      "llm",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-nousresearchhermes-a",
+    "title": "NousResearch/hermes-agent",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "function-calling",
+      "tool-use",
+      "autonomous"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-open-webuiopen-webui",
+    "title": "open-webui/open-webui",
+    "source_url": "https://github.com/open-webui/open-webui",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "webui",
+      "ollama",
+      "openai",
+      "self-hosted",
+      "chatbot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-pathwaycompathway",
+    "title": "pathwaycom/pathway",
+    "source_url": "https://github.com/pathwaycom/pathway",
+    "source_type": "github_trending",
+    "tags": [
+      "data-processing",
+      "streaming",
+      "etl",
+      "python",
+      "rust"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "chatbot",
+      "multimodal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-significant-gravitas",
+    "title": "Significant-Gravitas/AutoGPT",
+    "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "gpt-4",
+      "automation",
+      "autonomous"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-snailclimbjavaguide",
+    "title": "Snailclimb/JavaGuide",
+    "source_url": "https://github.com/Snailclimb/JavaGuide",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "guide",
+      "interview",
+      "system-design",
+      "learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-tauricresearchtradin",
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "tags": [
+      "quantitative-trading",
+      "multi-agent",
+      "llm",
+      "finance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-thedotmackclaude-mem",
+    "title": "thedotmack/claude-mem",
+    "source_url": "https://github.com/thedotmack/claude-mem",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "memory",
+      "ai-agent",
+      "persistence"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-github-x1xhlolsystem-prompt",
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-tools",
+      "system-prompts",
+      "models"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T07:44:14Z"
+  },
+  {
+    "id": "20260619-test-agent-framework",
+    "title": "test-org/agent-framework",
+    "source_url": "https://github.com/test-org/agent-framework",
+    "source_type": "github_trending",
+    "tags": [
+      "agent",
+      "framework",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T04:29:47Z"
+  },
+  {
+    "id": "20260619-test-llm-toolkit",
+    "title": "test-org/llm-toolkit",
+    "source_url": "https://github.com/test-org/llm-toolkit",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "toolkit"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T04:29:47Z"
+  },
+  {
+    "id": "20260619-weak-basic-lib",
+    "title": "weak-org/basic-lib",
+    "source_url": "https://github.com/weak-org/basic-lib",
+    "source_type": "github_trending",
+    "tags": [
+      "library",
+      "基础库",
+      "工具库"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T04:29:57Z"
+  },
+  {
+    "id": "20260619-weak-vague-tool",
+    "title": "weak-org/vague-tool",
+    "source_url": "https://github.com/weak-org/vague-tool",
+    "source_type": "github_trending",
+    "tags": [
+      "tool",
+      "vague",
+      "utility"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-19T04:29:54Z"
+  },
+  {
+    "id": "20260621-github-bytedancedeer-flow",
+    "title": "bytedance/deer-flow",
+    "source_url": "https://github.com/bytedance/deer-flow",
+    "source_type": "github_trending",
+    "tags": [
+      "stream-processing",
+      "flink",
+      "real-time",
+      "data-pipeline"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-fighting41lovefunnlp",
+    "title": "fighting41love/funNLP",
+    "source_url": "https://github.com/fighting41love/funNLP",
+    "source_type": "github_trending",
+    "tags": [
+      "nlp",
+      "resources",
+      "learning",
+      "chinese-nlp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-foundationagentsmeta",
+    "title": "FoundationAgents/MetaGPT",
+    "source_url": "https://github.com/FoundationAgents/MetaGPT",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent",
+      "software-engineering",
+      "code-generation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-huggingfacetransform",
+    "title": "huggingface/transformers",
+    "source_url": "https://github.com/huggingface/transformers",
+    "source_type": "github_trending",
+    "tags": [
+      "nlp",
+      "deep-learning",
+      "pretrained-models",
+      "pytorch",
+      "tensorflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-langchain-aideepagen",
+    "title": "langchain-ai/deepagents",
+    "source_url": "https://github.com/langchain-ai/deepagents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent",
+      "langchain",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "framework",
+      "agent",
+      "chain",
+      "nlp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-langchain-ailanggrap",
+    "title": "langchain-ai/langgraph",
+    "source_url": "https://github.com/langchain-ai/langgraph",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "langchain",
+      "state-machine"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-langflow-ailangflow",
+    "title": "langflow-ai/langflow",
+    "source_url": "https://github.com/langflow-ai/langflow",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "low-code",
+      "rag",
+      "workflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-langgeniusdify",
+    "title": "langgenius/dify",
+    "source_url": "https://github.com/langgenius/dify",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "workflow",
+      "ai-platform"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-nirdiamantgenaiagent",
+    "title": "NirDiamant/GenAI_Agents",
+    "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "source_type": "github_trending",
+    "tags": [
+      "genai",
+      "agents",
+      "tutorial",
+      "rag",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-nousresearchhermes-a",
+    "title": "NousResearch/hermes-agent",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "autonomous",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-obrasuperpowers",
+    "title": "obra/superpowers",
+    "source_url": "https://github.com/obra/superpowers",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "workflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-open-webuiopen-webui",
+    "title": "open-webui/open-webui",
+    "source_url": "https://github.com/open-webui/open-webui",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "webui",
+      "rag",
+      "ollama",
+      "openai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-pathwaycompathway",
+    "title": "pathwaycom/pathway",
+    "source_url": "https://github.com/pathwaycom/pathway",
+    "source_type": "github_trending",
+    "tags": [
+      "data-processing",
+      "streaming",
+      "etl",
+      "python",
+      "rust"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "awesome-list",
+      "tutorial",
+      "rag",
+      "agent",
+      "chatbot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-significant-gravitas",
+    "title": "Significant-Gravitas/AutoGPT",
+    "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "gpt-4",
+      "automation",
+      "experimental"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-snailclimbjavaguide",
+    "title": "Snailclimb/JavaGuide",
+    "source_url": "https://github.com/Snailclimb/JavaGuide",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "guide",
+      "interview",
+      "learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-tauricresearchtradin",
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "trading",
+      "multi-agent",
+      "finance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-thedotmackclaude-mem",
+    "title": "thedotmack/claude-mem",
+    "source_url": "https://github.com/thedotmack/claude-mem",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "memory",
+      "llm",
+      "agent",
+      "persistence"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "20260621-github-x1xhlolsystem-prompt",
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_type": "github_trending",
+    "tags": [
+      "system-prompts",
+      "ai-tools",
+      "prompt-engineering"
+    ],
+    "status": "curated",
+    "curated_at": "2026-06-21T15:39:12Z"
+  },
+  {
+    "id": "github-20260617-001",
+    "title": "Harness Engineering — AI Agent 测试与评测框架",
+    "source_url": "https://github.com/harness/harness",
+    "source_type": "github_trending",
+    "tags": [
+      "agent",
+      "testing",
+      "evaluation"
+    ],
+    "status": "draft",
+    "curated_at": ""
+  },
+  {
+    "id": "github-20260616-099",
+    "title": "langgraph",
+    "source_url": "https://github.com/langchain-ai/langgraph",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "workflow"
+    ],
+    "status": "draft",
+    "curated_at": ""
+  }
+]

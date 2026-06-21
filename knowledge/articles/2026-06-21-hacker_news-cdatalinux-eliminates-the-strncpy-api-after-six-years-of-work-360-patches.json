@@ -1,0 +1,29 @@
+{
+  "id": "20260621-hacker_news-011",
+  "title": "<![CDATA[Linux eliminates the strncpy API after six years of work, 360 patches]]>",
+  "source_url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+  "source_type": "hacker_news",
+  "summary": "Linux内核经过六年、360个补丁的努力，正式移除不安全的strncpy API，提升系统安全性与代码质量。",
+  "highlights": [
+    "历时六年，共提交360个补丁完成移除",
+    "旨在消除不安全的字符串复制函数，增强内核安全性",
+    "涉及大量内核代码的修改与重构"
+  ],
+  "use_cases": [
+    "操作系统内核开发",
+    "系统安全加固",
+    "代码质量与维护性提升"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 20:59:40 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:39Z",
+  "analyzed_at": "2026-06-21T11:14:39Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

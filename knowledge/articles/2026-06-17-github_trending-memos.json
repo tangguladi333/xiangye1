@@ -1,0 +1,31 @@
+{
+  "id": "20260617-github_trending-015",
+  "title": "MemOS",
+  "source_url": "https://github.com/MemTensor/MemOS",
+  "source_type": "github_trending",
+  "summary": "MemOS是一个为LLM和AI代理设计的自进化记忆操作系统，提供超持久记忆、混合检索和跨任务技能复用，实现35.24%的令牌节省。",
+  "highlights": [
+    "超持久记忆与混合检索机制",
+    "跨任务技能复用，节省35.24%令牌",
+    "基于TypeScript构建，支持多种AI代理框架"
+  ],
+  "use_cases": [
+    "长期对话记忆管理",
+    "AI代理跨任务技能迁移",
+    "减少LLM调用成本的记忆优化"
+  ],
+  "maturity": {
+    "stars": 9911,
+    "last_updated": "2026-06-17",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "mcp"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:28Z",
+  "analyzed_at": "2026-06-17T16:25:28Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

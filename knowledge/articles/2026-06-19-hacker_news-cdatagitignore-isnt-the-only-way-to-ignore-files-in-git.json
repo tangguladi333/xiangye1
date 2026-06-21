@@ -1,0 +1,29 @@
+{
+  "id": "20260619-hacker_news-018",
+  "title": "<![CDATA[.gitignore Isn't the only way to ignore files in Git]]>",
+  "source_url": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+  "source_type": "hacker_news",
+  "summary": "文章介绍了除.gitignore外，Git中忽略文件的多种方法，如.git/info/exclude、全局忽略配置和稀疏检出等。",
+  "highlights": [
+    "Git提供了多种忽略文件的机制，不仅限于.gitignore",
+    ".git/info/exclude适用于本地私有忽略规则",
+    "全局忽略配置和稀疏检出可灵活管理文件追踪"
+  ],
+  "use_cases": [
+    "本地开发中忽略个人临时文件",
+    "团队协作中统一管理忽略规则",
+    "大型仓库中选择性检出文件"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 10:29:20 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:35:13Z",
+  "analyzed_at": "2026-06-19T14:35:13Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

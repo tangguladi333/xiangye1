@@ -1,0 +1,30 @@
+{
+  "id": "20260619-hacker_news-007",
+  "title": "<![CDATA[Datasette Apps: Host custom HTML applications inside Datasette]]>",
+  "source_url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+  "source_type": "hacker_news",
+  "summary": "Datasette Apps允许用户在Datasette中托管自定义HTML应用，结合SQLite数据提供动态界面。",
+  "highlights": [
+    "将HTML应用直接嵌入Datasette数据库平台",
+    "利用SQLite数据驱动动态Web界面",
+    "简化数据应用开发与部署流程"
+  ],
+  "use_cases": [
+    "构建数据仪表盘",
+    "创建交互式数据报告",
+    "快速原型开发"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 01:06:27 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:46Z",
+  "analyzed_at": "2026-06-19T14:34:46Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260619-hacker_news-004",
+  "title": "<![CDATA[Norway greenlights first full-scale ship tunnel]]>",
+  "source_url": "https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel",
+  "source_type": "hacker_news",
+  "summary": "挪威批准全球首个全尺寸船舶隧道项目，旨在提升航运安全与效率。",
+  "highlights": [
+    "全球首个全尺寸船舶隧道获批",
+    "位于挪威斯塔特半岛，替代危险海域航线",
+    "预计2030年前后建成，可通行大型船只"
+  ],
+  "use_cases": [
+    "恶劣天气下替代危险海域航线",
+    "提升航运效率与安全性",
+    "促进区域经济发展"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 10:16:10 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:38Z",
+  "analyzed_at": "2026-06-19T14:34:38Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

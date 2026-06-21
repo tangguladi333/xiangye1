@@ -1,0 +1,29 @@
+{
+  "id": "20260617-hacker_news-011",
+  "title": "<![CDATA[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff]]>",
+  "source_url": "https://wpvip.com/future-of-the-web-2026/",
+  "source_type": "hacker_news",
+  "summary": "调查显示60%美国消费者反感品牌营销中使用“AI”一词，认为其降低购买意愿，建议企业谨慎使用AI标签。",
+  "highlights": [
+    "多数消费者对AI营销持负面态度",
+    "品牌应避免过度强调AI技术",
+    "消费者更关注产品实际价值"
+  ],
+  "use_cases": [
+    "品牌营销策略调整",
+    "消费者行为研究",
+    "AI产品市场定位"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 12:11:27 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:06Z",
+  "analyzed_at": "2026-06-17T16:26:06Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

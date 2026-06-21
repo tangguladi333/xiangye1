@@ -1,0 +1,29 @@
+{
+  "id": "20260617-hacker_news-012",
+  "title": "<![CDATA[MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C]]>",
+  "source_url": "https://github.com/rxi/microui",
+  "source_type": "hacker_news",
+  "summary": "MicroUI是一个用ANSI C编写的轻量级即时模式UI库，专注于可移植性和简洁性，适用于嵌入式或小型图形应用。",
+  "highlights": [
+    "纯ANSI C实现，无外部依赖，高度可移植",
+    "采用即时模式（immediate-mode）设计，简化UI状态管理",
+    "代码体积小，适合资源受限环境"
+  ],
+  "use_cases": [
+    "嵌入式系统或微控制器的图形界面开发",
+    "游戏或工具中的轻量级调试UI",
+    "需要最小化依赖的跨平台UI组件"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 12:04:28 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:09Z",
+  "analyzed_at": "2026-06-17T16:26:09Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

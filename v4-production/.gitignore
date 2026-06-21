@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Ruff
+.ruff_cache/
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/subscriptions.json
+data/permissions.json
+cost_report_*.json
+audit_log_*.json

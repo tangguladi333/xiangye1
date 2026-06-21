@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-019",
+  "title": "<![CDATA[Show HN: TownSquare, a tiny presence layer for websites]]>",
+  "source_url": "https://townsquare.cauenapier.com/",
+  "source_type": "hacker_news",
+  "summary": "TownSquare是一个轻量级的网站存在层，通过WebSocket实现实时用户在线状态显示，增强网站社交互动性。",
+  "highlights": [
+    "轻量级实时存在层，易于集成到任何网站",
+    "基于WebSocket实现低延迟的用户在线状态同步",
+    "开源项目，代码简洁，适合学习和二次开发"
+  ],
+  "use_cases": [
+    "在博客或文档网站显示当前在线读者",
+    "在协作工具中展示团队成员在线状态",
+    "在电商网站显示实时访客数量"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 11:55:03 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:56Z",
+  "analyzed_at": "2026-06-21T11:14:56Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

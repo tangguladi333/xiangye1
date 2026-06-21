@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-007",
+  "title": "<![CDATA[Project Fetch: Phase Two]]>",
+  "source_url": "https://www.anthropic.com/research/project-fetch-phase-two",
+  "source_type": "hacker_news",
+  "summary": "Anthropic发布Project Fetch第二阶段研究，探索AI代理在复杂任务中的自主执行能力。",
+  "highlights": [
+    "研究AI代理在真实世界任务中的自主决策与执行",
+    "展示代理在复杂环境中的适应性与鲁棒性",
+    "为下一代AI代理系统设计提供关键见解"
+  ],
+  "use_cases": [
+    "自动化复杂工作流程",
+    "智能任务规划与执行",
+    "企业级AI代理部署"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sun, 21 Jun 2026 00:00:25 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:30Z",
+  "analyzed_at": "2026-06-21T11:14:30Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

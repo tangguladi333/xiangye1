@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-008",
+  "title": "<![CDATA[John Jumper to join Anthropic]]>",
+  "source_url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+  "source_type": "hacker_news",
+  "summary": "AlphaFold开发者John Jumper加入Anthropic，推动AI在科学领域的应用。",
+  "highlights": [
+    "AlphaFold核心开发者加入Anthropic",
+    "强化AI在科学计算与生物领域的研究",
+    "引发社区对AI前沿人才流动的关注"
+  ],
+  "use_cases": [
+    "AI辅助药物研发",
+    "蛋白质结构预测优化",
+    "科学发现自动化"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 17:53:00 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:20Z",
+  "analyzed_at": "2026-06-20T10:31:20Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

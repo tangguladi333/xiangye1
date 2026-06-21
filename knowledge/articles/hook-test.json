@@ -1,0 +1,24 @@
+{
+  "id": "github-20260617-001",
+  "title": "Harness Engineering — AI Agent 测试与评测框架",
+  "source_url": "https://github.com/harness/harness",
+  "source_type": "github_trending",
+  "summary": "Harness Engineering 提供面向 AI Agent 的集成测试与性能评测工具链，支持沙箱隔离与自动化验证",
+  "highlights": [
+    "沙箱隔离的 Agent 测试环境",
+    "自动化性能基准评测"
+  ],
+  "use_cases": [
+    "AI Agent 回归测试",
+    "多 Agent 系统的集成验证"
+  ],
+  "maturity": {
+    "stars": 8500,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": ["agent", "testing", "evaluation"],
+  "status": "draft",
+  "collected_at": "2026-06-17T08:00:00Z",
+  "analyzed_at": "2026-06-17T08:05:00Z"
+}

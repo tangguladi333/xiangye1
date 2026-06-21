@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-012",
+  "title": "<![CDATA[GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2]]>",
+  "source_url": "https://arrowtsx.dev/bigger-models/",
+  "source_type": "hacker_news",
+  "summary": "文章比较了GPT-5.5与MIT许可的GLM-5.2，指出GPT-5.5幻觉率高出3倍，引发对模型规模与可靠性关系的讨论。",
+  "highlights": [
+    "GPT-5.5幻觉率是GLM-5.2的3倍",
+    "模型规模增大未必提升可靠性",
+    "开源模型在特定指标上表现更优"
+  ],
+  "use_cases": [
+    "模型选型评估",
+    "幻觉问题研究",
+    "开源与闭源模型对比分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 16:11:25 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:29Z",
+  "analyzed_at": "2026-06-20T10:31:29Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

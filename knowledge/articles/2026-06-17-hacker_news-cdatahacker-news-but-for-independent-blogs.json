@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-018",
+  "title": "<![CDATA[Hacker News but for Independent Blogs]]>",
+  "source_url": "https://bubbles.town/",
+  "source_type": "hacker_news",
+  "summary": "一个类似Hacker News但专注于独立博客的聚合平台，用于发现和讨论独立博客内容。",
+  "highlights": [
+    "专注于独立博客内容聚合",
+    "类似Hacker News的社区讨论模式",
+    "提供文章和评论链接"
+  ],
+  "use_cases": [
+    "发现独立博客优质内容",
+    "独立博客作者推广作品",
+    "社区讨论和反馈"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 07:49:44 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:22Z",
+  "analyzed_at": "2026-06-17T16:26:22Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

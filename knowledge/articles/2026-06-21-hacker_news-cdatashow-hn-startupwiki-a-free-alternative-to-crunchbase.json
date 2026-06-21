@@ -1,0 +1,29 @@
+{
+  "id": "20260621-hacker_news-016",
+  "title": "<![CDATA[Show HN: StartupWiki – A Free Alternative to Crunchbase]]>",
+  "source_url": "https://startupwiki.tech/",
+  "source_type": "hacker_news",
+  "summary": "StartupWiki是一个免费的初创公司数据库，旨在替代Crunchbase，方便用户发现和研究早期创业公司，无需账户或订阅。",
+  "highlights": [
+    "免费替代Crunchbase",
+    "专注于早期创业公司信息",
+    "无需账户或订阅即可使用"
+  ],
+  "use_cases": [
+    "创业公司研究",
+    "市场调研",
+    "投资分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 15:59:29 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:49Z",
+  "analyzed_at": "2026-06-21T11:14:49Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260621-hacker_news-017",
+  "title": "<![CDATA[DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots]]>",
+  "source_url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+  "source_type": "hacker_news",
+  "summary": "F-15 Strike Eagle II逆向工程项目招募DOS测试飞行员，通过Hacker News社区协作。",
+  "highlights": [
+    "经典DOS游戏逆向工程",
+    "社区协作招募测试人员",
+    "Hacker News高关注度"
+  ],
+  "use_cases": [
+    "复古游戏逆向工程",
+    "社区驱动软件开发",
+    "经典软件维护与测试"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 15:10:03 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:51Z",
+  "analyzed_at": "2026-06-21T11:14:51Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

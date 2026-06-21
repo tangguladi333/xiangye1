@@ -1,0 +1,96 @@
+{
+  "source": "github",
+  "collected_at": "2026-06-18T07:07:14Z",
+  "analyzed_at": "2026-06-18T07:07:14Z",
+  "items": [
+    {
+      "id": "20260618-github_trending-001",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "source_type": "github_trending",
+      "summary": "AI代理工具包，提供统一LLM API、代理循环、TUI和编码代理CLI，支持TypeScript。",
+      "highlights": [
+        "统一LLM API接口，简化多模型集成",
+        "内置代理循环和TUI界面，提升交互体验",
+        "提供编码代理CLI，支持自动化任务"
+      ],
+      "use_cases": [
+        "构建智能编码助手",
+        "开发多步骤AI代理工作流",
+        "快速原型化LLM应用"
+      ],
+      "maturity": {
+        "stars": 63690,
+        "last_updated": "2026-06-18",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-18T07:07:10Z",
+      "analyzed_at": "2026-06-18T07:07:10Z"
+    },
+    {
+      "id": "20260618-github_trending-002",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "source_type": "github_trending",
+      "summary": "开源可扩展AI代理，超越代码建议，支持安装、执行、编辑和测试，兼容任何LLM，基于Rust构建。",
+      "highlights": [
+        "支持安装、执行、编辑和测试等操作",
+        "兼容任何大型语言模型（LLM）",
+        "基于Rust开发，开源且可扩展"
+      ],
+      "use_cases": [
+        "自动化代码生成与测试",
+        "AI驱动的任务执行与编辑",
+        "集成多种LLM的智能代理工作流"
+      ],
+      "maturity": {
+        "stars": 49728,
+        "last_updated": "2026-06-18",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "mcp"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-18T07:07:12Z",
+      "analyzed_at": "2026-06-18T07:07:12Z"
+    },
+    {
+      "id": "20260618-github_trending-003",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "source_type": "github_trending",
+      "summary": "CherryHQ/cherry-studio是一个AI生产力工作室，提供智能聊天、自主代理和300+助手，统一访问前沿大语言模型。",
+      "highlights": [
+        "集成300+AI助手和智能聊天功能",
+        "支持自主代理和多种技能（agent-skills）",
+        "统一访问前沿大语言模型（如DeepSeek、Claude等）"
+      ],
+      "use_cases": [
+        "日常办公与生产力提升",
+        "AI代理自动化任务执行",
+        "多模型统一管理与切换"
+      ],
+      "maturity": {
+        "stars": 47492,
+        "last_updated": "2026-06-18",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-18T07:07:14Z",
+      "analyzed_at": "2026-06-18T07:07:14Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260621-github_trending-007",
+  "title": "mlflow",
+  "source_url": "https://github.com/mlflow/mlflow",
+  "source_type": "github_trending",
+  "summary": "MLflow是开源AI工程平台，支持代理、LLM和ML模型的调试、评估、监控与优化，帮助团队控制成本并管理模型和数据访问。",
+  "highlights": [
+    "支持代理、LLM和ML模型的完整生命周期管理",
+    "集成评估、监控和优化功能，适用于生产级AI应用",
+    "开源且拥有超过2.6万星标，社区活跃"
+  ],
+  "use_cases": [
+    "AI代理和LLM应用的开发与调试",
+    "生产环境中的模型性能监控与优化",
+    "团队协作管理模型访问和数据成本"
+  ],
+  "maturity": {
+    "stars": 26647,
+    "last_updated": "2026-06-21",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:13:45Z",
+  "analyzed_at": "2026-06-21T11:13:45Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

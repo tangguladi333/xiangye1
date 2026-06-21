@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-020",
+  "title": "<![CDATA[Can you see three trees?]]>",
+  "source_url": "https://www.not-ship.com/can-you-see-three-trees/",
+  "source_type": "hacker_news",
+  "summary": "探讨AI项目中“三棵树”隐喻，分析技术选择、产品定位与用户价值的平衡，强调避免过度工程化。",
+  "highlights": [
+    "以“三棵树”比喻技术、产品与用户需求的关系",
+    "批判AI项目常见过度工程化问题",
+    "强调聚焦核心价值而非盲目堆砌技术"
+  ],
+  "use_cases": [
+    "AI产品战略规划参考",
+    "技术团队避免过度设计",
+    "创业项目价值定位分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 08:16:20 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:50Z",
+  "analyzed_at": "2026-06-20T10:31:50Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

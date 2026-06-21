@@ -1,0 +1,31 @@
+{
+  "id": "20260619-github_trending-002",
+  "title": "goose",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "source_type": "github_trending",
+  "summary": "开源可扩展AI代理，超越代码建议，支持安装、执行、编辑和测试，兼容任意LLM。",
+  "highlights": [
+    "支持安装、执行、编辑和测试等操作",
+    "可扩展架构，兼容任意LLM",
+    "开源且社区活跃，拥有近5万星标"
+  ],
+  "use_cases": [
+    "自动化代码开发与测试",
+    "集成多种AI模型进行任务执行",
+    "构建自定义AI工作流"
+  ],
+  "maturity": {
+    "stars": 49823,
+    "last_updated": "2026-06-19",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "mcp"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:33:44Z",
+  "analyzed_at": "2026-06-19T14:33:44Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

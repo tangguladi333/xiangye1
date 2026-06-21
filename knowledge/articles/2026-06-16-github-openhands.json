@@ -1,0 +1,31 @@
+{
+  "id": "20260616-006",
+  "title": "OpenHands",
+  "source_url": "https://github.com/OpenHands/OpenHands",
+  "source_type": "github_trending",
+  "summary": "OpenHands – AI 驱动的全栈软件开发助手，能自主完成编码、调试、部署，定位为替代人类开发者的 AI 编程代理。",
+  "highlights": [
+    "端到端软件开发自动化",
+    "支持多种编程语言",
+    "自主调试与修复能力"
+  ],
+  "use_cases": [
+    "自动代码生成",
+    "项目脚手架搭建",
+    "自动化 Bug 修复"
+  ],
+  "maturity": {
+    "stars": 77325,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "github-20260616-099",
+  "title": "langgraph",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "source_type": "github_trending",
+  "summary": "LangGraph — 构建有状态多 Agent 编排的 LLM 框架，支持循环与分支图结构",
+  "highlights": [
+    "基于图的状态编排，支持循环与条件分支",
+    "与 LangChain 生态深度集成"
+  ],
+  "use_cases": [
+    "多 Agent 协作工作流",
+    "有状态的对话式 Agent"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": ["llm", "agent", "framework", "workflow"],
+  "status": "draft",
+  "collected_at": "2026-06-16T08:00:00Z",
+  "analyzed_at": "2026-06-16T08:05:00Z"
+}

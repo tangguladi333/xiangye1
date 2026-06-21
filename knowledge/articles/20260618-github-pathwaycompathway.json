@@ -1,0 +1,33 @@
+{
+  "id": "20260618-github-pathwaycompathway",
+  "title": "pathwaycom/pathway",
+  "source_url": "https://github.com/pathwaycom/pathway",
+  "source_type": "github_trending",
+  "summary": "Pathway 是一个开源的数据处理框架，专注于实时数据管道和 ETL，支持 Python 和 Rust，提供高性能流处理能力。",
+  "highlights": [
+    "支持实时流处理和批处理统一架构",
+    "基于 Rust 实现高性能，Python 接口友好",
+    "内置连接器支持 Kafka、CSV、API 等多种数据源"
+  ],
+  "use_cases": [
+    "实时数据管道构建与 ETL 任务",
+    "流式数据分析和监控系统",
+    "AI 模型推理数据的实时预处理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "data-pipeline",
+    "stream-processing",
+    "etl",
+    "python",
+    "rust"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-18T15:16:57Z",
+  "analyzed_at": "2026-06-18T15:17:26Z",
+  "curated_at": "2026-06-18T15:17:50Z"
+}

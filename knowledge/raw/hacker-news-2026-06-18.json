@@ -1,0 +1,42 @@
+{
+  "source": "rss",
+  "collected_at": "2026-06-18T07:07:07Z",
+  "items": [
+    {
+      "name": "<![CDATA[The Australian Government to Require SMS/MMS Sender ID Registraion]]>",
+      "url": "https://www.acma.gov.au/sms-sender-id-register",
+      "summary": "Article URL: https://www.acma.gov.au/sms-sender-id-register Comments URL: https://news.ycombinator.com/item?id=48581489 Points: 10 # Comments: 2 ]]>",
+      "stars": 0,
+      "language": "",
+      "topics": [],
+      "last_updated": "Thu, 18 Jun 2026 06:23:24 +0000",
+      "source_type": "hacker_news",
+      "rss_source": "Hacker News Frontpage",
+      "rss_category": "综合技术"
+    },
+    {
+      "name": "<![CDATA[How to Become a Person After Smartphones Have Rotted Your Brain]]>",
+      "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
+      "summary": "Article URL: https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain Comments URL: https://news.ycombinator.com/item?id=48581485 Points: 4 # Comments: 0 ]]>",
+      "stars": 0,
+      "language": "",
+      "topics": [],
+      "last_updated": "Thu, 18 Jun 2026 06:23:04 +0000",
+      "source_type": "hacker_news",
+      "rss_source": "Hacker News Frontpage",
+      "rss_category": "综合技术"
+    },
+    {
+      "name": "<![CDATA[DeepSeek Introduces Vision]]>",
+      "url": "https://chat.deepseek.com/",
+      "summary": "Article URL: https://chat.deepseek.com/ Comments URL: https://news.ycombinator.com/item?id=48581458 Points: 9 # Comments: 0 ]]>",
+      "stars": 0,
+      "language": "",
+      "topics": [],
+      "last_updated": "Thu, 18 Jun 2026 06:17:40 +0000",
+      "source_type": "hacker_news",
+      "rss_source": "Hacker News Frontpage",
+      "rss_category": "综合技术"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260620-hacker_news-016",
+  "title": "<![CDATA[Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28]]>",
+  "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+  "source_type": "hacker_news",
+  "summary": "Project Valhalla为JDK引入值类型和泛型特化，提升性能与内存效率，历经十年开发终在JDK 28中落地。",
+  "highlights": [
+    "引入值类型（Value Types），消除对象包装开销",
+    "泛型特化（Generic Specialization）支持原始类型作为泛型参数",
+    "显著提升内存布局效率和计算性能"
+  ],
+  "use_cases": [
+    "高性能数值计算与科学计算",
+    "大数据处理与流式框架优化",
+    "游戏引擎与实时系统开发"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 06:35:57 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:40Z",
+  "analyzed_at": "2026-06-20T10:31:40Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

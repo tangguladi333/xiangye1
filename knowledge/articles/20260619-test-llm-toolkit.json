@@ -1,0 +1,29 @@
+{
+  "id": "20260619-test-llm-toolkit",
+  "title": "test-org/llm-toolkit",
+  "source_url": "https://github.com/test-org/llm-toolkit",
+  "source_type": "github_trending",
+  "summary": "LLM 工具集，提供 Prompt 管理和 Token 计数功能。",
+  "highlights": [
+    "Prompt 模板管理",
+    "Token 精确计数",
+    "多模型支持"
+  ],
+  "use_cases": [
+    "Prompt 工程",
+    "成本优化"
+  ],
+  "maturity": {
+    "stars": 800,
+    "last_updated": "2026-05-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "toolkit"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T10:00:00Z",
+  "analyzed_at": "2026-06-19T10:05:00Z",
+  "curated_at": "2026-06-19T04:29:47Z"
+}

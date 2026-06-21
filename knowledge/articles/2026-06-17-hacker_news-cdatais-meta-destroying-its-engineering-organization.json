@@ -1,0 +1,30 @@
+{
+  "id": "20260617-015",
+  "title": "<![CDATA[Is Meta destroying its engineering organization?]]>",
+  "source_url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+  "source_type": "hacker_news",
+  "summary": "分析Meta是否在破坏其工程组织，探讨其裁员、重组及对工程师文化的影响。",
+  "highlights": [
+    "Meta大规模裁员和重组引发对工程文化破坏的担忧",
+    "文章讨论管理层决策对工程师士气和创新的影响",
+    "社区评论反映对科技公司长期技术战略的质疑"
+  ],
+  "use_cases": [
+    "科技公司组织变革分析",
+    "工程文化研究",
+    "管理层决策影响评估"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 16:42:32 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:51Z",
+  "analyzed_at": "2026-06-17T07:53:51Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

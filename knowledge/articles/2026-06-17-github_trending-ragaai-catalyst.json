@@ -1,0 +1,31 @@
+{
+  "id": "20260617-github_trending-010",
+  "title": "RagaAI-Catalyst",
+  "source_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+  "source_type": "github_trending",
+  "summary": "RagaAI-Catalyst是一个Python SDK，用于AI代理的可观测性、监控和评估，支持代理、LLM和工具追踪、多代理系统调试、自托管仪表板及高级分析。",
+  "highlights": [
+    "支持代理、LLM和工具追踪，便于调试多代理系统",
+    "提供自托管仪表板，包含时间线和执行图视图的高级分析",
+    "专注于AI代理监控、评估和性能优化"
+  ],
+  "use_cases": [
+    "多代理系统的监控与调试",
+    "AI应用性能评估与优化",
+    "LLM和工具交互的追踪与分析"
+  ],
+  "maturity": {
+    "stars": 16157,
+    "last_updated": "2026-06-17",
+    "production_ready": true
+  },
+  "tags": [
+    "agent",
+    "llm",
+    "multi-agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:15Z",
+  "analyzed_at": "2026-06-17T16:25:15Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260619-github_trending-018",
+  "title": "PraisonAI",
+  "source_url": "https://github.com/MervinPraison/PraisonAI",
+  "source_type": "github_trending",
+  "summary": "PraisonAI是一个Python AI代理框架，支持100+LLM，内置记忆和RAG，5行代码即可部署24/7自主工作团队。",
+  "highlights": [
+    "支持100+LLM和内置RAG记忆",
+    "5行代码快速部署自主代理",
+    "代理可自我改进并执行研究、规划、编码任务"
+  ],
+  "use_cases": [
+    "自动化研究与数据分析",
+    "智能客服与任务执行",
+    "多代理协作工作流"
+  ],
+  "maturity": {
+    "stars": 8190,
+    "last_updated": "2026-06-19",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:24Z",
+  "analyzed_at": "2026-06-19T14:34:24Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

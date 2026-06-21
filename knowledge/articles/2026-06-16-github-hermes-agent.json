@@ -1,0 +1,30 @@
+{
+  "id": "20260616-001",
+  "title": "hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_type": "github_trending",
+  "summary": "Hermes Agent – NousResearch 出品的可进化 AI 代理框架，随使用场景持续学习成长，集成多种主流大模型，社区贡献活跃。",
+  "highlights": [
+    "支持多模型无缝切换",
+    "代理能力可随使用进化",
+    "社区贡献者超 3.4 万"
+  ],
+  "use_cases": [
+    "个性化 AI 助手开发",
+    "多模型编排与调度",
+    "智能代理快速原型设计"
+  ],
+  "maturity": {
+    "stars": 195004,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

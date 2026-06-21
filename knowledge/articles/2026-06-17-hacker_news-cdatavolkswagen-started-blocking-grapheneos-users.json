@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-004",
+  "title": "<![CDATA[Volkswagen started blocking GrapheneOS users]]>",
+  "source_url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+  "source_type": "hacker_news",
+  "summary": "大众汽车开始屏蔽GrapheneOS用户，引发隐私与安全讨论。",
+  "highlights": [
+    "大众汽车应用阻止GrapheneOS用户访问",
+    "涉及Android隐私与安全定制系统兼容性问题",
+    "社区讨论技术封锁与用户权益"
+  ],
+  "use_cases": [
+    "隐私保护系统兼容性分析",
+    "企业应用安全策略研究",
+    "开源系统用户权益维护"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 15:04:47 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:50Z",
+  "analyzed_at": "2026-06-17T16:25:50Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

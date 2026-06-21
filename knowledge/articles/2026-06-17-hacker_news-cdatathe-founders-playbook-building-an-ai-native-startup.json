@@ -1,0 +1,30 @@
+{
+  "id": "20260617-001",
+  "title": "<![CDATA[The founder's playbook: Building an AI-native startup]]>",
+  "source_url": "https://claude.com/blog/the-founders-playbook",
+  "source_type": "hacker_news",
+  "summary": "面向AI原生创业者的实践指南，涵盖从产品构思到规模化部署的关键策略与经验教训。",
+  "highlights": [
+    "提供AI原生创业的端到端框架",
+    "强调产品与市场匹配的独特挑战",
+    "分享实际案例与可操作建议"
+  ],
+  "use_cases": [
+    "AI创业公司战略规划",
+    "产品经理理解AI产品开发",
+    "技术创业者评估AI机会"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 07:04:42 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:18Z",
+  "analyzed_at": "2026-06-17T07:53:18Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "20260620-hacker_news-007",
+  "title": "<![CDATA[Big Banana Car]]>",
+  "source_url": "https://bigbananacar.com/",
+  "source_type": "hacker_news",
+  "summary": "该项目是一个名为“Big Banana Car”的AI/LLM/Agent项目，但描述和链接指向一个关于巨型香蕉的新闻，缺乏实际项目信息。",
+  "highlights": [
+    "项目名称与描述内容不匹配",
+    "描述链接指向无关新闻页面",
+    "缺乏技术细节和代码仓库"
+  ],
+  "use_cases": [
+    "无法确定适用场景"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 18:14:11 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:17Z",
+  "analyzed_at": "2026-06-20T10:31:17Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

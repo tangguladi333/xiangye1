@@ -1,0 +1,581 @@
+{
+  "source": "rss",
+  "collected_at": "2026-06-17T16:26:27Z",
+  "analyzed_at": "2026-06-17T16:26:27Z",
+  "items": [
+    {
+      "id": "20260617-hacker_news-001",
+      "title": "<![CDATA[Launch HN: Adam (YC W25) – Open-Source AI CAD]]>",
+      "source_url": "https://github.com/Adam-CAD/CADAM",
+      "source_type": "hacker_news",
+      "summary": "Adam是一个开源AI CAD项目，旨在通过AI代理实现机械设计的自动化生成，类似于AI在软件领域的应用。",
+      "highlights": [
+        "基于AI将成为机械设计主要媒介的信念",
+        "专注于机械CAD软件的AI代理开发",
+        "开源项目，由YC W25孵化"
+      ],
+      "use_cases": [
+        "机械零件自动设计",
+        "CAD模型生成与优化",
+        "设计流程自动化"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 16:14:04 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:25:42Z",
+      "analyzed_at": "2026-06-17T16:25:42Z"
+    },
+    {
+      "id": "20260617-hacker_news-002",
+      "title": "<![CDATA[Agentic coding deserves more than a chat box bolted onto VS Code]]>",
+      "source_url": "https://github.com/evanklem/polypore",
+      "source_type": "hacker_news",
+      "summary": "文章探讨了AI编码助手不应仅限于聊天界面，提出更深度集成到开发环境中的新思路。",
+      "highlights": [
+        "批评现有AI编码工具仅提供聊天框的局限性",
+        "提出将AI更深度嵌入代码编辑流程的构想",
+        "强调提升开发者与AI协作效率的重要性"
+      ],
+      "use_cases": [
+        "智能代码补全与重构",
+        "自动化代码审查与调试",
+        "上下文感知的代码生成"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 15:26:29 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:25:45Z",
+      "analyzed_at": "2026-06-17T16:25:45Z"
+    },
+    {
+      "id": "20260617-hacker_news-003",
+      "title": "<![CDATA[French physicist and media star loses doctorate after plagiarism investigation]]>",
+      "source_url": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
+      "source_type": "hacker_news",
+      "summary": "法国物理学家兼媒体明星因抄袭调查被撤销博士学位，事件引发学术界对科研诚信的关注。",
+      "highlights": [
+        "该物理学家因抄袭行为被剥夺博士学位",
+        "事件涉及学术不端和媒体影响力",
+        "引发对科研诚信和学术规范的讨论"
+      ],
+      "use_cases": [
+        "学术诚信教育案例",
+        "科研伦理讨论",
+        "媒体与学术界关系分析"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 15:23:49 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:25:47Z",
+      "analyzed_at": "2026-06-17T16:25:47Z"
+    },
+    {
+      "id": "20260617-hacker_news-004",
+      "title": "<![CDATA[Volkswagen started blocking GrapheneOS users]]>",
+      "source_url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+      "source_type": "hacker_news",
+      "summary": "大众汽车开始屏蔽GrapheneOS用户，引发隐私与安全讨论。",
+      "highlights": [
+        "大众汽车应用阻止GrapheneOS用户访问",
+        "涉及Android隐私与安全定制系统兼容性问题",
+        "社区讨论技术封锁与用户权益"
+      ],
+      "use_cases": [
+        "隐私保护系统兼容性分析",
+        "企业应用安全策略研究",
+        "开源系统用户权益维护"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 15:04:47 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:25:50Z",
+      "analyzed_at": "2026-06-17T16:25:50Z"
+    },
+    {
+      "id": "20260617-hacker_news-005",
+      "title": "<![CDATA[Why stdx is not on crates.io]]>",
+      "source_url": "https://kerkour.com/stdx-cratesio",
+      "source_type": "hacker_news",
+      "summary": "分析为何stdx未出现在crates.io上的文章及Hacker News讨论，探讨Rust生态中标准库扩展的挑战与社区观点。",
+      "highlights": [
+        "探讨stdx未上架crates.io的原因",
+        "涉及Rust标准库扩展的生态问题",
+        "引发社区对库维护与兼容性的讨论"
+      ],
+      "use_cases": [
+        "理解Rust生态决策",
+        "学习开源库发布策略",
+        "分析社区反馈与项目治理"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 14:45:09 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:25:52Z",
+      "analyzed_at": "2026-06-17T16:25:52Z"
+    },
+    {
+      "id": "20260617-hacker_news-006",
+      "title": "<![CDATA[Epic Games announces Lore version control system]]>",
+      "source_url": "https://lore.org/",
+      "source_type": "hacker_news",
+      "summary": "Epic Games发布Lore版本控制系统，专为大型游戏开发设计，支持高效协作与资产版本管理。",
+      "highlights": [
+        "专为游戏开发场景设计，优化大型二进制文件处理",
+        "支持分布式协作与高效版本控制",
+        "由Epic Games官方推出，集成Unreal Engine生态"
+      ],
+      "use_cases": [
+        "大型游戏项目的版本管理与协作",
+        "游戏资产（如模型、贴图）的版本追踪",
+        "与Unreal Engine深度集成的开发工作流"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 14:30:27 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:25:55Z",
+      "analyzed_at": "2026-06-17T16:25:55Z"
+    },
+    {
+      "id": "20260617-hacker_news-007",
+      "title": "<![CDATA[Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)]]>",
+      "source_url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "source_type": "hacker_news",
+      "summary": "美国五角大楼使用AI撰写国会要求的报告，声称有150万用户，引发对AI在政府工作中应用的讨论。",
+      "highlights": [
+        "五角大楼使用AI撰写国会报告",
+        "声称有150万用户使用该AI系统",
+        "引发对AI在政府工作中可靠性和透明度的讨论"
+      ],
+      "use_cases": [
+        "政府报告自动生成",
+        "文档撰写辅助",
+        "合规性文档处理"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 14:26:07 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:25:57Z",
+      "analyzed_at": "2026-06-17T16:25:57Z"
+    },
+    {
+      "id": "20260617-hacker_news-008",
+      "title": "<![CDATA[AI demands more engineering discipline. Not less]]>",
+      "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "source_type": "hacker_news",
+      "summary": "文章主张AI开发需要更强的工程纪律，而非更少，强调结构化方法的重要性。",
+      "highlights": [
+        "AI开发需加强工程纪律",
+        "结构化方法比随意尝试更有效",
+        "工程原则对AI项目成功至关重要"
+      ],
+      "use_cases": [
+        "AI项目工程管理",
+        "开发团队流程优化",
+        "AI系统可靠性提升"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 14:20:44 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:25:59Z",
+      "analyzed_at": "2026-06-17T16:25:59Z"
+    },
+    {
+      "id": "20260617-hacker_news-009",
+      "title": "<![CDATA[Want your images back? Sure... That'll be $5!]]>",
+      "source_url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+      "source_type": "hacker_news",
+      "summary": "该项目讨论AI服务商要求用户支付5美元才能取回自己的图片，引发对数据所有权和商业模式的争议。",
+      "highlights": [
+        "AI服务商扣留用户数据并索要费用",
+        "引发对数据所有权和商业伦理的讨论",
+        "用户对服务商信任度下降"
+      ],
+      "use_cases": [
+        "数据所有权争议分析",
+        "AI服务商业模式评估",
+        "用户权益保护案例研究"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 13:05:03 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "multi-modal"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:02Z",
+      "analyzed_at": "2026-06-17T16:26:02Z"
+    },
+    {
+      "id": "20260617-hacker_news-010",
+      "title": "<![CDATA[Why thinking out loud with someone beats thinking alone]]>",
+      "source_url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+      "source_type": "hacker_news",
+      "summary": "文章探讨了与他人进行口头交流比独自思考更能提升认知效率，强调对话在解决问题和激发创意中的独特价值。",
+      "highlights": [
+        "对话能促进更深入的思考",
+        "集体智慧优于个人独思",
+        "交流有助于发现盲点"
+      ],
+      "use_cases": [
+        "团队头脑风暴",
+        "复杂问题决策",
+        "创意构思阶段"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 13:00:38 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:04Z",
+      "analyzed_at": "2026-06-17T16:26:04Z"
+    },
+    {
+      "id": "20260617-hacker_news-011",
+      "title": "<![CDATA[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff]]>",
+      "source_url": "https://wpvip.com/future-of-the-web-2026/",
+      "source_type": "hacker_news",
+      "summary": "调查显示60%美国消费者反感品牌营销中使用“AI”一词，认为其降低购买意愿，建议企业谨慎使用AI标签。",
+      "highlights": [
+        "多数消费者对AI营销持负面态度",
+        "品牌应避免过度强调AI技术",
+        "消费者更关注产品实际价值"
+      ],
+      "use_cases": [
+        "品牌营销策略调整",
+        "消费者行为研究",
+        "AI产品市场定位"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 12:11:27 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:06Z",
+      "analyzed_at": "2026-06-17T16:26:06Z"
+    },
+    {
+      "id": "20260617-hacker_news-012",
+      "title": "<![CDATA[MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C]]>",
+      "source_url": "https://github.com/rxi/microui",
+      "source_type": "hacker_news",
+      "summary": "MicroUI是一个用ANSI C编写的轻量级即时模式UI库，专注于可移植性和简洁性，适用于嵌入式或小型图形应用。",
+      "highlights": [
+        "纯ANSI C实现，无外部依赖，高度可移植",
+        "采用即时模式（immediate-mode）设计，简化UI状态管理",
+        "代码体积小，适合资源受限环境"
+      ],
+      "use_cases": [
+        "嵌入式系统或微控制器的图形界面开发",
+        "游戏或工具中的轻量级调试UI",
+        "需要最小化依赖的跨平台UI组件"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 12:04:28 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:09Z",
+      "analyzed_at": "2026-06-17T16:26:09Z"
+    },
+    {
+      "id": "20260617-hacker_news-013",
+      "title": "<![CDATA[RFC 10008: The new HTTP Query Method]]>",
+      "source_url": "https://www.rfc-editor.org/info/rfc10008/",
+      "source_type": "hacker_news",
+      "summary": "RFC 10008提出新的HTTP查询方法，旨在优化网络查询效率与标准化。",
+      "highlights": [
+        "定义新的HTTP查询方法以简化请求流程",
+        "提升网络资源查询的标准化与互操作性",
+        "可能影响未来Web协议设计"
+      ],
+      "use_cases": [
+        "Web API查询优化",
+        "分布式系统资源检索",
+        "网络协议标准化研究"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 10:51:17 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:11Z",
+      "analyzed_at": "2026-06-17T16:26:11Z"
+    },
+    {
+      "id": "20260617-hacker_news-014",
+      "title": "<![CDATA[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload]]>",
+      "source_url": "https://brevio.pro",
+      "source_type": "hacker_news",
+      "summary": "Brevio.pro提供184个免费浏览器工具，涵盖PDF、图像、开发及AI任务，无需上传文件。",
+      "highlights": [
+        "包含184种免费浏览器工具",
+        "覆盖PDF、图像、开发和AI任务",
+        "无需上传文件，保护隐私"
+      ],
+      "use_cases": [
+        "在线PDF编辑与转换",
+        "图像处理与格式转换",
+        "开发调试与AI辅助任务"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 09:48:59 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:13Z",
+      "analyzed_at": "2026-06-17T16:26:13Z"
+    },
+    {
+      "id": "20260617-hacker_news-015",
+      "title": "<![CDATA[Show HN: High-Res Neural Cellular Automata]]>",
+      "source_url": "https://cells2pixels.github.io/",
+      "source_type": "hacker_news",
+      "summary": "高分辨率神经细胞自动机，将每个CA细胞变为神经场，实现实时高清模式生成、自修复及3D纹理合成。",
+      "highlights": [
+        "将每个CA细胞变为神经场，实现高清实时生成",
+        "支持从种子生长模式、受损自愈及PBR纹理合成",
+        "可生成3D纹理，展示自组织模式形成"
+      ],
+      "use_cases": [
+        "实时生成高清纹理与图案",
+        "自修复材料与模式设计",
+        "3D纹理合成与可视化"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 09:28:36 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "multi-modal",
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:16Z",
+      "analyzed_at": "2026-06-17T16:26:16Z"
+    },
+    {
+      "id": "20260617-hacker_news-016",
+      "title": "<![CDATA[GLM-5.2 is the new leading open weights model on Artificial Analysis]]>",
+      "source_url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "source_type": "hacker_news",
+      "summary": "GLM-5.2成为Artificial Analysis上领先的开源权重模型，获得大量关注和讨论。",
+      "highlights": [
+        "在Artificial Analysis智能指数中排名第一",
+        "开源权重模型，性能领先",
+        "引发社区广泛讨论（535分，285条评论）"
+      ],
+      "use_cases": [
+        "开源大模型性能基准测试",
+        "AI模型研究与对比",
+        "社区驱动的模型评估"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 09:12:00 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:18Z",
+      "analyzed_at": "2026-06-17T16:26:18Z"
+    },
+    {
+      "id": "20260617-hacker_news-017",
+      "title": "<![CDATA[Most of the CVE-2026-4020 attackers are the same client]]>",
+      "source_url": "https://honeylabs.net/blog/the-cloud-fleet-behind-cve-2026-4020",
+      "source_type": "hacker_news",
+      "summary": "分析CVE-2026-4020攻击者多为同一客户端，揭示云舰队攻击模式。",
+      "highlights": [
+        "攻击者使用相同客户端发起攻击",
+        "分析云舰队行为模式",
+        "提供安全防护建议"
+      ],
+      "use_cases": [
+        "网络安全威胁分析",
+        "攻击溯源与防御",
+        "云安全研究"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 08:47:14 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:20Z",
+      "analyzed_at": "2026-06-17T16:26:20Z"
+    },
+    {
+      "id": "20260617-hacker_news-018",
+      "title": "<![CDATA[Hacker News but for Independent Blogs]]>",
+      "source_url": "https://bubbles.town/",
+      "source_type": "hacker_news",
+      "summary": "一个类似Hacker News但专注于独立博客的聚合平台，用于发现和讨论独立博客内容。",
+      "highlights": [
+        "专注于独立博客内容聚合",
+        "类似Hacker News的社区讨论模式",
+        "提供文章和评论链接"
+      ],
+      "use_cases": [
+        "发现独立博客优质内容",
+        "独立博客作者推广作品",
+        "社区讨论和反馈"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 07:49:44 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:22Z",
+      "analyzed_at": "2026-06-17T16:26:22Z"
+    },
+    {
+      "id": "20260617-hacker_news-019",
+      "title": "<![CDATA[GLM 5.2 Performance Benchmarks]]>",
+      "source_url": "https://artificialanalysis.ai/models/glm-5-2",
+      "source_type": "hacker_news",
+      "summary": "GLM 5.2性能基准测试分析，涵盖推理、编码、数学等多维度评估，展示模型能力与竞争定位。",
+      "highlights": [
+        "GLM 5.2在多项基准测试中表现优异",
+        "与主流模型进行性能对比分析",
+        "提供详细的性能数据与排名"
+      ],
+      "use_cases": [
+        "模型性能评估与选型",
+        "AI能力基准测试研究",
+        "大模型技术对比分析"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Wed, 17 Jun 2026 07:30:51 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:25Z",
+      "analyzed_at": "2026-06-17T16:26:25Z"
+    },
+    {
+      "id": "20260617-hacker_news-020",
+      "title": "<![CDATA[Humiliating IIS servers for fun and jail time]]>",
+      "source_url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "source_type": "hacker_news",
+      "summary": "文章讨论攻击IIS服务器的技术细节及法律风险，强调安全测试需合法合规。",
+      "highlights": [
+        "揭示IIS服务器常见漏洞",
+        "强调未经授权攻击的法律后果",
+        "提供安全测试的合法建议"
+      ],
+      "use_cases": [
+        "安全培训",
+        "渗透测试研究",
+        "法律合规教育"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Tue, 16 Jun 2026 22:53:34 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-17T16:26:27Z",
+      "analyzed_at": "2026-06-17T16:26:27Z"
+    }
+  ]
+}

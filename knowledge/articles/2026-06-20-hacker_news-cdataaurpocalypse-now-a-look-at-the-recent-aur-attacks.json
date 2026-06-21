@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-010",
+  "title": "<![CDATA[AURpocalypse now: a look at the recent AUR attacks]]>",
+  "source_url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
+  "source_type": "hacker_news",
+  "summary": "分析近期针对Arch Linux AUR的供应链攻击事件，探讨其攻击手法、影响及对开源生态安全的警示。",
+  "highlights": [
+    "攻击者通过劫持AUR包维护者账户植入恶意代码",
+    "事件暴露了AUR信任模型的脆弱性",
+    "社区呼吁加强包签名和审查机制"
+  ],
+  "use_cases": [
+    "开源软件供应链安全评估",
+    "包管理器安全机制设计",
+    "社区驱动的安全审计实践"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 16:59:16 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:25Z",
+  "analyzed_at": "2026-06-20T10:31:25Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-010",
+  "title": "<![CDATA[Slow breathing modulates brain function and risk behavior]]>",
+  "source_url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+  "source_type": "hacker_news",
+  "summary": "研究缓慢呼吸如何调节大脑功能并影响风险行为，揭示呼吸与认知的神经机制。",
+  "highlights": [
+    "缓慢呼吸可调节大脑特定区域活动",
+    "影响个体的风险决策行为",
+    "为呼吸调节认知提供神经科学证据"
+  ],
+  "use_cases": [
+    "心理健康干预",
+    "认知增强训练",
+    "神经科学研究"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 22:22:52 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-modal",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:36Z",
+  "analyzed_at": "2026-06-21T11:14:36Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

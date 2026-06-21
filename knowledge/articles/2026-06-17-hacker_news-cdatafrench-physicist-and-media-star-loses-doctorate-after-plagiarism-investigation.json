@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-003",
+  "title": "<![CDATA[French physicist and media star loses doctorate after plagiarism investigation]]>",
+  "source_url": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
+  "source_type": "hacker_news",
+  "summary": "法国物理学家兼媒体明星因抄袭调查被撤销博士学位，事件引发学术界对科研诚信的关注。",
+  "highlights": [
+    "该物理学家因抄袭行为被剥夺博士学位",
+    "事件涉及学术不端和媒体影响力",
+    "引发对科研诚信和学术规范的讨论"
+  ],
+  "use_cases": [
+    "学术诚信教育案例",
+    "科研伦理讨论",
+    "媒体与学术界关系分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 15:23:49 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:47Z",
+  "analyzed_at": "2026-06-17T16:25:47Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

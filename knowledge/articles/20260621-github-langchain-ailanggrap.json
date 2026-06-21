@@ -1,0 +1,33 @@
+{
+  "id": "20260621-github-langchain-ailanggrap",
+  "title": "langchain-ai/langgraph",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "source_type": "github_trending",
+  "summary": "LangGraph 是 LangChain 团队开发的框架，用于构建有状态、多步骤的 LLM 应用，支持循环、分支和持久化，适合复杂 Agent 工作流。",
+  "highlights": [
+    "支持有状态图结构，实现循环和条件分支",
+    "与 LangChain 生态深度集成，易于扩展",
+    "内置持久化和检查点机制，支持恢复执行"
+  ],
+  "use_cases": [
+    "构建多步骤推理 Agent",
+    "实现对话状态管理",
+    "编排复杂工作流（如代码生成、数据分析）"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "langchain",
+    "state-machine"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T15:38:08Z",
+  "analyzed_at": "2026-06-21T15:38:47Z",
+  "curated_at": "2026-06-21T15:39:12Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260617-009",
+  "title": "<![CDATA[Frood, an Alpine Initramfs NAS (2024)]]>",
+  "source_url": "https://words.filippo.io/frood/",
+  "source_type": "hacker_news",
+  "summary": "Frood是一个基于Alpine Initramfs的轻量级NAS项目，旨在提供简单、安全的网络附加存储解决方案。",
+  "highlights": [
+    "基于Alpine Linux的Initramfs构建，系统极简且安全",
+    "专注于NAS核心功能，设计简洁高效",
+    "2024年发布，适合自托管和嵌入式场景"
+  ],
+  "use_cases": [
+    "个人或家庭文件存储与备份",
+    "轻量级私有云存储部署",
+    "嵌入式或资源受限设备的NAS方案"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 20:17:04 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:36Z",
+  "analyzed_at": "2026-06-17T07:53:36Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

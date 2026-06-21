@@ -1,0 +1,30 @@
+{
+  "id": "20260617-018",
+  "title": "<![CDATA[Calvin and Hobbes and the price of integrity]]>",
+  "source_url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+  "source_type": "hacker_news",
+  "summary": "探讨Calvin和Hobbes漫画中关于诚信代价的主题，引发对AI伦理与人类价值观的思考。",
+  "highlights": [
+    "通过经典漫画反思诚信在现实中的代价",
+    "引发对AI系统伦理决策的讨论",
+    "强调人类价值观在技术发展中的重要性"
+  ],
+  "use_cases": [
+    "AI伦理教育",
+    "价值观对齐研究",
+    "人机交互中的道德决策"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 15:44:44 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:58Z",
+  "analyzed_at": "2026-06-17T07:53:58Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

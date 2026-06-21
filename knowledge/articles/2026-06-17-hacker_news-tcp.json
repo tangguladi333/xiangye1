@@ -1,0 +1,29 @@
+{
+  "id": "20260617-016",
+  "title": "TCP]]>",
+  "source_url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+  "source_type": "hacker_news",
+  "summary": "介绍如何使用Bash内置的/dev/TCP进行HTTP请求，无需curl或其他工具。",
+  "highlights": [
+    "Bash内置/dev/TCP支持网络请求",
+    "无需安装额外工具即可发送HTTP请求",
+    "适用于受限环境或快速调试"
+  ],
+  "use_cases": [
+    "服务器或容器中缺少curl时的HTTP调试",
+    "快速测试API端点",
+    "自动化脚本中的轻量级网络请求"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 16:40:58 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:53Z",
+  "analyzed_at": "2026-06-17T07:53:53Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

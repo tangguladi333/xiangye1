@@ -1,0 +1,31 @@
+{
+  "id": "20260616-013",
+  "title": "cherry-studio",
+  "source_url": "https://github.com/CherryHQ/cherry-studio",
+  "source_type": "github_trending",
+  "summary": "Cherry Studio – AI 生产力工作室，集成智能聊天、自主代理和 300+ 助手模板，支持多模型切换和技能插件。",
+  "highlights": [
+    "300+ 预设助手模板",
+    "自主代理执行能力",
+    "多模型统一管理"
+  ],
+  "use_cases": [
+    "日常 AI 对话助手",
+    "自动化工作流编排",
+    "AI 技能插件开发"
+  ],
+  "maturity": {
+    "stars": 47417,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

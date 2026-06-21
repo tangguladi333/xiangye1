@@ -1,0 +1,29 @@
+{
+  "id": "20260618-hacker_news-002",
+  "title": "<![CDATA[How to Become a Person After Smartphones Have Rotted Your Brain]]>",
+  "source_url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
+  "source_type": "hacker_news",
+  "summary": "探讨智能手机如何影响大脑，并提供恢复专注力与深度思考的方法。",
+  "highlights": [
+    "分析智能手机对认知能力的负面影响",
+    "提出恢复深度阅读和思考习惯的策略",
+    "强调重新建立与现实世界的联系"
+  ],
+  "use_cases": [
+    "个人认知能力提升",
+    "数字戒断与注意力恢复",
+    "教育领域中的媒介素养培养"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 06:23:04 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-18T07:07:18Z",
+  "analyzed_at": "2026-06-18T07:07:18Z",
+  "curated_at": "2026-06-18T07:07:20Z"
+}

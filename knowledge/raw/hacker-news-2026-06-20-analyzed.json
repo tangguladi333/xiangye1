@@ -1,0 +1,580 @@
+{
+  "source": "rss",
+  "collected_at": "2026-06-20T10:31:50Z",
+  "analyzed_at": "2026-06-20T10:31:50Z",
+  "items": [
+    {
+      "id": "20260620-hacker_news-001",
+      "title": "<![CDATA[I Stored a Website in a Favicon]]>",
+      "source_url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "source_type": "hacker_news",
+      "summary": "将整个网站压缩存储到favicon图标中的创意技术实验，展示了数据压缩与Web技术的巧妙结合。",
+      "highlights": [
+        "将完整网站内容压缩并嵌入favicon图标文件",
+        "利用数据URI和压缩算法实现极简存储",
+        "展示了Web技术的创意边界和极限应用"
+      ],
+      "use_cases": [
+        "创意编程与Web技术实验",
+        "数据压缩与编码教学案例",
+        "极简主义网站设计探索"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 05:33:59 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:04Z",
+      "analyzed_at": "2026-06-20T10:31:04Z"
+    },
+    {
+      "id": "20260620-hacker_news-002",
+      "title": "<![CDATA[Satellite reveals immense scale of GPS signal tampering]]>",
+      "source_url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+      "source_type": "hacker_news",
+      "summary": "卫星揭示GPS信号干扰规模远超预期，影响航空、航运等关键基础设施安全。",
+      "highlights": [
+        "GPS信号干扰规模比预期大得多",
+        "干扰影响航空、航运等关键领域",
+        "卫星监测提供了新的视角"
+      ],
+      "use_cases": [
+        "关键基础设施安全监测",
+        "航空与航运导航干扰预警",
+        "卫星信号干扰研究与应对"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 04:07:03 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:06Z",
+      "analyzed_at": "2026-06-20T10:31:06Z"
+    },
+    {
+      "id": "20260620-hacker_news-003",
+      "title": "<![CDATA[Where to Find the Colors Your Screen Can't Show You]]>",
+      "source_url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "source_type": "hacker_news",
+      "summary": "探讨屏幕无法显示的颜色及其在现实世界中的存在位置，涉及色彩科学与视觉感知。",
+      "highlights": [
+        "解释屏幕色彩限制的物理原因",
+        "列举自然界中超出屏幕色域的颜色",
+        "提供寻找这些颜色的实际方法"
+      ],
+      "use_cases": [
+        "色彩科学研究与教育",
+        "数字艺术与设计灵感",
+        "视觉感知与显示技术讨论"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 03:36:49 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "multi-modal"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:08Z",
+      "analyzed_at": "2026-06-20T10:31:08Z"
+    },
+    {
+      "id": "20260620-hacker_news-004",
+      "title": "<![CDATA[Ask HN: Will programmers write more efficient code during the memory shortage?]]>",
+      "source_url": "https://news.ycombinator.com/item?id=48604232",
+      "source_type": "hacker_news",
+      "summary": "讨论内存短缺是否促使程序员编写更高效代码，并关注高级算法与数据结构以减少内存使用。",
+      "highlights": [
+        "探讨内存短缺对编程效率的影响",
+        "关注高级算法与数据结构的内存优化",
+        "社区讨论活跃，有188条评论"
+      ],
+      "use_cases": [
+        "内存优化算法研究",
+        "资源受限环境下的软件开发",
+        "编程效率与资源管理讨论"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 22:51:09 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:11Z",
+      "analyzed_at": "2026-06-20T10:31:11Z"
+    },
+    {
+      "id": "20260620-hacker_news-005",
+      "title": "<![CDATA[Surprising economics of load-balanced systems]]>",
+      "source_url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "source_type": "hacker_news",
+      "summary": "探讨负载均衡系统在经济学视角下的反直觉特性，分析其效率与成本权衡。",
+      "highlights": [
+        "负载均衡系统存在反直觉的经济学特性",
+        "系统效率与成本之间存在复杂权衡",
+        "文章通过Erlang模型分析系统行为"
+      ],
+      "use_cases": [
+        "分布式系统架构设计",
+        "云计算资源调度优化",
+        "高并发服务性能分析"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 20:30:59 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:13Z",
+      "analyzed_at": "2026-06-20T10:31:13Z"
+    },
+    {
+      "id": "20260620-hacker_news-006",
+      "title": "<![CDATA[Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died]]>",
+      "source_url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "source_type": "hacker_news",
+      "summary": "《毁灭战士》《德军总部3D》《毁灭公爵3D》作曲家Bobby Prince去世，享年未知。",
+      "highlights": [
+        "知名游戏作曲家Bobby Prince去世",
+        "曾为《毁灭战士》《德军总部3D》等经典游戏作曲",
+        "其作品对游戏音乐发展影响深远"
+      ],
+      "use_cases": [
+        "游戏音乐创作参考",
+        "游戏历史研究",
+        "经典游戏音乐赏析"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 19:35:15 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:15Z",
+      "analyzed_at": "2026-06-20T10:31:15Z"
+    },
+    {
+      "id": "20260620-hacker_news-007",
+      "title": "<![CDATA[Big Banana Car]]>",
+      "source_url": "https://bigbananacar.com/",
+      "source_type": "hacker_news",
+      "summary": "该项目是一个名为“Big Banana Car”的AI/LLM/Agent项目，但描述和链接指向一个关于巨型香蕉的新闻，缺乏实际项目信息。",
+      "highlights": [
+        "项目名称与描述内容不匹配",
+        "描述链接指向无关新闻页面",
+        "缺乏技术细节和代码仓库"
+      ],
+      "use_cases": [
+        "无法确定适用场景"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 18:14:11 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:17Z",
+      "analyzed_at": "2026-06-20T10:31:17Z"
+    },
+    {
+      "id": "20260620-hacker_news-008",
+      "title": "<![CDATA[John Jumper to join Anthropic]]>",
+      "source_url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "source_type": "hacker_news",
+      "summary": "AlphaFold开发者John Jumper加入Anthropic，推动AI在科学领域的应用。",
+      "highlights": [
+        "AlphaFold核心开发者加入Anthropic",
+        "强化AI在科学计算与生物领域的研究",
+        "引发社区对AI前沿人才流动的关注"
+      ],
+      "use_cases": [
+        "AI辅助药物研发",
+        "蛋白质结构预测优化",
+        "科学发现自动化"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 17:53:00 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "multi-modal"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:20Z",
+      "analyzed_at": "2026-06-20T10:31:20Z"
+    },
+    {
+      "id": "20260620-hacker_news-009",
+      "title": "<![CDATA[Court Records Should Be Free]]>",
+      "source_url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+      "source_type": "hacker_news",
+      "summary": "EFF文章主张法院记录应免费公开，批评收费系统阻碍公众获取司法信息，引发Hacker News热议。",
+      "highlights": [
+        "法院记录收费系统阻碍公众获取司法信息",
+        "EFF倡导免费开放法院记录以促进司法透明",
+        "Hacker News社区对此话题高度关注并展开讨论"
+      ],
+      "use_cases": [
+        "司法透明度倡导",
+        "公共信息获取权讨论",
+        "法律科技政策研究"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 17:34:18 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:22Z",
+      "analyzed_at": "2026-06-20T10:31:22Z"
+    },
+    {
+      "id": "20260620-hacker_news-010",
+      "title": "<![CDATA[AURpocalypse now: a look at the recent AUR attacks]]>",
+      "source_url": "https://lwn.net/SubscriberLink/1077619/f7b07c5489fdd43a/",
+      "source_type": "hacker_news",
+      "summary": "分析近期针对Arch Linux AUR的供应链攻击事件，探讨其攻击手法、影响及对开源生态安全的警示。",
+      "highlights": [
+        "攻击者通过劫持AUR包维护者账户植入恶意代码",
+        "事件暴露了AUR信任模型的脆弱性",
+        "社区呼吁加强包签名和审查机制"
+      ],
+      "use_cases": [
+        "开源软件供应链安全评估",
+        "包管理器安全机制设计",
+        "社区驱动的安全审计实践"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 16:59:16 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "agent",
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:25Z",
+      "analyzed_at": "2026-06-20T10:31:25Z"
+    },
+    {
+      "id": "20260620-hacker_news-011",
+      "title": "<![CDATA[Hyundai buys Boston Dynamics]]>",
+      "source_url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "source_type": "hacker_news",
+      "summary": "现代汽车以3.25亿美元从软银手中收购波士顿动力，获得其机器人技术控制权。",
+      "highlights": [
+        "现代汽车完全收购波士顿动力，软银退出",
+        "收购金额为3.25亿美元",
+        "该交易引发广泛关注，讨论机器人技术与汽车产业融合"
+      ],
+      "use_cases": [
+        "工业机器人自动化",
+        "物流与仓储机器人",
+        "人形机器人研发"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 16:28:20 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "agent",
+        "multi-modal"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:27Z",
+      "analyzed_at": "2026-06-20T10:31:27Z"
+    },
+    {
+      "id": "20260620-hacker_news-012",
+      "title": "<![CDATA[GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2]]>",
+      "source_url": "https://arrowtsx.dev/bigger-models/",
+      "source_type": "hacker_news",
+      "summary": "文章比较了GPT-5.5与MIT许可的GLM-5.2，指出GPT-5.5幻觉率高出3倍，引发对模型规模与可靠性关系的讨论。",
+      "highlights": [
+        "GPT-5.5幻觉率是GLM-5.2的3倍",
+        "模型规模增大未必提升可靠性",
+        "开源模型在特定指标上表现更优"
+      ],
+      "use_cases": [
+        "模型选型评估",
+        "幻觉问题研究",
+        "开源与闭源模型对比分析"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 16:11:25 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:29Z",
+      "analyzed_at": "2026-06-20T10:31:29Z"
+    },
+    {
+      "id": "20260620-hacker_news-013",
+      "title": "<![CDATA[Norway imposes near ban on AI in elementary school]]>",
+      "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "source_type": "hacker_news",
+      "summary": "挪威计划在小学阶段近乎全面禁止使用AI，引发教育科技领域争议。",
+      "highlights": [
+        "挪威拟禁止小学使用AI，保护儿童隐私与认知发展",
+        "政策引发关于AI在教育中角色的广泛讨论",
+        "该禁令可能影响教育科技公司的市场策略"
+      ],
+      "use_cases": [
+        "教育政策制定参考",
+        "AI伦理与儿童保护讨论",
+        "教育科技合规性评估"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 16:03:15 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:32Z",
+      "analyzed_at": "2026-06-20T10:31:32Z"
+    },
+    {
+      "id": "20260620-hacker_news-014",
+      "title": "<![CDATA[There are no instances in ATProto]]>",
+      "source_url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "source_type": "hacker_news",
+      "summary": "文章探讨ATProto协议中无“实例”概念的设计哲学，强调去中心化与数据可移植性，引发技术社区热议。",
+      "highlights": [
+        "ATProto协议摒弃传统实例模型，采用数据仓库与中继架构",
+        "强调用户数据自主控制与跨服务迁移能力",
+        "引发关于去中心化社交协议设计取舍的深度讨论"
+      ],
+      "use_cases": [
+        "理解去中心化社交协议设计理念",
+        "对比ATProto与ActivityPub等协议差异",
+        "启发分布式应用数据架构设计"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 15:10:02 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:35Z",
+      "analyzed_at": "2026-06-20T10:31:35Z"
+    },
+    {
+      "id": "20260620-hacker_news-015",
+      "title": "<![CDATA[How many of the 170k English words do you know?]]>",
+      "source_url": "https://vocabowl-870366514258.us-west1.run.app/",
+      "source_type": "hacker_news",
+      "summary": "一个基于AI的英语词汇量测试项目，通过170k单词评估用户词汇水平，在Hacker News上获得377分和461条评论。",
+      "highlights": [
+        "覆盖17万英语单词的全面词汇量测试",
+        "基于AI/LLM技术实现智能评估",
+        "在Hacker News社区获得高度关注和讨论"
+      ],
+      "use_cases": [
+        "英语学习者自我评估词汇量",
+        "语言教学中的词汇水平诊断",
+        "词汇学习效果跟踪与对比"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 13:51:36 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:38Z",
+      "analyzed_at": "2026-06-20T10:31:38Z"
+    },
+    {
+      "id": "20260620-hacker_news-016",
+      "title": "<![CDATA[Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28]]>",
+      "source_url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "source_type": "hacker_news",
+      "summary": "Project Valhalla为JDK引入值类型和泛型特化，提升性能与内存效率，历经十年开发终在JDK 28中落地。",
+      "highlights": [
+        "引入值类型（Value Types），消除对象包装开销",
+        "泛型特化（Generic Specialization）支持原始类型作为泛型参数",
+        "显著提升内存布局效率和计算性能"
+      ],
+      "use_cases": [
+        "高性能数值计算与科学计算",
+        "大数据处理与流式框架优化",
+        "游戏引擎与实时系统开发"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 06:35:57 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:40Z",
+      "analyzed_at": "2026-06-20T10:31:40Z"
+    },
+    {
+      "id": "20260620-hacker_news-017",
+      "title": "<![CDATA[Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand]]>",
+      "source_url": "https://www.flexport.com/company/careers/",
+      "source_type": "hacker_news",
+      "summary": "Flexport在印尼、印度和泰国招聘，涉及AI/LLM/Agent项目，但项目本身无具体技术细节。",
+      "highlights": [
+        "招聘地点包括印尼、印度和泰国",
+        "项目名称与物流科技公司Flexport相关",
+        "无具体技术实现或代码信息"
+      ],
+      "use_cases": [
+        "物流自动化",
+        "供应链优化",
+        "智能客服"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Fri, 19 Jun 2026 01:01:13 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:43Z",
+      "analyzed_at": "2026-06-20T10:31:43Z"
+    },
+    {
+      "id": "20260620-hacker_news-018",
+      "title": "<![CDATA[The AirPods Effect]]>",
+      "source_url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "source_type": "hacker_news",
+      "summary": "文章探讨了AirPods如何通过无缝体验成为现象级产品，类比AI/LLM产品需降低使用门槛、融入日常，实现类似“隐形”但不可或缺的效果。",
+      "highlights": [
+        "强调产品体验的无缝性和低摩擦是成功关键",
+        "类比AI产品需像AirPods一样自然融入用户生活",
+        "指出技术复杂性应隐藏在简洁交互背后"
+      ],
+      "use_cases": [
+        "AI产品设计策略参考",
+        "用户体验优化思路",
+        "技术产品市场定位分析"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Thu, 18 Jun 2026 23:08:35 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:46Z",
+      "analyzed_at": "2026-06-20T10:31:46Z"
+    },
+    {
+      "id": "20260620-hacker_news-019",
+      "title": "<![CDATA[Building a robotics research setup that lives next to my desk]]>",
+      "source_url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "source_type": "hacker_news",
+      "summary": "个人搭建低成本桌面机器人研究平台，验证单人能否进行有意义的操作研究。",
+      "highlights": [
+        "成本仅为团队时代的十分之一",
+        "单人即可运行研究平台",
+        "聚焦机器人操作问题"
+      ],
+      "use_cases": [
+        "个人机器人研究",
+        "低成本实验平台搭建",
+        "机器人操作算法验证"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Thu, 18 Jun 2026 14:51:53 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "agent",
+        "multi-modal"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:48Z",
+      "analyzed_at": "2026-06-20T10:31:48Z"
+    },
+    {
+      "id": "20260620-hacker_news-020",
+      "title": "<![CDATA[Can you see three trees?]]>",
+      "source_url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "source_type": "hacker_news",
+      "summary": "探讨AI项目中“三棵树”隐喻，分析技术选择、产品定位与用户价值的平衡，强调避免过度工程化。",
+      "highlights": [
+        "以“三棵树”比喻技术、产品与用户需求的关系",
+        "批判AI项目常见过度工程化问题",
+        "强调聚焦核心价值而非盲目堆砌技术"
+      ],
+      "use_cases": [
+        "AI产品战略规划参考",
+        "技术团队避免过度设计",
+        "创业项目价值定位分析"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Thu, 18 Jun 2026 08:16:20 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-20T10:31:50Z",
+      "analyzed_at": "2026-06-20T10:31:50Z"
+    }
+  ]
+}

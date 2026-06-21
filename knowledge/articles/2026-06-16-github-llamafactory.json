@@ -1,0 +1,32 @@
+{
+  "id": "20260616-007",
+  "title": "LlamaFactory",
+  "source_url": "https://github.com/hiyouga/LlamaFactory",
+  "source_type": "github_trending",
+  "summary": "LlamaFactory – 统一高效的 LLM/VLM 微调框架，支持 100+ 模型和 LoRA/QLoRA 等多种训练策略，ACL 2024 论文成果。",
+  "highlights": [
+    "支持 100+ 大模型微调",
+    "多种高效微调策略",
+    "学术论文背书"
+  ],
+  "use_cases": [
+    "大模型领域微调",
+    "指令微调数据集训练",
+    "模型量化部署"
+  ],
+  "maturity": {
+    "stars": 72211,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "inference",
+    "fine-tuning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-002",
+  "title": "<![CDATA[Agentic coding deserves more than a chat box bolted onto VS Code]]>",
+  "source_url": "https://github.com/evanklem/polypore",
+  "source_type": "hacker_news",
+  "summary": "文章探讨了AI编码助手不应仅限于聊天界面，提出更深度集成到开发环境中的新思路。",
+  "highlights": [
+    "批评现有AI编码工具仅提供聊天框的局限性",
+    "提出将AI更深度嵌入代码编辑流程的构想",
+    "强调提升开发者与AI协作效率的重要性"
+  ],
+  "use_cases": [
+    "智能代码补全与重构",
+    "自动化代码审查与调试",
+    "上下文感知的代码生成"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 15:26:29 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:45Z",
+  "analyzed_at": "2026-06-17T16:25:45Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260619-github_trending-014",
+  "title": "aichat",
+  "source_url": "https://github.com/sigoden/aichat",
+  "source_type": "github_trending",
+  "summary": "基于Rust的全能LLM命令行工具，集成Shell助手、Chat-REPL、RAG、AI工具与代理，支持OpenAI、Claude、Gemini等主流模型。",
+  "highlights": [
+    "支持多种主流LLM模型（OpenAI、Claude、Gemini、Ollama等）",
+    "集成Shell助手、Chat-REPL、RAG、AI工具与代理等丰富功能",
+    "基于Rust开发，性能高效，命令行体验流畅"
+  ],
+  "use_cases": [
+    "开发者通过命令行快速调用多种LLM模型",
+    "在终端中实现智能Shell辅助和自动化任务",
+    "构建基于RAG和AI代理的知识问答与工具调用场景"
+  ],
+  "maturity": {
+    "stars": 10153,
+    "last_updated": "2026-06-19",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:14Z",
+  "analyzed_at": "2026-06-19T14:34:14Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260617-010",
+  "title": "<![CDATA[Apple is about to make Hide My Email useless]]>",
+  "source_url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+  "source_type": "hacker_news",
+  "summary": "苹果的“隐藏我的邮箱”功能因AI/LLM可自动生成临时邮箱而面临失效风险，文章探讨了隐私工具的局限性。",
+  "highlights": [
+    "AI/LLM可批量生成临时邮箱，绕过苹果的隐私保护",
+    "文章指出“隐藏我的邮箱”在AI时代可能失去效用",
+    "引发对隐私工具未来有效性的讨论"
+  ],
+  "use_cases": [
+    "评估AI对现有隐私保护机制的影响",
+    "探讨LLM在绕过隐私工具中的应用",
+    "分析科技公司隐私功能的潜在漏洞"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 18:37:21 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:39Z",
+  "analyzed_at": "2026-06-17T07:53:39Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

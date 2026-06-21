@@ -1,0 +1,30 @@
+{
+  "id": "20260619-hacker_news-006",
+  "title": "<![CDATA[So You Want to Define a Well-Known URI]]>",
+  "source_url": "https://mnot.net/blog/2026/well_known_uris",
+  "source_type": "hacker_news",
+  "summary": "探讨定义Well-Known URI的实践与规范，涉及HTTP、链接关系及标准化流程。",
+  "highlights": [
+    "解释Well-Known URI的概念与用途",
+    "讨论定义新URI的注意事项与最佳实践",
+    "引用相关RFC标准与社区讨论"
+  ],
+  "use_cases": [
+    "Web协议设计与标准化",
+    "API端点规范定义",
+    "互联网资源标识管理"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 06:05:01 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:43Z",
+  "analyzed_at": "2026-06-19T14:34:43Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

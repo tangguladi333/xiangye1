@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-020",
+  "title": "<![CDATA[Temporary Cloudflare accounts for AI agents]]>",
+  "source_url": "https://blog.cloudflare.com/temporary-accounts/",
+  "source_type": "hacker_news",
+  "summary": "Cloudflare推出临时账户功能，专为AI代理设计，提供安全、短暂的资源访问，防止长期凭证泄露风险。",
+  "highlights": [
+    "为AI代理提供临时、自动过期的账户，增强安全性",
+    "基于Cloudflare基础设施，易于集成和扩展",
+    "防止长期凭证泄露，降低安全风险"
+  ],
+  "use_cases": [
+    "AI代理执行短期任务时安全访问云资源",
+    "自动化工作流中临时权限管理",
+    "多租户环境中隔离代理操作"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 11:19:05 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:58Z",
+  "analyzed_at": "2026-06-21T11:14:58Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

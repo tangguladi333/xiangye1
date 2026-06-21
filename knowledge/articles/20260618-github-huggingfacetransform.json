@@ -1,0 +1,33 @@
+{
+  "id": "20260618-github-huggingfacetransform",
+  "title": "huggingface/transformers",
+  "source_url": "https://github.com/huggingface/transformers",
+  "source_type": "github_trending",
+  "summary": "Hugging Face Transformers 是一个提供数千种预训练模型（如BERT、GPT、T5等）的库，支持PyTorch、TensorFlow和JAX，用于自然语言处理、计算机视觉和音频等任务。",
+  "highlights": [
+    "支持超过100种架构和数千个预训练模型",
+    "统一的API，兼容三大深度学习框架",
+    "活跃的社区和持续更新，集成Hugging Face Hub"
+  ],
+  "use_cases": [
+    "文本分类、情感分析、命名实体识别",
+    "机器翻译、文本生成、问答系统",
+    "图像分类、目标检测、音频处理"
+  ],
+  "maturity": {
+    "stars": 135000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "nlp",
+    "deep-learning",
+    "pretrained-models",
+    "pytorch",
+    "tensorflow"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-18T15:16:57Z",
+  "analyzed_at": "2026-06-18T15:17:16Z",
+  "curated_at": "2026-06-18T15:17:50Z"
+}

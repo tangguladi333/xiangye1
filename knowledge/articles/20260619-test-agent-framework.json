@@ -1,0 +1,30 @@
+{
+  "id": "20260619-test-agent-framework",
+  "title": "test-org/agent-framework",
+  "source_url": "https://github.com/test-org/agent-framework",
+  "source_type": "github_trending",
+  "summary": "一个轻量级 AI Agent 框架，支持多工具调用和记忆管理。",
+  "highlights": [
+    "支持多工具编排",
+    "内置记忆系统",
+    "Python 原生异步"
+  ],
+  "use_cases": [
+    "智能客服",
+    "自动化工作流"
+  ],
+  "maturity": {
+    "stars": 1500,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "agent",
+    "framework",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T10:00:00Z",
+  "analyzed_at": "2026-06-19T10:05:00Z",
+  "curated_at": "2026-06-19T04:29:47Z"
+}

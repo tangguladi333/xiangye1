@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-015",
+  "title": "<![CDATA[Show HN: High-Res Neural Cellular Automata]]>",
+  "source_url": "https://cells2pixels.github.io/",
+  "source_type": "hacker_news",
+  "summary": "高分辨率神经细胞自动机，将每个CA细胞变为神经场，实现实时高清模式生成、自修复及3D纹理合成。",
+  "highlights": [
+    "将每个CA细胞变为神经场，实现高清实时生成",
+    "支持从种子生长模式、受损自愈及PBR纹理合成",
+    "可生成3D纹理，展示自组织模式形成"
+  ],
+  "use_cases": [
+    "实时生成高清纹理与图案",
+    "自修复材料与模式设计",
+    "3D纹理合成与可视化"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 09:28:36 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-modal",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:16Z",
+  "analyzed_at": "2026-06-17T16:26:16Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260621-github_trending-013",
+  "title": "KrillinAI",
+  "source_url": "https://github.com/krillinai/KrillinAI",
+  "source_type": "github_trending",
+  "summary": "基于LLM的AI视频翻译配音工具，支持100+语言全链路处理，适配多平台，提供CLI分阶段调用。",
+  "highlights": [
+    "支持100+语言视频翻译与配音",
+    "全链路自动化：下载、转录、翻译、TTS、封面生成",
+    "适配YouTube、抖音、B站等主流平台"
+  ],
+  "use_cases": [
+    "视频内容多语言本地化",
+    "社交媒体视频批量翻译配音",
+    "AI Agent自动化视频处理"
+  ],
+  "maturity": {
+    "stars": 10361,
+    "last_updated": "2026-06-21",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "multi-modal",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:13:58Z",
+  "analyzed_at": "2026-06-21T11:13:58Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-007",
+  "title": "<![CDATA[ICE Appears to Be Buying Immigrants' Tax Identifiers from a Data Broker]]>",
+  "source_url": "https://www.404media.co/ice-appears-to-be-buying-immigrants-tax-identifiers-from-a-data-broker/",
+  "source_type": "hacker_news",
+  "summary": "ICE疑似从数据经纪人处购买移民税号，引发隐私与数据安全担忧。",
+  "highlights": [
+    "ICE被指购买移民税号数据",
+    "数据来源为商业数据经纪人",
+    "引发隐私与法律合规争议"
+  ],
+  "use_cases": [
+    "数据隐私监管研究",
+    "政府数据采购合规分析",
+    "移民权益保护讨论"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 14:06:09 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T15:50:43Z",
+  "analyzed_at": "2026-06-17T15:50:43Z",
+  "curated_at": "2026-06-17T15:51:10Z"
+}

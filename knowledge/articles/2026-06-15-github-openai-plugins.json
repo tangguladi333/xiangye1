@@ -1,0 +1,17 @@
+{
+  "id": "20260615-009",
+  "title": "openai/plugins",
+  "url": "https://github.com/openai/plugins",
+  "source": "github_trending",
+  "popularity": 1085,
+  "summary": "OpenAI 官方插件仓库，已归档不再维护",
+  "highlights": [
+    "作为官方示例有一定历史参考意义"
+  ],
+  "score": 3,
+  "tags": ["llm", "agent"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

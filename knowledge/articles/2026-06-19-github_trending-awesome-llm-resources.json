@@ -1,0 +1,31 @@
+{
+  "id": "20260619-github_trending-017",
+  "title": "awesome-LLM-resources",
+  "source_url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+  "source_type": "github_trending",
+  "summary": "全球最佳LLM资源汇总，涵盖多模态生成、Agent、RAG、模型训练推理等核心领域，含课程、书籍与工具。",
+  "highlights": [
+    "收录多模态生成、Agent、RAG等前沿主题",
+    "包含课程、书籍、工具等全面资源",
+    "覆盖o1模型、MCP、小语言模型等最新方向"
+  ],
+  "use_cases": [
+    "LLM学习与研究参考",
+    "Agent与RAG系统开发",
+    "模型训练与推理实践"
+  ],
+  "maturity": {
+    "stars": 8555,
+    "last_updated": "2026-06-19",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:22Z",
+  "analyzed_at": "2026-06-19T14:34:22Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

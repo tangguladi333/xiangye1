@@ -1,0 +1,29 @@
+{
+  "id": "20260617-003",
+  "title": "<![CDATA[Semiclassical Gravity Efficiently Solves NP-Complete Problems]]>",
+  "source_url": "https://arxiv.org/abs/2606.14806",
+  "source_type": "hacker_news",
+  "summary": "该论文提出半经典引力方法可高效求解NP完全问题，引发理论计算机与物理交叉领域关注。",
+  "highlights": [
+    "提出利用半经典引力计算范式解决NP完全问题",
+    "理论突破可能影响计算复杂性及量子引力研究",
+    "引发Hacker News社区对物理计算可行性的讨论"
+  ],
+  "use_cases": [
+    "理论计算机科学中的复杂性研究",
+    "量子引力与计算交叉领域探索",
+    "新型计算模型的概念验证"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 03:25:51 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:22Z",
+  "analyzed_at": "2026-06-17T07:53:22Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-008",
+  "title": "<![CDATA[AI demands more engineering discipline. Not less]]>",
+  "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+  "source_type": "hacker_news",
+  "summary": "文章主张AI开发需要更强的工程纪律，而非更少，强调结构化方法的重要性。",
+  "highlights": [
+    "AI开发需加强工程纪律",
+    "结构化方法比随意尝试更有效",
+    "工程原则对AI项目成功至关重要"
+  ],
+  "use_cases": [
+    "AI项目工程管理",
+    "开发团队流程优化",
+    "AI系统可靠性提升"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 14:20:44 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:59Z",
+  "analyzed_at": "2026-06-17T16:25:59Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

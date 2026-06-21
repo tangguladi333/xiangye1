@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-002",
+  "title": "<![CDATA[Satellite reveals immense scale of GPS signal tampering]]>",
+  "source_url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
+  "source_type": "hacker_news",
+  "summary": "卫星揭示GPS信号干扰规模远超预期，影响航空、航运等关键基础设施安全。",
+  "highlights": [
+    "GPS信号干扰规模比预期大得多",
+    "干扰影响航空、航运等关键领域",
+    "卫星监测提供了新的视角"
+  ],
+  "use_cases": [
+    "关键基础设施安全监测",
+    "航空与航运导航干扰预警",
+    "卫星信号干扰研究与应对"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 04:07:03 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:06Z",
+  "analyzed_at": "2026-06-20T10:31:06Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

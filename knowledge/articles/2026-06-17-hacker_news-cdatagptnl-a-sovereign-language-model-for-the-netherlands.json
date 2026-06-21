@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-020",
+  "title": "<![CDATA[GPT‑NL: a sovereign language model for the Netherlands]]>",
+  "source_url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+  "source_type": "hacker_news",
+  "summary": "荷兰主权语言模型GPT-NL，旨在提供符合荷兰语和欧洲价值观的AI能力，强调数据主权和透明度。",
+  "highlights": [
+    "由TNO开发，专注于荷兰语和欧洲价值观",
+    "强调数据主权和透明度",
+    "开源模型，支持本地部署"
+  ],
+  "use_cases": [
+    "荷兰政府及公共部门AI应用",
+    "荷兰语自然语言处理任务",
+    "欧洲数据合规场景"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 17:54:02 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T15:51:10Z",
+  "analyzed_at": "2026-06-17T15:51:10Z",
+  "curated_at": "2026-06-17T15:51:10Z"
+}

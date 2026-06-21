@@ -1,0 +1,31 @@
+{
+  "id": "20260621-github_trending-019",
+  "title": "codefather",
+  "source_url": "https://github.com/liyupi/codefather",
+  "source_type": "github_trending",
+  "summary": "程序员鱼皮的编程宝典，提供2026年最全编程学习路线图，涵盖Java、前端、Python、C++、算法、AI应用开发、AI Agent开发等，包含教程、面试题、求职经验等资源，适合零基础学编程和转行者。",
+  "highlights": [
+    "覆盖多种编程语言和AI开发路线图",
+    "包含AI大模型应用、RAG、MCP、Prompt工程等实战教程",
+    "提供编程入门、面试题、求职经验等全方位学习资源"
+  ],
+  "use_cases": [
+    "零基础学编程和转行程序员",
+    "学习AI应用开发和AI Agent开发",
+    "求职准备和简历优化"
+  ],
+  "maturity": {
+    "stars": 7735,
+    "last_updated": "2026-06-21",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:12Z",
+  "analyzed_at": "2026-06-21T11:14:12Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

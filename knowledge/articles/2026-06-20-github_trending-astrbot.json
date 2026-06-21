@@ -1,0 +1,30 @@
+{
+  "id": "20260620-github_trending-006",
+  "title": "AstrBot",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "source_type": "github_trending",
+  "summary": "AstrBot是一个集成多IM平台、多LLM和插件的AI代理开发框架，可作为OpenClaw替代品。",
+  "highlights": [
+    "支持Discord、微信等多IM平台集成",
+    "兼容GPT、Gemini、Llama等多种LLM",
+    "提供插件系统和AI功能扩展"
+  ],
+  "use_cases": [
+    "构建跨平台AI聊天机器人",
+    "开发自动化AI代理工作流",
+    "作为企业级AI助手框架"
+  ],
+  "maturity": {
+    "stars": 34984,
+    "last_updated": "2026-06-20",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:30:26Z",
+  "analyzed_at": "2026-06-20T10:30:26Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

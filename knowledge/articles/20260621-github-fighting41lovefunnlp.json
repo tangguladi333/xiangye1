@@ -1,0 +1,32 @@
+{
+  "id": "20260621-github-fighting41lovefunnlp",
+  "title": "fighting41love/funNLP",
+  "source_url": "https://github.com/fighting41love/funNLP",
+  "source_type": "github_trending",
+  "summary": "一个收集和整理自然语言处理（NLP）相关资源、工具、论文和代码的仓库，旨在为NLP从业者提供一站式学习与参考平台。",
+  "highlights": [
+    "收录了丰富的NLP学习资料、论文列表和开源工具",
+    "持续更新，社区贡献活跃，资源覆盖面广",
+    "提供中文NLP相关资源，适合中文场景应用"
+  ],
+  "use_cases": [
+    "NLP入门学习与知识梳理",
+    "查找特定NLP任务（如情感分析、命名实体识别）的参考实现",
+    "跟踪NLP领域最新研究进展"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "nlp",
+    "resources",
+    "learning",
+    "chinese-nlp"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T15:38:10Z",
+  "analyzed_at": "2026-06-21T15:39:12Z",
+  "curated_at": "2026-06-21T15:39:12Z"
+}

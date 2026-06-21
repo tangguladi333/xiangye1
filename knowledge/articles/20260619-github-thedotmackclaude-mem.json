@@ -1,0 +1,32 @@
+{
+  "id": "20260619-github-thedotmackclaude-mem",
+  "title": "thedotmack/claude-mem",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "source_type": "github_trending",
+  "summary": "Claude Mem 是一个为 Claude AI 添加持久记忆功能的开源项目，通过外部存储实现对话历史与用户偏好的长期保留。",
+  "highlights": [
+    "实现 Claude 的长期记忆能力，突破上下文窗口限制",
+    "支持自定义记忆存储后端（如本地文件、数据库）",
+    "轻量级设计，易于集成到现有 Claude 工作流"
+  ],
+  "use_cases": [
+    "个人 AI 助手，需记住用户偏好和长期对话上下文",
+    "企业客服系统，保持客户历史交互记录",
+    "研究实验，探索 AI 记忆机制与个性化交互"
+  ],
+  "maturity": {
+    "stars": 85,
+    "last_updated": "2025-04-15",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "memory",
+    "ai-agent",
+    "persistence"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T07:43:18Z",
+  "analyzed_at": "2026-06-19T07:44:03Z",
+  "curated_at": "2026-06-19T07:44:14Z"
+}

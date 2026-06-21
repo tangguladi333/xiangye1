@@ -1,0 +1,31 @@
+{
+  "id": "20260616-010",
+  "title": "pi",
+  "source_url": "https://github.com/earendil-works/pi",
+  "source_type": "github_trending",
+  "summary": "Pi – 轻量级 AI Agent 工具包，提供统一 LLM API、Agent 执行循环、终端 UI 和编码代理 CLI，注重开发者体验。",
+  "highlights": [
+    "统一 LLM API 接口",
+    "内置终端交互界面",
+    "轻量可嵌入设计"
+  ],
+  "use_cases": [
+    "命令行 AI 助手",
+    "快速 Agent 原型开发",
+    "终端编码辅助"
+  ],
+  "maturity": {
+    "stars": 63150,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

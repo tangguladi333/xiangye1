@@ -1,0 +1,31 @@
+{
+  "id": "20260618-github_trending-001",
+  "title": "pi",
+  "source_url": "https://github.com/earendil-works/pi",
+  "source_type": "github_trending",
+  "summary": "AI代理工具包，提供统一LLM API、代理循环、TUI和编码代理CLI，支持TypeScript。",
+  "highlights": [
+    "统一LLM API接口，简化多模型集成",
+    "内置代理循环和TUI界面，提升交互体验",
+    "提供编码代理CLI，支持自动化任务"
+  ],
+  "use_cases": [
+    "构建智能编码助手",
+    "开发多步骤AI代理工作流",
+    "快速原型化LLM应用"
+  ],
+  "maturity": {
+    "stars": 63690,
+    "last_updated": "2026-06-18",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-18T07:07:10Z",
+  "analyzed_at": "2026-06-18T07:07:10Z",
+  "curated_at": "2026-06-18T07:07:20Z"
+}

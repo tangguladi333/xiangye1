@@ -1,0 +1,30 @@
+{
+  "id": "20260617-020",
+  "title": "<![CDATA[But yak shaving is fun (2019)]]>",
+  "source_url": "https://parksb.github.io/en/article/32.html",
+  "source_type": "hacker_news",
+  "summary": "一篇关于程序员为何沉迷于“梳理牦牛毛”式琐碎任务的反思文章，探讨了这种看似低效行为背后的乐趣与价值。",
+  "highlights": [
+    "探讨了编程中看似无意义的琐碎任务（yak shaving）的吸引力",
+    "分析了这种分心行为如何带来意外收获和创造力",
+    "反思了效率与乐趣之间的平衡"
+  ],
+  "use_cases": [
+    "程序员自我反思与工作哲学探讨",
+    "团队管理中对任务优先级和创造力的理解",
+    "技术社区讨论效率与探索的平衡"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 14:26:26 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:54:04Z",
+  "analyzed_at": "2026-06-17T07:54:04Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

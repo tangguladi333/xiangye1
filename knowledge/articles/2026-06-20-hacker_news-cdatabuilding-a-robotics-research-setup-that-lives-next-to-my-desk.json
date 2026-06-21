@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-019",
+  "title": "<![CDATA[Building a robotics research setup that lives next to my desk]]>",
+  "source_url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+  "source_type": "hacker_news",
+  "summary": "个人搭建低成本桌面机器人研究平台，验证单人能否进行有意义的操作研究。",
+  "highlights": [
+    "成本仅为团队时代的十分之一",
+    "单人即可运行研究平台",
+    "聚焦机器人操作问题"
+  ],
+  "use_cases": [
+    "个人机器人研究",
+    "低成本实验平台搭建",
+    "机器人操作算法验证"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 14:51:53 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:48Z",
+  "analyzed_at": "2026-06-20T10:31:48Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

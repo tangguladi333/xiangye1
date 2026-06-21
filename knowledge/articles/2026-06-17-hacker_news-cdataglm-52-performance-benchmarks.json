@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-019",
+  "title": "<![CDATA[GLM 5.2 Performance Benchmarks]]>",
+  "source_url": "https://artificialanalysis.ai/models/glm-5-2",
+  "source_type": "hacker_news",
+  "summary": "GLM 5.2性能基准测试分析，涵盖推理、编码、数学等多维度评估，展示模型能力与竞争定位。",
+  "highlights": [
+    "GLM 5.2在多项基准测试中表现优异",
+    "与主流模型进行性能对比分析",
+    "提供详细的性能数据与排名"
+  ],
+  "use_cases": [
+    "模型性能评估与选型",
+    "AI能力基准测试研究",
+    "大模型技术对比分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 07:30:51 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:25Z",
+  "analyzed_at": "2026-06-17T16:26:25Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

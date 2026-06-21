@@ -1,0 +1,30 @@
+{
+  "id": "20260619-hacker_news-012",
+  "title": "<![CDATA[Show HN: Talos – Open-source WASM interpreter for Lean]]>",
+  "source_url": "https://github.com/cajal-technologies/talos",
+  "source_type": "hacker_news",
+  "summary": "Talos是一个开源框架，用于在Lean中形式化验证WebAssembly模块，应对AI生成代码的验证需求。",
+  "highlights": [
+    "开源框架，支持WebAssembly模块的形式化验证",
+    "由YC W26团队开发，专注于AI生成代码的可靠性",
+    "结合Lean语言进行数学证明，提升代码安全性"
+  ],
+  "use_cases": [
+    "AI生成代码的自动化验证",
+    "智能合约或WebAssembly模块的安全审计",
+    "形式化验证教育与研究"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 13:10:44 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:58Z",
+  "analyzed_at": "2026-06-19T14:34:58Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

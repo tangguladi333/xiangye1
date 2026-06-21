@@ -1,0 +1,30 @@
+{
+  "id": "20260619-hacker_news-009",
+  "title": "<![CDATA[The AirPods Effect]]>",
+  "source_url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+  "source_type": "hacker_news",
+  "summary": "探讨AirPods如何成为无意识习惯的象征，类比AI产品设计需追求无缝融入用户日常，降低认知负担。",
+  "highlights": [
+    "分析AirPods成功在于其‘隐形’设计，让用户几乎忘记其存在",
+    "提出AI产品应追求类似的无摩擦体验，成为用户自然行为的一部分",
+    "强调技术最终应服务于人类习惯，而非要求用户适应技术"
+  ],
+  "use_cases": [
+    "AI产品设计原则参考",
+    "用户体验优化策略",
+    "人机交互趋势分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 23:08:35 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:51Z",
+  "analyzed_at": "2026-06-19T14:34:51Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

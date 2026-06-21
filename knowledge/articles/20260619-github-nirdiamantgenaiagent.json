@@ -1,0 +1,33 @@
+{
+  "id": "20260619-github-nirdiamantgenaiagent",
+  "title": "NirDiamant/GenAI_Agents",
+  "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+  "source_type": "github_trending",
+  "summary": "一个全面的 GenAI 代理教程和代码库，涵盖从基础到高级的代理构建技术，包括 RAG、多代理系统和工具使用。",
+  "highlights": [
+    "提供从入门到高级的渐进式教程结构",
+    "包含丰富的代码示例和实际应用案例",
+    "覆盖多种代理架构，如 ReAct、多代理协作"
+  ],
+  "use_cases": [
+    "学习和教学 GenAI 代理开发",
+    "快速原型设计和实验不同代理模式",
+    "构建基于 LLM 的自动化工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "genai",
+    "agents",
+    "tutorial",
+    "llm",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T07:43:17Z",
+  "analyzed_at": "2026-06-19T07:43:55Z",
+  "curated_at": "2026-06-19T07:44:14Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260617-hacker_news-014",
+  "title": "<![CDATA[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload]]>",
+  "source_url": "https://brevio.pro",
+  "source_type": "hacker_news",
+  "summary": "Brevio.pro提供184个免费浏览器工具，涵盖PDF、图像、开发及AI任务，无需上传文件。",
+  "highlights": [
+    "包含184种免费浏览器工具",
+    "覆盖PDF、图像、开发和AI任务",
+    "无需上传文件，保护隐私"
+  ],
+  "use_cases": [
+    "在线PDF编辑与转换",
+    "图像处理与格式转换",
+    "开发调试与AI辅助任务"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 09:48:59 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:13Z",
+  "analyzed_at": "2026-06-17T16:26:13Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

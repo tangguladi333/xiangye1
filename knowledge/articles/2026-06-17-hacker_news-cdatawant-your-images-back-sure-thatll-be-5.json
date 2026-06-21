@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-009",
+  "title": "<![CDATA[Want your images back? Sure... That'll be $5!]]>",
+  "source_url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
+  "source_type": "hacker_news",
+  "summary": "该项目讨论AI服务商要求用户支付5美元才能取回自己的图片，引发对数据所有权和商业模式的争议。",
+  "highlights": [
+    "AI服务商扣留用户数据并索要费用",
+    "引发对数据所有权和商业伦理的讨论",
+    "用户对服务商信任度下降"
+  ],
+  "use_cases": [
+    "数据所有权争议分析",
+    "AI服务商业模式评估",
+    "用户权益保护案例研究"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 13:05:03 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:02Z",
+  "analyzed_at": "2026-06-17T16:26:02Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

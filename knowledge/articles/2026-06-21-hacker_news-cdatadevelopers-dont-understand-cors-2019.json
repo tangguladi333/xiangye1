@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-006",
+  "title": "<![CDATA[Developers don't understand CORS (2019)]]>",
+  "source_url": "https://fosterelli.co/developers-dont-understand-cors",
+  "source_type": "hacker_news",
+  "summary": "文章指出开发者常误解CORS机制，强调其是浏览器安全策略而非服务器功能，并解释预检请求、凭证等常见困惑点。",
+  "highlights": [
+    "CORS是浏览器行为，非服务器端安全机制",
+    "开发者常混淆同源策略与CORS的区别",
+    "预检请求和凭证处理是常见误解来源"
+  ],
+  "use_cases": [
+    "Web前端开发调试",
+    "API安全配置教学",
+    "跨域问题排查"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sun, 21 Jun 2026 01:35:40 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:27Z",
+  "analyzed_at": "2026-06-21T11:14:27Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

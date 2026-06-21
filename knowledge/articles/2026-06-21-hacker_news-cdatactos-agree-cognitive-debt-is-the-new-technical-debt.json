@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-001",
+  "title": "<![CDATA[CTOs Agree: Cognitive Debt Is the New Technical Debt]]>",
+  "source_url": "https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/",
+  "source_type": "hacker_news",
+  "summary": "文章探讨了AI项目中认知债务的概念，即因系统复杂性导致开发者理解困难，类比技术债务，CTO认为这是新挑战。",
+  "highlights": [
+    "认知债务被定义为AI系统复杂性带来的理解成本",
+    "与技术债务类似，认知债务会累积并影响开发效率",
+    "CTO们认为管理认知债务对AI项目长期成功至关重要"
+  ],
+  "use_cases": [
+    "AI系统架构设计时评估认知负担",
+    "团队协作中减少知识传递障碍",
+    "长期维护AI项目时识别并降低复杂性"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sun, 21 Jun 2026 09:53:57 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:17Z",
+  "analyzed_at": "2026-06-21T11:14:17Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

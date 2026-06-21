@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-013",
+  "title": "<![CDATA[RFC 10008: The new HTTP Query Method]]>",
+  "source_url": "https://www.rfc-editor.org/info/rfc10008/",
+  "source_type": "hacker_news",
+  "summary": "RFC 10008提出新的HTTP查询方法，旨在优化网络查询效率与标准化。",
+  "highlights": [
+    "定义新的HTTP查询方法以简化请求流程",
+    "提升网络资源查询的标准化与互操作性",
+    "可能影响未来Web协议设计"
+  ],
+  "use_cases": [
+    "Web API查询优化",
+    "分布式系统资源检索",
+    "网络协议标准化研究"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 10:51:17 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:11Z",
+  "analyzed_at": "2026-06-17T16:26:11Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

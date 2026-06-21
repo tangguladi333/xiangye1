@@ -1,0 +1,18 @@
+{
+  "id": "20260615-006",
+  "title": "NVIDIA/SkillSpector",
+  "url": "https://github.com/NVIDIA/SkillSpector",
+  "source": "github_trending",
+  "popularity": 3669,
+  "summary": "AI Agent 技能安全扫描器，检测漏洞、恶意模式和风险",
+  "highlights": [
+    "NVIDIA 背书，解决 Agent Skill 生态的安全盲区",
+    "针对 Agent 技能供应链的安全扫描，填补空白"
+  ],
+  "score": 7,
+  "tags": ["agent", "infra"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

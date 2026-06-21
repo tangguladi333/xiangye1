@@ -1,0 +1,579 @@
+{
+  "source": "rss",
+  "collected_at": "2026-06-21T11:14:58Z",
+  "analyzed_at": "2026-06-21T11:14:58Z",
+  "items": [
+    {
+      "id": "20260621-hacker_news-001",
+      "title": "<![CDATA[CTOs Agree: Cognitive Debt Is the New Technical Debt]]>",
+      "source_url": "https://shiftmag.dev/ctos-agree-cognitive-debt-is-the-new-technical-debt-10229/",
+      "source_type": "hacker_news",
+      "summary": "文章探讨了AI项目中认知债务的概念，即因系统复杂性导致开发者理解困难，类比技术债务，CTO认为这是新挑战。",
+      "highlights": [
+        "认知债务被定义为AI系统复杂性带来的理解成本",
+        "与技术债务类似，认知债务会累积并影响开发效率",
+        "CTO们认为管理认知债务对AI项目长期成功至关重要"
+      ],
+      "use_cases": [
+        "AI系统架构设计时评估认知负担",
+        "团队协作中减少知识传递障碍",
+        "长期维护AI项目时识别并降低复杂性"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sun, 21 Jun 2026 09:53:57 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:17Z",
+      "analyzed_at": "2026-06-21T11:14:17Z"
+    },
+    {
+      "id": "20260621-hacker_news-002",
+      "title": "<![CDATA[Google Hits 50% IPv6]]>",
+      "source_url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "source_type": "hacker_news",
+      "summary": "谷歌IPv6流量占比达到50%里程碑，反映互联网协议升级趋势。",
+      "highlights": [
+        "谷歌IPv6流量占比首次突破50%",
+        "标志IPv6部署进入主流阶段",
+        "推动全球互联网基础设施升级"
+      ],
+      "use_cases": [
+        "网络协议迁移规划",
+        "互联网基础设施评估",
+        "IPv6部署策略参考"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sun, 21 Jun 2026 08:21:22 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:19Z",
+      "analyzed_at": "2026-06-21T11:14:19Z"
+    },
+    {
+      "id": "20260621-hacker_news-003",
+      "title": "<![CDATA[A 3D voxel game engine written in APL]]>",
+      "source_url": "https://github.com/namgyaaal/avoxelgame",
+      "source_type": "hacker_news",
+      "summary": "基于APL语言开发的3D体素游戏引擎，展示了APL在游戏开发中的创新应用。",
+      "highlights": [
+        "使用APL语言实现3D体素游戏引擎",
+        "结合函数式编程与游戏开发",
+        "开源项目，代码可访问"
+      ],
+      "use_cases": [
+        "APL编程语言教学与演示",
+        "体素游戏引擎原型开发",
+        "函数式编程在游戏领域的实验"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sun, 21 Jun 2026 08:04:54 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:21Z",
+      "analyzed_at": "2026-06-21T11:14:21Z"
+    },
+    {
+      "id": "20260621-hacker_news-004",
+      "title": "<![CDATA[Windows UI evolution: Clicking an unassociated file]]>",
+      "source_url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+      "source_type": "hacker_news",
+      "summary": "分析Windows系统中点击未关联文件时的UI演变过程，探讨用户交互设计的历史与改进。",
+      "highlights": [
+        "详细描述了Windows不同版本中处理未关联文件的行为变化",
+        "对比了用户界面设计的演进与用户体验的优化",
+        "提供了具体的历史版本截图和操作流程说明"
+      ],
+      "use_cases": [
+        "操作系统用户界面设计研究",
+        "人机交互历史分析",
+        "软件用户体验改进参考"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sun, 21 Jun 2026 06:24:52 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:23Z",
+      "analyzed_at": "2026-06-21T11:14:23Z"
+    },
+    {
+      "id": "20260621-hacker_news-005",
+      "title": "<![CDATA[Building reliable agentic AI systems]]>",
+      "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "source_type": "hacker_news",
+      "summary": "探讨构建可靠AI代理系统的实践方法，强调LLM在复杂任务中的可靠性挑战与解决方案。",
+      "highlights": [
+        "提出构建可靠代理系统的关键原则",
+        "分析LLM在实际应用中的失败模式",
+        "提供提升系统稳定性的具体策略"
+      ],
+      "use_cases": [
+        "企业级AI代理开发",
+        "复杂任务自动化",
+        "高可靠性AI系统设计"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sun, 21 Jun 2026 04:28:39 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:25Z",
+      "analyzed_at": "2026-06-21T11:14:25Z"
+    },
+    {
+      "id": "20260621-hacker_news-006",
+      "title": "<![CDATA[Developers don't understand CORS (2019)]]>",
+      "source_url": "https://fosterelli.co/developers-dont-understand-cors",
+      "source_type": "hacker_news",
+      "summary": "文章指出开发者常误解CORS机制，强调其是浏览器安全策略而非服务器功能，并解释预检请求、凭证等常见困惑点。",
+      "highlights": [
+        "CORS是浏览器行为，非服务器端安全机制",
+        "开发者常混淆同源策略与CORS的区别",
+        "预检请求和凭证处理是常见误解来源"
+      ],
+      "use_cases": [
+        "Web前端开发调试",
+        "API安全配置教学",
+        "跨域问题排查"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sun, 21 Jun 2026 01:35:40 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:27Z",
+      "analyzed_at": "2026-06-21T11:14:27Z"
+    },
+    {
+      "id": "20260621-hacker_news-007",
+      "title": "<![CDATA[Project Fetch: Phase Two]]>",
+      "source_url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "source_type": "hacker_news",
+      "summary": "Anthropic发布Project Fetch第二阶段研究，探索AI代理在复杂任务中的自主执行能力。",
+      "highlights": [
+        "研究AI代理在真实世界任务中的自主决策与执行",
+        "展示代理在复杂环境中的适应性与鲁棒性",
+        "为下一代AI代理系统设计提供关键见解"
+      ],
+      "use_cases": [
+        "自动化复杂工作流程",
+        "智能任务规划与执行",
+        "企业级AI代理部署"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sun, 21 Jun 2026 00:00:25 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:30Z",
+      "analyzed_at": "2026-06-21T11:14:30Z"
+    },
+    {
+      "id": "20260621-hacker_news-008",
+      "title": "<![CDATA[Epoll vs. io_uring in Linux]]>",
+      "source_url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "source_type": "hacker_news",
+      "summary": "对比Linux中epoll与io_uring两种I/O事件通知机制的性能、API复杂度及适用场景，分析其在高并发网络编程中的优劣。",
+      "highlights": [
+        "epoll是成熟稳定的I/O多路复用方案，适合大多数网络应用",
+        "io_uring提供更高效的异步I/O，减少系统调用开销，适合高吞吐场景",
+        "io_uring在磁盘I/O和网络I/O上均有性能优势，但API更复杂"
+      ],
+      "use_cases": [
+        "高并发网络服务器性能优化",
+        "数据库或存储系统I/O瓶颈分析",
+        "Linux内核I/O机制选型参考"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 23:07:09 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:32Z",
+      "analyzed_at": "2026-06-21T11:14:32Z"
+    },
+    {
+      "id": "20260621-hacker_news-009",
+      "title": "<![CDATA[Renting a sewing machine from the library]]>",
+      "source_url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "source_type": "hacker_news",
+      "summary": "芬兰图书馆提供缝纫机等非传统物品租借服务，展现公共图书馆的多元化功能与社区创新。",
+      "highlights": [
+        "芬兰图书馆提供缝纫机等非传统物品租借",
+        "体现公共图书馆的多元化服务与社区创新",
+        "引发对图书馆未来角色的讨论"
+      ],
+      "use_cases": [
+        "社区资源共享",
+        "非传统图书馆服务探索",
+        "公共设施创新利用"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 22:54:11 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:34Z",
+      "analyzed_at": "2026-06-21T11:14:34Z"
+    },
+    {
+      "id": "20260621-hacker_news-010",
+      "title": "<![CDATA[Slow breathing modulates brain function and risk behavior]]>",
+      "source_url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "source_type": "hacker_news",
+      "summary": "研究缓慢呼吸如何调节大脑功能并影响风险行为，揭示呼吸与认知的神经机制。",
+      "highlights": [
+        "缓慢呼吸可调节大脑特定区域活动",
+        "影响个体的风险决策行为",
+        "为呼吸调节认知提供神经科学证据"
+      ],
+      "use_cases": [
+        "心理健康干预",
+        "认知增强训练",
+        "神经科学研究"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 22:22:52 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "multi-modal",
+        "inference"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:36Z",
+      "analyzed_at": "2026-06-21T11:14:36Z"
+    },
+    {
+      "id": "20260621-hacker_news-011",
+      "title": "<![CDATA[Linux eliminates the strncpy API after six years of work, 360 patches]]>",
+      "source_url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+      "source_type": "hacker_news",
+      "summary": "Linux内核经过六年、360个补丁的努力，正式移除不安全的strncpy API，提升系统安全性与代码质量。",
+      "highlights": [
+        "历时六年，共提交360个补丁完成移除",
+        "旨在消除不安全的字符串复制函数，增强内核安全性",
+        "涉及大量内核代码的修改与重构"
+      ],
+      "use_cases": [
+        "操作系统内核开发",
+        "系统安全加固",
+        "代码质量与维护性提升"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 20:59:40 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:39Z",
+      "analyzed_at": "2026-06-21T11:14:39Z"
+    },
+    {
+      "id": "20260621-hacker_news-012",
+      "title": "<![CDATA[Alice is impatient]]>",
+      "source_url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "source_type": "hacker_news",
+      "summary": "文章探讨AI系统等待用户输入时的效率问题，提出优化交互以减少延迟。",
+      "highlights": [
+        "分析AI等待用户输入导致的效率瓶颈",
+        "提出减少交互延迟的优化策略",
+        "强调用户体验与系统响应速度的平衡"
+      ],
+      "use_cases": [
+        "AI对话系统响应优化",
+        "实时交互应用延迟管理",
+        "用户等待体验改进"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 20:32:54 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:41Z",
+      "analyzed_at": "2026-06-21T11:14:41Z"
+    },
+    {
+      "id": "20260621-hacker_news-013",
+      "title": "<![CDATA[Unauthorized alert sent to cell phones across Brazil]]>",
+      "source_url": "https://www.cnn.com/2026/06/20/americas/brazil-hackers-unauthorized-alert-latam",
+      "source_type": "hacker_news",
+      "summary": "巴西手机遭未经授权警报，疑似黑客利用AI/LLM技术发送虚假紧急信息，引发安全担忧。",
+      "highlights": [
+        "黑客利用AI技术发送虚假警报至巴西手机",
+        "事件引发对AI滥用和通信安全的关注",
+        "涉及大规模社会工程攻击风险"
+      ],
+      "use_cases": [
+        "安全威胁监测与预警",
+        "AI滥用案例研究",
+        "通信系统安全加固"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 20:05:03 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:43Z",
+      "analyzed_at": "2026-06-21T11:14:43Z"
+    },
+    {
+      "id": "20260621-hacker_news-014",
+      "title": "<![CDATA[UHF X11: X11 Built for VisionOS and Apple Vision Pro]]>",
+      "source_url": "https://www.lispm.net/apps/uhf-x11/",
+      "source_type": "hacker_news",
+      "summary": "UHF X11项目将X11窗口系统移植到VisionOS和Apple Vision Pro，支持在空间计算环境中运行传统X11应用。",
+      "highlights": [
+        "在Apple Vision Pro上原生运行X11应用",
+        "支持空间计算环境中的窗口管理",
+        "基于UHF框架实现跨平台兼容"
+      ],
+      "use_cases": [
+        "在Vision Pro中运行Linux桌面应用",
+        "空间计算环境下的远程桌面访问",
+        "开发者测试和调试X11应用"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 17:04:24 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "multi-modal"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:45Z",
+      "analyzed_at": "2026-06-21T11:14:45Z"
+    },
+    {
+      "id": "20260621-hacker_news-015",
+      "title": "<![CDATA[SMPTE Makes Its Standards Freely Accessible]]>",
+      "source_url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+      "source_type": "hacker_news",
+      "summary": "SMPTE将其标准库免费开放，全球媒体技术社区可自由访问，推动行业标准化与协作。",
+      "highlights": [
+        "SMPTE标准库免费开放",
+        "全球媒体技术社区可自由访问",
+        "推动行业标准化与协作"
+      ],
+      "use_cases": [
+        "媒体技术标准参考",
+        "行业协作与创新",
+        "教育与研究"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 17:01:36 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:47Z",
+      "analyzed_at": "2026-06-21T11:14:47Z"
+    },
+    {
+      "id": "20260621-hacker_news-016",
+      "title": "<![CDATA[Show HN: StartupWiki – A Free Alternative to Crunchbase]]>",
+      "source_url": "https://startupwiki.tech/",
+      "source_type": "hacker_news",
+      "summary": "StartupWiki是一个免费的初创公司数据库，旨在替代Crunchbase，方便用户发现和研究早期创业公司，无需账户或订阅。",
+      "highlights": [
+        "免费替代Crunchbase",
+        "专注于早期创业公司信息",
+        "无需账户或订阅即可使用"
+      ],
+      "use_cases": [
+        "创业公司研究",
+        "市场调研",
+        "投资分析"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 15:59:29 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:49Z",
+      "analyzed_at": "2026-06-21T11:14:49Z"
+    },
+    {
+      "id": "20260621-hacker_news-017",
+      "title": "<![CDATA[DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots]]>",
+      "source_url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+      "source_type": "hacker_news",
+      "summary": "F-15 Strike Eagle II逆向工程项目招募DOS测试飞行员，通过Hacker News社区协作。",
+      "highlights": [
+        "经典DOS游戏逆向工程",
+        "社区协作招募测试人员",
+        "Hacker News高关注度"
+      ],
+      "use_cases": [
+        "复古游戏逆向工程",
+        "社区驱动软件开发",
+        "经典软件维护与测试"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 15:10:03 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:51Z",
+      "analyzed_at": "2026-06-21T11:14:51Z"
+    },
+    {
+      "id": "20260621-hacker_news-018",
+      "title": "<![CDATA[Loupe – A iOS app that raises awareness about what native apps can see]]>",
+      "source_url": "https://github.com/mysk-research/loupe",
+      "source_type": "hacker_news",
+      "summary": "Loupe是一款iOS应用，旨在提高用户对原生应用可访问数据的意识，揭示隐私风险。",
+      "highlights": [
+        "揭示iOS原生应用可访问的敏感数据",
+        "提升用户对移动应用隐私风险的认识",
+        "基于mysk-research的安全研究项目"
+      ],
+      "use_cases": [
+        "隐私意识教育",
+        "移动应用安全审计",
+        "用户数据权限管理"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 12:08:23 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:53Z",
+      "analyzed_at": "2026-06-21T11:14:53Z"
+    },
+    {
+      "id": "20260621-hacker_news-019",
+      "title": "<![CDATA[Show HN: TownSquare, a tiny presence layer for websites]]>",
+      "source_url": "https://townsquare.cauenapier.com/",
+      "source_type": "hacker_news",
+      "summary": "TownSquare是一个轻量级的网站存在层，通过WebSocket实现实时用户在线状态显示，增强网站社交互动性。",
+      "highlights": [
+        "轻量级实时存在层，易于集成到任何网站",
+        "基于WebSocket实现低延迟的用户在线状态同步",
+        "开源项目，代码简洁，适合学习和二次开发"
+      ],
+      "use_cases": [
+        "在博客或文档网站显示当前在线读者",
+        "在协作工具中展示团队成员在线状态",
+        "在电商网站显示实时访客数量"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 11:55:03 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:56Z",
+      "analyzed_at": "2026-06-21T11:14:56Z"
+    },
+    {
+      "id": "20260621-hacker_news-020",
+      "title": "<![CDATA[Temporary Cloudflare accounts for AI agents]]>",
+      "source_url": "https://blog.cloudflare.com/temporary-accounts/",
+      "source_type": "hacker_news",
+      "summary": "Cloudflare推出临时账户功能，专为AI代理设计，提供安全、短暂的资源访问，防止长期凭证泄露风险。",
+      "highlights": [
+        "为AI代理提供临时、自动过期的账户，增强安全性",
+        "基于Cloudflare基础设施，易于集成和扩展",
+        "防止长期凭证泄露，降低安全风险"
+      ],
+      "use_cases": [
+        "AI代理执行短期任务时安全访问云资源",
+        "自动化工作流中临时权限管理",
+        "多租户环境中隔离代理操作"
+      ],
+      "maturity": {
+        "stars": 0,
+        "last_updated": "Sat, 20 Jun 2026 11:19:05 +0000",
+        "production_ready": false
+      },
+      "tags": [
+        "agent",
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:58Z",
+      "analyzed_at": "2026-06-21T11:14:58Z"
+    }
+  ]
+}

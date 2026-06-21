@@ -1,0 +1,18 @@
+{
+  "id": "20260615-002",
+  "title": "chopratejas/headroom",
+  "url": "https://github.com/chopratejas/headroom",
+  "source": "github_trending",
+  "popularity": 10653,
+  "summary": "在 LLM 输入前压缩工具输出、日志、RAG 块，减少 60-95% Token 且回答质量不变",
+  "highlights": [
+    "高达 95% 的 Token 压缩率，显著降低成本",
+    "提供 Library、Proxy、MCP Server 三种集成方式"
+  ],
+  "score": 8,
+  "tags": ["llm", "infra"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

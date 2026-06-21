@@ -1,0 +1,29 @@
+{
+  "id": "20260620-hacker_news-006",
+  "title": "<![CDATA[Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died]]>",
+  "source_url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+  "source_type": "hacker_news",
+  "summary": "《毁灭战士》《德军总部3D》《毁灭公爵3D》作曲家Bobby Prince去世，享年未知。",
+  "highlights": [
+    "知名游戏作曲家Bobby Prince去世",
+    "曾为《毁灭战士》《德军总部3D》等经典游戏作曲",
+    "其作品对游戏音乐发展影响深远"
+  ],
+  "use_cases": [
+    "游戏音乐创作参考",
+    "游戏历史研究",
+    "经典游戏音乐赏析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 19:35:15 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:15Z",
+  "analyzed_at": "2026-06-20T10:31:15Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

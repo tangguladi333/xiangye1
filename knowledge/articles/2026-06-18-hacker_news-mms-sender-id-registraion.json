@@ -1,0 +1,30 @@
+{
+  "id": "20260618-hacker_news-001",
+  "title": "MMS Sender ID Registraion]]>",
+  "source_url": "https://www.acma.gov.au/sms-sender-id-register",
+  "source_type": "hacker_news",
+  "summary": "澳大利亚政府要求SMS/MMS发送者ID注册，以打击诈骗短信，提升通信安全。",
+  "highlights": [
+    "政府强制注册发送者ID",
+    "旨在减少短信诈骗",
+    "提升通信身份验证"
+  ],
+  "use_cases": [
+    "反诈骗监管",
+    "通信身份认证",
+    "政策合规"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 06:23:24 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-18T07:07:16Z",
+  "analyzed_at": "2026-06-18T07:07:16Z",
+  "curated_at": "2026-06-18T07:07:20Z"
+}

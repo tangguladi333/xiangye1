@@ -1,0 +1,29 @@
+{
+  "id": "20260621-hacker_news-009",
+  "title": "<![CDATA[Renting a sewing machine from the library]]>",
+  "source_url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+  "source_type": "hacker_news",
+  "summary": "芬兰图书馆提供缝纫机等非传统物品租借服务，展现公共图书馆的多元化功能与社区创新。",
+  "highlights": [
+    "芬兰图书馆提供缝纫机等非传统物品租借",
+    "体现公共图书馆的多元化服务与社区创新",
+    "引发对图书馆未来角色的讨论"
+  ],
+  "use_cases": [
+    "社区资源共享",
+    "非传统图书馆服务探索",
+    "公共设施创新利用"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 22:54:11 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:34Z",
+  "analyzed_at": "2026-06-21T11:14:34Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

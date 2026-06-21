@@ -1,0 +1,31 @@
+{
+  "id": "20260616-004",
+  "title": "browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github_trending",
+  "summary": "Browser-Use – 让 AI Agent 操控浏览器的自动化框架，基于 Playwright 实现，可完成网页数据提取、表单填写等在线任务。",
+  "highlights": [
+    "AI 驱动浏览器自动化",
+    "无需手工编写选择器",
+    "支持复杂网页交互"
+  ],
+  "use_cases": [
+    "网页数据自动采集",
+    "自动化表单提交",
+    "AI 测试助手"
+  ],
+  "maturity": {
+    "stars": 99104,
+    "last_updated": "2026-06-15",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

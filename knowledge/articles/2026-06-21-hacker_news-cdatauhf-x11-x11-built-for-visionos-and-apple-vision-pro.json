@@ -1,0 +1,29 @@
+{
+  "id": "20260621-hacker_news-014",
+  "title": "<![CDATA[UHF X11: X11 Built for VisionOS and Apple Vision Pro]]>",
+  "source_url": "https://www.lispm.net/apps/uhf-x11/",
+  "source_type": "hacker_news",
+  "summary": "UHF X11项目将X11窗口系统移植到VisionOS和Apple Vision Pro，支持在空间计算环境中运行传统X11应用。",
+  "highlights": [
+    "在Apple Vision Pro上原生运行X11应用",
+    "支持空间计算环境中的窗口管理",
+    "基于UHF框架实现跨平台兼容"
+  ],
+  "use_cases": [
+    "在Vision Pro中运行Linux桌面应用",
+    "空间计算环境下的远程桌面访问",
+    "开发者测试和调试X11应用"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 17:04:24 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:45Z",
+  "analyzed_at": "2026-06-21T11:14:45Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

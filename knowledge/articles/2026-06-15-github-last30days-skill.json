@@ -1,0 +1,18 @@
+{
+  "id": "20260615-001",
+  "title": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "source": "github_trending",
+  "popularity": 12053,
+  "summary": "AI Agent 技能，可跨 Reddit、X、YouTube、HN 等多平台调研任意话题，并生成结构化摘要报告",
+  "highlights": [
+    "多源聚合 + 自动摘要，单技能完成跨平台调研",
+    "12k+ Stars，社区关注度高"
+  ],
+  "score": 8,
+  "tags": ["agent", "llm"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

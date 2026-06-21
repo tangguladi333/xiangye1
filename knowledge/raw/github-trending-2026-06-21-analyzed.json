@@ -1,0 +1,603 @@
+{
+  "source": "github",
+  "collected_at": "2026-06-21T11:14:14Z",
+  "analyzed_at": "2026-06-21T11:14:14Z",
+  "items": [
+    {
+      "id": "20260621-github_trending-001",
+      "title": "pi",
+      "source_url": "https://github.com/earendil-works/pi",
+      "source_type": "github_trending",
+      "summary": "AI代理工具包，提供统一LLM API、代理循环、TUI和编码代理CLI，支持多种模型和工具调用。",
+      "highlights": [
+        "统一LLM API接口，支持多种模型",
+        "内置代理循环和TUI界面",
+        "提供编码代理CLI工具"
+      ],
+      "use_cases": [
+        "构建AI代理应用",
+        "命令行编码助手",
+        "多模型统一管理"
+      ],
+      "maturity": {
+        "stars": 64373,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "tool-use"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:32Z",
+      "analyzed_at": "2026-06-21T11:13:32Z"
+    },
+    {
+      "id": "20260621-github_trending-002",
+      "title": "goose",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "source_type": "github_trending",
+      "summary": "一个开源、可扩展的AI代理，超越代码建议，支持安装、执行、编辑和测试，可与任何LLM配合使用。",
+      "highlights": [
+        "基于Rust语言开发，性能高效",
+        "支持多种LLM集成，扩展性强",
+        "功能覆盖代码建议、执行、编辑和测试"
+      ],
+      "use_cases": [
+        "自动化代码开发与测试",
+        "AI驱动的任务执行与编辑",
+        "集成多种LLM的智能代理应用"
+      ],
+      "maturity": {
+        "stars": 49951,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "mcp"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:34Z",
+      "analyzed_at": "2026-06-21T11:13:34Z"
+    },
+    {
+      "id": "20260621-github_trending-003",
+      "title": "cherry-studio",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "source_type": "github_trending",
+      "summary": "CherryHQ/cherry-studio是一个AI生产力工作室，提供智能聊天、自主代理和300+助手，统一访问前沿大语言模型。",
+      "highlights": [
+        "支持300+AI助手和自主代理",
+        "统一访问多种前沿大语言模型",
+        "基于TypeScript开发，社区活跃度高"
+      ],
+      "use_cases": [
+        "智能聊天与对话",
+        "自动化任务执行",
+        "多模型统一管理"
+      ],
+      "maturity": {
+        "stars": 47605,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:36Z",
+      "analyzed_at": "2026-06-21T11:13:36Z"
+    },
+    {
+      "id": "20260621-github_trending-004",
+      "title": "ai-engineering-hub",
+      "source_url": "https://github.com/patchy631/ai-engineering-hub",
+      "source_type": "github_trending",
+      "summary": "提供LLM、RAG和AI Agent应用的深度教程，涵盖MCP等前沿技术，拥有3.5万星标。",
+      "highlights": [
+        "教程深入且实战性强",
+        "覆盖LLM、RAG、Agent等核心主题",
+        "社区活跃，星标数高"
+      ],
+      "use_cases": [
+        "学习构建AI Agent应用",
+        "掌握RAG技术实现",
+        "研究MCP协议实践"
+      ],
+      "maturity": {
+        "stars": 35906,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:38Z",
+      "analyzed_at": "2026-06-21T11:13:38Z"
+    },
+    {
+      "id": "20260621-github_trending-005",
+      "title": "khoj",
+      "source_url": "https://github.com/khoj-ai/khoj",
+      "source_type": "github_trending",
+      "summary": "Khoj是一个自托管的AI第二大脑，可将任何在线或本地LLM转化为个人自主AI，支持问答、自定义代理、自动化及深度研究。",
+      "highlights": [
+        "支持多种LLM（GPT、Claude、Gemini、Llama等）并允许自托管",
+        "集成网络搜索、文档问答、图像生成和自动化调度功能",
+        "可构建自定义代理并执行深度研究任务"
+      ],
+      "use_cases": [
+        "个人知识管理与快速检索",
+        "自动化工作流与定时任务",
+        "深度研究与信息整合"
+      ],
+      "maturity": {
+        "stars": 35226,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:40Z",
+      "analyzed_at": "2026-06-21T11:13:40Z"
+    },
+    {
+      "id": "20260621-github_trending-006",
+      "title": "AstrBot",
+      "source_url": "https://github.com/AstrBotDevs/AstrBot",
+      "source_type": "github_trending",
+      "summary": "AstrBot是一个集成多IM平台、多LLM和插件的AI Agent开发框架，可作为OpenClaw替代品。",
+      "highlights": [
+        "支持多种IM平台（如Discord）和LLM（如GPT、Gemini、Llama）",
+        "提供丰富的插件系统和AI功能，便于快速构建智能助手",
+        "基于Python开发，支持Docker部署，社区活跃（35k+星）"
+      ],
+      "use_cases": [
+        "构建跨平台AI聊天机器人",
+        "开发自定义AI Agent工作流",
+        "替代OpenClaw实现智能助手功能"
+      ],
+      "maturity": {
+        "stars": 35046,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:43Z",
+      "analyzed_at": "2026-06-21T11:13:43Z"
+    },
+    {
+      "id": "20260621-github_trending-007",
+      "title": "mlflow",
+      "source_url": "https://github.com/mlflow/mlflow",
+      "source_type": "github_trending",
+      "summary": "MLflow是开源AI工程平台，支持代理、LLM和ML模型的调试、评估、监控与优化，帮助团队控制成本并管理模型和数据访问。",
+      "highlights": [
+        "支持代理、LLM和ML模型的完整生命周期管理",
+        "集成评估、监控和优化功能，适用于生产级AI应用",
+        "开源且拥有超过2.6万星标，社区活跃"
+      ],
+      "use_cases": [
+        "AI代理和LLM应用的开发与调试",
+        "生产环境中的模型性能监控与优化",
+        "团队协作管理模型访问和数据成本"
+      ],
+      "maturity": {
+        "stars": 26647,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:45Z",
+      "analyzed_at": "2026-06-21T11:13:45Z"
+    },
+    {
+      "id": "20260621-github_trending-008",
+      "title": "haystack",
+      "source_url": "https://github.com/deepset-ai/haystack",
+      "source_type": "github_trending",
+      "summary": "Haystack是一个开源AI编排框架，用于构建生产级LLM应用，支持模块化管道、代理工作流、检索、路由、记忆和生成，适用于可扩展代理、RAG、多模态应用和语义搜索。",
+      "highlights": [
+        "模块化管道和代理工作流设计，提供对检索、路由、记忆和生成的显式控制",
+        "支持可扩展代理、RAG、多模态应用和语义搜索",
+        "拥有25617颗星，社区活跃，持续更新"
+      ],
+      "use_cases": [
+        "构建生产级RAG应用",
+        "开发多模态AI代理",
+        "实现语义搜索和信息检索系统"
+      ],
+      "maturity": {
+        "stars": 25617,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:47Z",
+      "analyzed_at": "2026-06-21T11:13:47Z"
+    },
+    {
+      "id": "20260621-github_trending-009",
+      "title": "parlant",
+      "source_url": "https://github.com/emcie-co/parlant",
+      "source_type": "github_trending",
+      "summary": "Parlant是一个用于构建可靠客户面向AI代理的交互控制框架，优化LLM交互的一致性和可预测性。",
+      "highlights": [
+        "专注于客户服务场景的AI代理控制",
+        "支持多种LLM后端（OpenAI、Gemini、Llama3）",
+        "强调交互的一致性和可预测性"
+      ],
+      "use_cases": [
+        "客户服务自动化",
+        "客户成功管理",
+        "AI代理行为控制"
+      ],
+      "maturity": {
+        "stars": 18131,
+        "last_updated": "2026-06-20",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:49Z",
+      "analyzed_at": "2026-06-21T11:13:49Z"
+    },
+    {
+      "id": "20260621-github_trending-010",
+      "title": "RagaAI-Catalyst",
+      "source_url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+      "source_type": "github_trending",
+      "summary": "RagaAI-Catalyst是一个Python SDK，用于AI代理的可观测性、监控和评估，支持追踪、调试多代理系统及自托管仪表板。",
+      "highlights": [
+        "支持代理、LLM和工具追踪",
+        "提供自托管仪表板与高级分析",
+        "调试多代理系统功能"
+      ],
+      "use_cases": [
+        "AI代理性能监控与调试",
+        "多代理系统行为分析",
+        "LLM应用评估与优化"
+      ],
+      "maturity": {
+        "stars": 16150,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "multi-agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:51Z",
+      "analyzed_at": "2026-06-21T11:13:51Z"
+    },
+    {
+      "id": "20260621-github_trending-011",
+      "title": "nanobrowser",
+      "source_url": "https://github.com/nanobrowser/nanobrowser",
+      "source_type": "github_trending",
+      "summary": "开源Chrome扩展，利用LLM实现AI驱动的网页自动化，支持多智能体工作流，可作为OpenAI Operator的替代方案。",
+      "highlights": [
+        "支持多智能体协作工作流",
+        "使用自有LLM API密钥，保护隐私",
+        "开源Chrome扩展，易于集成"
+      ],
+      "use_cases": [
+        "自动化网页数据采集",
+        "复杂网页操作流程自动化",
+        "AI驱动的浏览器测试"
+      ],
+      "maturity": {
+        "stars": 13330,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "multi-agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:53Z",
+      "analyzed_at": "2026-06-21T11:13:53Z"
+    },
+    {
+      "id": "20260621-github_trending-012",
+      "title": "bisheng",
+      "source_url": "https://github.com/dataelement/bisheng",
+      "source_type": "github_trending",
+      "summary": "BISHENG是一个开源LLM运维平台，支持GenAI工作流、RAG、Agent、模型管理、评估、微调、数据集管理及企业级系统管理，用于构建下一代企业AI应用。",
+      "highlights": [
+        "功能全面，涵盖GenAI工作流、RAG、Agent、微调等企业级AI开发全流程",
+        "支持统一模型管理、评估与数据集管理，提升运维效率",
+        "具备企业级系统管理与可观测性，适合生产环境部署"
+      ],
+      "use_cases": [
+        "企业级AI聊天机器人与智能助手开发",
+        "基于RAG的知识库问答系统构建",
+        "大模型微调与评估的DevOps平台"
+      ],
+      "maturity": {
+        "stars": 11461,
+        "last_updated": "2026-06-20",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:56Z",
+      "analyzed_at": "2026-06-21T11:13:56Z"
+    },
+    {
+      "id": "20260621-github_trending-013",
+      "title": "KrillinAI",
+      "source_url": "https://github.com/krillinai/KrillinAI",
+      "source_type": "github_trending",
+      "summary": "基于LLM的AI视频翻译配音工具，支持100+语言全链路处理，适配多平台，提供CLI分阶段调用。",
+      "highlights": [
+        "支持100+语言视频翻译与配音",
+        "全链路自动化：下载、转录、翻译、TTS、封面生成",
+        "适配YouTube、抖音、B站等主流平台"
+      ],
+      "use_cases": [
+        "视频内容多语言本地化",
+        "社交媒体视频批量翻译配音",
+        "AI Agent自动化视频处理"
+      ],
+      "maturity": {
+        "stars": 10361,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "multi-modal",
+        "agent"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:13:58Z",
+      "analyzed_at": "2026-06-21T11:13:58Z"
+    },
+    {
+      "id": "20260621-github_trending-014",
+      "title": "aichat",
+      "source_url": "https://github.com/sigoden/aichat",
+      "source_type": "github_trending",
+      "summary": "sigoden/aichat是一个用Rust编写的全能LLM命令行工具，集成了Shell助手、Chat-REPL、RAG、AI工具和代理，支持OpenAI、Claude、Gemini、Ollama、Groq等多种模型。",
+      "highlights": [
+        "支持多种主流LLM模型（OpenAI、Claude、Gemini等）",
+        "集成Shell助手、Chat-REPL、RAG、AI工具和代理功能",
+        "使用Rust语言开发，性能高效"
+      ],
+      "use_cases": [
+        "命令行下的多模型AI对话和查询",
+        "通过Shell助手自动化系统任务",
+        "利用RAG和AI工具进行知识检索和任务执行"
+      ],
+      "maturity": {
+        "stars": 10157,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:01Z",
+      "analyzed_at": "2026-06-21T11:14:01Z"
+    },
+    {
+      "id": "20260621-github_trending-015",
+      "title": "MemOS",
+      "source_url": "https://github.com/MemTensor/MemOS",
+      "source_type": "github_trending",
+      "summary": "MemOS是一个为LLM和AI代理设计的自进化记忆操作系统，提供超持久记忆、混合检索和跨任务技能复用，实现35.24%的令牌节省。",
+      "highlights": [
+        "超持久记忆与混合检索机制",
+        "跨任务技能复用，节省35.24%令牌",
+        "基于TypeScript开发，支持多种AI代理框架"
+      ],
+      "use_cases": [
+        "长期对话记忆管理",
+        "AI代理跨任务知识复用",
+        "降低LLM调用成本"
+      ],
+      "maturity": {
+        "stars": 9939,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "mcp"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:03Z",
+      "analyzed_at": "2026-06-21T11:14:03Z"
+    },
+    {
+      "id": "20260621-github_trending-016",
+      "title": "hexstrike-ai",
+      "source_url": "https://github.com/0x4m4/hexstrike-ai",
+      "source_type": "github_trending",
+      "summary": "HexStrike AI MCP服务器，让AI代理自动运行150+网络安全工具，实现自动化渗透测试、漏洞发现和漏洞赏金。",
+      "highlights": [
+        "支持150+网络安全工具的自动化调用",
+        "兼容Claude、GPT、Copilot等多种AI代理",
+        "专注于渗透测试和漏洞发现场景"
+      ],
+      "use_cases": [
+        "自动化渗透测试",
+        "漏洞赏金收集",
+        "安全研究"
+      ],
+      "maturity": {
+        "stars": 9786,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "mcp"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:05Z",
+      "analyzed_at": "2026-06-21T11:14:05Z"
+    },
+    {
+      "id": "20260621-github_trending-017",
+      "title": "awesome-LLM-resources",
+      "source_url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+      "source_type": "github_trending",
+      "summary": "全球最佳LLM资源汇总，涵盖多模态生成、Agent、RAG、模型训练推理等核心主题，含课程、书籍与工具列表。",
+      "highlights": [
+        "收录多模态生成、Agent、RAG等前沿方向",
+        "包含课程、书籍、工具等系统化资源",
+        "覆盖Llama、Mistral、Qwen等主流模型"
+      ],
+      "use_cases": [
+        "LLM学习与研究入门",
+        "Agent与RAG系统开发参考",
+        "模型训练与推理实践"
+      ],
+      "maturity": {
+        "stars": 8561,
+        "last_updated": "2026-06-20",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:07Z",
+      "analyzed_at": "2026-06-21T11:14:07Z"
+    },
+    {
+      "id": "20260621-github_trending-018",
+      "title": "PraisonAI",
+      "source_url": "https://github.com/MervinPraison/PraisonAI",
+      "source_type": "github_trending",
+      "summary": "PraisonAI是一个Python AI代理框架，支持100+LLM，5行代码部署，内置记忆和RAG，可创建自主改进的AI员工。",
+      "highlights": [
+        "支持100多种LLM模型",
+        "5行代码快速部署",
+        "内置记忆和RAG功能"
+      ],
+      "use_cases": [
+        "自动化研究任务",
+        "代码生成与执行",
+        "智能客服系统"
+      ],
+      "maturity": {
+        "stars": 8201,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:09Z",
+      "analyzed_at": "2026-06-21T11:14:09Z"
+    },
+    {
+      "id": "20260621-github_trending-019",
+      "title": "codefather",
+      "source_url": "https://github.com/liyupi/codefather",
+      "source_type": "github_trending",
+      "summary": "程序员鱼皮的编程宝典，提供2026年最全编程学习路线图，涵盖Java、前端、Python、C++、算法、AI应用开发、AI Agent开发等，包含教程、面试题、求职经验等资源，适合零基础学编程和转行者。",
+      "highlights": [
+        "覆盖多种编程语言和AI开发路线图",
+        "包含AI大模型应用、RAG、MCP、Prompt工程等实战教程",
+        "提供编程入门、面试题、求职经验等全方位学习资源"
+      ],
+      "use_cases": [
+        "零基础学编程和转行程序员",
+        "学习AI应用开发和AI Agent开发",
+        "求职准备和简历优化"
+      ],
+      "maturity": {
+        "stars": 7735,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:12Z",
+      "analyzed_at": "2026-06-21T11:14:12Z"
+    },
+    {
+      "id": "20260621-github_trending-020",
+      "title": "FinRobot",
+      "source_url": "https://github.com/AI4Finance-Foundation/FinRobot",
+      "source_type": "github_trending",
+      "summary": "FinRobot是一个基于大语言模型的开源AI智能体平台，专为金融分析设计，支持多模态深度学习与提示工程，提供智能投顾功能。",
+      "highlights": [
+        "开源金融AI智能体平台，集成大语言模型进行深度分析",
+        "支持多模态深度学习与提示工程，提升金融决策准确性",
+        "提供智能投顾功能，覆盖多种金融应用场景"
+      ],
+      "use_cases": [
+        "金融数据智能分析与预测",
+        "自动化投资顾问与策略生成",
+        "金融报告与市场趋势解读"
+      ],
+      "maturity": {
+        "stars": 7336,
+        "last_updated": "2026-06-21",
+        "production_ready": true
+      },
+      "tags": [
+        "llm",
+        "agent",
+        "multi-modal"
+      ],
+      "status": "analyzed",
+      "collected_at": "2026-06-21T11:14:14Z",
+      "analyzed_at": "2026-06-21T11:14:14Z"
+    }
+  ]
+}

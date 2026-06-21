@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-011",
+  "title": "<![CDATA[Hyundai buys Boston Dynamics]]>",
+  "source_url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+  "source_type": "hacker_news",
+  "summary": "现代汽车以3.25亿美元从软银手中收购波士顿动力，获得其机器人技术控制权。",
+  "highlights": [
+    "现代汽车完全收购波士顿动力，软银退出",
+    "收购金额为3.25亿美元",
+    "该交易引发广泛关注，讨论机器人技术与汽车产业融合"
+  ],
+  "use_cases": [
+    "工业机器人自动化",
+    "物流与仓储机器人",
+    "人形机器人研发"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 16:28:20 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:27Z",
+  "analyzed_at": "2026-06-20T10:31:27Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

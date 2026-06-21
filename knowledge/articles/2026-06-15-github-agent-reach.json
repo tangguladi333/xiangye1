@@ -1,0 +1,18 @@
+{
+  "id": "20260615-005",
+  "title": "Panniantong/Agent-Reach",
+  "url": "https://github.com/Panniantong/Agent-Reach",
+  "source": "github_trending",
+  "popularity": 5468,
+  "summary": "让 AI Agent 具备浏览全网的能力，支持 Twitter、Reddit、B站、小红书等平台，零 API 费用",
+  "highlights": [
+    "覆盖 B站、小红书等中文平台，适合中文场景",
+    "零 API 费用，使用门槛极低"
+  ],
+  "score": 8,
+  "tags": ["agent", "data"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

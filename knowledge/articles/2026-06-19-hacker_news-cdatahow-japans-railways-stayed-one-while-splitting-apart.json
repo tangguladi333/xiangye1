@@ -1,0 +1,30 @@
+{
+  "id": "20260619-hacker_news-020",
+  "title": "<![CDATA[How Japan's railways stayed one while splitting apart]]>",
+  "source_url": "https://arun.is/blog/jr-logo/",
+  "source_type": "hacker_news",
+  "summary": "日本铁路拆分后通过统一品牌标识保持整体形象，分析JR标志设计背后的战略与历史。",
+  "highlights": [
+    "日本国铁拆分后通过统一标志维持品牌一致性",
+    "标志设计融合传统与现代元素",
+    "案例展示品牌战略在组织变革中的重要性"
+  ],
+  "use_cases": [
+    "企业品牌整合策略研究",
+    "组织变革中的视觉识别设计",
+    "品牌统一性与多样性平衡分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 14:03:58 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:35:18Z",
+  "analyzed_at": "2026-06-19T14:35:18Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

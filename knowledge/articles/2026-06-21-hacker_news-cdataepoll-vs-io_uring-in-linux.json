@@ -1,0 +1,29 @@
+{
+  "id": "20260621-hacker_news-008",
+  "title": "<![CDATA[Epoll vs. io_uring in Linux]]>",
+  "source_url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+  "source_type": "hacker_news",
+  "summary": "对比Linux中epoll与io_uring两种I/O事件通知机制的性能、API复杂度及适用场景，分析其在高并发网络编程中的优劣。",
+  "highlights": [
+    "epoll是成熟稳定的I/O多路复用方案，适合大多数网络应用",
+    "io_uring提供更高效的异步I/O，减少系统调用开销，适合高吞吐场景",
+    "io_uring在磁盘I/O和网络I/O上均有性能优势，但API更复杂"
+  ],
+  "use_cases": [
+    "高并发网络服务器性能优化",
+    "数据库或存储系统I/O瓶颈分析",
+    "Linux内核I/O机制选型参考"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 23:07:09 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:32Z",
+  "analyzed_at": "2026-06-21T11:14:32Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

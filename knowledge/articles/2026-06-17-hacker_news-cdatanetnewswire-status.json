@@ -1,0 +1,28 @@
+{
+  "id": "20260617-002",
+  "title": "<![CDATA[NetNewsWire Status]]>",
+  "source_url": "https://inessential.com/2026/06/15/netnewswire-status.html",
+  "source_type": "hacker_news",
+  "summary": "NetNewsWire状态更新，包含文章链接和Hacker News讨论，获得51分和9条评论。",
+  "highlights": [
+    "项目为NetNewsWire状态报告",
+    "包含Hacker News讨论链接",
+    "获得51分和9条评论"
+  ],
+  "use_cases": [
+    "RSS阅读器状态跟踪",
+    "开源项目社区讨论"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 04:30:49 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:20Z",
+  "analyzed_at": "2026-06-17T07:53:20Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

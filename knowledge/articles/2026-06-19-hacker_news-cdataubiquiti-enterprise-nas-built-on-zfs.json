@@ -1,0 +1,29 @@
+{
+  "id": "20260619-hacker_news-011",
+  "title": "<![CDATA[Ubiquiti: Enterprise NAS, Built on ZFS]]>",
+  "source_url": "https://blog.ui.com/article/introducing-enterprise-nas",
+  "source_type": "hacker_news",
+  "summary": "Ubiquiti推出基于ZFS的企业级NAS，提供高可靠性与数据保护功能。",
+  "highlights": [
+    "基于ZFS文件系统，提供数据完整性校验与快照功能",
+    "面向企业级用户，强调高可靠性与性能",
+    "Ubiquiti品牌生态系统的扩展"
+  ],
+  "use_cases": [
+    "企业数据存储与备份",
+    "高可靠性要求的文件服务器",
+    "多媒体内容存储与共享"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 14:24:30 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:56Z",
+  "analyzed_at": "2026-06-19T14:34:56Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260619-github-tauricresearchtradin",
+  "title": "TauricResearch/TradingAgents",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "source_type": "github_trending",
+  "summary": "TradingAgents 是一个基于多智能体架构的量化交易框架，通过多个 AI Agent 协作完成市场分析、策略生成与执行。",
+  "highlights": [
+    "多智能体协作架构，模拟真实交易团队分工",
+    "支持多种数据源接入与策略回测",
+    "提供可视化交易决策过程"
+  ],
+  "use_cases": [
+    "量化交易策略研究与回测",
+    "金融市场的多维度分析",
+    "AI Agent 在金融领域的应用探索"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "quantitative-trading",
+    "multi-agent",
+    "llm",
+    "finance"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T07:43:16Z",
+  "analyzed_at": "2026-06-19T07:43:39Z",
+  "curated_at": "2026-06-19T07:44:14Z"
+}

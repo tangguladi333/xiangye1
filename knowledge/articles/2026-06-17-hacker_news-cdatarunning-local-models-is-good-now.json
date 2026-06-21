@@ -1,0 +1,30 @@
+{
+  "id": "20260617-019",
+  "title": "<![CDATA[Running local models is good now]]>",
+  "source_url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+  "source_type": "hacker_news",
+  "summary": "文章探讨本地运行大语言模型已变得实用，强调其优势、可用工具及对隐私和定制化的价值。",
+  "highlights": [
+    "本地模型性能显著提升，可媲美云端服务",
+    "强调数据隐私和离线运行的重要性",
+    "介绍了多种本地运行工具和模型选择"
+  ],
+  "use_cases": [
+    "隐私敏感的数据处理",
+    "离线或低延迟场景下的AI应用",
+    "定制化模型微调与实验"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 14:36:57 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:54:01Z",
+  "analyzed_at": "2026-06-17T07:54:01Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

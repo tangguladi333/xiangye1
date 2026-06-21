@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-005",
+  "title": "<![CDATA[Building reliable agentic AI systems]]>",
+  "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+  "source_type": "hacker_news",
+  "summary": "探讨构建可靠AI代理系统的实践方法，强调LLM在复杂任务中的可靠性挑战与解决方案。",
+  "highlights": [
+    "提出构建可靠代理系统的关键原则",
+    "分析LLM在实际应用中的失败模式",
+    "提供提升系统稳定性的具体策略"
+  ],
+  "use_cases": [
+    "企业级AI代理开发",
+    "复杂任务自动化",
+    "高可靠性AI系统设计"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sun, 21 Jun 2026 04:28:39 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:25Z",
+  "analyzed_at": "2026-06-21T11:14:25Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

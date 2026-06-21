@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-017",
+  "title": "<![CDATA[Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand]]>",
+  "source_url": "https://www.flexport.com/company/careers/",
+  "source_type": "hacker_news",
+  "summary": "Flexport在印尼、印度和泰国招聘，涉及AI/LLM/Agent项目，但项目本身无具体技术细节。",
+  "highlights": [
+    "招聘地点包括印尼、印度和泰国",
+    "项目名称与物流科技公司Flexport相关",
+    "无具体技术实现或代码信息"
+  ],
+  "use_cases": [
+    "物流自动化",
+    "供应链优化",
+    "智能客服"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 01:01:13 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:43Z",
+  "analyzed_at": "2026-06-20T10:31:43Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

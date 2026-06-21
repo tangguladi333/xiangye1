@@ -1,0 +1,31 @@
+{
+  "id": "20260619-hacker_news-002",
+  "title": "<![CDATA[NASA picks Eric Schmidt's rocket company for Mars mission]]>",
+  "source_url": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+  "source_type": "hacker_news",
+  "summary": "NASA选择Eric Schmidt的火箭公司执行火星任务，与SpaceX形成竞争。",
+  "highlights": [
+    "NASA选定Eric Schmidt的火箭公司参与火星任务",
+    "该任务将与SpaceX形成直接竞争",
+    "项目获得Hacker News社区关注和讨论"
+  ],
+  "use_cases": [
+    "太空探索任务规划",
+    "商业航天竞争分析",
+    "航天技术评估"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 12:41:15 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "multi-agent",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:33Z",
+  "analyzed_at": "2026-06-19T14:34:33Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

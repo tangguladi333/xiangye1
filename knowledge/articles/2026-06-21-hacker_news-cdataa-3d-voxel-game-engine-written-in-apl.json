@@ -1,0 +1,29 @@
+{
+  "id": "20260621-hacker_news-003",
+  "title": "<![CDATA[A 3D voxel game engine written in APL]]>",
+  "source_url": "https://github.com/namgyaaal/avoxelgame",
+  "source_type": "hacker_news",
+  "summary": "基于APL语言开发的3D体素游戏引擎，展示了APL在游戏开发中的创新应用。",
+  "highlights": [
+    "使用APL语言实现3D体素游戏引擎",
+    "结合函数式编程与游戏开发",
+    "开源项目，代码可访问"
+  ],
+  "use_cases": [
+    "APL编程语言教学与演示",
+    "体素游戏引擎原型开发",
+    "函数式编程在游戏领域的实验"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sun, 21 Jun 2026 08:04:54 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:21Z",
+  "analyzed_at": "2026-06-21T11:14:21Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

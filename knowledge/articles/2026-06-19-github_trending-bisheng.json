@@ -1,0 +1,31 @@
+{
+  "id": "20260619-github_trending-012",
+  "title": "bisheng",
+  "source_url": "https://github.com/dataelement/bisheng",
+  "source_type": "github_trending",
+  "summary": "BISHENG是一个开源LLM运维平台，支持GenAI工作流、RAG、Agent、模型管理、评估、SFT、数据集管理及企业级系统管理，用于构建下一代企业AI应用。",
+  "highlights": [
+    "功能全面，涵盖GenAI工作流、RAG、Agent等核心能力",
+    "支持企业级系统管理与可观测性",
+    "开源且社区活跃，拥有超过1.1万星标"
+  ],
+  "use_cases": [
+    "企业级AI聊天机器人开发",
+    "基于RAG的知识库问答系统",
+    "大模型微调与评估管理"
+  ],
+  "maturity": {
+    "stars": 11460,
+    "last_updated": "2026-06-19",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:08Z",
+  "analyzed_at": "2026-06-19T14:34:08Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

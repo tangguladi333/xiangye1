@@ -1,0 +1,72 @@
+[
+  {
+    "title": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "github_trending",
+    "popularity": 12053,
+    "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary"
+  },
+  {
+    "title": "chopratejas/headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "source": "github_trending",
+    "popularity": 10653,
+    "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server."
+  },
+  {
+    "title": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github_trending",
+    "popularity": 10445,
+    "summary": "Production-grade engineering skills for AI coding agents."
+  },
+  {
+    "title": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "source": "github_trending",
+    "popularity": 7591,
+    "summary": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop"
+  },
+  {
+    "title": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "github_trending",
+    "popularity": 5468,
+    "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees."
+  },
+  {
+    "title": "NVIDIA/SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "github_trending",
+    "popularity": 3669,
+    "summary": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks."
+  },
+  {
+    "title": "roboflow/supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "source": "github_trending",
+    "popularity": 3315,
+    "summary": "We write your reusable computer vision tools. 💜"
+  },
+  {
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source": "github_trending",
+    "popularity": 1642,
+    "summary": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+  },
+  {
+    "title": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "source": "github_trending",
+    "popularity": 1085,
+    "summary": "OpenAI Plugins"
+  },
+  {
+    "title": "asgeirtj/system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "github_trending",
+    "popularity": 819,
+    "summary": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly."
+  }
+]

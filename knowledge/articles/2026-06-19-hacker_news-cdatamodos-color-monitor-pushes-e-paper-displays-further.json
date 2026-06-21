@@ -1,0 +1,29 @@
+{
+  "id": "20260619-hacker_news-015",
+  "title": "<![CDATA[Modos Color Monitor Pushes E-Paper Displays Further]]>",
+  "source_url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+  "source_type": "hacker_news",
+  "summary": "Modos推出彩色电子纸显示器，推动低功耗、护眼显示技术发展，适用于阅读和静态内容展示。",
+  "highlights": [
+    "彩色电子纸技术突破，实现更丰富的色彩显示",
+    "低功耗特性，适合长时间阅读和静态内容",
+    "刷新率提升，接近传统显示器体验"
+  ],
+  "use_cases": [
+    "电子书阅读器和文档查看",
+    "数字标牌和信息展示",
+    "辅助办公和低功耗桌面显示"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 11:41:21 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:35:06Z",
+  "analyzed_at": "2026-06-19T14:35:06Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

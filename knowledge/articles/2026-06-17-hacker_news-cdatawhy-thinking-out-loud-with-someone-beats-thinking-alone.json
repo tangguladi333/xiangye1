@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-010",
+  "title": "<![CDATA[Why thinking out loud with someone beats thinking alone]]>",
+  "source_url": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+  "source_type": "hacker_news",
+  "summary": "文章探讨了与他人进行口头交流比独自思考更能提升认知效率，强调对话在解决问题和激发创意中的独特价值。",
+  "highlights": [
+    "对话能促进更深入的思考",
+    "集体智慧优于个人独思",
+    "交流有助于发现盲点"
+  ],
+  "use_cases": [
+    "团队头脑风暴",
+    "复杂问题决策",
+    "创意构思阶段"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 13:00:38 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:04Z",
+  "analyzed_at": "2026-06-17T16:26:04Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-016",
+  "title": "<![CDATA[GLM-5.2 is the new leading open weights model on Artificial Analysis]]>",
+  "source_url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+  "source_type": "hacker_news",
+  "summary": "GLM-5.2成为Artificial Analysis上领先的开源权重模型，获得大量关注和讨论。",
+  "highlights": [
+    "在Artificial Analysis智能指数中排名第一",
+    "开源权重模型，性能领先",
+    "引发社区广泛讨论（535分，285条评论）"
+  ],
+  "use_cases": [
+    "开源大模型性能基准测试",
+    "AI模型研究与对比",
+    "社区驱动的模型评估"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 09:12:00 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:18Z",
+  "analyzed_at": "2026-06-17T16:26:18Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

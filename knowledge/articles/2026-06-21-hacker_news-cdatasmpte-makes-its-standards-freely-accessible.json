@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-015",
+  "title": "<![CDATA[SMPTE Makes Its Standards Freely Accessible]]>",
+  "source_url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
+  "source_type": "hacker_news",
+  "summary": "SMPTE将其标准库免费开放，全球媒体技术社区可自由访问，推动行业标准化与协作。",
+  "highlights": [
+    "SMPTE标准库免费开放",
+    "全球媒体技术社区可自由访问",
+    "推动行业标准化与协作"
+  ],
+  "use_cases": [
+    "媒体技术标准参考",
+    "行业协作与创新",
+    "教育与研究"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 17:01:36 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:47Z",
+  "analyzed_at": "2026-06-21T11:14:47Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

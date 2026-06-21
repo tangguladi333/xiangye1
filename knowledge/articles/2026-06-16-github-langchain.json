@@ -1,0 +1,31 @@
+{
+  "id": "20260616-003",
+  "title": "langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source_type": "github_trending",
+  "summary": "LangChain – 最知名的 LLM 应用开发框架，提供链式调用、Agent 编排和模型抽象层，生态插件丰富，社区规模庞大。",
+  "highlights": [
+    "统一的 LLM 抽象接口",
+    "丰富的 Agent 编排能力",
+    "生态最完善的 AI 框架"
+  ],
+  "use_cases": [
+    "LLM 应用原型开发",
+    "复杂 Agent 工作流构建",
+    "多模型 A/B 测试与对比"
+  ],
+  "maturity": {
+    "stars": 139454,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

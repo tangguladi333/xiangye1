@@ -1,0 +1,52 @@
+{
+  "source": "github",
+  "collected_at": "2026-06-18T07:07:07Z",
+  "items": [
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "summary": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 63690,
+      "language": "TypeScript",
+      "topics": [],
+      "last_updated": "2026-06-18",
+      "source_type": "github_trending"
+    },
+    {
+      "name": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "summary": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "stars": 49728,
+      "language": "Rust",
+      "topics": [
+        "acp",
+        "ai",
+        "ai-agents",
+        "mcp"
+      ],
+      "last_updated": "2026-06-18",
+      "source_type": "github_trending"
+    },
+    {
+      "name": "CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "summary": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+      "stars": 47492,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "awesome-skills",
+        "claude-code",
+        "codex",
+        "deepseek",
+        "hermes-agent",
+        "openclaw",
+        "skills",
+        "vibe-coding"
+      ],
+      "last_updated": "2026-06-18",
+      "source_type": "github_trending"
+    }
+  ]
+}

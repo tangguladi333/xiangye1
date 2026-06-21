@@ -1,0 +1,29 @@
+{
+  "id": "20260619-hacker_news-016",
+  "title": "<![CDATA[CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)]]>",
+  "source_url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+  "source_type": "hacker_news",
+  "summary": "康奈尔大学CS 6120高级编译器课程的自学在线版本，涵盖编译器优化、中间表示、数据流分析等核心主题。",
+  "highlights": [
+    "提供完整的课程视频、讲义和作业",
+    "涵盖现代编译器设计与优化技术",
+    "适合自学和进阶学习编译器知识"
+  ],
+  "use_cases": [
+    "编译器开发与优化学习",
+    "计算机系统课程自学",
+    "编译器研究入门"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 11:04:31 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:35:09Z",
+  "analyzed_at": "2026-06-19T14:35:09Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

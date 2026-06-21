@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-009",
+  "title": "<![CDATA[Court Records Should Be Free]]>",
+  "source_url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+  "source_type": "hacker_news",
+  "summary": "EFF文章主张法院记录应免费公开，批评收费系统阻碍公众获取司法信息，引发Hacker News热议。",
+  "highlights": [
+    "法院记录收费系统阻碍公众获取司法信息",
+    "EFF倡导免费开放法院记录以促进司法透明",
+    "Hacker News社区对此话题高度关注并展开讨论"
+  ],
+  "use_cases": [
+    "司法透明度倡导",
+    "公共信息获取权讨论",
+    "法律科技政策研究"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 17:34:18 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:22Z",
+  "analyzed_at": "2026-06-20T10:31:22Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "20260615-004",
+  "title": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "source": "github_trending",
+  "popularity": 7591,
+  "summary": "给 AI 注入「品味」，阻止生成无聊、模板化的低质量内容",
+  "highlights": [
+    "概念新颖，直击 LLM 输出同质化痛点",
+    "低门槛接入，即插即用"
+  ],
+  "score": 7,
+  "tags": ["agent", "llm"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

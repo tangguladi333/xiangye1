@@ -1,0 +1,29 @@
+{
+  "id": "20260617-008",
+  "title": "<![CDATA[Show HN: cuTile Rust: Safe, data-race-free GPU kernels in Rust]]>",
+  "source_url": "https://github.com/nvlabs/cutile-rs",
+  "source_type": "hacker_news",
+  "summary": "cuTile Rust是一个安全、无数据竞争的Rust GPU内核项目，由NVIDIA实验室开发，旨在利用Rust语言特性提升GPU编程的安全性和可靠性。",
+  "highlights": [
+    "基于Rust语言实现GPU内核，确保内存安全和数据竞争自由",
+    "由NVIDIA实验室开发，具有官方背景和潜在的高性能优化",
+    "开源项目，托管在GitHub上，便于社区贡献和使用"
+  ],
+  "use_cases": [
+    "高性能计算和科学计算中的GPU加速",
+    "需要高安全性的图形渲染和图像处理",
+    "并行计算任务，如机器学习模型训练和推理"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 20:17:42 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:33Z",
+  "analyzed_at": "2026-06-17T07:53:33Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

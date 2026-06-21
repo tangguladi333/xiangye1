@@ -1,0 +1,32 @@
+{
+  "id": "20260616-015",
+  "title": "CowAgent",
+  "source_url": "https://github.com/zhayujie/CowAgent",
+  "source_type": "github_trending",
+  "summary": "CowAgent – 开源超级 AI 助手与代理框架，能规划复杂任务、调用多种工具和技能，支持多代理协作。",
+  "highlights": [
+    "复杂任务自主规划",
+    "多工具多技能调用",
+    "多代理协作机制"
+  ],
+  "use_cases": [
+    "个人 AI 超级助理",
+    "自动化任务执行",
+    "多工具编排调度"
+  ],
+  "maturity": {
+    "stars": 45352,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "embeddings",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

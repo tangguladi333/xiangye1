@@ -1,0 +1,18 @@
+{
+  "id": "20260615-003",
+  "title": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "source": "github_trending",
+  "popularity": 10445,
+  "summary": "面向 AI 编程 Agent 的生产级工程技能集合，来自 Chrome 团队核心成员",
+  "highlights": [
+    "Chrome 团队核心成员出品，质量背书强",
+    "填补 Agent Skill 缺乏工程规范的空白"
+  ],
+  "score": 7,
+  "tags": ["agent", "devtools"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260617-hacker_news-006",
+  "title": "<![CDATA[Epic Games announces Lore version control system]]>",
+  "source_url": "https://lore.org/",
+  "source_type": "hacker_news",
+  "summary": "Epic Games发布Lore版本控制系统，专为大型游戏开发设计，支持高效协作与资产版本管理。",
+  "highlights": [
+    "专为游戏开发场景设计，优化大型二进制文件处理",
+    "支持分布式协作与高效版本控制",
+    "由Epic Games官方推出，集成Unreal Engine生态"
+  ],
+  "use_cases": [
+    "大型游戏项目的版本管理与协作",
+    "游戏资产（如模型、贴图）的版本追踪",
+    "与Unreal Engine深度集成的开发工作流"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 14:30:27 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:55Z",
+  "analyzed_at": "2026-06-17T16:25:55Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

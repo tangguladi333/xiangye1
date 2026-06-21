@@ -1,0 +1,29 @@
+{
+  "id": "20260620-hacker_news-003",
+  "title": "<![CDATA[Where to Find the Colors Your Screen Can't Show You]]>",
+  "source_url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+  "source_type": "hacker_news",
+  "summary": "探讨屏幕无法显示的颜色及其在现实世界中的存在位置，涉及色彩科学与视觉感知。",
+  "highlights": [
+    "解释屏幕色彩限制的物理原因",
+    "列举自然界中超出屏幕色域的颜色",
+    "提供寻找这些颜色的实际方法"
+  ],
+  "use_cases": [
+    "色彩科学研究与教育",
+    "数字艺术与设计灵感",
+    "视觉感知与显示技术讨论"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 03:36:49 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:08Z",
+  "analyzed_at": "2026-06-20T10:31:08Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

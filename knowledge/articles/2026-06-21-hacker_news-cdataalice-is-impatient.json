@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-012",
+  "title": "<![CDATA[Alice is impatient]]>",
+  "source_url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+  "source_type": "hacker_news",
+  "summary": "文章探讨AI系统等待用户输入时的效率问题，提出优化交互以减少延迟。",
+  "highlights": [
+    "分析AI等待用户输入导致的效率瓶颈",
+    "提出减少交互延迟的优化策略",
+    "强调用户体验与系统响应速度的平衡"
+  ],
+  "use_cases": [
+    "AI对话系统响应优化",
+    "实时交互应用延迟管理",
+    "用户等待体验改进"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 20:32:54 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:41Z",
+  "analyzed_at": "2026-06-21T11:14:41Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

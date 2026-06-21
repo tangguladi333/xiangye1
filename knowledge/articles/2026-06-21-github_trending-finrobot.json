@@ -1,0 +1,31 @@
+{
+  "id": "20260621-github_trending-020",
+  "title": "FinRobot",
+  "source_url": "https://github.com/AI4Finance-Foundation/FinRobot",
+  "source_type": "github_trending",
+  "summary": "FinRobot是一个基于大语言模型的开源AI智能体平台，专为金融分析设计，支持多模态深度学习与提示工程，提供智能投顾功能。",
+  "highlights": [
+    "开源金融AI智能体平台，集成大语言模型进行深度分析",
+    "支持多模态深度学习与提示工程，提升金融决策准确性",
+    "提供智能投顾功能，覆盖多种金融应用场景"
+  ],
+  "use_cases": [
+    "金融数据智能分析与预测",
+    "自动化投资顾问与策略生成",
+    "金融报告与市场趋势解读"
+  ],
+  "maturity": {
+    "stars": 7336,
+    "last_updated": "2026-06-21",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multi-modal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:14Z",
+  "analyzed_at": "2026-06-21T11:14:14Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "20260617-hacker_news-020",
+  "title": "<![CDATA[Humiliating IIS servers for fun and jail time]]>",
+  "source_url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+  "source_type": "hacker_news",
+  "summary": "文章讨论攻击IIS服务器的技术细节及法律风险，强调安全测试需合法合规。",
+  "highlights": [
+    "揭示IIS服务器常见漏洞",
+    "强调未经授权攻击的法律后果",
+    "提供安全测试的合法建议"
+  ],
+  "use_cases": [
+    "安全培训",
+    "渗透测试研究",
+    "法律合规教育"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 22:53:34 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:26:27Z",
+  "analyzed_at": "2026-06-17T16:26:27Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

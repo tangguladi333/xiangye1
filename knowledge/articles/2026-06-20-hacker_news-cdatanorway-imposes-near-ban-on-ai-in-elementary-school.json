@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-013",
+  "title": "<![CDATA[Norway imposes near ban on AI in elementary school]]>",
+  "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+  "source_type": "hacker_news",
+  "summary": "挪威计划在小学阶段近乎全面禁止使用AI，引发教育科技领域争议。",
+  "highlights": [
+    "挪威拟禁止小学使用AI，保护儿童隐私与认知发展",
+    "政策引发关于AI在教育中角色的广泛讨论",
+    "该禁令可能影响教育科技公司的市场策略"
+  ],
+  "use_cases": [
+    "教育政策制定参考",
+    "AI伦理与儿童保护讨论",
+    "教育科技合规性评估"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 16:03:15 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:32Z",
+  "analyzed_at": "2026-06-20T10:31:32Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-001",
+  "title": "<![CDATA[I Stored a Website in a Favicon]]>",
+  "source_url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+  "source_type": "hacker_news",
+  "summary": "将整个网站压缩存储到favicon图标中的创意技术实验，展示了数据压缩与Web技术的巧妙结合。",
+  "highlights": [
+    "将完整网站内容压缩并嵌入favicon图标文件",
+    "利用数据URI和压缩算法实现极简存储",
+    "展示了Web技术的创意边界和极限应用"
+  ],
+  "use_cases": [
+    "创意编程与Web技术实验",
+    "数据压缩与编码教学案例",
+    "极简主义网站设计探索"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sat, 20 Jun 2026 05:33:59 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:04Z",
+  "analyzed_at": "2026-06-20T10:31:04Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

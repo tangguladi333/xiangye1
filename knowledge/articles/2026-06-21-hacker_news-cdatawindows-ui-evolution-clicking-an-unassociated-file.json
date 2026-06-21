@@ -1,0 +1,30 @@
+{
+  "id": "20260621-hacker_news-004",
+  "title": "<![CDATA[Windows UI evolution: Clicking an unassociated file]]>",
+  "source_url": "https://movq.de/blog/postings/2026-06-20/0/POSTING-en.html",
+  "source_type": "hacker_news",
+  "summary": "分析Windows系统中点击未关联文件时的UI演变过程，探讨用户交互设计的历史与改进。",
+  "highlights": [
+    "详细描述了Windows不同版本中处理未关联文件的行为变化",
+    "对比了用户界面设计的演进与用户体验的优化",
+    "提供了具体的历史版本截图和操作流程说明"
+  ],
+  "use_cases": [
+    "操作系统用户界面设计研究",
+    "人机交互历史分析",
+    "软件用户体验改进参考"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sun, 21 Jun 2026 06:24:52 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:23Z",
+  "analyzed_at": "2026-06-21T11:14:23Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

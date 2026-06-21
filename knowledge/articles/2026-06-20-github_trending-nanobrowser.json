@@ -1,0 +1,31 @@
+{
+  "id": "20260620-github_trending-011",
+  "title": "nanobrowser",
+  "source_url": "https://github.com/nanobrowser/nanobrowser",
+  "source_type": "github_trending",
+  "summary": "开源Chrome扩展，支持AI驱动的网页自动化与多智能体工作流，使用自有LLM API密钥，是OpenAI Operator的替代方案。",
+  "highlights": [
+    "基于TypeScript开发，支持多智能体协作工作流",
+    "使用自有LLM API密钥，无需依赖第三方服务",
+    "作为开源替代方案，对标OpenAI Operator"
+  ],
+  "use_cases": [
+    "自动化网页数据采集与表单填写",
+    "多步骤复杂网页任务编排与执行",
+    "浏览器端AI代理工作流测试与部署"
+  ],
+  "maturity": {
+    "stars": 13329,
+    "last_updated": "2026-06-20",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multi-agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:30:38Z",
+  "analyzed_at": "2026-06-20T10:30:38Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

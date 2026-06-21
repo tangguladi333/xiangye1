@@ -1,0 +1,29 @@
+{
+  "id": "20260621-hacker_news-002",
+  "title": "<![CDATA[Google Hits 50% IPv6]]>",
+  "source_url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+  "source_type": "hacker_news",
+  "summary": "谷歌IPv6流量占比达到50%里程碑，反映互联网协议升级趋势。",
+  "highlights": [
+    "谷歌IPv6流量占比首次突破50%",
+    "标志IPv6部署进入主流阶段",
+    "推动全球互联网基础设施升级"
+  ],
+  "use_cases": [
+    "网络协议迁移规划",
+    "互联网基础设施评估",
+    "IPv6部署策略参考"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Sun, 21 Jun 2026 08:21:22 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:19Z",
+  "analyzed_at": "2026-06-21T11:14:19Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

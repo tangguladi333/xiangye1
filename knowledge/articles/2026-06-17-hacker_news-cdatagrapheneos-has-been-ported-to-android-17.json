@@ -1,0 +1,29 @@
+{
+  "id": "20260617-hacker_news-019",
+  "title": "<![CDATA[GrapheneOS has been ported to Android 17]]>",
+  "source_url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+  "source_type": "hacker_news",
+  "summary": "GrapheneOS已移植至Android 17，即将发布官方版本，社区反响热烈。",
+  "highlights": [
+    "成功移植至最新Android 17系统",
+    "官方版本即将发布",
+    "社区讨论活跃，获得925点赞"
+  ],
+  "use_cases": [
+    "隐私安全手机系统",
+    "敏感数据保护",
+    "企业级移动设备管理"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 20:34:35 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T15:51:08Z",
+  "analyzed_at": "2026-06-17T15:51:08Z",
+  "curated_at": "2026-06-17T15:51:10Z"
+}

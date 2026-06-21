@@ -1,0 +1,30 @@
+{
+  "id": "20260620-hacker_news-015",
+  "title": "<![CDATA[How many of the 170k English words do you know?]]>",
+  "source_url": "https://vocabowl-870366514258.us-west1.run.app/",
+  "source_type": "hacker_news",
+  "summary": "一个基于AI的英语词汇量测试项目，通过170k单词评估用户词汇水平，在Hacker News上获得377分和461条评论。",
+  "highlights": [
+    "覆盖17万英语单词的全面词汇量测试",
+    "基于AI/LLM技术实现智能评估",
+    "在Hacker News社区获得高度关注和讨论"
+  ],
+  "use_cases": [
+    "英语学习者自我评估词汇量",
+    "语言教学中的词汇水平诊断",
+    "词汇学习效果跟踪与对比"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 13:51:36 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-20T10:31:38Z",
+  "analyzed_at": "2026-06-20T10:31:38Z",
+  "curated_at": "2026-06-20T10:31:50Z"
+}

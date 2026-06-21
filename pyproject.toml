@@ -1,0 +1,10 @@
+[project]
+name = "ai-knowledge-base"
+version = "0.1.0"
+description = "AI Knowledge Base - V4 Production"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+]

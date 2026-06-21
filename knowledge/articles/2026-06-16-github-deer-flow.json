@@ -1,0 +1,32 @@
+{
+  "id": "20260616-008",
+  "title": "deer-flow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "source_type": "github_trending",
+  "summary": "Deer Flow – 字节跳动开源的长周期超级代理框架，具备研究、编程和创作能力，支持沙箱、记忆、子代理协作的消息网关。",
+  "highlights": [
+    "长周期复杂任务处理",
+    "沙箱隔离安全执行",
+    "子代理协作与记忆"
+  ],
+  "use_cases": [
+    "自动化研究分析",
+    "复杂编程任务分解",
+    "多步推理与执行"
+  ],
+  "maturity": {
+    "stars": 71309,
+    "last_updated": "2026-06-16",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-16T13:14:09Z",
+  "analyzed_at": "2026-06-16T13:26:38Z",
+  "curated_at": "2026-06-16T13:31:12Z"
+}

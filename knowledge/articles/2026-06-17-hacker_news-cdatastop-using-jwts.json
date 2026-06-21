@@ -1,0 +1,30 @@
+{
+  "id": "20260617-014",
+  "title": "<![CDATA[Stop Using JWTs]]>",
+  "source_url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
+  "source_type": "hacker_news",
+  "summary": "文章批评JWT在Web应用中的过度使用，指出其安全风险和复杂性，建议优先使用传统会话管理。",
+  "highlights": [
+    "JWT存在签名验证、密钥管理等安全隐患",
+    "JWT无状态特性导致无法撤销令牌，增加安全风险",
+    "建议大多数Web应用使用基于会话的认证方式"
+  ],
+  "use_cases": [
+    "需要无状态认证的分布式系统",
+    "短期令牌或一次性授权场景",
+    "对令牌撤销要求不高的内部服务"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 16:49:46 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:49Z",
+  "analyzed_at": "2026-06-17T07:53:49Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

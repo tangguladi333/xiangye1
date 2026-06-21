@@ -1,0 +1,31 @@
+{
+  "id": "20260621-github_trending-016",
+  "title": "hexstrike-ai",
+  "source_url": "https://github.com/0x4m4/hexstrike-ai",
+  "source_type": "github_trending",
+  "summary": "HexStrike AI MCP服务器，让AI代理自动运行150+网络安全工具，实现自动化渗透测试、漏洞发现和漏洞赏金。",
+  "highlights": [
+    "支持150+网络安全工具的自动化调用",
+    "兼容Claude、GPT、Copilot等多种AI代理",
+    "专注于渗透测试和漏洞发现场景"
+  ],
+  "use_cases": [
+    "自动化渗透测试",
+    "漏洞赏金收集",
+    "安全研究"
+  ],
+  "maturity": {
+    "stars": 9786,
+    "last_updated": "2026-06-21",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "mcp"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-21T11:14:05Z",
+  "analyzed_at": "2026-06-21T11:14:05Z",
+  "curated_at": "2026-06-21T11:14:58Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260617-github_trending-009",
+  "title": "parlant",
+  "source_url": "https://github.com/emcie-co/parlant",
+  "source_type": "github_trending",
+  "summary": "Parlant是一个用于构建可靠客户面向AI代理的交互控制框架，优化LLM交互的一致性和可预测性。",
+  "highlights": [
+    "专注于客户服务场景的AI代理控制",
+    "支持Gemini、Llama3、OpenAI等多种LLM",
+    "提供一致且可预测的交互管理"
+  ],
+  "use_cases": [
+    "客户服务自动化",
+    "AI代理行为对齐",
+    "企业级LLM应用部署"
+  ],
+  "maturity": {
+    "stars": 18116,
+    "last_updated": "2026-06-17",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:13Z",
+  "analyzed_at": "2026-06-17T16:25:13Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

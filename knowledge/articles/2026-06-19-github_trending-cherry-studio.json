@@ -1,0 +1,30 @@
+{
+  "id": "20260619-github_trending-003",
+  "title": "cherry-studio",
+  "source_url": "https://github.com/CherryHQ/cherry-studio",
+  "source_type": "github_trending",
+  "summary": "CherryStudio是一个AI生产力工作室，提供智能聊天、自主代理和300+助手，统一访问前沿大语言模型。",
+  "highlights": [
+    "支持300+AI助手和自主代理",
+    "统一访问多种前沿大语言模型",
+    "具备智能聊天和技能扩展功能"
+  ],
+  "use_cases": [
+    "日常AI辅助办公与创作",
+    "多模型统一管理与切换",
+    "自动化任务代理执行"
+  ],
+  "maturity": {
+    "stars": 47542,
+    "last_updated": "2026-06-19",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:33:46Z",
+  "analyzed_at": "2026-06-19T14:33:46Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

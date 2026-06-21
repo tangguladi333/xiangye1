@@ -1,0 +1,29 @@
+{
+  "id": "20260617-012",
+  "title": "s Ethernet: switching to a Broadcom SFP+ module]]>",
+  "source_url": "https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus",
+  "source_type": "hacker_news",
+  "summary": "一篇关于将网络切换到Broadcom SFP+模块以实现10Gb/s以太网的技术文章，讨论了硬件选择与配置经验。",
+  "highlights": [
+    "详细介绍了Broadcom SFP+模块的切换过程",
+    "涉及10Gb/s以太网的实际部署与调试",
+    "分享了硬件兼容性与性能优化经验"
+  ],
+  "use_cases": [
+    "数据中心网络升级",
+    "高性能计算环境搭建",
+    "网络硬件选型与测试"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Tue, 16 Jun 2026 17:48:42 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T07:53:43Z",
+  "analyzed_at": "2026-06-17T07:53:43Z",
+  "curated_at": "2026-06-17T07:54:04Z"
+}

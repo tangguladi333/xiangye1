@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-005",
+  "title": "<![CDATA[Why stdx is not on crates.io]]>",
+  "source_url": "https://kerkour.com/stdx-cratesio",
+  "source_type": "hacker_news",
+  "summary": "分析为何stdx未出现在crates.io上的文章及Hacker News讨论，探讨Rust生态中标准库扩展的挑战与社区观点。",
+  "highlights": [
+    "探讨stdx未上架crates.io的原因",
+    "涉及Rust标准库扩展的生态问题",
+    "引发社区对库维护与兼容性的讨论"
+  ],
+  "use_cases": [
+    "理解Rust生态决策",
+    "学习开源库发布策略",
+    "分析社区反馈与项目治理"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 14:45:09 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:52Z",
+  "analyzed_at": "2026-06-17T16:25:52Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

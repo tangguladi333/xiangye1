@@ -1,0 +1,31 @@
+{
+  "id": "20260619-hacker_news-010",
+  "title": "<![CDATA[Zero-Touch OAuth for MCP]]>",
+  "source_url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+  "source_type": "hacker_news",
+  "summary": "MCP协议的企业级零接触OAuth认证方案，实现自动化身份管理与安全授权。",
+  "highlights": [
+    "提出零接触OAuth认证机制，简化MCP服务集成",
+    "支持企业级身份管理与自动化授权流程",
+    "增强MCP协议的安全性与可扩展性"
+  ],
+  "use_cases": [
+    "企业级AI代理安全接入",
+    "MCP服务的自动化身份认证",
+    "多系统间的零接触授权管理"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Thu, 18 Jun 2026 21:54:10 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "mcp"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:53Z",
+  "analyzed_at": "2026-06-19T14:34:53Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}

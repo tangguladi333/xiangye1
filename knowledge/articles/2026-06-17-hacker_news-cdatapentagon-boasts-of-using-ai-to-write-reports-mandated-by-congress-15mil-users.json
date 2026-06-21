@@ -1,0 +1,30 @@
+{
+  "id": "20260617-hacker_news-007",
+  "title": "<![CDATA[Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)]]>",
+  "source_url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+  "source_type": "hacker_news",
+  "summary": "美国五角大楼使用AI撰写国会要求的报告，声称有150万用户，引发对AI在政府工作中应用的讨论。",
+  "highlights": [
+    "五角大楼使用AI撰写国会报告",
+    "声称有150万用户使用该AI系统",
+    "引发对AI在政府工作中可靠性和透明度的讨论"
+  ],
+  "use_cases": [
+    "政府报告自动生成",
+    "文档撰写辅助",
+    "合规性文档处理"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Wed, 17 Jun 2026 14:26:07 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-17T16:25:57Z",
+  "analyzed_at": "2026-06-17T16:25:57Z",
+  "curated_at": "2026-06-17T16:26:27Z"
+}

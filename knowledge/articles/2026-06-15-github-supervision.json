@@ -1,0 +1,18 @@
+{
+  "id": "20260615-007",
+  "title": "roboflow/supervision",
+  "url": "https://github.com/roboflow/supervision",
+  "source": "github_trending",
+  "popularity": 3315,
+  "summary": "Roboflow 出品的可复用计算机视觉工具库，简化数据集标注与模型评估",
+  "highlights": [
+    "Roboflow 出品，生态成熟文档完善",
+    "一站式解决标注、评估、可视化等 CV 常见需求"
+  ],
+  "score": 6,
+  "tags": ["cv", "devtools"],
+  "status": "curated",
+  "collected_at": "2026-06-15T08:00:00Z",
+  "analyzed_at": "2026-06-15T08:05:00Z",
+  "curated_at": "2026-06-15T08:10:00Z"
+}

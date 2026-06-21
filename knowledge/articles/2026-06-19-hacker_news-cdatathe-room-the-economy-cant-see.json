@@ -1,0 +1,29 @@
+{
+  "id": "20260619-hacker_news-003",
+  "title": "<![CDATA[The room the economy can't see]]>",
+  "source_url": "https://wilsoniumite.com/2026/06/19/the-room-the-economy-cant-see/",
+  "source_type": "hacker_news",
+  "summary": "文章探讨了经济中难以量化的隐性领域，如非市场活动、数据价值等，对传统经济模型的挑战。",
+  "highlights": [
+    "揭示经济统计盲区",
+    "分析非市场活动影响",
+    "探讨数据经济价值"
+  ],
+  "use_cases": [
+    "经济政策研究",
+    "数据价值评估",
+    "非市场活动分析"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "Fri, 19 Jun 2026 10:16:20 +0000",
+    "production_ready": false
+  },
+  "tags": [
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-06-19T14:34:35Z",
+  "analyzed_at": "2026-06-19T14:34:35Z",
+  "curated_at": "2026-06-19T14:35:18Z"
+}
