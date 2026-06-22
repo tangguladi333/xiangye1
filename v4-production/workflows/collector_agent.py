@@ -6,7 +6,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-from _shared import GITHUB_API_URL, _GITHUB_QUERIES, _GITHUB_PER_PAGE, make_article_id, now_iso, sanitize_input
+from _shared import GITHUB_API_URL, build_github_queries, load_recent_article_urls, _GITHUB_PER_PAGE, make_article_id, now_iso, sanitize_input
 
 logger = logging.getLogger(__name__)
 
@@ -14,10 +14,10 @@ logger = logging.getLogger(__name__)
 def collector_agent(state: dict) -> dict:
     logger.info("[CollectorAgent] 开始采集 GitHub AI 仓库...")
 
-    seen_urls: set[str] = set()
+    seen_urls: set[str] = load_recent_article_urls()
     sources: list[dict] = []
 
-    for query in _GITHUB_QUERIES:
+    for query in build_github_queries():
         params = urllib.parse.urlencode({
             "q": query,
             "sort": "stars",

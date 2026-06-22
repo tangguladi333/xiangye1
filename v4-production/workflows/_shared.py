@@ -6,7 +6,7 @@ import logging
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 # 自动加载 .env
@@ -37,11 +37,13 @@ GITHUB_API_URL: str = "https://api.github.com/search/repositories"
 
 _GITHUB_QUERIES: list[str] = [
     "AI agent",
-    "LLM framework",
     "LangGraph",
     "RAG",
     "AI tool",
 ]
+
+_ARTICLES_DIR: str = "knowledge/articles"
+_PUSHED_SINCE_DAYS: int = 7
 
 _GITHUB_PER_PAGE: int = 5
 _QUALITY_THRESHOLD: float = 0.6
@@ -112,6 +114,41 @@ def make_article_id(source_type: str, title: str) -> str:
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def get_pushed_since(days: int = _PUSHED_SINCE_DAYS) -> str:
+    dt = datetime.now(timezone.utc) - timedelta(days=days)
+    return dt.strftime("%Y-%m-%d")
+
+
+def build_github_queries() -> list[str]:
+    since = get_pushed_since()
+    return [f"{q} pushed:>={since}" for q in _GITHUB_QUERIES]
+
+
+def load_recent_article_urls(days_back: int = 7) -> set[str]:
+    articles_dir = os.path.join(_v4_root, _ARTICLES_DIR)
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days_back)
+    urls: set[str] = set()
+    if not os.path.isdir(articles_dir):
+        return urls
+    for fp in sorted(glob.glob(os.path.join(articles_dir, "*.json"))):
+        if fp.endswith("index.json"):
+            continue
+        try:
+            with open(fp, encoding="utf-8") as f:
+                article = json.load(f)
+            ts = article.get("curated_at") or article.get("collected_at")
+            if ts:
+                dt = datetime.fromisoformat(ts)
+                if dt < cutoff:
+                    continue
+            url = article.get("source_url", "")
+            if url:
+                urls.add(url)
+        except (OSError, ValueError):
+            continue
+    return urls
 
 
 def update_index(articles_dir: str) -> None:
