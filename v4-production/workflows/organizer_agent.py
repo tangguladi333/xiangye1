@@ -50,14 +50,20 @@ def organizer_agent(state: dict) -> dict:
             "id": a.get("source_id", make_article_id("github", "unknown")),
             "title": matched_source.get("title", "") if matched_source else "",
             "source_url": matched_source.get("url", "") if matched_source else "",
-            "source_type": matched_source.get("source_type", "github_trending") if matched_source else "github_trending",
+            "source_type": (
+                matched_source.get("source_type", "github_trending")
+                if matched_source
+                else "github_trending"
+            ),
             "summary": a.get("summary", ""),
             "highlights": a.get("highlights", []),
             "use_cases": a.get("use_cases", []),
             "maturity": a.get("maturity", {}),
             "tags": a.get("tags", []),
             "status": "curated",
-            "collected_at": matched_source.get("collected_at", "") if matched_source else "",
+            "collected_at": (
+                matched_source.get("collected_at", "") if matched_source else ""
+            ),
             "analyzed_at": a.get("analyzed_at", ""),
             "curated_at": now_iso(),
         }
@@ -70,7 +76,12 @@ def organizer_agent(state: dict) -> dict:
             if val:
                 filtered_text, detections = filter_output(val, mask=True)
                 if detections:
-                    logger.warning("[Security] %s %s 掩码 PII: %s", art.get("id", "?"), field, detections)
+                    logger.warning(
+                        "[Security] %s %s 掩码 PII: %s",
+                        art.get("id", "?"),
+                        field,
+                        detections,
+                    )
                     total_pii += len(detections)
                 art[field] = filtered_text
 

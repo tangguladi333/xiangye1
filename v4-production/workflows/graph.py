@@ -70,15 +70,15 @@ _workflows_dir = str(Path(__file__).resolve().parent)
 if _workflows_dir not in sys.path:
     sys.path.insert(0, _workflows_dir)
 
-from collector_agent import collector_agent  # type: ignore[import-untyped]
-from analyzer_agent import analyzer_agent  # type: ignore[import-untyped]
-from organizer_agent import organizer_agent  # type: ignore[import-untyped]
-from reviewer_agent import reviewer_agent  # type: ignore[import-untyped]
-from reviser_agent import reviser_agent  # type: ignore[import-untyped]
-from planner_agent import planner_agent  # type: ignore[import-untyped]
-from human_flag_agent import human_flag_agent  # type: ignore[import-untyped]
-from nodes import save_node  # type: ignore[import-untyped]
-from state import KBState  # type: ignore[import-untyped]
+from collector_agent import collector_agent  # type: ignore[import-untyped]  # noqa: E402
+from analyzer_agent import analyzer_agent  # type: ignore[import-untyped]  # noqa: E402
+from organizer_agent import organizer_agent  # type: ignore[import-untyped]  # noqa: E402
+from reviewer_agent import reviewer_agent  # type: ignore[import-untyped]  # noqa: E402
+from reviser_agent import reviser_agent  # type: ignore[import-untyped]  # noqa: E402
+from planner_agent import planner_agent  # type: ignore[import-untyped]  # noqa: E402
+from human_flag_agent import human_flag_agent  # type: ignore[import-untyped]  # noqa: E402
+from nodes import save_node  # type: ignore[import-untyped]  # noqa: E402
+from state import KBState  # type: ignore[import-untyped]  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -191,9 +191,11 @@ if __name__ == "__main__":
     guard = get_cost_guard()
     report = guard.get_report()
     s = report["summary"]
-    print(f"[CostGuard] 总调用 {s['total_calls']} 次 · "
-          f"总成本 ¥{s['total_cost_yuan']} · "
-          f"预算 ¥{s['budget_yuan']}")
+    print(
+        f"[CostGuard] 总调用 {s['total_calls']} 次 · "
+        f"总成本 ¥{s['total_cost_yuan']} · "
+        f"预算 ¥{s['budget_yuan']}"
+    )
     if report["by_node"]:
         print("[CostGuard] 按节点:")
         for node, stats in report["by_node"].items():

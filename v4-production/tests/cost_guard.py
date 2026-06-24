@@ -242,13 +242,16 @@ if __name__ == "__main__":
     assert total_completion == 350, f"预期 350, 实际 {total_completion}"
 
     expected_cost = (
-        100 / 1_000_000 * 1.0 + 50 / 1_000_000 * 2.0
-        + 500 / 1_000_000 * 1.0 + 200 / 1_000_000 * 2.0
-        + 200 / 1_000_000 * 1.0 + 100 / 1_000_000 * 2.0
+        100 / 1_000_000 * 1.0
+        + 50 / 1_000_000 * 2.0
+        + 500 / 1_000_000 * 1.0
+        + 200 / 1_000_000 * 2.0
+        + 200 / 1_000_000 * 1.0
+        + 100 / 1_000_000 * 2.0
     )
-    assert abs(total_cost - expected_cost) < 1e-6, (
-        f"预期 {expected_cost}, 实际 {total_cost}"
-    )
+    assert (
+        abs(total_cost - expected_cost) < 1e-6
+    ), f"预期 {expected_cost}, 实际 {total_cost}"
 
     print(f"  prompt_tokens: {total_prompt}  ✅")
     print(f"  completion_tokens: {total_completion}  ✅")
@@ -331,12 +334,12 @@ if __name__ == "__main__":
     guard5.record("node_b", {"prompt_tokens": 50, "completion_tokens": 25})
 
     report5 = guard5.get_report()
-    assert report5["by_node"]["node_a"]["calls"] == 2, (
-        f"预期 2 次, 实际 {report5['by_node']['node_a']['calls']}"
-    )
-    assert report5["by_node"]["node_b"]["calls"] == 1, (
-        f"预期 1 次, 实际 {report5['by_node']['node_b']['calls']}"
-    )
+    assert (
+        report5["by_node"]["node_a"]["calls"] == 2
+    ), f"预期 2 次, 实际 {report5['by_node']['node_a']['calls']}"
+    assert (
+        report5["by_node"]["node_b"]["calls"] == 1
+    ), f"预期 1 次, 实际 {report5['by_node']['node_b']['calls']}"
     assert report5["summary"]["total_calls"] == 3
     print(f"  node_a: {report5['by_node']['node_a']['calls']} calls  ✅")
     print(f"  node_b: {report5['by_node']['node_b']['calls']} calls  ✅")

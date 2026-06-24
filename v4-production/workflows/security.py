@@ -1,20 +1,13 @@
 from __future__ import annotations
 
-import json
-import os
 import re
-import time
-from collections import defaultdict
-from collections.abc import Sequence
-from dataclasses import dataclass, field
-from datetime import datetime, timezone
-from typing import Optional
-
 
 MAX_INPUT_LENGTH: int = 10000
 
 INJECTION_PATTERNS: list[re.Pattern] = [
-    re.compile(r"ignore\s+all\s+previous\s+(instructions|rules|prompts|commands)", re.I),
+    re.compile(
+        r"ignore\s+all\s+previous\s+(instructions|rules|prompts|commands)", re.I
+    ),
     re.compile(r"forget\s+(all\s+)?(instructions|rules|prompts|previous)", re.I),
     re.compile(r"override\s+(your\s+)?(system\s+)?prompt", re.I),
     re.compile(r"(system|instruction|setup)\s+prompt", re.I),
@@ -54,9 +47,13 @@ def sanitize_input(text: str) -> tuple[str, list[str]]:
 PII_PATTERNS: dict[str, re.Pattern] = {
     "phone": re.compile(r"1[3-9]\d{9}"),
     "email": re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"),
-    "id_card": re.compile(r"[1-9]\d{5}(?:19|20)\d{2}(?:0[1-9]|1[0-2])(?:0[1-9]|[12]\d|3[01])\d{3}[\dXx]"),
+    "id_card": re.compile(
+        r"[1-9]\d{5}(?:19|20)\d{2}(?:0[1-9]|1[0-2])(?:0[1-9]|[12]\d|3[01])\d{3}[\dXx]"
+    ),
     "credit_card": re.compile(r"\b(?:\d{4}[-\s]?){3}\d{4}\b"),
-    "ip": re.compile(r"\b(?:(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.){3}(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\b"),
+    "ip": re.compile(
+        r"\b(?:(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.){3}(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\b"
+    ),
 }
 
 _MASK_TEMPLATES: dict[str, str] = {
@@ -72,19 +69,23 @@ def filter_output(text: str, mask: bool = True) -> tuple[str, list[dict]]:
     all_matches: list[dict] = []
     for pii_type, pattern in PII_PATTERNS.items():
         for m in pattern.finditer(text):
-            all_matches.append({
-                "type": pii_type,
-                "match": m.group(),
-                "pos": m.start(),
-                "end": m.end(),
-            })
+            all_matches.append(
+                {
+                    "type": pii_type,
+                    "match": m.group(),
+                    "pos": m.start(),
+                    "end": m.end(),
+                }
+            )
     all_matches.sort(key=lambda x: (x["pos"], -x["end"]))
     unique: list[dict] = []
     for m in all_matches:
         if unique and m["pos"] < unique[-1]["end"]:
             continue
         unique.append(m)
-    detections = [{"type": m["type"], "match": m["match"], "pos": m["pos"]} for m in unique]
+    detections = [
+        {"type": m["type"], "match": m["match"], "pos": m["pos"]} for m in unique
+    ]
     if not mask:
         return text, detections
     filtered = text

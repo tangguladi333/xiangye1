@@ -23,6 +23,7 @@ logger = logging.getLogger(__name__)
 
 class Intent(Enum):
     """用户意图枚举。"""
+
     SEARCH = "search"
     TODAY = "today"
     TOP = "top"
@@ -34,6 +35,7 @@ class Intent(Enum):
 
 class Permission(Enum):
     """权限等级枚举，等级值越大权限越高。"""
+
     READ = 1
     WRITE = 2
     DELETE = 3
@@ -52,6 +54,7 @@ class BotResponse:
         text: Markdown 格式的回显文本。
         feishu_cards: 飞书 interactive 卡片列表，可为空。
     """
+
     text: str
     feishu_cards: list[dict[str, Any]] = field(default_factory=list)
 
@@ -112,7 +115,7 @@ def recognize_intent(text: str) -> tuple[Intent, str]:
                 # 对 SEARCH 提取关键词后的部分作为参数
                 if intent == Intent.SEARCH:
                     idx = text.find(kw)
-                    params = text[idx + len(kw):].strip()
+                    params = text[idx + len(kw) :].strip()
                     # 去除标点前缀
                     params = re.sub(r"^[：:，,。.\s]+", "", params)
                     return intent, params
@@ -140,7 +143,8 @@ class KnowledgeSearchEngine:
     ) -> None:
         self.articles_dir: str = articles_dir
         self.index_path: str = index_path or os.path.join(
-            articles_dir, "index.json",
+            articles_dir,
+            "index.json",
         )
         self._index: list[dict[str, Any]] | None = None
 
@@ -440,15 +444,9 @@ class KnowledgeBot:
         subscription_mgr: SubscriptionManager | None = None,
         permission_mgr: PermissionManager | None = None,
     ) -> None:
-        self.engine: KnowledgeSearchEngine = (
-            search_engine or KnowledgeSearchEngine()
-        )
-        self.sub_mgr: SubscriptionManager = (
-            subscription_mgr or SubscriptionManager()
-        )
-        self.perm_mgr: PermissionManager = (
-            permission_mgr or PermissionManager()
-        )
+        self.engine: KnowledgeSearchEngine = search_engine or KnowledgeSearchEngine()
+        self.sub_mgr: SubscriptionManager = subscription_mgr or SubscriptionManager()
+        self.perm_mgr: PermissionManager = permission_mgr or PermissionManager()
 
     def handle_message(self, user_id: str, text: str) -> BotResponse:
         """统一消息入口：识别意图 → 权限检查 → 分发到对应处理器。
@@ -511,7 +509,7 @@ class KnowledgeBot:
 
         digest = generate_daily_digest(
             knowledge_dir=self.engine.articles_dir,
-            top_n=5,
+            top_n=15,
         )
         return BotResponse(
             text=digest["markdown"],

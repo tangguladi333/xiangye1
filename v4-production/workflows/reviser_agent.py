@@ -32,11 +32,14 @@ def reviser_agent(state: dict) -> dict:
         return {"articles": articles, "cost_tracker": cost_tracker}
 
     for art in articles:
-        current_report = json.dumps({
-            "summary": art.get("summary", ""),
-            "tags": art.get("tags", []),
-            "highlights": art.get("highlights", []),
-        }, ensure_ascii=False)
+        current_report = json.dumps(
+            {
+                "summary": art.get("summary", ""),
+                "tags": art.get("tags", []),
+                "highlights": art.get("highlights", []),
+            },
+            ensure_ascii=False,
+        )
 
         fix_prompt = (
             f"原报告：\n{current_report}\n\n"

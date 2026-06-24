@@ -38,7 +38,12 @@ def analyzer_agent(state: dict) -> dict:
 
     for source in sources:
         repo_info = f"仓库: {source['title']}\n链接: {source['url']}"
-        result = chat_json(prompt=repo_info, system=_ANALYZE_SYSTEM, temperature=0.3, node_name="analyzer_agent")
+        result = chat_json(
+            prompt=repo_info,
+            system=_ANALYZE_SYSTEM,
+            temperature=0.3,
+            node_name="analyzer_agent",
+        )
         cost_tracker = accumulate_usage(cost_tracker, result["usage"])
 
         parsed = result["parsed"]

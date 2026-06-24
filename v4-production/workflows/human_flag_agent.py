@@ -5,8 +5,14 @@ import logging
 logger = logging.getLogger(__name__)
 
 _SENSITIVE_KEYWORDS: list[str] = [
-    "security", "vulnerability", "exploit", "attack",
-    "安全", "漏洞", "攻击", "利用",
+    "security",
+    "vulnerability",
+    "exploit",
+    "attack",
+    "安全",
+    "漏洞",
+    "攻击",
+    "利用",
 ]
 
 

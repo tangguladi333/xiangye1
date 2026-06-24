@@ -19,9 +19,7 @@ _v4_root = str(Path(__file__).resolve().parent.parent)
 if _v4_root not in sys.path:
     sys.path.insert(0, _v4_root)
 
-from workflows.model_client import chat
-
-from workflows.security import sanitize_input, filter_output
+from workflows.model_client import chat  # noqa: E402
 
 # 静音底层库日志
 logging.getLogger("httpx").setLevel(logging.WARNING)
@@ -45,10 +43,12 @@ _GITHUB_QUERIES: list[str] = [
 _ARTICLES_DIR: str = "knowledge/articles"
 _PUSHED_SINCE_DAYS: int = 7
 
-_GITHUB_PER_PAGE: int = 5
+_GITHUB_PER_PAGE: int = 15
 _QUALITY_THRESHOLD: float = 0.6
 _REVIEW_FORCE_PASS_ITERATION: int = 2
 _DEFAULT_PROVIDER: str = "deepseek"
+
+_PUSHED_LOG_PATH: str = os.path.join(_v4_root, "data", "pushed_ids.json")
 
 # ====================================================================
 #  工具函数
@@ -89,7 +89,9 @@ def chat_json(
     temperature: float = 0.2,
     node_name: str = "unknown",
 ) -> dict:
-    result = chat(prompt=prompt, system=system, temperature=temperature, node_name=node_name)
+    result = chat(
+        prompt=prompt, system=system, temperature=temperature, node_name=node_name
+    )
     raw = result.get("content", "")
     parsed = extract_json(raw)
     return {"parsed": parsed, "usage": result.get("usage", {}), "raw": raw}
@@ -100,7 +102,8 @@ def accumulate_usage(tracker: dict, usage: dict) -> dict:
     completion = usage.get("completion_tokens", 0)
     return {
         "total_prompt_tokens": tracker.get("total_prompt_tokens", 0) + prompt,
-        "total_completion_tokens": tracker.get("total_completion_tokens", 0) + completion,
+        "total_completion_tokens": tracker.get("total_completion_tokens", 0)
+        + completion,
         "total_cost_cny": tracker.get("total_cost_cny", 0.0),
         "calls": tracker.get("calls", 0) + 1,
     }
@@ -151,6 +154,34 @@ def load_recent_article_urls(days_back: int = 7) -> set[str]:
     return urls
 
 
+def load_pushed_ids() -> set[str]:
+    os.makedirs(os.path.dirname(_PUSHED_LOG_PATH), exist_ok=True)
+    if not os.path.isfile(_PUSHED_LOG_PATH):
+        return set()
+    try:
+        with open(_PUSHED_LOG_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        return set(data) if isinstance(data, list) else set()
+    except (OSError, ValueError):
+        return set()
+
+
+def save_pushed_ids(ids: set[str]) -> None:
+    os.makedirs(os.path.dirname(_PUSHED_LOG_PATH), exist_ok=True)
+    try:
+        with open(_PUSHED_LOG_PATH, "w", encoding="utf-8") as f:
+            json.dump(sorted(ids), f, ensure_ascii=False)
+    except OSError as e:
+        logger.error("保存已推送 ID 失败: %s", e)
+
+
+def mark_articles_pushed(article_ids: list[str]) -> None:
+    existing = load_pushed_ids()
+    existing.update(article_ids)
+    save_pushed_ids(existing)
+    logger.info("标记 %d 篇文章为已推送", len(article_ids))
+
+
 def update_index(articles_dir: str) -> None:
     index_path = os.path.join(articles_dir, "index.json")
     index: list[dict] = []
@@ -161,15 +192,17 @@ def update_index(articles_dir: str) -> None:
         try:
             with open(fp, encoding="utf-8") as f:
                 article = json.load(f)
-            index.append({
-                "id": article.get("id", ""),
-                "title": article.get("title", ""),
-                "source_url": article.get("source_url", ""),
-                "source_type": article.get("source_type", ""),
-                "tags": article.get("tags", []),
-                "status": article.get("status", ""),
-                "curated_at": article.get("curated_at", ""),
-            })
+            index.append(
+                {
+                    "id": article.get("id", ""),
+                    "title": article.get("title", ""),
+                    "source_url": article.get("source_url", ""),
+                    "source_type": article.get("source_type", ""),
+                    "tags": article.get("tags", []),
+                    "status": article.get("status", ""),
+                    "curated_at": article.get("curated_at", ""),
+                }
+            )
         except (json.JSONDecodeError, OSError) as e:
             logger.warning("[SaveNode] 跳过索引文件 %s: %s", fp, e)
     try:

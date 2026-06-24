@@ -1,3 +1,7 @@
 **/__pycache__/
 *.pyc
 logs/
+
+.trellis/workspace/
+.trellis/.runtime/
+.trellis/.developer

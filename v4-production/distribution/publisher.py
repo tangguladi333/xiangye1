@@ -8,13 +8,14 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-from dotenv import load_dotenv
-
-load_dotenv(str(Path(__file__).resolve().parent.parent / ".env"))
-
 import aiohttp
 
+from dotenv import load_dotenv
+
 from distribution.formatter import generate_daily_digest, json_to_feishu
+from workflows._shared import mark_articles_pushed
+
+load_dotenv(str(Path(__file__).resolve().parent.parent / ".env"))
 
 logger = logging.getLogger(__name__)
 
@@ -29,6 +30,7 @@ class PublishResult:
         message_id: 服务端返回的消息标识。
         error: 失败时的错误描述。
     """
+
     channel: str
     success: bool
     message_id: str = ""
@@ -198,7 +200,7 @@ class FeishuPublisher(BasePublisher):
 async def publish_daily_digest(
     knowledge_dir: str = "knowledge/articles",
     date: str | None = None,
-    top_n: int = 5,
+    top_n: int = 15,
 ) -> list[PublishResult]:
     """统一异步入口：生成当日简报并推送到所有已配置渠道。
 
@@ -206,11 +208,12 @@ async def publish_daily_digest(
         1. 调用 generate_daily_digest() 生成 Markdown / 飞书卡片内容。
         2. 无文章时记录日志并跳过。
         3. 有文章时通过 FeishuPublisher 并发推送所有卡片。
+        4. 推送成功后标记文章已推送，避免后续重复发送。
 
     Args:
         knowledge_dir: 文章目录路径，默认 "knowledge/articles"。
         date: 日期 "YYYY-MM-DD"，默认今天。
-        top_n: 简报包含的条目数上限，默认 5。
+        top_n: 简报包含的条目数上限，默认 15。
 
     Returns:
         各渠道推送结果列表。
@@ -232,4 +235,10 @@ async def publish_daily_digest(
         ]
 
     publisher = FeishuPublisher()
-    return await publisher.send_digest(digest)
+    results = await publisher.send_digest(digest)
+
+    all_success = all(r.success for r in results)
+    if all_success and digest.get("article_ids"):
+        mark_articles_pushed(digest["article_ids"])
+
+    return results

@@ -6,6 +6,8 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
+from workflows._shared import load_pushed_ids
+
 logger = logging.getLogger(__name__)
 
 _SOURCE_TYPE_LABELS: dict[str, str] = {
@@ -108,10 +110,12 @@ def json_to_feishu(article: dict) -> dict:
 
     elements: list[dict[str, Any]] = []
 
-    elements.append({
-        "tag": "markdown",
-        "content": f"**摘要**\n{_escape_feishu_md(summary)}",
-    })
+    elements.append(
+        {
+            "tag": "markdown",
+            "content": f"**摘要**\n{_escape_feishu_md(summary)}",
+        }
+    )
 
     if highlights:
         hl_text = "**亮点**\n" + "\n".join(
@@ -132,10 +136,12 @@ def json_to_feishu(article: dict) -> dict:
         elements.append({"tag": "markdown", "content": " | ".join(meta_parts)})
 
     if source_url:
-        elements.append({
-            "tag": "markdown",
-            "content": f"🔗 [原文链接]({source_url})",
-        })
+        elements.append(
+            {
+                "tag": "markdown",
+                "content": f"🔗 [原文链接]({source_url})",
+            }
+        )
 
     return {
         "msg_type": "interactive",
@@ -152,7 +158,8 @@ def json_to_feishu(article: dict) -> dict:
 def generate_daily_digest(
     knowledge_dir: str = "knowledge/articles",
     date: str | None = None,
-    top_n: int = 5,
+    top_n: int = 15,
+    exclude_pushed: bool = True,
 ) -> dict:
     """生成每日知识简报。
 
@@ -162,10 +169,11 @@ def generate_daily_digest(
     Args:
         knowledge_dir: 文章目录路径，默认 "knowledge/articles"。
         date: 日期 "YYYY-MM-DD"，默认今天。
-        top_n: 返回条数上限，默认 5。
+        top_n: 返回条数上限，默认 15。
+        exclude_pushed: 是否排除已推送的文章，默认 True。
 
     Returns:
-        当日有文章时返回 {"markdown": str, "feishu": list[dict]}，
+        当日有文章时返回 {"markdown": str, "feishu": list[dict], "article_ids": list[str]}，
         无文章时 markdown 为占位提示，feishu 为空列表。
     """
     if date is None:
@@ -182,10 +190,20 @@ def generate_daily_digest(
         except (OSError, ValueError) as e:
             logger.warning("跳过文件 %s: %s", fp, e)
 
+    if exclude_pushed:
+        pushed_ids = load_pushed_ids()
+        if pushed_ids:
+            before = len(articles)
+            articles = [a for a in articles if a.get("id", "") not in pushed_ids]
+            skipped = before - len(articles)
+            if skipped:
+                logger.info("已推送过滤: 跳过 %d 篇旧文章", skipped)
+
     if not articles:
         return {
             "markdown": _COMPLETED_NOTHING.format(date=date),
             "feishu": [],
+            "article_ids": [],
         }
 
     articles.sort(
@@ -196,13 +214,18 @@ def generate_daily_digest(
 
     md_parts: list[str] = [f"# 📋 知识简报 · {date}", ""]
     feishu_cards: list[dict] = []
+    article_ids: list[str] = []
 
     for i, art in enumerate(top_articles, 1):
         md_parts.append(f"### {i}. {art.get('title', '无标题')}")
         md_parts.append(json_to_markdown(art))
         feishu_cards.append(json_to_feishu(art))
+        aid = art.get("id", "")
+        if aid:
+            article_ids.append(aid)
 
     return {
         "markdown": "\n".join(md_parts),
         "feishu": feishu_cards,
+        "article_ids": article_ids,
     }

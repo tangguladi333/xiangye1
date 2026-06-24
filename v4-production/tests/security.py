@@ -11,7 +11,6 @@ from __future__ import annotations
 
 import json
 import os
-import re
 import time
 from collections import defaultdict
 from collections.abc import Sequence
@@ -26,8 +25,11 @@ _project_root = str(Path(__file__).resolve().parent.parent)
 if _project_root not in sys.path:
     sys.path.insert(0, _project_root)
 
-from workflows.security import sanitize_input, filter_output, MAX_INPUT_LENGTH
-
+from workflows.security import (
+    sanitize_input,
+    filter_output,
+    MAX_INPUT_LENGTH,
+)  # noqa: E402
 
 # ====================================================================
 #  3. 速率限制 — 滑动窗口
@@ -105,7 +107,9 @@ class AuditLogger:
     def _now(self) -> str:
         return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    def log_input(self, text: str, client_id: str = "", warnings: Sequence[str] | None = None) -> AuditEntry:
+    def log_input(
+        self, text: str, client_id: str = "", warnings: Sequence[str] | None = None
+    ) -> AuditEntry:
         """记录输入事件。"""
         entry = AuditEntry(
             timestamp=self._now(),
@@ -273,7 +277,7 @@ if __name__ == "__main__":
     dirty = "hello\x00world\x1fclean"
     c5, w5 = sanitize_input(dirty)
     assert c5 == "helloworldclean", f"控制字符未清除: {c5!r}"
-    print(f"  控制字符 ✅ ")
+    print("  控制字符 ✅ ")
 
     test_logger.log_input("test_1", "test")
 
@@ -330,16 +334,16 @@ if __name__ == "__main__":
     # 3a. 前 3 次应全部允许
     for i in range(3):
         assert limiter.check(client), f"第 {i+1} 次应允许"
-    print(f"  正常通过 ✅ 3/3 次允许")
+    print("  正常通过 ✅ 3/3 次允许")
     assert limiter.get_remaining(client) == 0, "剩余应为 0"
 
     # 3b. 第 4 次应限流
     assert not limiter.check(client), "第 4 次应限流"
-    print(f"  限流拦截 ✅ 第 4 次被拒绝")
+    print("  限流拦截 ✅ 第 4 次被拒绝")
 
     # 3c. 另一个客户端不受影响
     assert limiter.check("other-client"), "其他客户端应允许"
-    print(f"  客户端隔离 ✅ 其他客户端正常")
+    print("  客户端隔离 ✅ 其他客户端正常")
 
     test_logger.log_security("test_3")
 
@@ -350,8 +354,14 @@ if __name__ == "__main__":
 
     logger = AuditLogger()
     logger.log_input("用户输入测试", client_id="u001", warnings=["test"])
-    logger.log_output("模型输出测试", detections=[{"type": "phone", "match": "13800138000", "pos": 0}], client_id="u001")
-    logger.log_security("注入攻击拦截", warnings=["检测到 system prompt 覆盖"], client_id="u001")
+    logger.log_output(
+        "模型输出测试",
+        detections=[{"type": "phone", "match": "13800138000", "pos": 0}],
+        client_id="u001",
+    )
+    logger.log_security(
+        "注入攻击拦截", warnings=["检测到 system prompt 覆盖"], client_id="u001"
+    )
 
     summary = logger.get_summary()
     assert summary["total_events"] == 3, f"预期 3 条, 实际 {summary['total_events']}"

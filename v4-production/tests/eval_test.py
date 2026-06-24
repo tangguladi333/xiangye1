@@ -19,16 +19,16 @@ _project_root = str(Path(__file__).resolve().parent.parent)
 if _project_root not in sys.path:
     sys.path.insert(0, _project_root)
 
-from dotenv import load_dotenv
+from dotenv import load_dotenv  # noqa: E402
 
 load_dotenv()
 
-import pytest
+import pytest  # noqa: E402
 
 # 过滤未知标记警告（安全网，即便 pyproject.toml 已注册 slow）
 warnings.filterwarnings("ignore", message="unknown marker.*")
 
-from workflows.model_client import chat
+from workflows.model_client import chat  # noqa: E402
 
 # ====================================================================
 #  常量
@@ -138,9 +138,7 @@ def test_eval_case_structure() -> None:
         assert "name" in case, f"用例 {i} 缺少 name"
         assert "input" in case, f"用例 {i} 缺少 input"
         assert "expected" in case, f"用例 {i} 缺少 expected"
-        assert isinstance(case["expected"], dict), (
-            f"用例 {i} expected 必须是 dict"
-        )
+        assert isinstance(case["expected"], dict), f"用例 {i} expected 必须是 dict"
         assert isinstance(case["name"], str), f"用例 {i} name 必须是 str"
         assert isinstance(case["input"], str), f"用例 {i} input 必须是 str"
 
@@ -160,14 +158,14 @@ def test_local_validation() -> None:
     assert "quality_score_lt" in negative
 
     # 正面下限 >= 负面上限（确保分类有意义）
-    assert positive["quality_score_gte"] <= negative["quality_score_lt"], (
-        "正面和负面用例的 quality_score 范围应有区分"
-    )
+    assert (
+        positive["quality_score_gte"] <= negative["quality_score_lt"]
+    ), "正面和负面用例的 quality_score 范围应有区分"
 
     # 验证边界案例有 no_exception 标记
-    assert EVAL_CASES[2]["expected"].get("no_exception", False), (
-        "边界用例应标记 no_exception"
-    )
+    assert EVAL_CASES[2]["expected"].get(
+        "no_exception", False
+    ), "边界用例应标记 no_exception"
 
     # 验证用例名称不重复
     names = [c["name"] for c in EVAL_CASES]
@@ -202,24 +200,24 @@ def test_analyze_case(case: dict) -> None:
 
     # 范围断言
     if "summary_min_len" in expected:
-        assert len(summary) >= expected["summary_min_len"], (
-            f"摘要长度 {len(summary)} < {expected['summary_min_len']}"
-        )
+        assert (
+            len(summary) >= expected["summary_min_len"]
+        ), f"摘要长度 {len(summary)} < {expected['summary_min_len']}"
 
     if "quality_score_gte" in expected:
-        assert quality_score >= expected["quality_score_gte"], (
-            f"quality_score {quality_score} < {expected['quality_score_gte']}"
-        )
+        assert (
+            quality_score >= expected["quality_score_gte"]
+        ), f"quality_score {quality_score} < {expected['quality_score_gte']}"
 
     if "quality_score_lt" in expected:
-        assert quality_score < expected["quality_score_lt"], (
-            f"quality_score {quality_score} >= {expected['quality_score_lt']}"
-        )
+        assert (
+            quality_score < expected["quality_score_lt"]
+        ), f"quality_score {quality_score} >= {expected['quality_score_lt']}"
 
     if "highlights_min" in expected:
-        assert len(highlights) >= expected["highlights_min"], (
-            f"highlights 数量 {len(highlights)} < {expected['highlights_min']}"
-        )
+        assert (
+            len(highlights) >= expected["highlights_min"]
+        ), f"highlights 数量 {len(highlights)} < {expected['highlights_min']}"
 
 
 # ====================================================================
@@ -262,4 +260,5 @@ def test_llm_as_judge() -> None:
 
 if __name__ == "__main__":
     import pytest
+
     pytest.main([__file__])

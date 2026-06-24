@@ -4,7 +4,29 @@ version = "0.1.0"
 description = "AI Knowledge Base - V4 Production"
 requires-python = ">=3.10"
 
+[tool.black]
+line-length = 88
+target-version = ["py313"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py313"
+
+[tool.ruff.lint]
+ignore = ["E402"]
+
+[tool.ruff.format]
+preview = true
+
 [tool.pytest.ini_options]
 markers = [
     "slow: marks tests as slow (deselect with '-m \"not slow\"')",
 ]
+testpaths = ["v4-production/tests"]
+
+[tool.coverage.run]
+source = ["v4-production"]
+relative_files = true
+
+[tool.coverage.report]
+fail_under = 80

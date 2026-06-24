@@ -5,7 +5,6 @@
 
 from __future__ import annotations
 
-import glob
 import json
 import logging
 import os
@@ -21,7 +20,7 @@ _workflows_dir = str(Path(__file__).resolve().parent)
 if _workflows_dir not in sys.path:
     sys.path.insert(0, _workflows_dir)
 
-from _shared import update_index
+from _shared import update_index  # noqa: E402
 
 logger = logging.getLogger(__name__)
 
@@ -29,19 +28,23 @@ BASE_DIR: str = _project_root
 ARTICLES_DIR: str = os.path.join(BASE_DIR, "knowledge", "articles")
 
 # ── 从 agent 文件导入（同目录，直接 import）────────────────────────
-from collector_agent import collector_agent as collect_node  # type: ignore[import-untyped]
-from analyzer_agent import analyzer_agent as analyze_node  # type: ignore[import-untyped]
-from reviewer_agent import reviewer_agent as review_node  # type: ignore[import-untyped]
-from organizer_agent import organizer_agent  # type: ignore[import-untyped]
-from reviser_agent import reviser_agent  # type: ignore[import-untyped]
+from collector_agent import collector_agent as collect_node  # type: ignore[import-untyped]  # noqa: E402
+from analyzer_agent import analyzer_agent as analyze_node  # type: ignore[import-untyped]  # noqa: E402
+from reviewer_agent import reviewer_agent as review_node  # type: ignore[import-untyped]  # noqa: E402
+from organizer_agent import organizer_agent  # type: ignore[import-untyped]  # noqa: E402
+from reviser_agent import reviser_agent  # type: ignore[import-untyped]  # noqa: E402
 
 
 def organize_node(state: dict) -> dict:
     updates = organizer_agent(state)
     if state.get("iteration", 0) > 0 and state.get("review_feedback"):
         revise_updates = reviser_agent({**state, **updates})
-        updates["articles"] = revise_updates.get("articles", updates.get("articles", []))
-        updates["cost_tracker"] = revise_updates.get("cost_tracker", updates.get("cost_tracker", {}))
+        updates["articles"] = revise_updates.get(
+            "articles", updates.get("articles", [])
+        )
+        updates["cost_tracker"] = revise_updates.get(
+            "cost_tracker", updates.get("cost_tracker", {})
+        )
     return updates
 
 
@@ -158,6 +161,10 @@ if __name__ == "__main__":
     print(f"  来源: {len(state['sources'])}")
     print(f"  分析: {len(state['analyses'])}")
     print(f"  条目: {len(state['articles'])}")
-    print(f"  审核: {'通过' if state['review_passed'] else '未通过'} (轮次 {state['iteration']})")
-    print(f"  Token: {state['cost_tracker']['total_prompt_tokens']} prompt / {state['cost_tracker']['total_completion_tokens']} completion")
+    print(
+        f"  审核: {'通过' if state['review_passed'] else '未通过'} (轮次 {state['iteration']})"
+    )
+    print(
+        f"  Token: {state['cost_tracker']['total_prompt_tokens']} prompt / {state['cost_tracker']['total_completion_tokens']} completion"
+    )
     print(f"  调用: {state['cost_tracker']['calls']} 次")

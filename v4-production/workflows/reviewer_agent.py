@@ -41,7 +41,9 @@ def reviewer_agent(state: dict) -> dict:
     cost_tracker = dict(state.get("cost_tracker", {}))
 
     if iteration >= _REVIEW_FORCE_PASS_ITERATION:
-        logger.info(f"[ReviewerAgent] iteration={iteration} >= {_REVIEW_FORCE_PASS_ITERATION}，强制通过")
+        logger.info(
+            f"[ReviewerAgent] iteration={iteration} >= {_REVIEW_FORCE_PASS_ITERATION}，强制通过"
+        )
         return {
             "review_passed": True,
             "review_feedback": "强制通过（超过审核轮次上限）",
@@ -59,7 +61,11 @@ def reviewer_agent(state: dict) -> dict:
         }
 
     articles_summary = [
-        {"title": a.get("title", ""), "summary": a.get("summary", ""), "tags": a.get("tags", [])}
+        {
+            "title": a.get("title", ""),
+            "summary": a.get("summary", ""),
+            "tags": a.get("tags", []),
+        }
         for a in articles
     ]
 
@@ -67,7 +73,12 @@ def reviewer_agent(state: dict) -> dict:
         f"请审核以下 {len(articles)} 条知识条目：\n"
         f"{json.dumps(articles_summary, ensure_ascii=False, indent=2)}"
     )
-    result = chat_json(prompt=prompt, system=_REVIEW_SYSTEM, temperature=0.2, node_name="reviewer_agent")
+    result = chat_json(
+        prompt=prompt,
+        system=_REVIEW_SYSTEM,
+        temperature=0.2,
+        node_name="reviewer_agent",
+    )
     cost_tracker = accumulate_usage(cost_tracker, result["usage"])
 
     parsed = result["parsed"]
@@ -84,7 +95,9 @@ def reviewer_agent(state: dict) -> dict:
     feedback: str = parsed.get("feedback", "")
     overall_score: float = parsed.get("overall_score", 3.0)
 
-    logger.info(f"[ReviewerAgent] 评分 {overall_score:.1f}/5，通过={passed}，反馈={feedback[:40]}...")
+    logger.info(
+        f"[ReviewerAgent] 评分 {overall_score:.1f}/5，通过={passed}，反馈={feedback[:40]}..."
+    )
     return {
         "review_passed": passed,
         "review_feedback": feedback,
