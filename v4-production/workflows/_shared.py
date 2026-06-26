@@ -20,6 +20,7 @@ if _v4_root not in sys.path:
     sys.path.insert(0, _v4_root)
 
 from workflows.model_client import chat  # noqa: E402
+from workflows.security import sanitize_input, filter_output  # noqa: E402
 
 # 静音底层库日志
 logging.getLogger("httpx").setLevel(logging.WARNING)
