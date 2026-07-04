@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-d4vinciscrapling",
+  "title": "D4Vinci/Scrapling",
+  "source_url": "https://github.com/D4Vinci/Scrapling",
+  "source_type": "github_trending",
+  "summary": "Scrapling 是一个轻量级、高性能的 Python 网页抓取库，支持智能元素定位、自动处理反爬机制，并提供简洁的 API 进行数据提取。",
+  "highlights": [
+    "内置智能元素选择器，支持 CSS/XPath/文本匹配混合定位",
+    "自动处理反爬虫机制（如 Cloudflare、JavaScript 渲染）",
+    "轻量无依赖，性能优于同类库（如 Scrapy、BeautifulSoup）"
+  ],
+  "use_cases": [
+    "快速构建数据采集爬虫",
+    "自动化测试中的网页内容提取",
+    "监控网页变化并抓取特定信息"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "web-scraping",
+    "python",
+    "anti-bot",
+    "data-extraction"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:06Z",
+  "analyzed_at": "2026-07-04T09:31:18Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

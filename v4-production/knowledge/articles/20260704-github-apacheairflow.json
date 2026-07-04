@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-apacheairflow",
+  "title": "apache/airflow",
+  "source_url": "https://github.com/apache/airflow",
+  "source_type": "github_trending",
+  "summary": "Apache Airflow 是一个开源的工作流调度和监控平台，用于以编程方式创建、调度和监控数据管道。它支持动态管道定义、丰富的集成和可扩展性。",
+  "highlights": [
+    "支持动态生成和调度复杂工作流",
+    "拥有丰富的操作符和集成生态系统",
+    "活跃的社区和 Apache 基金会支持"
+  ],
+  "use_cases": [
+    "数据管道编排和调度",
+    "ETL 流程自动化",
+    "机器学习工作流管理"
+  ],
+  "maturity": {
+    "stars": 38000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "workflow",
+    "scheduler",
+    "data-pipeline",
+    "etl",
+    "orchestration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:06Z",
+  "analyzed_at": "2026-07-04T09:30:52Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

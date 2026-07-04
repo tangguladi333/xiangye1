@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-rommappromm",
+  "title": "rommapp/romm",
+  "source_url": "https://github.com/rommapp/romm",
+  "source_type": "github_trending",
+  "summary": "RomM 是一个开源的 ROM 管理器和模拟器前端，支持多平台游戏库管理、元数据自动刮削和跨设备同步，提供现代化的 Web 界面。",
+  "highlights": [
+    "支持多种模拟器核心和游戏平台，如 Nintendo、Sega、Sony 等",
+    "自动刮削游戏元数据（封面、描述、评分等），支持 IGDB 和 Mobygames",
+    "提供响应式 Web 界面，支持桌面和移动设备访问"
+  ],
+  "use_cases": [
+    "个人游戏 ROM 库的集中管理和浏览",
+    "家庭或小团体共享游戏收藏",
+    "模拟器玩家跨设备同步游戏进度和设置"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "rom-manager",
+    "emulator-frontend",
+    "self-hosted",
+    "gaming",
+    "metadata-scraper"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:30Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

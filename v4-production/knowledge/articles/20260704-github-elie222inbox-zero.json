@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-elie222inbox-zero",
+  "title": "elie222/inbox-zero",
+  "source_url": "https://github.com/elie222/inbox-zero",
+  "source_type": "github_trending",
+  "summary": "开源 AI 邮件助手，自动分类、摘要、回复邮件，实现 Inbox Zero 目标。",
+  "highlights": [
+    "基于 LLM 的邮件智能分类与摘要",
+    "支持 Gmail 深度集成，自动处理邮件",
+    "开源且可自托管，保护用户隐私"
+  ],
+  "use_cases": [
+    "个人邮件管理，减少收件箱杂乱",
+    "企业团队邮件自动化处理与优先级排序"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "email",
+    "productivity",
+    "gmail",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:06Z",
+  "analyzed_at": "2026-07-04T09:32:05Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

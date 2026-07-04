@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-conductor-ossconduct",
+  "title": "conductor-oss/conductor",
+  "source_url": "https://github.com/conductor-oss/conductor",
+  "source_type": "github_trending",
+  "summary": "Conductor 是一个由 Netflix 开源的微服务编排引擎，支持工作流定义、任务调度、状态管理和分布式执行，适用于构建可靠、可扩展的微服务应用。",
+  "highlights": [
+    "支持复杂工作流定义，包括顺序、并行、条件分支和循环",
+    "提供丰富的任务类型和可扩展的任务实现机制",
+    "具备强大的监控、追踪和重试机制，确保工作流可靠性"
+  ],
+  "use_cases": [
+    "微服务编排与协调",
+    "工作流自动化与业务流程管理",
+    "分布式任务调度与执行"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "orchestration",
+    "workflow",
+    "microservices",
+    "distributed-systems"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:06Z",
+  "analyzed_at": "2026-07-04T09:30:55Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

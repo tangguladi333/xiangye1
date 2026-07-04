@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-x1xhlolsystem-prompt",
+  "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "source_type": "github_trending",
+  "summary": "收集并整理各类AI工具的系统提示词与模型信息，帮助用户了解不同AI产品的底层配置与行为设定。",
+  "highlights": [
+    "系统性收录了多种主流AI工具的系统提示词",
+    "便于对比分析不同AI产品的行为差异",
+    "为AI应用开发与调试提供参考素材"
+  ],
+  "use_cases": [
+    "AI产品逆向分析与行为研究",
+    "提示词工程学习与参考",
+    "AI工具选型与对比评估"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-tools",
+    "system-prompts",
+    "prompt-engineering",
+    "model-config"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:03Z",
+  "analyzed_at": "2026-07-04T09:28:26Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

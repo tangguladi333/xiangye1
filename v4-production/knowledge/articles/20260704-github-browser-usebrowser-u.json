@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-browser-usebrowser-u",
+  "title": "browser-use/browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github_trending",
+  "summary": "一个让AI代理能够像人类一样操作浏览器的开源工具，支持点击、输入、导航等自动化任务。",
+  "highlights": [
+    "基于LLM的智能浏览器操作，无需预定义规则",
+    "支持多标签页、表单填写、截图等复杂交互",
+    "提供Python API和命令行接口，易于集成"
+  ],
+  "use_cases": [
+    "自动化网页测试与数据抓取",
+    "AI驱动的RPA（机器人流程自动化）",
+    "智能客服与网页交互代理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "browser-automation",
+    "web-scraping"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:03Z",
+  "analyzed_at": "2026-07-04T09:28:38Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

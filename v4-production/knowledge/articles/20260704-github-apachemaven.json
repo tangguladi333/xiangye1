@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-apachemaven",
+  "title": "apache/maven",
+  "source_url": "https://github.com/apache/maven",
+  "source_type": "github_trending",
+  "summary": "Apache Maven 是一个流行的 Java 项目构建和依赖管理工具，提供标准化的构建生命周期和插件系统。",
+  "highlights": [
+    "广泛使用的 Java 构建工具，拥有庞大的用户和插件生态",
+    "支持声明式依赖管理和多模块项目构建",
+    "由 Apache 软件基金会维护，社区活跃且稳定"
+  ],
+  "use_cases": [
+    "Java 项目的自动化构建、测试和部署",
+    "企业级多模块项目的依赖管理和版本控制"
+  ],
+  "maturity": {
+    "stars": 4200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "java",
+    "build-tool",
+    "dependency-management",
+    "maven"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:38Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

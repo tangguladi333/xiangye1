@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-joshuac215agent-serv",
+  "title": "JoshuaC215/agent-service-toolkit",
+  "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+  "source_type": "github_trending",
+  "summary": "一个用于构建和部署 AI 代理服务的工具包，提供模块化组件和最佳实践，支持快速开发生产级代理应用。",
+  "highlights": [
+    "提供预构建的代理服务模块，降低开发门槛",
+    "支持多种 LLM 后端集成，灵活切换",
+    "包含部署和监控的最佳实践指南"
+  ],
+  "use_cases": [
+    "快速搭建基于 LLM 的客户服务代理",
+    "构建自动化任务处理工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "toolkit",
+    "deployment"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:04Z",
+  "analyzed_at": "2026-07-04T09:29:02Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

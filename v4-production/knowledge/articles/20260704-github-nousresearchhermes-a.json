@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-nousresearchhermes-a",
+  "title": "NousResearch/hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_type": "github_trending",
+  "summary": "Hermes Agent 是一个基于 LLM 的自主智能体框架，支持多工具调用、记忆管理和任务规划，旨在简化复杂工作流的构建与执行。",
+  "highlights": [
+    "支持多种 LLM 后端（如 OpenAI、Anthropic）",
+    "内置记忆系统和上下文管理机制",
+    "提供模块化工具调用和任务编排能力"
+  ],
+  "use_cases": [
+    "自动化工作流与任务调度",
+    "智能客服与对话系统",
+    "研究实验中的自主探索与数据分析"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "tool-use",
+    "memory"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:03Z",
+  "analyzed_at": "2026-07-04T09:28:14Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

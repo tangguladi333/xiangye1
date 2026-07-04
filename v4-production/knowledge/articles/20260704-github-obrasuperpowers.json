@@ -1,0 +1,30 @@
+{
+  "id": "20260704-github-obrasuperpowers",
+  "title": "obra/superpowers",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_type": "github_trending",
+  "summary": "Superpowers 是一个用于构建 AI 代理的开源框架，提供模块化工具和运行时环境，支持快速开发与部署。",
+  "highlights": [
+    "提供可组合的代理模块，简化复杂工作流构建",
+    "内置运行时支持多种 AI 模型和外部服务集成",
+    "活跃的社区维护，文档和示例丰富"
+  ],
+  "use_cases": [
+    "自动化任务编排与智能决策系统",
+    "多步骤业务流程的 AI 代理实现"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "framework",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:03Z",
+  "analyzed_at": "2026-07-04T09:28:11Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

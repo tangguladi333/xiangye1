@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-usestrixstrix",
+  "title": "usestrix/strix",
+  "source_url": "https://github.com/usestrix/strix",
+  "source_type": "github_trending",
+  "summary": "Strix 是一个开源平台，用于构建、部署和管理 AI 代理，提供可视化工作流编辑器和可扩展的运行时环境。",
+  "highlights": [
+    "可视化工作流编辑器，降低 AI 代理开发门槛",
+    "支持多种 LLM 和工具集成，灵活扩展",
+    "内置监控和日志功能，便于生产环境调试"
+  ],
+  "use_cases": [
+    "自动化客服与对话系统",
+    "复杂业务流程的 AI 编排",
+    "企业内部知识库与决策辅助"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "workflow",
+    "llm",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:04Z",
+  "analyzed_at": "2026-07-04T09:29:49Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-vercelai",
+  "title": "vercel/ai",
+  "source_url": "https://github.com/vercel/ai",
+  "source_type": "github_trending",
+  "summary": "Vercel 推出的 AI SDK，提供统一的 React/Next.js 接口来调用多种 AI 模型（如 OpenAI、Anthropic），支持流式响应、工具调用和生成式 UI。",
+  "highlights": [
+    "支持多种 AI 提供商（OpenAI、Anthropic、Google 等）的统一 API",
+    "内置流式文本和工具调用支持",
+    "与 Next.js 和 React 深度集成，支持生成式 UI 组件"
+  ],
+  "use_cases": [
+    "在 Next.js 应用中快速集成聊天机器人或 AI 助手",
+    "构建支持流式输出的实时 AI 交互界面",
+    "需要多模型切换或工具调用的复杂 AI 应用"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "sdk",
+    "react",
+    "nextjs",
+    "streaming"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:05Z",
+  "analyzed_at": "2026-07-04T09:30:34Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

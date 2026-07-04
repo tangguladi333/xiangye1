@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-agentskillsagentskil",
+  "title": "agentskills/agentskills",
+  "source_url": "https://github.com/agentskills/agentskills",
+  "source_type": "github_trending",
+  "summary": "AgentSkills 是一个用于训练和评估 AI 智能体在复杂任务中技能的开源框架，支持多环境、多任务和强化学习。",
+  "highlights": [
+    "提供统一的智能体技能训练与评估接口",
+    "支持多种环境（如网页、游戏、机器人）",
+    "集成强化学习与模仿学习算法"
+  ],
+  "use_cases": [
+    "AI 智能体在虚拟环境中的技能学习",
+    "自动化任务执行与策略优化研究"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "reinforcement-learning",
+    "skill-learning",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:46Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-openaicodex-plugin-c",
+  "title": "openai/codex-plugin-cc",
+  "source_url": "https://github.com/openai/codex-plugin-cc",
+  "source_type": "github_trending",
+  "summary": "OpenAI 的 Codex 插件，用于在 ChatGPT 中集成代码解释和执行功能，支持多种编程语言。",
+  "highlights": [
+    "由 OpenAI 官方维护，与 ChatGPT 深度集成",
+    "支持 Python、JavaScript 等多种语言的代码执行",
+    "提供沙箱环境，确保代码运行安全"
+  ],
+  "use_cases": [
+    "在 ChatGPT 中运行和调试代码片段",
+    "教育场景下的交互式编程学习",
+    "快速原型验证和数据分析"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "openai",
+    "codex",
+    "chatgpt",
+    "plugin",
+    "code-execution"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:10Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

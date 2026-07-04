@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-chromedevtoolschrome",
+  "title": "ChromeDevTools/chrome-devtools-mcp",
+  "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "source_type": "github_trending",
+  "summary": "Chrome DevTools 的 MCP 服务器，允许 AI 代理通过 Chrome DevTools 协议直接控制浏览器，实现自动化调试和操作。",
+  "highlights": [
+    "由 Chrome DevTools 团队官方维护，权威性高",
+    "支持通过 MCP 协议与 AI 代理集成，实现浏览器自动化控制",
+    "提供丰富的 DevTools 协议功能，如元素检查、网络监控、性能分析等"
+  ],
+  "use_cases": [
+    "AI 驱动的自动化测试和调试",
+    "基于 LLM 的浏览器操作代理（如自动填表、页面分析）",
+    "集成到开发工具链中，实现智能化的前端调试"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "chrome-devtools",
+    "mcp",
+    "browser-automation",
+    "debugging",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:21Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

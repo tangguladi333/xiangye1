@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-supabasesupabase",
+  "title": "supabase/supabase",
+  "source_url": "https://github.com/supabase/supabase",
+  "source_type": "github_trending",
+  "summary": "Supabase 是一个开源的 Firebase 替代品，提供数据库、认证、实时订阅、存储和边缘函数等后端服务，支持自托管和云服务。",
+  "highlights": [
+    "提供 PostgreSQL 数据库、认证、实时 API、存储和边缘函数的一体化后端平台",
+    "支持自托管部署，拥有活跃的社区和丰富的文档",
+    "与 Firebase 功能对标，但基于开源技术栈，数据完全可控"
+  ],
+  "use_cases": [
+    "快速构建 Web 和移动应用的后端基础设施",
+    "替代 Firebase 实现开源、自托管的实时应用",
+    "为初创项目或小团队提供低成本、可扩展的后端服务"
+  ],
+  "maturity": {
+    "stars": 75000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "supabase",
+    "firebase-alternative",
+    "postgresql",
+    "backend-as-a-service",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:49Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

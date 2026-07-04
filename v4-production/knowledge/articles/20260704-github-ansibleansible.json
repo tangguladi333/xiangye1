@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-ansibleansible",
+  "title": "ansible/ansible",
+  "source_url": "https://github.com/ansible/ansible",
+  "source_type": "github_trending",
+  "summary": "Ansible 是一个开源的 IT 自动化平台，用于配置管理、应用部署和任务编排，采用无代理架构，通过 SSH 连接管理节点。",
+  "highlights": [
+    "无代理架构，通过 SSH 管理节点，降低部署复杂度",
+    "支持 Playbook 的声明式语言，易于学习和复用",
+    "拥有庞大的社区和丰富的模块库，覆盖多种 IT 场景"
+  ],
+  "use_cases": [
+    "服务器配置管理和一致性维护",
+    "多节点应用部署和更新",
+    "持续交付和基础设施即代码实践"
+  ],
+  "maturity": {
+    "stars": 63000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "automation",
+    "configuration-management",
+    "devops",
+    "infrastructure-as-code"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:23Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

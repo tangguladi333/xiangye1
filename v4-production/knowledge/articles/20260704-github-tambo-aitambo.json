@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-tambo-aitambo",
+  "title": "tambo-ai/tambo",
+  "source_url": "https://github.com/tambo-ai/tambo",
+  "source_type": "github_trending",
+  "summary": "Tambo 是一个用于构建 AI 代理的开源框架，支持多步骤任务编排、工具集成和状态管理，旨在简化复杂工作流的开发。",
+  "highlights": [
+    "提供模块化代理架构，支持灵活的任务编排",
+    "内置丰富的工具集成接口，便于扩展",
+    "强调状态管理和错误恢复机制，提升稳定性"
+  ],
+  "use_cases": [
+    "自动化多步骤业务流程（如数据流水线）",
+    "构建智能客服或虚拟助手系统",
+    "开发需要上下文记忆的复杂 AI 应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "workflow",
+    "framework",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:05Z",
+  "analyzed_at": "2026-07-04T09:30:14Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-harvard-edgecs249rbo",
+  "title": "harvard-edge/cs249r_book",
+  "source_url": "https://github.com/harvard-edge/cs249r_book",
+  "source_type": "github_trending",
+  "summary": "哈佛大学边缘计算课程CS249R的配套教材，涵盖TinyML、嵌入式机器学习等主题，包含代码示例和实验。",
+  "highlights": [
+    "由哈佛大学官方维护，学术背景强",
+    "内容系统，覆盖TinyML全流程",
+    "包含可运行的代码和实验项目"
+  ],
+  "use_cases": [
+    "嵌入式机器学习教学",
+    "TinyML入门与进阶学习",
+    "边缘AI研究与实验"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "tinyml",
+    "embedded-ml",
+    "education",
+    "edge-computing"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:33Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

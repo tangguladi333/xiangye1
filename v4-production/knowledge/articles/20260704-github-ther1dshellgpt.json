@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-ther1dshellgpt",
+  "title": "TheR1D/shell_gpt",
+  "source_url": "https://github.com/TheR1D/shell_gpt",
+  "source_type": "github_trending",
+  "summary": "Shell GPT 是一个命令行工具，利用 GPT 模型直接从终端生成 shell 命令、代码片段和文档，提升开发者效率。",
+  "highlights": [
+    "支持多种 GPT 模型（如 GPT-4、GPT-3.5）",
+    "可生成 shell 命令、代码片段和自然语言解释",
+    "提供交互式 shell 模式和自定义提示功能"
+  ],
+  "use_cases": [
+    "快速生成复杂 shell 命令",
+    "自动化脚本编写和调试",
+    "学习 Linux 命令和编程语言"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "cli",
+    "shell",
+    "gpt",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:06Z",
+  "analyzed_at": "2026-07-04T09:32:02Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

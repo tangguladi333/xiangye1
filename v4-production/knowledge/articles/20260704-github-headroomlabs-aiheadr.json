@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-headroomlabs-aiheadr",
+  "title": "headroomlabs-ai/headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github_trending",
+  "summary": "Headroom 是一个开源的多模态 AI 助手平台，支持文本、图像、音频等多种输入，提供可定制的对话界面和 API 接口。",
+  "highlights": [
+    "支持多模态输入（文本、图像、音频）",
+    "提供可定制的对话界面和 API",
+    "基于开源模型，注重隐私和本地部署"
+  ],
+  "use_cases": [
+    "构建个性化 AI 助手",
+    "多模态交互应用开发",
+    "本地化 AI 服务部署"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multimodal",
+    "ai-assistant",
+    "open-source",
+    "privacy"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:04Z",
+  "analyzed_at": "2026-07-04T09:29:36Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

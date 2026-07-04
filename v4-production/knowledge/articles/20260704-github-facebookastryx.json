@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-facebookastryx",
+  "title": "facebook/astryx",
+  "source_url": "https://github.com/facebook/astryx",
+  "source_type": "github_trending",
+  "summary": "Astryx 是 Meta 开源的端到端 AI 系统，用于高效训练和部署大规模推荐模型，支持稀疏特征与分布式训练。",
+  "highlights": [
+    "端到端推荐系统框架，覆盖训练到部署全流程",
+    "针对大规模稀疏特征和分布式训练深度优化",
+    "Meta 内部验证，具备工业级可靠性"
+  ],
+  "use_cases": [
+    "大规模推荐系统（如广告、内容推荐）",
+    "需要高效处理稀疏特征的机器学习场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "recommender-system",
+    "distributed-training",
+    "sparse-features",
+    "meta"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:26Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-google-geminigemini-",
+  "title": "google-gemini/gemini-cli",
+  "source_url": "https://github.com/google-gemini/gemini-cli",
+  "source_type": "github_trending",
+  "summary": "Google 官方推出的 Gemini CLI 工具，支持在终端中直接与 Gemini 模型交互，实现对话、代码生成、文件处理等功能。",
+  "highlights": [
+    "Google 官方维护，与 Gemini 模型深度集成",
+    "支持多模态输入（文本、图片、代码）",
+    "提供交互式对话和单次查询两种模式"
+  ],
+  "use_cases": [
+    "开发者终端中的 AI 助手，快速获取代码建议或解释",
+    "自动化脚本中集成 Gemini 模型能力"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "gemini",
+    "cli",
+    "google",
+    "ai-assistant"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:03Z",
+  "analyzed_at": "2026-07-04T09:28:35Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

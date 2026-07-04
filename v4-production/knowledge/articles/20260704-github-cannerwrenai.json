@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-cannerwrenai",
+  "title": "Canner/WrenAI",
+  "source_url": "https://github.com/Canner/WrenAI",
+  "source_type": "github_trending",
+  "summary": "WrenAI 是一个开源的文本到SQL引擎，帮助用户通过自然语言查询数据，无需编写SQL。它提供AI驱动的数据探索和可视化功能。",
+  "highlights": [
+    "支持自然语言直接查询数据库，降低数据分析门槛",
+    "提供AI驱动的数据可视化与洞察生成",
+    "模块化架构，易于集成和扩展"
+  ],
+  "use_cases": [
+    "非技术用户快速查询企业数据库",
+    "数据团队加速报表生成与探索分析"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "text-to-sql",
+    "nlp",
+    "data-analysis",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:05Z",
+  "analyzed_at": "2026-07-04T09:30:07Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

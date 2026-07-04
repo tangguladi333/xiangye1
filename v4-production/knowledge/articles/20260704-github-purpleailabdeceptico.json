@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-purpleailabdeceptico",
+  "title": "PurpleAILAB/Decepticon",
+  "source_url": "https://github.com/PurpleAILAB/Decepticon",
+  "source_type": "github_trending",
+  "summary": "Decepticon 是一个用于构建和部署 AI 代理的框架，专注于多代理协作和任务自动化，支持灵活的工具集成。",
+  "highlights": [
+    "支持多代理协作与动态任务分配",
+    "提供丰富的预构建工具和插件系统",
+    "基于事件驱动的架构，易于扩展"
+  ],
+  "use_cases": [
+    "自动化工作流编排",
+    "智能客服与对话系统",
+    "复杂任务分解与执行"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "multi-agent",
+    "automation",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:04Z",
+  "analyzed_at": "2026-07-04T09:28:59Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-langchain-ailangchai",
+  "title": "langchain-ai/langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source_type": "github_trending",
+  "summary": "LangChain 是一个用于构建基于大语言模型（LLM）的应用程序的框架，支持链式调用、代理、记忆和工具集成，简化了复杂 AI 工作流的开发。",
+  "highlights": [
+    "提供模块化组件（链、代理、记忆、工具）以灵活构建 LLM 应用",
+    "支持多种 LLM 提供商（OpenAI、Hugging Face 等）和外部工具集成",
+    "活跃的社区和丰富的文档，持续更新以适配最新模型和功能"
+  ],
+  "use_cases": [
+    "构建对话式 AI 助手（如客服机器人）",
+    "自动化工作流（如文档问答、数据提取）",
+    "开发智能代理（如代码生成、任务规划）"
+  ],
+  "maturity": {
+    "stars": 120000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "chain",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:03Z",
+  "analyzed_at": "2026-07-04T09:28:29Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

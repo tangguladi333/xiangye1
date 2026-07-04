@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-nashsullmwiki",
+  "title": "nashsu/llm_wiki",
+  "source_url": "https://github.com/nashsu/llm_wiki",
+  "source_type": "github_trending",
+  "summary": "LLM Wiki 是一个收集和整理大型语言模型相关资源、论文、工具和教程的社区驱动知识库，旨在为研究人员和开发者提供一站式参考。",
+  "highlights": [
+    "涵盖模型、训练、推理、应用等广泛主题",
+    "社区贡献，持续更新",
+    "结构清晰，便于快速查找"
+  ],
+  "use_cases": [
+    "LLM 入门学习与知识梳理",
+    "研究参考与工具选型"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "knowledge-base",
+    "resources",
+    "wiki"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:05Z",
+  "analyzed_at": "2026-07-04T09:30:39Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

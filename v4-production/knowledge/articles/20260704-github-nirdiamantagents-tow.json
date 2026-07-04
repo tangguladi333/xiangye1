@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-nirdiamantagents-tow",
+  "title": "NirDiamant/agents-towards-production",
+  "source_url": "https://github.com/NirDiamant/agents-towards-production",
+  "source_type": "github_trending",
+  "summary": "一个专注于将AI代理从原型推向生产环境的实用指南和代码库，涵盖设计、部署、监控等关键环节。",
+  "highlights": [
+    "提供从零到生产的完整代理开发流程",
+    "包含实际案例和可复用的代码模板",
+    "强调生产环境中的可靠性和可扩展性"
+  ],
+  "use_cases": [
+    "构建生产级AI代理系统",
+    "学习和实践代理部署最佳实践"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "production",
+    "deployment",
+    "best-practices"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:04Z",
+  "analyzed_at": "2026-07-04T09:28:53Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

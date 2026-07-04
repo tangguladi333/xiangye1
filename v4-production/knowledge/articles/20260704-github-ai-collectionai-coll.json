@@ -1,0 +1,31 @@
+{
+  "id": "20260704-github-ai-collectionai-coll",
+  "title": "ai-collection/ai-collection",
+  "source_url": "https://github.com/ai-collection/ai-collection",
+  "source_type": "github_trending",
+  "summary": "一个汇集了多种AI工具和资源的精选列表，涵盖文本、图像、视频、音频等多个领域，方便用户发现和比较。",
+  "highlights": [
+    "收录超过1000个AI工具，覆盖广泛的应用场景",
+    "按类别（如文本、图像、视频）和用途（如写作、设计）进行组织，易于导航",
+    "社区驱动，持续更新，包含用户评价和链接"
+  ],
+  "use_cases": [
+    "寻找特定AI工具（如文本生成、图像编辑）",
+    "探索AI领域最新工具和趋势"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ai",
+    "tools",
+    "collection",
+    "resources"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:05Z",
+  "analyzed_at": "2026-07-04T09:30:18Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-elasticelasticsearch",
+  "title": "elastic/elasticsearch",
+  "source_url": "https://github.com/elastic/elasticsearch",
+  "source_type": "github_trending",
+  "summary": "Elasticsearch 是一个基于 Lucene 的分布式搜索和分析引擎，广泛应用于日志分析、全文搜索和实时数据处理。",
+  "highlights": [
+    "高可扩展性和分布式架构",
+    "强大的全文搜索和聚合分析能力",
+    "丰富的 RESTful API 和生态系统"
+  ],
+  "use_cases": [
+    "日志和指标分析（如 ELK Stack）",
+    "全文搜索和推荐系统",
+    "实时数据监控和可视化"
+  ],
+  "maturity": {
+    "stars": 72000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "search",
+    "analytics",
+    "distributed",
+    "lucene",
+    "log-analysis"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:15Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

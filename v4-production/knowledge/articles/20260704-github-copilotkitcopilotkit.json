@@ -1,0 +1,34 @@
+{
+  "id": "20260704-github-copilotkitcopilotkit",
+  "title": "CopilotKit/CopilotKit",
+  "source_url": "https://github.com/CopilotKit/CopilotKit",
+  "source_type": "github_trending",
+  "summary": "CopilotKit 是一个开源框架，用于在 React 应用中集成 AI 驱动的 Copilot 功能，支持聊天、操作和上下文感知。",
+  "highlights": [
+    "提供可嵌入的 AI 聊天界面和操作面板",
+    "支持与 LangChain、OpenAI 等后端集成",
+    "活跃开发，社区贡献频繁"
+  ],
+  "use_cases": [
+    "在 SaaS 产品中添加 AI 助手",
+    "构建上下文感知的智能表单或工作流",
+    "快速原型化 AI 驱动的用户界面"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "react",
+    "ai",
+    "copilot",
+    "llm",
+    "agent",
+    "frontend"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:05Z",
+  "analyzed_at": "2026-07-04T09:29:55Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

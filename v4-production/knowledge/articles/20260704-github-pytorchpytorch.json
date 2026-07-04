@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-pytorchpytorch",
+  "title": "pytorch/pytorch",
+  "source_url": "https://github.com/pytorch/pytorch",
+  "source_type": "github_trending",
+  "summary": "PyTorch 是一个开源的深度学习框架，提供动态计算图和强大的 GPU 加速，广泛应用于研究和生产。",
+  "highlights": [
+    "动态计算图（Define-by-Run）",
+    "强大的分布式训练支持",
+    "丰富的预训练模型和生态系统"
+  ],
+  "use_cases": [
+    "深度学习研究与实验",
+    "生产级模型训练与部署",
+    "计算机视觉、自然语言处理等 AI 应用"
+  ],
+  "maturity": {
+    "stars": 85000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "deep-learning",
+    "pytorch",
+    "machine-learning",
+    "gpu"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:35Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-comet-mlopik",
+  "title": "comet-ml/opik",
+  "source_url": "https://github.com/comet-ml/opik",
+  "source_type": "github_trending",
+  "summary": "Opik 是 Comet ML 推出的开源 LLM 评估与监控平台，支持追踪、评估和优化大模型应用，提供可扩展的指标与实验管理。",
+  "highlights": [
+    "支持 LLM 调用追踪、反馈评分与自动化评估",
+    "与 Comet ML 平台深度集成，支持实验对比与协作",
+    "提供 Python SDK 和 REST API，易于集成到现有工作流"
+  ],
+  "use_cases": [
+    "LLM 应用开发中的调试与性能评估",
+    "生产环境中的模型监控与反馈收集",
+    "团队协作进行提示工程与模型选型实验"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "evaluation",
+    "monitoring",
+    "observability",
+    "comet-ml"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:05Z",
+  "analyzed_at": "2026-07-04T09:30:37Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

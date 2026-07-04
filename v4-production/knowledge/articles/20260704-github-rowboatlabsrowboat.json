@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-rowboatlabsrowboat",
+  "title": "rowboatlabs/rowboat",
+  "source_url": "https://github.com/rowboatlabs/rowboat",
+  "source_type": "github_trending",
+  "summary": "Rowboat 是一个基于 LLM 的智能助手平台，专注于通过自然语言交互实现自动化工作流和数据分析，支持多种数据源集成。",
+  "highlights": [
+    "基于 LLM 的自然语言交互界面",
+    "支持多种数据源（如数据库、API）集成",
+    "自动化工作流与数据分析能力"
+  ],
+  "use_cases": [
+    "企业数据查询与报告生成",
+    "自动化业务流程（如客服、审批）",
+    "非技术人员的数据分析助手"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "automation",
+    "data-analysis",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:06Z",
+  "analyzed_at": "2026-07-04T09:31:56Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

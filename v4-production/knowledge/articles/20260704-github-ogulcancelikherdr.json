@@ -1,0 +1,32 @@
+{
+  "id": "20260704-github-ogulcancelikherdr",
+  "title": "ogulcancelik/herdr",
+  "source_url": "https://github.com/ogulcancelik/herdr",
+  "source_type": "github_trending",
+  "summary": "Herdr 是一个基于 LLM 的智能体编排框架，支持多智能体协作、任务分解与动态调度，适用于复杂工作流自动化。",
+  "highlights": [
+    "支持多智能体协作与动态任务分配",
+    "基于 LLM 的灵活工作流编排",
+    "提供简洁的 API 和可扩展架构"
+  ],
+  "use_cases": [
+    "复杂业务流程自动化",
+    "多步骤研究或数据分析任务",
+    "智能客服与对话系统"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-04-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "orchestration",
+    "workflow"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:44Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260704-github-actionscheckout",
+  "title": "actions/checkout",
+  "source_url": "https://github.com/actions/checkout",
+  "source_type": "github_trending",
+  "summary": "GitHub Actions 官方提供的 Checkout 动作，用于检出仓库代码到运行器，支持多种配置选项。",
+  "highlights": [
+    "官方维护，广泛使用",
+    "支持子模块、稀疏检出等高级功能",
+    "持续更新，兼容最新运行器环境"
+  ],
+  "use_cases": [
+    "CI/CD 流水线中检出代码",
+    "自动化测试或构建前的代码准备"
+  ],
+  "maturity": {
+    "stars": 6000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "github-actions",
+    "ci/cd",
+    "checkout"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:08Z",
+  "analyzed_at": "2026-07-04T09:32:17Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}

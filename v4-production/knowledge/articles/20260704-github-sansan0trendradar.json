@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-sansan0trendradar",
+  "title": "sansan0/TrendRadar",
+  "source_url": "https://github.com/sansan0/TrendRadar",
+  "source_type": "github_trending",
+  "summary": "TrendRadar 是一个基于 AI 的趋势检测与预测工具，利用大语言模型分析新闻、社交媒体等数据，识别新兴趋势并生成洞察报告。",
+  "highlights": [
+    "集成多种数据源（新闻、社交、论坛）进行趋势分析",
+    "使用 LLM 进行语义理解和趋势分类",
+    "提供可视化仪表盘和可定制的预警机制"
+  ],
+  "use_cases": [
+    "市场趋势监测与竞争情报分析",
+    "社交媒体热点追踪与舆情管理",
+    "投资决策辅助与行业预测"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "trend-detection",
+    "data-analysis",
+    "nlp",
+    "dashboard"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T09:28:06Z",
+  "analyzed_at": "2026-07-04T09:31:21Z",
+  "curated_at": "2026-07-04T09:32:49Z"
+}
