@@ -39,12 +39,21 @@ _GITHUB_QUERIES: list[str] = [
     "LangGraph",
     "RAG",
     "AI tool",
+    "generative AI",
+    "LLM application",
+    "AI workflow",
+    "MCP",
+    "Multi-agent",
+    "AI productivity",
 ]
 
 _ARTICLES_DIR: str = "knowledge/articles"
 _PUSHED_SINCE_DAYS: int = 7
 
-_GITHUB_PER_PAGE: int = 15
+_GITHUB_PER_PAGE: int = 10
+
+_GITHUB_TRENDING_URL: str = "https://github.com/trending?since=daily"
+_GITHUB_TRENDING_MAX: int = 15
 _QUALITY_THRESHOLD: float = 0.6
 _REVIEW_FORCE_PASS_ITERATION: int = 2
 _DEFAULT_PROVIDER: str = "deepseek"
