@@ -1,0 +1,33 @@
+{
+  "id": "20260704-github-tencentcloudcubesand",
+  "title": "TencentCloud/CubeSandbox",
+  "source_url": "https://github.com/TencentCloud/CubeSandbox",
+  "source_type": "github_trending",
+  "summary": "CubeSandbox 是腾讯云开源的轻量级沙箱环境，用于安全运行不可信代码，支持多语言隔离与资源限制。",
+  "highlights": [
+    "基于容器技术实现轻量级沙箱隔离",
+    "支持 Python、Node.js 等多语言执行环境",
+    "提供资源限制与安全审计能力"
+  ],
+  "use_cases": [
+    "在线代码评测系统",
+    "多租户代码执行平台",
+    "安全沙箱测试环境"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "sandbox",
+    "security",
+    "container",
+    "code-execution",
+    "tencent-cloud"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-04T10:02:45Z",
+  "analyzed_at": "2026-07-04T10:02:54Z",
+  "curated_at": "2026-07-04T10:02:54Z"
+}
