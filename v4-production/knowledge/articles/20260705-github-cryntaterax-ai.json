@@ -1,0 +1,32 @@
+{
+  "id": "20260705-github-cryntaterax-ai",
+  "title": "crynta/terax-ai",
+  "source_url": "https://github.com/crynta/terax-ai",
+  "source_type": "github_trending",
+  "summary": "Terax AI 是一个基于大语言模型的智能代理框架，专注于自动化任务执行和工具调用，支持多模型集成与灵活扩展。",
+  "highlights": [
+    "支持多种 LLM 后端（如 OpenAI、Anthropic）",
+    "提供模块化工具调用和任务编排能力",
+    "内置内存管理和上下文优化机制"
+  ],
+  "use_cases": [
+    "自动化工作流和任务调度",
+    "智能客服和对话系统",
+    "代码生成与辅助开发"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "automation",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:39Z",
+  "analyzed_at": "2026-07-05T10:06:21Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}

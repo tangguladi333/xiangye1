@@ -1,0 +1,32 @@
+{
+  "id": "20260705-github-tinyhumansaiopenhuma",
+  "title": "tinyhumansai/openhuman",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "source_type": "github_trending",
+  "summary": "OpenHuman 是一个开源框架，用于构建和部署类人 AI 代理，支持多模态交互、记忆和工具使用，旨在简化复杂 AI 系统的开发。",
+  "highlights": [
+    "提供模块化架构，支持自定义代理行为和记忆管理",
+    "集成多模态输入（文本、图像、音频）处理能力",
+    "内置工具调用和外部 API 集成接口"
+  ],
+  "use_cases": [
+    "构建智能客服或虚拟助手",
+    "开发多模态交互的 AI 角色或游戏 NPC",
+    "快速原型设计类人 AI 代理系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "multimodal",
+    "framework",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:36Z",
+  "analyzed_at": "2026-07-05T10:05:50Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}

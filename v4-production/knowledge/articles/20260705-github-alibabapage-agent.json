@@ -1,0 +1,32 @@
+{
+  "id": "20260705-github-alibabapage-agent",
+  "title": "alibaba/page-agent",
+  "source_url": "https://github.com/alibaba/page-agent",
+  "source_type": "github_trending",
+  "summary": "阿里巴巴开源的页面智能体框架，用于构建可操控网页的AI代理，支持视觉理解与自动化操作。",
+  "highlights": [
+    "基于视觉的网页理解，无需依赖DOM解析",
+    "支持多模态大模型集成，如GPT-4V",
+    "提供灵活的插件系统，易于扩展功能"
+  ],
+  "use_cases": [
+    "网页自动化测试与数据采集",
+    "智能客服与网页导航助手",
+    "RPA流程自动化中的网页操作"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "web-automation",
+    "multimodal",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:39Z",
+  "analyzed_at": "2026-07-05T10:05:56Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}

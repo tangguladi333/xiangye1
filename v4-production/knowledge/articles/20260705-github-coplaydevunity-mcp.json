@@ -1,0 +1,33 @@
+{
+  "id": "20260705-github-coplaydevunity-mcp",
+  "title": "CoplayDev/unity-mcp",
+  "source_url": "https://github.com/CoplayDev/unity-mcp",
+  "source_type": "github_trending",
+  "summary": "Unity-MCP 是一个将 Unity 编辑器与 AI 代理（如 Claude）连接的 MCP 服务器，允许通过自然语言控制 Unity 场景、对象和资源。",
+  "highlights": [
+    "支持通过 MCP 协议与 Claude Desktop 等 AI 工具集成",
+    "提供场景管理、对象操作、资源导入等 Unity 编辑器功能",
+    "基于 C# 实现，易于扩展和自定义工具"
+  ],
+  "use_cases": [
+    "AI 辅助游戏开发，通过自然语言快速创建和修改场景",
+    "自动化 Unity 编辑器任务，如批量资源导入和场景布局",
+    "教育与培训，演示 AI 与游戏引擎的交互"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "unity",
+    "mcp",
+    "ai-agent",
+    "game-development",
+    "editor-tool"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:39Z",
+  "analyzed_at": "2026-07-05T10:06:16Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}

@@ -1348,5 +1348,206 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-04T09:32:49Z"
+  },
+  {
+    "id": "20260705-github-alibabapage-agent",
+    "title": "alibaba/page-agent",
+    "source_url": "https://github.com/alibaba/page-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "agent",
+      "web-automation",
+      "multimodal",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-alirezarezvaniclaude",
+    "title": "alirezarezvani/claude-skills",
+    "source_url": "https://github.com/alirezarezvani/claude-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "ai-assistant",
+      "skills",
+      "tool-integration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-asgeirtjsystemprompt",
+    "title": "asgeirtj/system_prompts_leaks",
+    "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "prompt-injection",
+      "security",
+      "privacy"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-chthollyphilefolia-m",
+    "title": "chthollyphile/folia-major",
+    "source_url": "https://github.com/chthollyphile/folia-major",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "task-planning",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-coplaydevunity-mcp",
+    "title": "CoplayDev/unity-mcp",
+    "source_url": "https://github.com/CoplayDev/unity-mcp",
+    "source_type": "github_trending",
+    "tags": [
+      "unity",
+      "mcp",
+      "ai-agent",
+      "game-development",
+      "editor-tool"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-cryntaterax-ai",
+    "title": "crynta/terax-ai",
+    "source_url": "https://github.com/crynta/terax-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "automation",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-datawhalechinahello-",
+    "title": "datawhalechina/hello-agents",
+    "source_url": "https://github.com/datawhalechina/hello-agents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tutorial",
+      "datawhale",
+      "react"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-dotnetskills",
+    "title": "dotnet/skills",
+    "source_url": "https://github.com/dotnet/skills",
+    "source_type": "github_trending",
+    "tags": [
+      "dotnet",
+      "ai",
+      "skills",
+      "microsoft"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-immich-appimmich",
+    "title": "immich-app/immich",
+    "source_url": "https://github.com/immich-app/immich",
+    "source_type": "github_trending",
+    "tags": [
+      "photo-management",
+      "self-hosted",
+      "backup",
+      "ai",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "nlp",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-mattpocockskills",
+    "title": "mattpocock/skills",
+    "source_url": "https://github.com/mattpocock/skills",
+    "source_type": "github_trending",
+    "tags": [
+      "typescript",
+      "education",
+      "interactive",
+      "type-system"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-punkpeyeawesome-mcp-",
+    "title": "punkpeye/awesome-mcp-servers",
+    "source_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "source_type": "github_trending",
+    "tags": [
+      "mcp",
+      "awesome-list",
+      "ai",
+      "protocol"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-tinyhumansaiopenhuma",
+    "title": "tinyhumansai/openhuman",
+    "source_url": "https://github.com/tinyhumansai/openhuman",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "multimodal",
+      "framework",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260705-github-zackriya-solutionsme",
+    "title": "Zackriya-Solutions/meetily",
+    "source_url": "https://github.com/Zackriya-Solutions/meetily",
+    "source_type": "github_trending",
+    "tags": [
+      "meeting-assistant",
+      "transcription",
+      "google-meet",
+      "chrome-extension",
+      "ai-summary"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-05T10:06:21Z"
   }
 ]

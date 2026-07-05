@@ -1,0 +1,31 @@
+{
+  "id": "20260705-github-dotnetskills",
+  "title": "dotnet/skills",
+  "source_url": "https://github.com/dotnet/skills",
+  "source_type": "github_trending",
+  "summary": "dotnet/skills 是微软 .NET 团队开发的一个开源项目，旨在为 .NET 开发者提供可复用的 AI 技能模块，支持构建智能应用。",
+  "highlights": [
+    "由微软官方 .NET 团队维护，质量有保障",
+    "提供模块化 AI 技能，易于集成到 .NET 应用中",
+    "与 .NET 生态深度结合，支持 C# 等语言"
+  ],
+  "use_cases": [
+    "在 .NET 应用中快速集成 AI 功能",
+    "构建智能聊天机器人或自动化工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "dotnet",
+    "ai",
+    "skills",
+    "microsoft"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:39Z",
+  "analyzed_at": "2026-07-05T10:06:04Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}

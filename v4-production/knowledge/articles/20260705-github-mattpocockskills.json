@@ -1,0 +1,32 @@
+{
+  "id": "20260705-github-mattpocockskills",
+  "title": "mattpocock/skills",
+  "source_url": "https://github.com/mattpocock/skills",
+  "source_type": "github_trending",
+  "summary": "Matt Pocock 的 TypeScript 技能训练项目，提供交互式练习和教程，帮助开发者掌握 TypeScript 高级类型系统。",
+  "highlights": [
+    "由知名 TypeScript 专家 Matt Pocock 创建，内容权威",
+    "交互式练习设计，适合动手学习",
+    "覆盖 TypeScript 高级类型、泛型等核心概念"
+  ],
+  "use_cases": [
+    "TypeScript 开发者进阶学习",
+    "团队 TypeScript 技能培训",
+    "面试准备中的类型系统练习"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "typescript",
+    "education",
+    "interactive",
+    "type-system"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:39Z",
+  "analyzed_at": "2026-07-05T10:06:12Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}

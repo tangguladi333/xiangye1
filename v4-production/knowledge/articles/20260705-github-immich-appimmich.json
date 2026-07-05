@@ -1,0 +1,33 @@
+{
+  "id": "20260705-github-immich-appimmich",
+  "title": "immich-app/immich",
+  "source_url": "https://github.com/immich-app/immich",
+  "source_type": "github_trending",
+  "summary": "Immich 是一个开源的高性能自托管照片和视频管理方案，提供类似 Google Photos 的体验，包括自动备份、AI 智能搜索、相册共享等功能。",
+  "highlights": [
+    "支持自动备份、人脸识别、对象和场景标签等 AI 功能",
+    "提供移动端和 Web 端应用，用户体验优秀",
+    "活跃的社区和频繁的更新迭代"
+  ],
+  "use_cases": [
+    "个人或家庭自建私有云相册，替代 Google Photos",
+    "需要离线或本地存储照片和视频的用户",
+    "对数据隐私有高要求的用户"
+  ],
+  "maturity": {
+    "stars": 45000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "photo-management",
+    "self-hosted",
+    "backup",
+    "ai",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:39Z",
+  "analyzed_at": "2026-07-05T10:06:07Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}

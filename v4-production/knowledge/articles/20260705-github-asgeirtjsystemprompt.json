@@ -1,0 +1,31 @@
+{
+  "id": "20260705-github-asgeirtjsystemprompt",
+  "title": "asgeirtj/system_prompts_leaks",
+  "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+  "source_type": "github_trending",
+  "summary": "收集并公开了多个知名AI系统的系统提示词泄露案例，用于研究提示词安全与隐私。",
+  "highlights": [
+    "汇集了来自ChatGPT、Claude等主流模型的真实泄露提示词",
+    "提供了提示词注入攻击的实证案例",
+    "可作为AI安全研究者的参考资源"
+  ],
+  "use_cases": [
+    "AI安全与提示词注入研究",
+    "系统提示词设计与防护策略分析"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "prompt-injection",
+    "security",
+    "privacy"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:39Z",
+  "analyzed_at": "2026-07-05T10:06:01Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260705-github-chthollyphilefolia-m",
+  "title": "chthollyphile/folia-major",
+  "source_url": "https://github.com/chthollyphile/folia-major",
+  "source_type": "github_trending",
+  "summary": "一个基于大型语言模型的智能代理框架，专注于多步骤任务规划和执行，支持工具调用和记忆管理。",
+  "highlights": [
+    "支持动态任务分解与规划",
+    "集成多种外部工具和API",
+    "提供可扩展的记忆模块"
+  ],
+  "use_cases": [
+    "自动化工作流编排",
+    "复杂问题求解与决策支持"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "task-planning",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-05T10:05:39Z",
+  "analyzed_at": "2026-07-05T10:06:10Z",
+  "curated_at": "2026-07-05T10:06:21Z"
+}
