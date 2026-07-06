@@ -1,0 +1,32 @@
+{
+  "id": "20260706-github-alibabazvec",
+  "title": "alibaba/zvec",
+  "source_url": "https://github.com/alibaba/zvec",
+  "source_type": "github_trending",
+  "summary": "阿里巴巴开源的 ZVector 向量数据库，基于 C++ 实现，支持高性能向量索引与检索，适用于 AI 与搜索场景。",
+  "highlights": [
+    "基于 C++ 实现，性能优异",
+    "支持多种向量索引算法（如 HNSW、IVF）",
+    "阿里巴巴内部验证，生产级可靠性"
+  ],
+  "use_cases": [
+    "大规模向量相似性搜索",
+    "推荐系统与语义检索",
+    "AI 模型嵌入向量存储与查询"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "vector-database",
+    "c-plus-plus",
+    "search",
+    "alibaba"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:59:01Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

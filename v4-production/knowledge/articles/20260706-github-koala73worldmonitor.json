@@ -1,0 +1,32 @@
+{
+  "id": "20260706-github-koala73worldmonitor",
+  "title": "koala73/worldmonitor",
+  "source_url": "https://github.com/koala73/worldmonitor",
+  "source_type": "github_trending",
+  "summary": "WorldMonitor 是一个基于 LLM 的实时世界事件监控与分析工具，通过多源数据聚合和智能摘要，帮助用户快速掌握全球动态。",
+  "highlights": [
+    "支持多源新闻、社交媒体数据实时聚合",
+    "利用 LLM 进行智能摘要和事件关联分析",
+    "提供可定制的监控主题和通知机制"
+  ],
+  "use_cases": [
+    "新闻聚合与趋势分析",
+    "舆情监控与事件追踪",
+    "个人或团队的信息简报生成"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "monitoring",
+    "news-aggregation",
+    "real-time"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:24Z",
+  "analyzed_at": "2026-07-06T11:58:34Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260706-github-leonxlnxtaste-skill",
+  "title": "Leonxlnx/taste-skill",
+  "source_url": "https://github.com/Leonxlnx/taste-skill",
+  "source_type": "github_trending",
+  "summary": "Taste-Skill 是一个基于 LLM 的个性化推荐系统框架，通过分析用户偏好和技能图谱，实现精准的内容与技能匹配推荐。",
+  "highlights": [
+    "融合用户 taste 与 skill 图谱的推荐机制",
+    "支持多种 LLM 后端（如 OpenAI、Claude）",
+    "提供可扩展的插件化架构"
+  ],
+  "use_cases": [
+    "个性化学习路径推荐",
+    "技能匹配与职业发展建议",
+    "内容平台智能推荐系统"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-01-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "recommendation-system",
+    "personalization",
+    "skill-graph"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:58:45Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260706-github-karakeep-appkarakeep",
+  "title": "karakeep-app/karakeep",
+  "source_url": "https://github.com/karakeep-app/karakeep",
+  "source_type": "github_trending",
+  "summary": "Karakeep 是一个自托管的书签和链接管理工具，支持自动抓取、全文搜索和 AI 标签分类，帮助用户高效组织网络资源。",
+  "highlights": [
+    "支持自托管部署，保护用户数据隐私",
+    "集成 AI 自动生成标签和摘要，提升管理效率",
+    "提供全文搜索和快照保存功能，确保链接内容可追溯"
+  ],
+  "use_cases": [
+    "个人知识管理，整理和搜索收藏的网页",
+    "团队协作，共享和分类项目相关资源"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "bookmark-manager",
+    "self-hosted",
+    "ai",
+    "search"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:58:53Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

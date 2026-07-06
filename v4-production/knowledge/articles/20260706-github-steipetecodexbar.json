@@ -1,0 +1,32 @@
+{
+  "id": "20260706-github-steipetecodexbar",
+  "title": "steipete/CodexBar",
+  "source_url": "https://github.com/steipete/CodexBar",
+  "source_type": "github_trending",
+  "summary": "CodexBar 是一个 macOS 菜单栏应用，用于快速访问和运行 AI 代码助手（如 OpenAI Codex）的提示和代码片段。",
+  "highlights": [
+    "提供 macOS 菜单栏快捷访问，无需离开当前工作流",
+    "支持自定义提示和代码片段，提升开发效率",
+    "基于 Swift 开发，原生 macOS 体验"
+  ],
+  "use_cases": [
+    "开发者快速调用 AI 代码生成或解释功能",
+    "集成到日常编码工作流中，减少上下文切换"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "macos",
+    "ai",
+    "codex",
+    "menu-bar",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:58:59Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

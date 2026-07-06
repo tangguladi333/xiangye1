@@ -1549,5 +1549,200 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-05T10:06:21Z"
+  },
+  {
+    "id": "20260706-github-addyosmaniagent-skil",
+    "title": "addyosmani/agent-skills",
+    "source_url": "https://github.com/addyosmani/agent-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "skills",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-alibabazvec",
+    "title": "alibaba/zvec",
+    "source_url": "https://github.com/alibaba/zvec",
+    "source_type": "github_trending",
+    "tags": [
+      "vector-database",
+      "c-plus-plus",
+      "search",
+      "alibaba"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-bradautomatesclaude-",
+    "title": "bradautomates/claude-video",
+    "source_url": "https://github.com/bradautomates/claude-video",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "video-analysis",
+      "llm",
+      "multimodal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-firecrawlfirecrawl",
+    "title": "firecrawl/firecrawl",
+    "source_url": "https://github.com/firecrawl/firecrawl",
+    "source_type": "github_trending",
+    "tags": [
+      "web scraping",
+      "llm",
+      "data extraction",
+      "api"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-gastownhallgastown",
+    "title": "gastownhall/gastown",
+    "source_url": "https://github.com/gastownhall/gastown",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multi-agent",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-karakeep-appkarakeep",
+    "title": "karakeep-app/karakeep",
+    "source_url": "https://github.com/karakeep-app/karakeep",
+    "source_type": "github_trending",
+    "tags": [
+      "bookmark-manager",
+      "self-hosted",
+      "ai",
+      "search"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-koala73worldmonitor",
+    "title": "koala73/worldmonitor",
+    "source_url": "https://github.com/koala73/worldmonitor",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "monitoring",
+      "news-aggregation",
+      "real-time"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-leonxlnxtaste-skill",
+    "title": "Leonxlnx/taste-skill",
+    "source_url": "https://github.com/Leonxlnx/taste-skill",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "recommendation-system",
+      "personalization",
+      "skill-graph"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-miurlamorphic",
+    "title": "miurla/morphic",
+    "source_url": "https://github.com/miurla/morphic",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "ui-framework",
+      "generative-ui",
+      "low-code"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-mvanhornlast30days-s",
+    "title": "mvanhorn/last30days-skill",
+    "source_url": "https://github.com/mvanhorn/last30days-skill",
+    "source_type": "github_trending",
+    "tags": [
+      "alexa",
+      "github",
+      "voice-assistant"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-ruvnetruview",
+    "title": "ruvnet/RuView",
+    "source_url": "https://github.com/ruvnet/RuView",
+    "source_type": "github_trending",
+    "tags": [
+      "rust",
+      "web",
+      "view-engine",
+      "realtime"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-sindresorhusawesome",
+    "title": "sindresorhus/awesome",
+    "source_url": "https://github.com/sindresorhus/awesome",
+    "source_type": "github_trending",
+    "tags": [
+      "awesome-list",
+      "curated",
+      "resources",
+      "community"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-steipetecodexbar",
+    "title": "steipete/CodexBar",
+    "source_url": "https://github.com/steipete/CodexBar",
+    "source_type": "github_trending",
+    "tags": [
+      "macos",
+      "ai",
+      "codex",
+      "menu-bar",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260706-github-tauricresearchtradin",
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "quantitative-trading",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-06T11:59:07Z"
   }
 ]

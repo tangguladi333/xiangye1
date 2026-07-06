@@ -1,0 +1,32 @@
+{
+  "id": "20260706-github-bradautomatesclaude-",
+  "title": "bradautomates/claude-video",
+  "source_url": "https://github.com/bradautomates/claude-video",
+  "source_type": "github_trending",
+  "summary": "Claude Video 是一个让 Claude 能够观看并理解视频内容的开源项目，通过将视频帧转换为文本描述，实现视频分析、问答和摘要生成。",
+  "highlights": [
+    "支持将视频帧转换为文本描述，供 Claude 理解",
+    "提供视频问答、摘要生成等交互功能",
+    "基于 Anthropic Claude API，易于集成"
+  ],
+  "use_cases": [
+    "视频内容分析与摘要",
+    "视频问答与信息提取",
+    "自动化视频监控与描述"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "video-analysis",
+    "llm",
+    "multimodal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:58:50Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

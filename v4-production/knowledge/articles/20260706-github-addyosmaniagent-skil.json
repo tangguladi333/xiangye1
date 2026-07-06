@@ -1,0 +1,30 @@
+{
+  "id": "20260706-github-addyosmaniagent-skil",
+  "title": "addyosmani/agent-skills",
+  "source_url": "https://github.com/addyosmani/agent-skills",
+  "source_type": "github_trending",
+  "summary": "一个收集和整理 AI 代理（Agent）技能（Skills）的仓库，提供可复用的技能定义和示例，帮助开发者快速构建智能代理。",
+  "highlights": [
+    "专注于 AI 代理的技能定义与复用",
+    "提供多种实用技能示例",
+    "由知名开发者 Addy Osmani 维护"
+  ],
+  "use_cases": [
+    "构建自定义 AI 代理",
+    "学习和参考代理技能设计模式"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "skills",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:58:40Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

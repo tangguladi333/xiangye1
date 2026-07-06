@@ -1,0 +1,32 @@
+{
+  "id": "20260706-github-gastownhallgastown",
+  "title": "gastownhall/gastown",
+  "source_url": "https://github.com/gastownhall/gastown",
+  "source_type": "github_trending",
+  "summary": "Gastown 是一个基于 LLM 的智能体框架，专注于构建可扩展、模块化的多智能体系统，支持任务规划、工具调用和记忆管理。",
+  "highlights": [
+    "模块化架构，支持灵活组合智能体与工具",
+    "内置任务规划与记忆管理机制",
+    "提供丰富的 API 和文档，易于集成"
+  ],
+  "use_cases": [
+    "自动化工作流编排与执行",
+    "多智能体协作解决复杂任务",
+    "智能客服与对话系统开发"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multi-agent",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:59:07Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

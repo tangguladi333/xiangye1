@@ -1,0 +1,31 @@
+{
+  "id": "20260706-github-sindresorhusawesome",
+  "title": "sindresorhus/awesome",
+  "source_url": "https://github.com/sindresorhus/awesome",
+  "source_type": "github_trending",
+  "summary": "一个精选的各类优秀资源列表集合，涵盖编程、工具、媒体等多个领域，由社区维护并持续更新。",
+  "highlights": [
+    "涵盖数百个细分领域的精选资源列表",
+    "社区驱动，持续更新，质量较高",
+    "被广泛引用，是发现优质资源的入口"
+  ],
+  "use_cases": [
+    "开发者寻找特定领域的工具、库或学习资源",
+    "技术选型时快速了解生态中的优秀项目"
+  ],
+  "maturity": {
+    "stars": 340000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "awesome-list",
+    "curated",
+    "resources",
+    "community"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:59:04Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}

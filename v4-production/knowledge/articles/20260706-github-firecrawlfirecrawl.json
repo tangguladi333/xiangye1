@@ -1,0 +1,32 @@
+{
+  "id": "20260706-github-firecrawlfirecrawl",
+  "title": "firecrawl/firecrawl",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "source_type": "github_trending",
+  "summary": "Firecrawl 是一个开源网站爬虫与数据提取工具，支持将网页内容转换为 LLM 可用的 Markdown 或结构化数据，提供 API 和 SDK。",
+  "highlights": [
+    "支持 JavaScript 渲染和动态内容抓取",
+    "提供 REST API 及 Python/Node SDK",
+    "可输出 Markdown、结构化数据，适配 LLM 应用"
+  ],
+  "use_cases": [
+    "为 LLM 应用提供网页数据输入",
+    "网站内容监控与数据采集",
+    "构建知识库或搜索引擎的爬虫后端"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "web scraping",
+    "llm",
+    "data extraction",
+    "api"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-06T11:58:26Z",
+  "analyzed_at": "2026-07-06T11:58:56Z",
+  "curated_at": "2026-07-06T11:59:07Z"
+}
