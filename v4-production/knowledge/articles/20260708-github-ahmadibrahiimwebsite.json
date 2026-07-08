@@ -1,0 +1,32 @@
+{
+  "id": "20260708-github-ahmadibrahiimwebsite",
+  "title": "AhmadIbrahiim/Website-downloader",
+  "source_url": "https://github.com/AhmadIbrahiim/Website-downloader",
+  "source_type": "github_trending",
+  "summary": "一个用于下载整个网站的 Node.js 命令行工具，支持递归抓取、资源保存和离线浏览。",
+  "highlights": [
+    "支持递归下载整个网站结构",
+    "可保存 HTML、CSS、JS、图片等所有资源",
+    "提供命令行界面，使用简单"
+  ],
+  "use_cases": [
+    "离线备份网站内容",
+    "本地开发时快速获取静态资源",
+    "网站迁移或归档"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "website-downloader",
+    "nodejs",
+    "cli",
+    "offline-browsing"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-08T10:10:53Z",
+  "analyzed_at": "2026-07-08T10:11:09Z",
+  "curated_at": "2026-07-08T10:11:17Z"
+}

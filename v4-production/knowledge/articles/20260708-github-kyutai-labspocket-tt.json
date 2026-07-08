@@ -1,0 +1,32 @@
+{
+  "id": "20260708-github-kyutai-labspocket-tt",
+  "title": "kyutai-labs/pocket-tts",
+  "source_url": "https://github.com/kyutai-labs/pocket-tts",
+  "source_type": "github_trending",
+  "summary": "Pocket-TTS 是一个轻量级、高效的文本转语音模型，专为边缘设备设计，支持多语言和实时推理。",
+  "highlights": [
+    "基于 Kyutai 的 Helium 架构，参数量小但质量高",
+    "支持多语言（英语、法语、德语等）和零样本语音克隆",
+    "提供 ONNX 和 TFLite 导出，适合移动端和嵌入式部署"
+  ],
+  "use_cases": [
+    "移动应用中的语音助手",
+    "嵌入式设备（如智能家居）的语音输出",
+    "低延迟实时语音合成场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "tts",
+    "edge-ai",
+    "multilingual",
+    "voice-cloning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-08T10:10:53Z",
+  "analyzed_at": "2026-07-08T10:11:15Z",
+  "curated_at": "2026-07-08T10:11:17Z"
+}

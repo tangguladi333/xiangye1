@@ -1,0 +1,32 @@
+{
+  "id": "20260708-github-madslorentzenai-job-",
+  "title": "MadsLorentzen/ai-job-search",
+  "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+  "source_type": "github_trending",
+  "summary": "一个基于 AI 的自动化求职工具，利用大型语言模型（LLM）和向量搜索，从多个来源抓取职位并自动生成定制简历和求职信。",
+  "highlights": [
+    "集成多个职位搜索 API（如 Indeed、LinkedIn）",
+    "使用 LLM 自动生成个性化求职材料",
+    "支持向量搜索进行智能职位匹配"
+  ],
+  "use_cases": [
+    "求职者自动化职位搜索与申请",
+    "招聘流程中简历与职位的智能匹配"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "job-search",
+    "automation",
+    "vector-search",
+    "resume-generator"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-08T10:10:53Z",
+  "analyzed_at": "2026-07-08T10:11:06Z",
+  "curated_at": "2026-07-08T10:11:17Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260708-github-iofficeaiofficecli",
+  "title": "iOfficeAI/OfficeCLI",
+  "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+  "source_type": "github_trending",
+  "summary": "OfficeCLI 是一个基于命令行的办公自动化工具，支持通过自然语言或脚本操作 Office 文档，提升办公效率。",
+  "highlights": [
+    "支持自然语言指令操作 Office 文档",
+    "跨平台兼容 Windows、macOS 和 Linux",
+    "集成多种 Office 格式处理能力"
+  ],
+  "use_cases": [
+    "批量文档处理与格式转换",
+    "办公自动化脚本编写",
+    "无 GUI 环境下的文档操作"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "office",
+    "cli",
+    "automation",
+    "productivity"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-08T10:10:53Z",
+  "analyzed_at": "2026-07-08T10:11:11Z",
+  "curated_at": "2026-07-08T10:11:17Z"
+}

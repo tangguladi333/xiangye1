@@ -1,0 +1,31 @@
+{
+  "id": "20260708-github-hesreallyhimawesome-",
+  "title": "hesreallyhim/awesome-claude-code",
+  "source_url": "https://github.com/hesreallyhim/awesome-claude-code",
+  "source_type": "github_trending",
+  "summary": "这是一个收集 Claude Code 相关资源、工具和最佳实践的精选列表，旨在帮助开发者更高效地使用 Claude Code 进行编码。",
+  "highlights": [
+    "汇集了多种 Claude Code 的集成工具和插件",
+    "提供了实用的使用技巧和最佳实践",
+    "社区驱动的资源列表，持续更新"
+  ],
+  "use_cases": [
+    "寻找 Claude Code 的扩展工具和集成方案",
+    "学习如何优化 Claude Code 的使用体验"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "awesome-list",
+    "resources",
+    "tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-08T10:10:53Z",
+  "analyzed_at": "2026-07-08T10:11:17Z",
+  "curated_at": "2026-07-08T10:11:17Z"
+}

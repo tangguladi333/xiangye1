@@ -1744,5 +1744,106 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-06T11:59:07Z"
+  },
+  {
+    "id": "20260708-github-ahmadibrahiimwebsite",
+    "title": "AhmadIbrahiim/Website-downloader",
+    "source_url": "https://github.com/AhmadIbrahiim/Website-downloader",
+    "source_type": "github_trending",
+    "tags": [
+      "website-downloader",
+      "nodejs",
+      "cli",
+      "offline-browsing"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-08T10:11:17Z"
+  },
+  {
+    "id": "20260708-github-hesreallyhimawesome-",
+    "title": "hesreallyhim/awesome-claude-code",
+    "source_url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "awesome-list",
+      "resources",
+      "tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-08T10:11:17Z"
+  },
+  {
+    "id": "20260708-github-iofficeaiofficecli",
+    "title": "iOfficeAI/OfficeCLI",
+    "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+    "source_type": "github_trending",
+    "tags": [
+      "office",
+      "cli",
+      "automation",
+      "productivity"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-08T10:11:17Z"
+  },
+  {
+    "id": "20260708-github-kyutai-labspocket-tt",
+    "title": "kyutai-labs/pocket-tts",
+    "source_url": "https://github.com/kyutai-labs/pocket-tts",
+    "source_type": "github_trending",
+    "tags": [
+      "tts",
+      "edge-ai",
+      "multilingual",
+      "voice-cloning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-08T10:11:17Z"
+  },
+  {
+    "id": "20260708-github-madslorentzenai-job-",
+    "title": "MadsLorentzen/ai-job-search",
+    "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "job-search",
+      "automation",
+      "vector-search",
+      "resume-generator"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-08T10:11:17Z"
+  },
+  {
+    "id": "20260708-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "chatbot",
+      "multimodal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-08T10:11:17Z"
+  },
+  {
+    "id": "20260708-github-zylon-aiprivate-gpt",
+    "title": "zylon-ai/private-gpt",
+    "source_url": "https://github.com/zylon-ai/private-gpt",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "privacy",
+      "document-qa",
+      "offline"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-08T10:11:17Z"
   }
 ]
