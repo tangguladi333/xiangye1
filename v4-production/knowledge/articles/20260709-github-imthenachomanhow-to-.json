@@ -1,0 +1,32 @@
+{
+  "id": "20260709-github-imthenachomanhow-to-",
+  "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+  "source_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+  "source_type": "github_trending",
+  "summary": "一份详尽的 Linux 服务器安全加固指南，涵盖 SSH 配置、防火墙、入侵检测、日志审计等最佳实践，适合新手到中级管理员。",
+  "highlights": [
+    "提供从基础到高级的逐步安全配置教程",
+    "包含 Fail2ban、UFW、AIDE 等工具集成",
+    "强调最小权限原则和持续监控策略"
+  ],
+  "use_cases": [
+    "个人或企业 Linux 服务器初始安全设置",
+    "安全审计与合规性检查参考"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "linux",
+    "security",
+    "server",
+    "guide",
+    "hardening"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:28Z",
+  "analyzed_at": "2026-07-09T10:49:00Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}

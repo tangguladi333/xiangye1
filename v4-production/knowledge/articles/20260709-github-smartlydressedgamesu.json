@@ -1,0 +1,32 @@
+{
+  "id": "20260709-github-smartlydressedgamesu",
+  "title": "SmartlyDressedGames/U3-SDK",
+  "source_url": "https://github.com/SmartlyDressedGames/U3-SDK",
+  "source_type": "github_trending",
+  "summary": "U3-SDK 是 SmartlyDressedGames 提供的 Unity 3D 开发工具包，用于简化游戏开发中的常见任务，如网络通信、资源管理和 UI 构建。",
+  "highlights": [
+    "专为 Unity 3D 设计，集成度高",
+    "包含网络通信和资源管理模块",
+    "由游戏工作室维护，注重实用性"
+  ],
+  "use_cases": [
+    "Unity 游戏开发中的快速原型构建",
+    "多人游戏网络功能实现",
+    "游戏资源加载和 UI 系统优化"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "unity",
+    "sdk",
+    "game-development",
+    "networking"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:28Z",
+  "analyzed_at": "2026-07-09T10:48:42Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}

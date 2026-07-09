@@ -1845,5 +1845,166 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-08T10:11:17Z"
+  },
+  {
+    "id": "20260709-github-adongwanaiagentguide",
+    "title": "adongwanai/AgentGuide",
+    "source_url": "https://github.com/adongwanai/AgentGuide",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tutorial",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-anthropicsclaude-coo",
+    "title": "anthropics/claude-cookbooks",
+    "source_url": "https://github.com/anthropics/claude-cookbooks",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "llm",
+      "cookbook",
+      "api-examples",
+      "anthropic"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-huxingyiautoremesher",
+    "title": "huxingyi/autoremesher",
+    "source_url": "https://github.com/huxingyi/autoremesher",
+    "source_type": "github_trending",
+    "tags": [
+      "mesh",
+      "remeshing",
+      "quad-mesh",
+      "3d-modeling",
+      "computer-graphics"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-imthenachomanhow-to-",
+    "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "source_url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "source_type": "github_trending",
+    "tags": [
+      "linux",
+      "security",
+      "server",
+      "guide",
+      "hardening"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-prismaprisma",
+    "title": "prisma/prisma",
+    "source_url": "https://github.com/prisma/prisma",
+    "source_type": "github_trending",
+    "tags": [
+      "orm",
+      "database",
+      "nodejs",
+      "typescript",
+      "prisma"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-smartlydressedgamesu",
+    "title": "SmartlyDressedGames/U3-SDK",
+    "source_url": "https://github.com/SmartlyDressedGames/U3-SDK",
+    "source_type": "github_trending",
+    "tags": [
+      "unity",
+      "sdk",
+      "game-development",
+      "networking"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-thesysdevopenui",
+    "title": "thesysdev/openui",
+    "source_url": "https://github.com/thesysdev/openui",
+    "source_type": "github_trending",
+    "tags": [
+      "ui-generation",
+      "llm",
+      "frontend",
+      "prototyping"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-unclecodecrawl4ai",
+    "title": "unclecode/crawl4ai",
+    "source_url": "https://github.com/unclecode/crawl4ai",
+    "source_type": "github_trending",
+    "tags": [
+      "web-crawler",
+      "llm",
+      "ai-agent",
+      "async",
+      "data-extraction"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-voltagentawesome-des",
+    "title": "VoltAgent/awesome-design-md",
+    "source_url": "https://github.com/VoltAgent/awesome-design-md",
+    "source_type": "github_trending",
+    "tags": [
+      "design",
+      "markdown",
+      "resources",
+      "awesome-list"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-vxcontrolpentagi",
+    "title": "vxcontrol/pentagi",
+    "source_url": "https://github.com/vxcontrol/pentagi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "penetration-testing",
+      "security",
+      "agent",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260709-github-wonderwhy-erdesktopc",
+    "title": "wonderwhy-er/DesktopCommanderMCP",
+    "source_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "source_type": "github_trending",
+    "tags": [
+      "mcp",
+      "desktop",
+      "command",
+      "ai",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-09T10:49:07Z"
   }
 ]

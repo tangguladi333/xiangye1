@@ -1,0 +1,33 @@
+{
+  "id": "20260709-github-unclecodecrawl4ai",
+  "title": "unclecode/crawl4ai",
+  "source_url": "https://github.com/unclecode/crawl4ai",
+  "source_type": "github_trending",
+  "summary": "Crawl4AI 是一个开源的、专为 LLM 和 AI 代理设计的网页爬虫工具，提供异步、智能抓取与结构化数据提取功能。",
+  "highlights": [
+    "专为 LLM 和 AI 代理优化，支持结构化输出",
+    "异步架构，支持高并发和动态内容抓取",
+    "内置智能提取、去重和链接分析功能"
+  ],
+  "use_cases": [
+    "为 LLM 训练或 RAG 系统抓取网页数据",
+    "AI 代理自动化信息收集与知识库构建",
+    "大规模网页内容监控与结构化提取"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "web-crawler",
+    "llm",
+    "ai-agent",
+    "async",
+    "data-extraction"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:28Z",
+  "analyzed_at": "2026-07-09T10:48:57Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260709-github-vxcontrolpentagi",
+  "title": "vxcontrol/pentagi",
+  "source_url": "https://github.com/vxcontrol/pentagi",
+  "source_type": "github_trending",
+  "summary": "Pentagi 是一个基于 AI 的渗透测试助手，利用大型语言模型自动执行安全评估任务，支持多代理协作和自定义工作流。",
+  "highlights": [
+    "集成多种 LLM 后端（如 OpenAI、Anthropic）",
+    "支持多代理协作和任务分解",
+    "提供可扩展的插件系统"
+  ],
+  "use_cases": [
+    "自动化渗透测试",
+    "安全评估与漏洞扫描",
+    "红队演练辅助"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "penetration-testing",
+    "security",
+    "agent",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:28Z",
+  "analyzed_at": "2026-07-09T10:48:54Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260709-github-voltagentawesome-des",
+  "title": "VoltAgent/awesome-design-md",
+  "source_url": "https://github.com/VoltAgent/awesome-design-md",
+  "source_type": "github_trending",
+  "summary": "一个收集和整理设计相关 Markdown 资源的精选列表，涵盖设计系统、组件库、工具和最佳实践。",
+  "highlights": [
+    "精选高质量设计资源，覆盖多个领域",
+    "资源分类清晰，便于快速查找",
+    "社区维护，持续更新"
+  ],
+  "use_cases": [
+    "设计师寻找设计系统与组件库参考",
+    "开发者学习设计模式与最佳实践",
+    "产品团队构建统一的设计语言"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "design",
+    "markdown",
+    "resources",
+    "awesome-list"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:28Z",
+  "analyzed_at": "2026-07-09T10:48:44Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}

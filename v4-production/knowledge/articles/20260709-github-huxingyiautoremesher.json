@@ -1,0 +1,33 @@
+{
+  "id": "20260709-github-huxingyiautoremesher",
+  "title": "huxingyi/autoremesher",
+  "source_url": "https://github.com/huxingyi/autoremesher",
+  "source_type": "github_trending",
+  "summary": "AutoRemesher 是一款自动网格重划分工具，用于将三角网格模型优化为高质量四边形网格，支持特征保留和拓扑优化。",
+  "highlights": [
+    "自动生成高质量四边形网格，保留模型特征",
+    "支持用户控制网格密度和拓扑结构",
+    "基于开源算法，易于集成到3D建模流程"
+  ],
+  "use_cases": [
+    "3D建模与动画制作中的网格优化",
+    "游戏资产的高效重拓扑",
+    "3D打印前的网格预处理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "mesh",
+    "remeshing",
+    "quad-mesh",
+    "3d-modeling",
+    "computer-graphics"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:28Z",
+  "analyzed_at": "2026-07-09T10:49:03Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}

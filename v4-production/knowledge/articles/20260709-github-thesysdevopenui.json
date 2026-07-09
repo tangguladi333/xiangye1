@@ -1,0 +1,32 @@
+{
+  "id": "20260709-github-thesysdevopenui",
+  "title": "thesysdev/openui",
+  "source_url": "https://github.com/thesysdev/openui",
+  "source_type": "github_trending",
+  "summary": "OpenUI 是一个基于 AI 的 UI 生成工具，允许用户通过自然语言描述快速生成和迭代用户界面，支持多种前端框架。",
+  "highlights": [
+    "通过自然语言描述生成 UI，降低设计门槛",
+    "支持实时预览和迭代修改",
+    "集成多种前端框架（如 React、Vue）输出"
+  ],
+  "use_cases": [
+    "快速原型设计",
+    "非设计师用户生成界面",
+    "AI 辅助前端开发"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ui-generation",
+    "llm",
+    "frontend",
+    "prototyping"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:26Z",
+  "analyzed_at": "2026-07-09T10:48:35Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}

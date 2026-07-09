@@ -1,0 +1,33 @@
+{
+  "id": "20260709-github-wonderwhy-erdesktopc",
+  "title": "wonderwhy-er/DesktopCommanderMCP",
+  "source_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+  "source_type": "github_trending",
+  "summary": "DesktopCommanderMCP 是一个基于 MCP 协议的桌面命令执行工具，允许 AI 助手通过自然语言控制本地计算机，执行文件操作、运行脚本等任务。",
+  "highlights": [
+    "支持通过 MCP 协议与 AI 助手集成，实现桌面命令的远程执行",
+    "提供文件系统操作、进程管理、脚本运行等多种功能",
+    "易于安装和配置，适合开发者快速搭建 AI 控制桌面环境"
+  ],
+  "use_cases": [
+    "AI 助手自动化桌面任务，如文件整理、软件安装",
+    "开发者测试和调试时通过 AI 快速执行命令",
+    "教育场景中演示 AI 与操作系统交互"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "mcp",
+    "desktop",
+    "command",
+    "ai",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:28Z",
+  "analyzed_at": "2026-07-09T10:48:48Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}

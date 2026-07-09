@@ -1,0 +1,33 @@
+{
+  "id": "20260709-github-prismaprisma",
+  "title": "prisma/prisma",
+  "source_url": "https://github.com/prisma/prisma",
+  "source_type": "github_trending",
+  "summary": "Prisma 是一个开源的 Node.js 和 TypeScript ORM，提供类型安全的数据库访问、自动迁移和可视化数据管理工具，支持 PostgreSQL、MySQL、SQLite 等主流数据库。",
+  "highlights": [
+    "类型安全的数据库查询，自动生成 TypeScript 类型定义",
+    "支持数据库迁移（Migration）和 Prisma Studio 可视化数据管理",
+    "活跃的社区和持续的版本更新，广泛用于生产环境"
+  ],
+  "use_cases": [
+    "Node.js/TypeScript 后端应用的数据库操作",
+    "快速原型开发和全栈应用的数据层管理",
+    "需要类型安全和自动补全的数据库查询场景"
+  ],
+  "maturity": {
+    "stars": 42000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "orm",
+    "database",
+    "nodejs",
+    "typescript",
+    "prisma"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-09T10:48:28Z",
+  "analyzed_at": "2026-07-09T10:49:07Z",
+  "curated_at": "2026-07-09T10:49:07Z"
+}
