@@ -2006,5 +2006,19 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-09T10:49:07Z"
+  },
+  {
+    "id": "20260710-github-rockbenbenchatgpt-sh",
+    "title": "rockbenben/ChatGPT-Shortcut",
+    "source_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+    "source_type": "github_trending",
+    "tags": [
+      "chatgpt",
+      "prompt",
+      "shortcut",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-10T10:47:18Z"
   }
 ]

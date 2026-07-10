@@ -1,0 +1,31 @@
+{
+  "id": "20260710-github-rockbenbenchatgpt-sh",
+  "title": "rockbenben/ChatGPT-Shortcut",
+  "source_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+  "source_type": "github_trending",
+  "summary": "ChatGPT-Shortcut 是一个收集和整理 ChatGPT 高效提示词（Prompt）的仓库，旨在帮助用户快速上手并充分利用 ChatGPT 的能力，覆盖多种场景。",
+  "highlights": [
+    "提供大量分类清晰的 ChatGPT 提示词模板",
+    "支持中文界面，降低使用门槛",
+    "持续更新，社区贡献活跃"
+  ],
+  "use_cases": [
+    "快速生成高质量 ChatGPT 对话提示",
+    "学习如何编写有效 Prompt 的参考"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "chatgpt",
+    "prompt",
+    "shortcut",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-10T10:47:10Z",
+  "analyzed_at": "2026-07-10T10:47:18Z",
+  "curated_at": "2026-07-10T10:47:18Z"
+}
