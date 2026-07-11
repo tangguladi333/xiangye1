@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-vercelnextjs",
+  "title": "vercel/next.js",
+  "source_url": "https://github.com/vercel/next.js",
+  "source_type": "github_trending",
+  "summary": "Vercel 开发的 React 全栈框架，支持服务端渲染、静态生成和 API 路由，是构建现代 Web 应用的主流选择。",
+  "highlights": [
+    "支持 App Router 和 Pages Router 双模式",
+    "内置服务端组件、流式渲染和边缘函数",
+    "丰富的插件生态和 Vercel 平台深度集成"
+  ],
+  "use_cases": [
+    "企业级 Web 应用开发",
+    "静态网站和博客生成",
+    "全栈 Jamstack 项目"
+  ],
+  "maturity": {
+    "stars": 130000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "react",
+    "framework",
+    "ssr",
+    "ssg",
+    "fullstack"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:50Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

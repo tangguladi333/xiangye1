@@ -1,0 +1,32 @@
+{
+  "id": "20260711-github-davila7claude-code-t",
+  "title": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一系列用于 Claude Code 的模板，帮助开发者快速启动常见任务，如代码审查、测试生成、文档编写等。",
+  "highlights": [
+    "提供多种实用模板，覆盖代码审查、测试、文档等场景",
+    "模板设计简洁，易于定制和扩展",
+    "与 Claude Code 深度集成，提升开发效率"
+  ],
+  "use_cases": [
+    "自动化代码审查流程",
+    "快速生成单元测试和集成测试",
+    "辅助编写项目文档和 API 文档"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude-code",
+    "templates",
+    "developer-tools",
+    "ai-assistant"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:34Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

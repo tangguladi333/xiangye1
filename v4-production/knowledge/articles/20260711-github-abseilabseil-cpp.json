@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-abseilabseil-cpp",
+  "title": "abseil/abseil-cpp",
+  "source_url": "https://github.com/abseil/abseil-cpp",
+  "source_type": "github_trending",
+  "summary": "Abseil 是 Google 开发的 C++ 标准库扩展集合，提供高效、可移植的基础组件，如字符串处理、容器、算法和并发工具，旨在增强 C++ 标准库功能。",
+  "highlights": [
+    "由 Google 维护，质量高且经过生产验证",
+    "提供丰富的 C++ 基础库组件，如 absl::StrCat、absl::flat_hash_map 等",
+    "与 C++ 标准库兼容，易于集成到现有项目"
+  ],
+  "use_cases": [
+    "C++ 项目开发中需要高性能字符串处理、容器或算法",
+    "需要跨平台且稳定的基础库组件",
+    "替代或补充 C++ 标准库功能"
+  ],
+  "maturity": {
+    "stars": 15000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "c++",
+    "library",
+    "google",
+    "abseil",
+    "performance"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:19Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

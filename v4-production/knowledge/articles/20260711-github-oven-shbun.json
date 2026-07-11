@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-oven-shbun",
+  "title": "oven-sh/bun",
+  "source_url": "https://github.com/oven-sh/bun",
+  "source_type": "github_trending",
+  "summary": "Bun 是一个快速的全能 JavaScript 运行时，集成了打包器、转译器和包管理器，旨在替代 Node.js 并提升开发效率。",
+  "highlights": [
+    "原生支持 TypeScript 和 JSX，无需额外配置",
+    "内置高性能包管理器，比 npm 快 10-100 倍",
+    "集成测试运行器，兼容 Jest API"
+  ],
+  "use_cases": [
+    "快速启动和运行 JavaScript/TypeScript 项目",
+    "替代 Node.js 进行全栈开发",
+    "高效管理依赖和构建前端应用"
+  ],
+  "maturity": {
+    "stars": 75000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "javascript",
+    "runtime",
+    "typescript",
+    "bundler",
+    "package-manager"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:16Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

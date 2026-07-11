@@ -1,0 +1,32 @@
+{
+  "id": "20260711-github-netease-youdaolobste",
+  "title": "netease-youdao/LobsterAI",
+  "source_url": "https://github.com/netease-youdao/LobsterAI",
+  "source_type": "github_trending",
+  "summary": "LobsterAI 是网易有道开源的基于大语言模型的智能体框架，支持多模态输入、工具调用和复杂任务编排，旨在简化 AI 应用开发。",
+  "highlights": [
+    "支持多模态输入（文本、图像、音频）",
+    "内置工具调用和任务编排能力",
+    "提供灵活的插件扩展机制"
+  ],
+  "use_cases": [
+    "构建智能客服和对话系统",
+    "自动化工作流和任务处理",
+    "多模态内容理解和生成"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multimodal",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:04Z",
+  "analyzed_at": "2026-07-11T09:21:13Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

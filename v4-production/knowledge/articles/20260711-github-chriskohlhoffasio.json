@@ -1,0 +1,31 @@
+{
+  "id": "20260711-github-chriskohlhoffasio",
+  "title": "chriskohlhoff/asio",
+  "source_url": "https://github.com/chriskohlhoff/asio",
+  "source_type": "github_trending",
+  "summary": "Asio 是一个跨平台的 C++ 网络和底层 I/O 库，提供异步 I/O 模型，广泛应用于高性能网络编程。",
+  "highlights": [
+    "支持 TCP、UDP、SSL 等协议",
+    "提供同步和异步 I/O 操作",
+    "跨平台（Windows、Linux、macOS 等）"
+  ],
+  "use_cases": [
+    "高性能网络服务器开发",
+    "实时通信系统",
+    "嵌入式系统 I/O 处理"
+  ],
+  "maturity": {
+    "stars": 5000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "cpp",
+    "networking",
+    "async-io"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:29Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

@@ -2020,5 +2020,239 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-10T10:47:18Z"
+  },
+  {
+    "id": "20260711-github-abseilabseil-cpp",
+    "title": "abseil/abseil-cpp",
+    "source_url": "https://github.com/abseil/abseil-cpp",
+    "source_type": "github_trending",
+    "tags": [
+      "c++",
+      "library",
+      "google",
+      "abseil",
+      "performance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-catchorgcatch2",
+    "title": "catchorg/Catch2",
+    "source_url": "https://github.com/catchorg/Catch2",
+    "source_type": "github_trending",
+    "tags": [
+      "c++",
+      "testing",
+      "unit-testing",
+      "bdd",
+      "header-only"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-chriskohlhoffasio",
+    "title": "chriskohlhoff/asio",
+    "source_url": "https://github.com/chriskohlhoff/asio",
+    "source_type": "github_trending",
+    "tags": [
+      "cpp",
+      "networking",
+      "async-io"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-cloudwegoeino",
+    "title": "cloudwego/eino",
+    "source_url": "https://github.com/cloudwego/eino",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "go",
+      "framework",
+      "cloudwego"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-davila7claude-code-t",
+    "title": "davila7/claude-code-templates",
+    "source_url": "https://github.com/davila7/claude-code-templates",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "templates",
+      "developer-tools",
+      "ai-assistant"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-google-labs-codestit",
+    "title": "google-labs-code/stitch-skills",
+    "source_url": "https://github.com/google-labs-code/stitch-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "workflow",
+      "google-labs"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-grpcgrpc",
+    "title": "grpc/grpc",
+    "source_url": "https://github.com/grpc/grpc",
+    "source_type": "github_trending",
+    "tags": [
+      "rpc",
+      "grpc",
+      "http2",
+      "microservices",
+      "distributed-systems"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-hashicorpterraform",
+    "title": "hashicorp/terraform",
+    "source_url": "https://github.com/hashicorp/terraform",
+    "source_type": "github_trending",
+    "tags": [
+      "infrastructure-as-code",
+      "terraform",
+      "cloud",
+      "devops"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-jbederyaml-cpp",
+    "title": "jbeder/yaml-cpp",
+    "source_url": "https://github.com/jbeder/yaml-cpp",
+    "source_type": "github_trending",
+    "tags": [
+      "yaml",
+      "c++",
+      "parser",
+      "serialization"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-microsofttypescript",
+    "title": "microsoft/TypeScript",
+    "source_url": "https://github.com/microsoft/TypeScript",
+    "source_type": "github_trending",
+    "tags": [
+      "typescript",
+      "javascript",
+      "compiler",
+      "language",
+      "static-typing"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-netease-youdaolobste",
+    "title": "netease-youdao/LobsterAI",
+    "source_url": "https://github.com/netease-youdao/LobsterAI",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multimodal",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-oven-shbun",
+    "title": "oven-sh/bun",
+    "source_url": "https://github.com/oven-sh/bun",
+    "source_type": "github_trending",
+    "tags": [
+      "javascript",
+      "runtime",
+      "typescript",
+      "bundler",
+      "package-manager"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-tailscaletailscale",
+    "title": "tailscale/tailscale",
+    "source_url": "https://github.com/tailscale/tailscale",
+    "source_type": "github_trending",
+    "tags": [
+      "vpn",
+      "wireguard",
+      "networking",
+      "security",
+      "zero-config"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-tencentcloudtencentd",
+    "title": "TencentCloud/TencentDB-Agent-Memory",
+    "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "database",
+      "tencent-cloud",
+      "memory"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-vercelnextjs",
+    "title": "vercel/next.js",
+    "source_url": "https://github.com/vercel/next.js",
+    "source_type": "github_trending",
+    "tags": [
+      "react",
+      "framework",
+      "ssr",
+      "ssg",
+      "fullstack"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
+  },
+  {
+    "id": "20260711-github-zeuxmeshoptimizer",
+    "title": "zeux/meshoptimizer",
+    "source_url": "https://github.com/zeux/meshoptimizer",
+    "source_type": "github_trending",
+    "tags": [
+      "mesh",
+      "optimization",
+      "3d",
+      "graphics",
+      "compression"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-11T09:21:50Z"
   }
 ]

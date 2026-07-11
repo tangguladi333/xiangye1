@@ -1,0 +1,32 @@
+{
+  "id": "20260711-github-google-labs-codestit",
+  "title": "google-labs-code/stitch-skills",
+  "source_url": "https://github.com/google-labs-code/stitch-skills",
+  "source_type": "github_trending",
+  "summary": "Stitch Skills 是一个用于构建和编排 AI 技能（如 LLM 调用、工具使用）的轻量级框架，旨在简化多步骤 AI 工作流的开发。",
+  "highlights": [
+    "由 Google Labs 开发，具备一定的官方背景和可靠性",
+    "支持模块化技能组合，便于复用和扩展",
+    "提供清晰的 API 和示例，降低 AI 工作流开发门槛"
+  ],
+  "use_cases": [
+    "构建多步骤的 LLM 应用，如问答系统、内容生成流水线",
+    "快速原型开发，验证 AI 技能组合的可行性"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "workflow",
+    "google-labs"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:42Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

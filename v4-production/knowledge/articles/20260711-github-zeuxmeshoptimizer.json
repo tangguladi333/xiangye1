@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-zeuxmeshoptimizer",
+  "title": "zeux/meshoptimizer",
+  "source_url": "https://github.com/zeux/meshoptimizer",
+  "source_type": "github_trending",
+  "summary": "一个高性能的3D网格优化库，提供压缩、简化、缓存优化等功能，广泛应用于游戏和图形渲染领域。",
+  "highlights": [
+    "支持多种网格优化算法，如顶点缓存优化、索引缓存优化、网格简化等",
+    "性能卓越，经过广泛测试和工业级应用验证",
+    "提供C++和C接口，易于集成到不同项目中"
+  ],
+  "use_cases": [
+    "游戏引擎中的网格预处理和优化",
+    "3D模型压缩和传输优化",
+    "实时渲染中的性能提升"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "mesh",
+    "optimization",
+    "3d",
+    "graphics",
+    "compression"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:37Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

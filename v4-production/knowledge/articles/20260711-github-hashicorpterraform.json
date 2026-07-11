@@ -1,0 +1,31 @@
+{
+  "id": "20260711-github-hashicorpterraform",
+  "title": "hashicorp/terraform",
+  "source_url": "https://github.com/hashicorp/terraform",
+  "source_type": "github_trending",
+  "summary": "Terraform 是 HashiCorp 开发的开源基础设施即代码工具，支持多云环境下的资源声明式管理与自动化部署。",
+  "highlights": [
+    "声明式配置语言 HCL，支持多云提供商",
+    "强大的状态管理与执行计划机制",
+    "活跃的社区与丰富的模块注册中心"
+  ],
+  "use_cases": [
+    "多云基础设施自动化部署与管理",
+    "CI/CD 流水线中的基础设施编排"
+  ],
+  "maturity": {
+    "stars": 43000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "infrastructure-as-code",
+    "terraform",
+    "cloud",
+    "devops"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:45Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

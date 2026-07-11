@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-catchorgcatch2",
+  "title": "catchorg/Catch2",
+  "source_url": "https://github.com/catchorg/Catch2",
+  "source_type": "github_trending",
+  "summary": "Catch2 是一个现代、轻量级的 C++ 测试框架，支持头文件集成和快速测试编写，广泛应用于单元测试和 BDD 风格测试。",
+  "highlights": [
+    "仅需单个头文件即可集成，易于使用",
+    "支持 BDD 风格（Given-When-Then）和传统单元测试",
+    "丰富的断言宏和自动注册测试用例"
+  ],
+  "use_cases": [
+    "C++ 项目的单元测试和集成测试",
+    "快速原型开发中的测试验证",
+    "跨平台测试（Windows、Linux、macOS）"
+  ],
+  "maturity": {
+    "stars": 20000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "c++",
+    "testing",
+    "unit-testing",
+    "bdd",
+    "header-only"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:26Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

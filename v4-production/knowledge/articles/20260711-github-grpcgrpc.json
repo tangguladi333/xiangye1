@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-grpcgrpc",
+  "title": "grpc/grpc",
+  "source_url": "https://github.com/grpc/grpc",
+  "source_type": "github_trending",
+  "summary": "gRPC 是一个高性能、开源的远程过程调用（RPC）框架，由 Google 开发，支持多种语言和平台，用于构建分布式系统和微服务。",
+  "highlights": [
+    "支持 HTTP/2 协议，提供双向流、流控和头部压缩",
+    "多语言支持（C++, Java, Python, Go 等）",
+    "强大的生态系统，包括负载均衡、认证和监控"
+  ],
+  "use_cases": [
+    "微服务架构中的服务间通信",
+    "移动客户端与后端服务器的高效数据交换",
+    "实时流式数据处理（如视频流、IoT 数据）"
+  ],
+  "maturity": {
+    "stars": 42000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "rpc",
+    "grpc",
+    "http2",
+    "microservices",
+    "distributed-systems"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:47Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260711-github-jbederyaml-cpp",
+  "title": "jbeder/yaml-cpp",
+  "source_url": "https://github.com/jbeder/yaml-cpp",
+  "source_type": "github_trending",
+  "summary": "yaml-cpp 是一个用 C++ 编写的 YAML 解析器和生成器，支持 YAML 1.2 规范，广泛用于配置文件和数据序列化。",
+  "highlights": [
+    "纯 C++ 实现，无外部依赖",
+    "支持 YAML 1.2 标准",
+    "提供简单易用的 API 进行解析和生成"
+  ],
+  "use_cases": [
+    "C++ 项目的配置文件解析",
+    "数据序列化与反序列化",
+    "游戏或应用的设置管理"
+  ],
+  "maturity": {
+    "stars": 5200,
+    "last_updated": "2025-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "yaml",
+    "c++",
+    "parser",
+    "serialization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:21Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

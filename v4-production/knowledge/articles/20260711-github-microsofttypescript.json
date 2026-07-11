@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-microsofttypescript",
+  "title": "microsoft/TypeScript",
+  "source_url": "https://github.com/microsoft/TypeScript",
+  "source_type": "github_trending",
+  "summary": "TypeScript 是微软开发的开源编程语言，是 JavaScript 的超集，添加了静态类型检查，提升大型项目开发效率与代码质量。",
+  "highlights": [
+    "由微软官方维护，社区活跃度极高",
+    "提供强大的类型系统和编译时错误检查",
+    "支持现代 JavaScript 特性，并持续迭代"
+  ],
+  "use_cases": [
+    "大型前端项目开发",
+    "Node.js 后端应用",
+    "跨平台应用开发"
+  ],
+  "maturity": {
+    "stars": 100000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "typescript",
+    "javascript",
+    "compiler",
+    "language",
+    "static-typing"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:24Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}

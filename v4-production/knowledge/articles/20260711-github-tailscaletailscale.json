@@ -1,0 +1,33 @@
+{
+  "id": "20260711-github-tailscaletailscale",
+  "title": "tailscale/tailscale",
+  "source_url": "https://github.com/tailscale/tailscale",
+  "source_type": "github_trending",
+  "summary": "Tailscale 是一个基于 WireGuard 的零配置 VPN 解决方案，旨在简化安全网络连接，支持跨平台使用，并开源其客户端代码。",
+  "highlights": [
+    "基于 WireGuard 协议，提供高效、安全的加密隧道",
+    "零配置网络，自动发现和连接设备，无需手动管理密钥或端口",
+    "支持多种平台（Windows、macOS、Linux、iOS、Android 等）和云服务集成"
+  ],
+  "use_cases": [
+    "远程办公：安全访问公司内部网络资源",
+    "家庭网络：连接多个设备（如 NAS、服务器、智能家居）",
+    "开发测试：快速搭建跨地域的私有网络环境"
+  ],
+  "maturity": {
+    "stars": 22000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "vpn",
+    "wireguard",
+    "networking",
+    "security",
+    "zero-config"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-11T09:21:05Z",
+  "analyzed_at": "2026-07-11T09:21:40Z",
+  "curated_at": "2026-07-11T09:21:50Z"
+}
