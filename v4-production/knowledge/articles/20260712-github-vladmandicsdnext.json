@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-vladmandicsdnext",
+  "title": "vladmandic/sdnext",
+  "source_url": "https://github.com/vladmandic/sdnext",
+  "source_type": "github_trending",
+  "summary": "SD.Next 是一个基于 Stable Diffusion 的 Web UI，提供模块化、可扩展的图像生成界面，支持多种后端和高级功能。",
+  "highlights": [
+    "支持多种 Stable Diffusion 后端（如 Automatic1111、ComfyUI）",
+    "模块化架构，易于扩展和自定义",
+    "内置高级功能如 ControlNet、LoRA、图像放大等"
+  ],
+  "use_cases": [
+    "AI 图像生成与编辑",
+    "研究和实验 Stable Diffusion 模型",
+    "构建自定义图像生成工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "stable-diffusion",
+    "web-ui",
+    "image-generation",
+    "ai-art",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:27Z",
+  "analyzed_at": "2026-07-12T09:47:18Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-nasafprime",
+  "title": "nasa/fprime",
+  "source_url": "https://github.com/nasa/fprime",
+  "source_type": "github_trending",
+  "summary": "F Prime 是 NASA 开发的一个开源框架，用于构建航天器飞行软件，支持组件化、可重用和可测试的嵌入式系统开发。",
+  "highlights": [
+    "由 NASA 官方维护，具有高可靠性和专业性",
+    "支持组件化架构，便于模块化开发和复用",
+    "提供自动代码生成和测试工具，提升开发效率"
+  ],
+  "use_cases": [
+    "航天器飞行软件开发和部署",
+    "嵌入式系统组件化设计与测试"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "nasa",
+    "flight-software",
+    "embedded",
+    "framework",
+    "component-based"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:30Z",
+  "analyzed_at": "2026-07-12T09:49:26Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

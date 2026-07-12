@@ -1,0 +1,34 @@
+{
+  "id": "20260712-github-dotnetaspnetcore",
+  "title": "dotnet/aspnetcore",
+  "source_url": "https://github.com/dotnet/aspnetcore",
+  "source_type": "github_trending",
+  "summary": "ASP.NET Core 是微软开源的跨平台 Web 框架，用于构建现代云应用、微服务和 IoT 应用，包含 MVC、Blazor、SignalR 等核心组件。",
+  "highlights": [
+    "跨平台高性能 Web 框架，支持 Windows、Linux 和 macOS",
+    "内置 Blazor 组件模型，支持客户端和服务器端渲染",
+    "丰富的中间件管道和依赖注入系统"
+  ],
+  "use_cases": [
+    "构建 RESTful API 和微服务",
+    "开发实时 Web 应用（SignalR）",
+    "企业级 Web 应用和云原生服务"
+  ],
+  "maturity": {
+    "stars": 36000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "web-framework",
+    "dotnet",
+    "aspnetcore",
+    "mvc",
+    "blazor",
+    "signalr"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:30Z",
+  "analyzed_at": "2026-07-12T09:49:23Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

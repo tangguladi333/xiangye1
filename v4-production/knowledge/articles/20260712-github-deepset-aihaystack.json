@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-deepset-aihaystack",
+  "title": "deepset-ai/haystack",
+  "source_url": "https://github.com/deepset-ai/haystack",
+  "source_type": "github_trending",
+  "summary": "Haystack 是一个开源的 NLP 框架，用于构建基于 LLM 的问答、检索和对话系统，支持多种模型和向量数据库。",
+  "highlights": [
+    "模块化设计，支持自定义管道和组件",
+    "集成多种 LLM 和向量数据库（如 OpenAI、Elasticsearch）",
+    "活跃社区，持续更新，文档完善"
+  ],
+  "use_cases": [
+    "企业级文档问答系统",
+    "智能客服和知识检索",
+    "基于 RAG 的对话应用"
+  ],
+  "maturity": {
+    "stars": 18000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "nlp",
+    "question-answering",
+    "retrieval"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:27Z",
+  "analyzed_at": "2026-07-12T09:47:35Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

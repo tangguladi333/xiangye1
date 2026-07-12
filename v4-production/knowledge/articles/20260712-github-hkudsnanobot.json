@@ -1,0 +1,31 @@
+{
+  "id": "20260712-github-hkudsnanobot",
+  "title": "HKUDS/nanobot",
+  "source_url": "https://github.com/HKUDS/nanobot",
+  "source_type": "github_trending",
+  "summary": "Nanobot 是一个轻量级、模块化的机器人框架，支持多种传感器和执行器，适用于教育和快速原型开发。",
+  "highlights": [
+    "模块化设计，易于扩展和定制",
+    "支持多种传感器和执行器",
+    "提供丰富的示例和文档"
+  ],
+  "use_cases": [
+    "机器人教育",
+    "快速原型开发",
+    "智能家居控制"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "robot",
+    "framework",
+    "modular"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:26Z",
+  "analyzed_at": "2026-07-12T09:46:49Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-headroomlabs-aiheadr",
+  "title": "headroomlabs-ai/headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github_trending",
+  "summary": "Headroom 是一个开源的 AI 代理平台，用于构建、部署和管理多模态 AI 代理，支持语音、文本和视觉交互。",
+  "highlights": [
+    "支持多模态交互（语音、文本、视觉）",
+    "提供低代码构建工具和可扩展的 API",
+    "内置代理编排和实时监控功能"
+  ],
+  "use_cases": [
+    "构建客户服务虚拟助手",
+    "开发多模态交互式教育应用",
+    "部署企业级 AI 代理工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "multimodal",
+    "low-code",
+    "orchestration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:26Z",
+  "analyzed_at": "2026-07-12T09:46:42Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

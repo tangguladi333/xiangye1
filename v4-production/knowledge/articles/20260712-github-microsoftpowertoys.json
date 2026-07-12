@@ -1,0 +1,30 @@
+{
+  "id": "20260712-github-microsoftpowertoys",
+  "title": "microsoft/PowerToys",
+  "source_url": "https://github.com/microsoft/PowerToys",
+  "source_type": "github_trending",
+  "summary": "微软官方开发的 Windows 系统增强工具集，提供窗口管理、批量重命名、颜色拾取等实用功能，提升用户效率。",
+  "highlights": [
+    "由微软官方维护，社区活跃度高",
+    "包含 FancyZones、PowerRename 等 20+ 实用工具",
+    "支持 Windows 10/11，持续更新迭代"
+  ],
+  "use_cases": [
+    "提升 Windows 系统操作效率",
+    "开发者或设计师的日常工具需求"
+  ],
+  "maturity": {
+    "stars": 120000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "windows",
+    "productivity",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:30Z",
+  "analyzed_at": "2026-07-12T09:49:14Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

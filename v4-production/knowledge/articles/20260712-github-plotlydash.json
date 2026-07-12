@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-plotlydash",
+  "title": "plotly/dash",
+  "source_url": "https://github.com/plotly/dash",
+  "source_type": "github_trending",
+  "summary": "Dash 是一个用于构建数据可视化 Web 应用的 Python 框架，基于 Plotly.js、React 和 Flask，无需前端知识即可创建交互式仪表盘。",
+  "highlights": [
+    "纯 Python 构建交互式 Web 应用，无需 JavaScript",
+    "基于 Plotly.js 提供丰富的图表类型",
+    "支持回调函数实现高度交互性"
+  ],
+  "use_cases": [
+    "数据科学和机器学习结果的可视化仪表盘",
+    "企业内部数据监控和分析平台",
+    "快速原型开发与数据产品交付"
+  ],
+  "maturity": {
+    "stars": 22000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "python",
+    "data-visualization",
+    "web-app",
+    "plotly",
+    "dashboard"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:28Z",
+  "analyzed_at": "2026-07-12T09:48:47Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

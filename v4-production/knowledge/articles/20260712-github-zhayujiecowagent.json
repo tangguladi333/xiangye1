@@ -1,0 +1,31 @@
+{
+  "id": "20260712-github-zhayujiecowagent",
+  "title": "zhayujie/CowAgent",
+  "source_url": "https://github.com/zhayujie/CowAgent",
+  "source_type": "github_trending",
+  "summary": "CowAgent 是一个基于大语言模型的智能体框架，支持多工具调用和任务规划，旨在简化复杂工作流的自动化执行。",
+  "highlights": [
+    "支持多种 LLM 后端（如 OpenAI、Claude）",
+    "内置任务分解与执行引擎",
+    "提供可扩展的工具接口"
+  ],
+  "use_cases": [
+    "自动化数据处理与报告生成",
+    "多步骤工作流编排与执行"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:26Z",
+  "analyzed_at": "2026-07-12T09:46:47Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

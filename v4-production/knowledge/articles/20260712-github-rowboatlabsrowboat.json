@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-rowboatlabsrowboat",
+  "title": "rowboatlabs/rowboat",
+  "source_url": "https://github.com/rowboatlabs/rowboat",
+  "source_type": "github_trending",
+  "summary": "Rowboat 是一个基于 LLM 的自动化工作流平台，通过自然语言指令编排 AI 代理和工具，实现复杂任务的自动化执行。",
+  "highlights": [
+    "支持自然语言定义工作流，降低使用门槛",
+    "集成多种 LLM 和外部工具，扩展性强",
+    "提供可视化界面和 API，便于部署与监控"
+  ],
+  "use_cases": [
+    "自动化数据处理与报告生成",
+    "智能客服与对话系统编排",
+    "多步骤任务调度与 AI 代理协作"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:28Z",
+  "analyzed_at": "2026-07-12T09:48:53Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

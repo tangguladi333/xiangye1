@@ -1,0 +1,31 @@
+{
+  "id": "20260712-github-home-assistantcore",
+  "title": "home-assistant/core",
+  "source_url": "https://github.com/home-assistant/core",
+  "source_type": "github_trending",
+  "summary": "Home Assistant Core 是一个开源的家庭自动化平台，专注于本地控制和隐私保护，支持集成数千种智能设备与服务。",
+  "highlights": [
+    "支持超过 2000 种集成，覆盖智能家居设备、传感器和服务",
+    "强调本地运行，无需云依赖，保障用户隐私和数据安全",
+    "活跃的社区和持续更新，每月发布稳定版本"
+  ],
+  "use_cases": [
+    "家庭自动化控制，如灯光、温度、安防系统",
+    "智能设备集成与场景联动，实现个性化自动化"
+  ],
+  "maturity": {
+    "stars": 75000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "home-automation",
+    "iot",
+    "python",
+    "smart-home"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:30Z",
+  "analyzed_at": "2026-07-12T09:49:11Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

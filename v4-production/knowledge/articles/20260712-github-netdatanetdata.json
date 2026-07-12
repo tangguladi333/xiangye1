@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-netdatanetdata",
+  "title": "netdata/netdata",
+  "source_url": "https://github.com/netdata/netdata",
+  "source_type": "github_trending",
+  "summary": "Netdata 是一个开源的实时监控和故障排除平台，提供高分辨率指标、日志和告警，适用于所有系统。",
+  "highlights": [
+    "实时、高分辨率（每秒）的指标收集",
+    "内置告警引擎，支持自定义告警规则",
+    "零配置即可运行，支持多种操作系统和容器"
+  ],
+  "use_cases": [
+    "服务器和基础设施的实时性能监控",
+    "容器化环境（如 Docker、Kubernetes）的监控",
+    "故障排查和容量规划"
+  ],
+  "maturity": {
+    "stars": 72000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "monitoring",
+    "observability",
+    "devops",
+    "real-time"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:28Z",
+  "analyzed_at": "2026-07-12T09:48:16Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-vercelai",
+  "title": "vercel/ai",
+  "source_url": "https://github.com/vercel/ai",
+  "source_type": "github_trending",
+  "summary": "Vercel 推出的 AI SDK，提供统一接口构建流式、类型安全的 AI 应用，支持多种模型和框架。",
+  "highlights": [
+    "支持流式响应与类型安全",
+    "与 Vercel 生态深度集成",
+    "支持多种 AI 模型提供商"
+  ],
+  "use_cases": [
+    "构建聊天机器人",
+    "集成 AI 到 Web 应用"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ai",
+    "sdk",
+    "llm",
+    "streaming",
+    "typescript"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:27Z",
+  "analyzed_at": "2026-07-12T09:47:38Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

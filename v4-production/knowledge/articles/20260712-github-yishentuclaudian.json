@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-yishentuclaudian",
+  "title": "YishenTu/claudian",
+  "source_url": "https://github.com/YishenTu/claudian",
+  "source_type": "github_trending",
+  "summary": "Claudian 是一个基于 Anthropic API 的 AI 对话工具，支持多轮对话、上下文管理和自定义系统提示，旨在提供更可控的 Claude 交互体验。",
+  "highlights": [
+    "支持多轮对话与上下文管理",
+    "可自定义系统提示词",
+    "基于 Anthropic API 实现"
+  ],
+  "use_cases": [
+    "个人 AI 助手开发",
+    "对话系统原型设计",
+    "API 调用与交互测试"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "claude",
+    "chatbot",
+    "api"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:28Z",
+  "analyzed_at": "2026-07-12T09:48:56Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

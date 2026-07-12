@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-farion1231cc-switch",
+  "title": "farion1231/cc-switch",
+  "source_url": "https://github.com/farion1231/cc-switch",
+  "source_type": "github_trending",
+  "summary": "cc-switch 是一个基于计算机视觉的智能开关控制项目，通过摄像头识别手势或物体，实现非接触式开关操作。",
+  "highlights": [
+    "使用 OpenCV 和 MediaPipe 进行实时手势识别",
+    "支持多种控制模式：手势、颜色、物体检测",
+    "低延迟、高准确率的视觉控制方案"
+  ],
+  "use_cases": [
+    "智能家居中的非接触式开关控制",
+    "无障碍辅助设备，帮助行动不便者",
+    "自动化演示和交互式展示"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-10",
+    "production_ready": false
+  },
+  "tags": [
+    "computer-vision",
+    "gesture-recognition",
+    "smart-home",
+    "opencv",
+    "mediapipe"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:28Z",
+  "analyzed_at": "2026-07-12T09:48:09Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

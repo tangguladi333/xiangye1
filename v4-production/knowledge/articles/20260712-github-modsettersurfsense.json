@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-modsettersurfsense",
+  "title": "MODSetter/SurfSense",
+  "source_url": "https://github.com/MODSetter/SurfSense",
+  "source_type": "github_trending",
+  "summary": "SurfSense 是一个基于 AI 的浏览器扩展，通过智能摘要和上下文感知功能，帮助用户高效浏览和总结网页内容。",
+  "highlights": [
+    "利用 LLM 实现网页智能摘要，提升信息获取效率",
+    "支持上下文感知，根据用户浏览历史提供个性化建议",
+    "轻量级浏览器扩展，易于安装和使用"
+  ],
+  "use_cases": [
+    "快速总结长篇文章或新闻，节省阅读时间",
+    "研究或学习时，辅助提取关键信息",
+    "日常浏览中，提供个性化内容推荐"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "browser-extension",
+    "summarization",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:26Z",
+  "analyzed_at": "2026-07-12T09:46:04Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

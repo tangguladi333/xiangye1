@@ -1,0 +1,31 @@
+{
+  "id": "20260712-github-msitarzewskiagency-a",
+  "title": "msitarzewski/agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents",
+  "source_type": "github_trending",
+  "summary": "Agency-Agents 是一个基于 Python 的轻量级多智能体协作框架，支持任务分配、对话管理和工具调用，适合快速构建 AI 代理系统。",
+  "highlights": [
+    "支持多智能体协作与任务分配",
+    "内置对话管理和工具调用机制",
+    "轻量级设计，易于集成和扩展"
+  ],
+  "use_cases": [
+    "构建多代理客服系统",
+    "自动化任务编排与执行",
+    "AI 代理原型快速开发"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "python",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:26Z",
+  "analyzed_at": "2026-07-12T09:45:48Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

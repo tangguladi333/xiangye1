@@ -1,0 +1,33 @@
+{
+  "id": "20260712-github-openaiopenai-agents-",
+  "title": "openai/openai-agents-python",
+  "source_url": "https://github.com/openai/openai-agents-python",
+  "source_type": "github_trending",
+  "summary": "OpenAI 官方发布的 Python 智能体框架，提供轻量级、可组合的 Agent 构建工具，支持多智能体编排、工具调用和 Guardrails。",
+  "highlights": [
+    "由 OpenAI 官方维护，与 GPT 模型深度集成",
+    "支持多智能体协作与任务编排",
+    "内置 Guardrails 机制，增强安全性与可控性"
+  ],
+  "use_cases": [
+    "构建自动化客服与对话系统",
+    "复杂任务的多智能体协作处理",
+    "集成外部工具与 API 的智能工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "openai",
+    "python",
+    "multi-agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:28Z",
+  "analyzed_at": "2026-07-12T09:48:32Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

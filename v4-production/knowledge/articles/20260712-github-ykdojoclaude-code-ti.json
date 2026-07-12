@@ -1,0 +1,31 @@
+{
+  "id": "20260712-github-ykdojoclaude-code-ti",
+  "title": "ykdojo/claude-code-tips",
+  "source_url": "https://github.com/ykdojo/claude-code-tips",
+  "source_type": "github_trending",
+  "summary": "Claude Code 使用技巧和最佳实践的集合，由知名开发者 ykdojo 维护，帮助用户更高效地使用 Claude 进行编码。",
+  "highlights": [
+    "汇集了实用的 Claude Code 提示和技巧",
+    "由经验丰富的开发者 ykdojo 创建和维护",
+    "社区驱动的项目，持续更新"
+  ],
+  "use_cases": [
+    "学习如何优化 Claude 在代码生成中的表现",
+    "提升 AI 辅助编程的效率和质量"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "tips",
+    "best-practices",
+    "ai-coding"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:28Z",
+  "analyzed_at": "2026-07-12T09:49:02Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-nuxtnuxt",
+  "title": "nuxt/nuxt",
+  "source_url": "https://github.com/nuxt/nuxt",
+  "source_type": "github_trending",
+  "summary": "Nuxt 是一个基于 Vue.js 的全栈框架，用于构建现代 Web 应用，支持服务端渲染、静态生成和客户端渲染，提供模块化架构和丰富的生态系统。",
+  "highlights": [
+    "基于 Vue 3 和 Vite，提供高性能开发体验",
+    "支持 SSR、SSG 和 CSR 多种渲染模式",
+    "丰富的模块生态和自动导入功能"
+  ],
+  "use_cases": [
+    "构建 SEO 友好的企业级网站",
+    "快速开发全栈 Web 应用",
+    "创建静态博客或文档站点"
+  ],
+  "maturity": {
+    "stars": 56000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "vue",
+    "ssr",
+    "full-stack",
+    "web-framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:30Z",
+  "analyzed_at": "2026-07-12T09:49:32Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

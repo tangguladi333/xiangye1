@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-wshobsonagents",
+  "title": "wshobson/agents",
+  "source_url": "https://github.com/wshobson/agents",
+  "source_type": "github_trending",
+  "summary": "一个轻量级的多智能体框架，支持多种LLM后端和工具集成，旨在简化智能体构建与协作。",
+  "highlights": [
+    "支持OpenAI、Anthropic、本地模型等多种LLM后端",
+    "内置工具调用与自定义工具扩展机制",
+    "提供多智能体协作与任务编排能力"
+  ],
+  "use_cases": [
+    "自动化工作流与任务编排",
+    "多智能体协作系统开发",
+    "快速原型验证与实验"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multi-agent",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:28Z",
+  "analyzed_at": "2026-07-12T09:48:25Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-graphify-labsgraphif",
+  "title": "Graphify-Labs/graphify",
+  "source_url": "https://github.com/Graphify-Labs/graphify",
+  "source_type": "github_trending",
+  "summary": "Graphify 是一个基于图数据库的 AI 知识图谱构建工具，支持从非结构化文本自动提取实体与关系，并可视化展示。",
+  "highlights": [
+    "支持从多种数据源（文本、PDF、网页）自动构建知识图谱",
+    "提供交互式图可视化界面，便于探索实体关系",
+    "集成 LLM 进行实体识别与关系抽取，降低人工标注成本"
+  ],
+  "use_cases": [
+    "企业知识管理与文档智能分析",
+    "学术文献关系挖掘与可视化",
+    "智能问答系统的知识库构建"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "knowledge-graph",
+    "llm",
+    "graph-database",
+    "visualization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:26Z",
+  "analyzed_at": "2026-07-12T09:46:29Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260712-github-langflow-ailangflow",
+  "title": "langflow-ai/langflow",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "source_type": "github_trending",
+  "summary": "Langflow 是一个低代码工具，用于构建和部署 LLM 应用，通过拖拽界面连接模型、代理和工具，支持可视化工作流编排。",
+  "highlights": [
+    "可视化拖拽式工作流构建，降低 LLM 应用开发门槛",
+    "支持多种 LLM 模型、代理、向量数据库和工具集成",
+    "提供 API 导出和部署功能，便于生产环境使用"
+  ],
+  "use_cases": [
+    "快速原型开发与实验性 LLM 应用",
+    "企业内部自动化流程与智能客服系统"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "low-code",
+    "agent",
+    "workflow",
+    "visual-programming"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:26Z",
+  "analyzed_at": "2026-07-12T09:45:41Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}

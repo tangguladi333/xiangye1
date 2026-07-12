@@ -1,0 +1,31 @@
+{
+  "id": "20260712-github-malisperpgrust",
+  "title": "malisper/pgrust",
+  "source_url": "https://github.com/malisper/pgrust",
+  "source_type": "github_trending",
+  "summary": "pgrust 是一个用 Rust 编写的 PostgreSQL 扩展框架，旨在提供高性能、安全且易于开发的扩展构建方式。",
+  "highlights": [
+    "使用 Rust 语言，提供内存安全和并发优势",
+    "简化 PostgreSQL 扩展开发流程",
+    "支持自定义数据类型和函数"
+  ],
+  "use_cases": [
+    "构建高性能 PostgreSQL 扩展",
+    "替代 C 语言扩展开发，降低安全风险"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "postgresql",
+    "rust",
+    "extension",
+    "database"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-12T09:45:30Z",
+  "analyzed_at": "2026-07-12T09:49:20Z",
+  "curated_at": "2026-07-12T09:49:32Z"
+}
