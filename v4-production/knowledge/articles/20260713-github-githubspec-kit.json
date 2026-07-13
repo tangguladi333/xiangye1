@@ -1,0 +1,32 @@
+{
+  "id": "20260713-github-githubspec-kit",
+  "title": "github/spec-kit",
+  "source_url": "https://github.com/github/spec-kit",
+  "source_type": "github_trending",
+  "summary": "GitHub官方推出的规范工具包，用于生成和管理API规范文档，支持OpenAPI和AsyncAPI，提升开发效率。",
+  "highlights": [
+    "由GitHub官方维护，权威性高",
+    "支持OpenAPI和AsyncAPI两种主流规范",
+    "提供自动化生成和验证功能"
+  ],
+  "use_cases": [
+    "API文档自动生成与维护",
+    "团队协作中的规范一致性检查"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "api",
+    "openapi",
+    "asyncapi",
+    "specification",
+    "documentation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:54:15Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}

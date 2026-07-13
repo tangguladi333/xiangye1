@@ -1,0 +1,31 @@
+{
+  "id": "20260713-github-raphirewin11debloat",
+  "title": "Raphire/Win11Debloat",
+  "source_url": "https://github.com/Raphire/Win11Debloat",
+  "source_type": "github_trending",
+  "summary": "Win11Debloat 是一个 PowerShell 脚本，用于移除 Windows 11 预装应用、禁用遥测和广告，优化系统隐私和性能。",
+  "highlights": [
+    "一键移除大量预装应用和广告",
+    "支持自定义保留应用列表",
+    "开源且持续更新，社区活跃"
+  ],
+  "use_cases": [
+    "Windows 11 系统隐私优化",
+    "减少系统资源占用和广告干扰"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "windows",
+    "privacy",
+    "debloat",
+    "powershell"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:54:10Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}

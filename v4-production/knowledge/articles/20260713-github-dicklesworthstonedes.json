@@ -1,0 +1,30 @@
+{
+  "id": "20260713-github-dicklesworthstonedes",
+  "title": "Dicklesworthstone/destructive_command_guard",
+  "source_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+  "source_type": "github_trending",
+  "summary": "一个用于保护系统免受破坏性命令影响的工具，通过检测和阻止危险操作来增强安全性。",
+  "highlights": [
+    "专注于防止误执行破坏性命令",
+    "轻量级实现，易于集成",
+    "提供实时命令风险评估"
+  ],
+  "use_cases": [
+    "系统管理中的安全防护",
+    "自动化脚本的误操作预防"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "security",
+    "command-line",
+    "protection"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:53:59Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}

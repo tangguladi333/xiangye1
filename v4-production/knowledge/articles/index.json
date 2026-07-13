@@ -3381,5 +3381,233 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-12T09:49:32Z"
+  },
+  {
+    "id": "20260713-github-andrewyngaisuite",
+    "title": "andrewyng/aisuite",
+    "source_url": "https://github.com/andrewyng/aisuite",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "api",
+      "python",
+      "multi-provider"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-coreyhaines31marketi",
+    "title": "coreyhaines31/marketingskills",
+    "source_url": "https://github.com/coreyhaines31/marketingskills",
+    "source_type": "github_trending",
+    "tags": [
+      "marketing",
+      "digital-marketing",
+      "skills"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-datawhalechinahello-",
+    "title": "datawhalechina/hello-agents",
+    "source_url": "https://github.com/datawhalechina/hello-agents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tutorial",
+      "datawhale"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-dicklesworthstonedes",
+    "title": "Dicklesworthstone/destructive_command_guard",
+    "source_url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+    "source_type": "github_trending",
+    "tags": [
+      "security",
+      "command-line",
+      "protection"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-githubspec-kit",
+    "title": "github/spec-kit",
+    "source_url": "https://github.com/github/spec-kit",
+    "source_type": "github_trending",
+    "tags": [
+      "api",
+      "openapi",
+      "asyncapi",
+      "specification",
+      "documentation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-hasaneyldrmexercises",
+    "title": "hasaneyldrm/exercises-dataset",
+    "source_url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "source_type": "github_trending",
+    "tags": [
+      "dataset",
+      "code-generation",
+      "programming-exercises"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-hkudsvibe-trading",
+    "title": "HKUDS/Vibe-Trading",
+    "source_url": "https://github.com/HKUDS/Vibe-Trading",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "trading",
+      "sentiment-analysis",
+      "backtesting"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "rag",
+      "chatbot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-langchain-ailanggrap",
+    "title": "langchain-ai/langgraphjs",
+    "source_url": "https://github.com/langchain-ai/langgraphjs",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "langchain",
+      "graph",
+      "javascript"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-moeru-aiairi",
+    "title": "moeru-ai/airi",
+    "source_url": "https://github.com/moeru-ai/airi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "chatbot",
+      "multi-platform",
+      "plugin-system"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-nirdiamantgenaiagent",
+    "title": "NirDiamant/GenAI_Agents",
+    "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "source_type": "github_trending",
+    "tags": [
+      "genai",
+      "agents",
+      "tutorial",
+      "llm",
+      "rag",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-nutlopehallmark",
+    "title": "Nutlope/hallmark",
+    "source_url": "https://github.com/Nutlope/hallmark",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "writing assistant",
+      "greeting cards",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-opencut-appopencut",
+    "title": "OpenCut-app/OpenCut",
+    "source_url": "https://github.com/OpenCut-app/OpenCut",
+    "source_type": "github_trending",
+    "tags": [
+      "video-editing",
+      "ai",
+      "auto-editing",
+      "subtitle-generation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-punkpeyeawesome-mcp-",
+    "title": "punkpeye/awesome-mcp-servers",
+    "source_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "source_type": "github_trending",
+    "tags": [
+      "mcp",
+      "awesome-list",
+      "server",
+      "protocol",
+      "ai-integration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-raphirewin11debloat",
+    "title": "Raphire/Win11Debloat",
+    "source_url": "https://github.com/Raphire/Win11Debloat",
+    "source_type": "github_trending",
+    "tags": [
+      "windows",
+      "privacy",
+      "debloat",
+      "powershell"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260713-github-tinyhumansaiopenhuma",
+    "title": "tinyhumansai/openhuman",
+    "source_url": "https://github.com/tinyhumansai/openhuman",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "multi-agent",
+      "llm",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-13T10:54:18Z"
   }
 ]

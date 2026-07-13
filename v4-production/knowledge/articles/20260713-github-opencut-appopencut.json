@@ -1,0 +1,32 @@
+{
+  "id": "20260713-github-opencut-appopencut",
+  "title": "OpenCut-app/OpenCut",
+  "source_url": "https://github.com/OpenCut-app/OpenCut",
+  "source_type": "github_trending",
+  "summary": "OpenCut 是一个基于 AI 的自动视频剪辑工具，支持智能场景检测、字幕生成和剪辑优化，旨在简化视频编辑流程。",
+  "highlights": [
+    "利用 AI 进行自动场景检测和剪辑优化",
+    "集成自动字幕生成功能",
+    "开源且跨平台支持"
+  ],
+  "use_cases": [
+    "快速剪辑长视频为短视频片段",
+    "自动生成视频字幕和元数据",
+    "内容创作者和视频编辑者的辅助工具"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "video-editing",
+    "ai",
+    "auto-editing",
+    "subtitle-generation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:53:56Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}

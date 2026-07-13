@@ -1,0 +1,31 @@
+{
+  "id": "20260713-github-hkudsvibe-trading",
+  "title": "HKUDS/Vibe-Trading",
+  "source_url": "https://github.com/HKUDS/Vibe-Trading",
+  "source_type": "github_trending",
+  "summary": "Vibe-Trading 是一个基于 LLM 的智能交易系统，利用大语言模型进行市场情绪分析和交易决策，支持多种策略和实时数据。",
+  "highlights": [
+    "集成 LLM 进行市场情绪分析",
+    "支持多种交易策略和实时数据",
+    "提供可视化界面和回测功能"
+  ],
+  "use_cases": [
+    "自动化交易策略开发与回测",
+    "市场情绪分析与决策辅助"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "trading",
+    "sentiment-analysis",
+    "backtesting"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:54:01Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}

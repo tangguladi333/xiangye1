@@ -1,0 +1,30 @@
+{
+  "id": "20260713-github-coreyhaines31marketi",
+  "title": "coreyhaines31/marketingskills",
+  "source_url": "https://github.com/coreyhaines31/marketingskills",
+  "source_type": "github_trending",
+  "summary": "一个专注于营销技能提升的开源项目，提供实用工具和资源，帮助用户掌握数字营销策略。",
+  "highlights": [
+    "提供营销技能学习路径",
+    "包含实用营销工具和模板",
+    "社区驱动的内容更新"
+  ],
+  "use_cases": [
+    "个人营销技能提升",
+    "小型团队营销策略规划"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "marketing",
+    "digital-marketing",
+    "skills"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:54:18Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}

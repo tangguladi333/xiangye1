@@ -1,0 +1,30 @@
+{
+  "id": "20260713-github-hasaneyldrmexercises",
+  "title": "hasaneyldrm/exercises-dataset",
+  "source_url": "https://github.com/hasaneyldrm/exercises-dataset",
+  "source_type": "github_trending",
+  "summary": "一个包含多种编程练习的数据集仓库，用于训练和评估代码生成模型。",
+  "highlights": [
+    "提供结构化的编程练习数据集",
+    "支持多种编程语言",
+    "可用于代码生成模型的训练与评估"
+  ],
+  "use_cases": [
+    "训练代码生成AI模型",
+    "评估代码补全或生成系统的性能"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "dataset",
+    "code-generation",
+    "programming-exercises"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:54:12Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260713-github-moeru-aiairi",
+  "title": "moeru-ai/airi",
+  "source_url": "https://github.com/moeru-ai/airi",
+  "source_type": "github_trending",
+  "summary": "Airi 是一个基于 LLM 的智能助手框架，支持多平台部署（如 Discord、Telegram），提供插件系统和工具调用能力，旨在简化 AI 助手的开发与集成。",
+  "highlights": [
+    "支持多平台（Discord、Telegram 等）无缝集成",
+    "灵活的插件系统，便于扩展功能",
+    "内置工具调用和上下文管理，提升交互智能"
+  ],
+  "use_cases": [
+    "构建跨平台的 AI 聊天机器人",
+    "开发自动化客服或社区管理助手",
+    "快速原型化基于 LLM 的交互式应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "chatbot",
+    "multi-platform",
+    "plugin-system"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:54:05Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}

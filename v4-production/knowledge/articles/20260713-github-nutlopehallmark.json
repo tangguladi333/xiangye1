@@ -1,0 +1,32 @@
+{
+  "id": "20260713-github-nutlopehallmark",
+  "title": "Nutlope/hallmark",
+  "source_url": "https://github.com/Nutlope/hallmark",
+  "source_type": "github_trending",
+  "summary": "Hallmark 是一个基于 AI 的写作助手，帮助用户生成高质量、个性化的贺卡信息。它利用 LLM 提供多种风格和情感的文本建议。",
+  "highlights": [
+    "基于 LLM 的智能贺卡信息生成",
+    "支持多种风格和情感定制",
+    "简洁易用的用户界面"
+  ],
+  "use_cases": [
+    "节日贺卡撰写",
+    "生日祝福生成",
+    "个性化问候信息创作"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "writing assistant",
+    "greeting cards",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-13T10:53:27Z",
+  "analyzed_at": "2026-07-13T10:54:07Z",
+  "curated_at": "2026-07-13T10:54:18Z"
+}
