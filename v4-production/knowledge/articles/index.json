@@ -3609,5 +3609,77 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-13T10:54:18Z"
+  },
+  {
+    "id": "20260714-github-aishwaryanrawesome-g",
+    "title": "aishwaryanr/awesome-generative-ai-guide",
+    "source_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "source_type": "github_trending",
+    "tags": [
+      "generative-ai",
+      "llm",
+      "rag",
+      "agent",
+      "learning-resources"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-14T09:50:42Z"
+  },
+  {
+    "id": "20260714-github-browser-usebrowser-u",
+    "title": "browser-use/browser-use",
+    "source_url": "https://github.com/browser-use/browser-use",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "browser-automation",
+      "web-scraping"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-14T09:50:42Z"
+  },
+  {
+    "id": "20260714-github-koala73worldmonitor",
+    "title": "koala73/worldmonitor",
+    "source_url": "https://github.com/koala73/worldmonitor",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "news-monitoring",
+      "real-time",
+      "summarization"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-14T09:50:42Z"
+  },
+  {
+    "id": "20260714-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain-mcp-adapters",
+    "source_url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+    "source_type": "github_trending",
+    "tags": [
+      "langchain",
+      "mcp",
+      "agent",
+      "tool-integration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-14T09:50:42Z"
+  },
+  {
+    "id": "20260714-github-paddlepaddlepaddleoc",
+    "title": "PaddlePaddle/PaddleOCR",
+    "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "source_type": "github_trending",
+    "tags": [
+      "ocr",
+      "paddlepaddle",
+      "text-detection",
+      "text-recognition",
+      "deep-learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-14T09:50:42Z"
   }
 ]
