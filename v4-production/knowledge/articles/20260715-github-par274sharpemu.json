@@ -1,0 +1,33 @@
+{
+  "id": "20260715-github-par274sharpemu",
+  "title": "par274/sharpemu",
+  "source_url": "https://github.com/par274/sharpemu",
+  "source_type": "github_trending",
+  "summary": "SharpEmu 是一个基于 C# 的轻量级 CPU 模拟器，支持 x86 和 ARM 指令集，用于教育和逆向工程场景。",
+  "highlights": [
+    "支持 x86 和 ARM 指令集模拟",
+    "纯 C# 实现，跨平台兼容",
+    "提供调试接口和内存管理功能"
+  ],
+  "use_cases": [
+    "CPU 架构教学与学习",
+    "逆向工程与恶意软件分析",
+    "嵌入式系统模拟测试"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "cpu-emulator",
+    "x86",
+    "arm",
+    "csharp",
+    "reverse-engineering"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-15T09:55:03Z",
+  "analyzed_at": "2026-07-15T09:55:21Z",
+  "curated_at": "2026-07-15T09:55:26Z"
+}

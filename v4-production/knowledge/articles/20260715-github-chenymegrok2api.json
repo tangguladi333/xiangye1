@@ -1,0 +1,32 @@
+{
+  "id": "20260715-github-chenymegrok2api",
+  "title": "chenyme/grok2api",
+  "source_url": "https://github.com/chenyme/grok2api",
+  "source_type": "github_trending",
+  "summary": "一个将 Grok 2 模型封装为 OpenAI 兼容 API 的轻量级代理项目，支持流式输出、多轮对话和函数调用。",
+  "highlights": [
+    "兼容 OpenAI API 格式，易于集成",
+    "支持流式输出和函数调用",
+    "轻量级实现，部署简单"
+  ],
+  "use_cases": [
+    "在现有 OpenAI 工具链中接入 Grok 2 模型",
+    "快速搭建 Grok 2 的 API 服务",
+    "测试和开发基于 Grok 2 的应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "grok",
+    "api",
+    "proxy",
+    "openai-compatible"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-15T09:55:03Z",
+  "analyzed_at": "2026-07-15T09:55:24Z",
+  "curated_at": "2026-07-15T09:55:26Z"
+}

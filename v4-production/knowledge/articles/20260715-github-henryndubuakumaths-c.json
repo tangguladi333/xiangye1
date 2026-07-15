@@ -1,0 +1,33 @@
+{
+  "id": "20260715-github-henryndubuakumaths-c",
+  "title": "HenryNdubuaku/maths-cs-ai-compendium",
+  "source_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+  "source_type": "github_trending",
+  "summary": "一个综合性的数学、计算机科学与人工智能学习资源集合，涵盖从基础到进阶的各类主题，适合自学和参考。",
+  "highlights": [
+    "内容覆盖数学、CS和AI多个领域，结构清晰",
+    "包含大量外部链接和推荐资源",
+    "适合作为系统学习的路线图"
+  ],
+  "use_cases": [
+    "自学数学、计算机科学或人工智能基础知识",
+    "作为课程或项目的参考资料",
+    "快速查找特定主题的学习资源"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "math",
+    "computer-science",
+    "ai",
+    "learning-resources",
+    "curated-list"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-15T09:55:03Z",
+  "analyzed_at": "2026-07-15T09:55:26Z",
+  "curated_at": "2026-07-15T09:55:26Z"
+}

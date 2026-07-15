@@ -3681,5 +3681,122 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-14T09:50:42Z"
+  },
+  {
+    "id": "20260715-github-aieradevclypra",
+    "title": "AIEraDev/Clypra",
+    "source_url": "https://github.com/AIEraDev/Clypra",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "automation",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-15T09:55:26Z"
+  },
+  {
+    "id": "20260715-github-chenymegrok2api",
+    "title": "chenyme/grok2api",
+    "source_url": "https://github.com/chenyme/grok2api",
+    "source_type": "github_trending",
+    "tags": [
+      "grok",
+      "api",
+      "proxy",
+      "openai-compatible"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-15T09:55:26Z"
+  },
+  {
+    "id": "20260715-github-henryndubuakumaths-c",
+    "title": "HenryNdubuaku/maths-cs-ai-compendium",
+    "source_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "source_type": "github_trending",
+    "tags": [
+      "math",
+      "computer-science",
+      "ai",
+      "learning-resources",
+      "curated-list"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-15T09:55:26Z"
+  },
+  {
+    "id": "20260715-github-mattpocockskills",
+    "title": "mattpocock/skills",
+    "source_url": "https://github.com/mattpocock/skills",
+    "source_type": "github_trending",
+    "tags": [
+      "typescript",
+      "learning",
+      "type-system",
+      "interactive"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-15T09:55:26Z"
+  },
+  {
+    "id": "20260715-github-nirdiamantagents-tow",
+    "title": "NirDiamant/agents-towards-production",
+    "source_url": "https://github.com/NirDiamant/agents-towards-production",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "production",
+      "tutorial",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-15T09:55:26Z"
+  },
+  {
+    "id": "20260715-github-par274sharpemu",
+    "title": "par274/sharpemu",
+    "source_url": "https://github.com/par274/sharpemu",
+    "source_type": "github_trending",
+    "tags": [
+      "cpu-emulator",
+      "x86",
+      "arm",
+      "csharp",
+      "reverse-engineering"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-15T09:55:26Z"
+  },
+  {
+    "id": "20260715-github-penpotpenpot",
+    "title": "penpot/penpot",
+    "source_url": "https://github.com/penpot/penpot",
+    "source_type": "github_trending",
+    "tags": [
+      "design",
+      "collaboration",
+      "svg",
+      "self-hosted",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-15T09:55:26Z"
+  },
+  {
+    "id": "20260715-github-viratttai-hedge-fund",
+    "title": "virattt/ai-hedge-fund",
+    "source_url": "https://github.com/virattt/ai-hedge-fund",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "hedge-fund",
+      "trading",
+      "agent",
+      "finance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-15T09:55:26Z"
   }
 ]

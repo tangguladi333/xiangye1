@@ -1,0 +1,32 @@
+{
+  "id": "20260715-github-aieradevclypra",
+  "title": "AIEraDev/Clypra",
+  "source_url": "https://github.com/AIEraDev/Clypra",
+  "source_type": "github_trending",
+  "summary": "Clypra 是一个基于 LLM 的智能代理框架，专注于简化多步骤任务自动化与工具调用，支持灵活扩展。",
+  "highlights": [
+    "提供模块化代理设计，易于集成自定义工具",
+    "支持动态任务规划与执行，提升自动化效率",
+    "内置错误处理与重试机制，增强稳定性"
+  ],
+  "use_cases": [
+    "自动化工作流编排与执行",
+    "智能客服与对话系统",
+    "数据管道与批处理任务"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "automation",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-15T09:55:03Z",
+  "analyzed_at": "2026-07-15T09:55:19Z",
+  "curated_at": "2026-07-15T09:55:26Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260715-github-penpotpenpot",
+  "title": "penpot/penpot",
+  "source_url": "https://github.com/penpot/penpot",
+  "source_type": "github_trending",
+  "summary": "Penpot 是一个开源的、基于 Web 的设计和原型制作平台，旨在替代 Figma 和 Sketch，支持 SVG 原生编辑、团队协作和自托管部署。",
+  "highlights": [
+    "完全开源且免费，无功能限制",
+    "基于 SVG 原生编辑，支持设计到代码的无缝转换",
+    "支持自托管部署，保障数据隐私和安全性"
+  ],
+  "use_cases": [
+    "UI/UX 设计团队协作",
+    "开源项目或企业需要自托管设计工具",
+    "教育或培训场景下的设计教学"
+  ],
+  "maturity": {
+    "stars": 32000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "design",
+    "collaboration",
+    "svg",
+    "self-hosted",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-15T09:55:03Z",
+  "analyzed_at": "2026-07-15T09:55:16Z",
+  "curated_at": "2026-07-15T09:55:26Z"
+}
