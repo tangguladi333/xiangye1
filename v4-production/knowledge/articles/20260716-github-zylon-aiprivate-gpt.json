@@ -1,0 +1,33 @@
+{
+  "id": "20260716-github-zylon-aiprivate-gpt",
+  "title": "zylon-ai/private-gpt",
+  "source_url": "https://github.com/zylon-ai/private-gpt",
+  "source_type": "github_trending",
+  "summary": "PrivateGPT 是一个基于 LLM 的本地文档问答系统，允许用户在不联网的情况下与私有文档进行交互，支持多种文档格式和模型后端。",
+  "highlights": [
+    "完全离线运行，保护数据隐私",
+    "支持 PDF、TXT、Markdown 等多种文档格式",
+    "提供 REST API 和 Web UI 接口"
+  ],
+  "use_cases": [
+    "企业内部文档知识库查询",
+    "个人隐私文档的智能问答",
+    "敏感数据环境下的 AI 助手部署"
+  ],
+  "maturity": {
+    "stars": 58000,
+    "last_updated": "2025-03-15",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "privacy",
+    "document-qa",
+    "offline"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-16T10:01:58Z",
+  "analyzed_at": "2026-07-16T10:02:06Z",
+  "curated_at": "2026-07-16T10:02:21Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260716-github-yimmenuyimmenuv2",
+  "title": "YimMenu/YimMenuV2",
+  "source_url": "https://github.com/YimMenu/YimMenuV2",
+  "source_type": "github_trending",
+  "summary": "YimMenuV2 是一个用于 GTA V 的 Mod 菜单，提供游戏内作弊功能，如玩家操控、车辆生成和武器修改。",
+  "highlights": [
+    "支持 Lua 脚本扩展，允许自定义功能",
+    "基于 ImGui 的现代化用户界面",
+    "活跃的社区维护和更新"
+  ],
+  "use_cases": [
+    "GTA V 单人模式游戏增强",
+    "Mod 开发者测试和调试脚本",
+    "游戏内功能扩展和自动化"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "gta-v",
+    "mod-menu",
+    "cheat",
+    "lua",
+    "imgui"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-16T10:02:02Z",
+  "analyzed_at": "2026-07-16T10:02:21Z",
+  "curated_at": "2026-07-16T10:02:21Z"
+}

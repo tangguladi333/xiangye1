@@ -3798,5 +3798,109 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-15T09:55:26Z"
+  },
+  {
+    "id": "20260716-github-hkudsdeeptutor",
+    "title": "HKUDS/DeepTutor",
+    "source_url": "https://github.com/HKUDS/DeepTutor",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "education",
+      "tutoring",
+      "rag",
+      "knowledge-graph"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-16T10:02:21Z"
+  },
+  {
+    "id": "20260716-github-openinterpreteropeni",
+    "title": "openinterpreter/openinterpreter",
+    "source_url": "https://github.com/openinterpreter/openinterpreter",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "automation",
+      "code-interpreter",
+      "natural-language"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-16T10:02:21Z"
+  },
+  {
+    "id": "20260716-github-patchy631ai-engineer",
+    "title": "patchy631/ai-engineering-hub",
+    "source_url": "https://github.com/patchy631/ai-engineering-hub",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-engineering",
+      "llm",
+      "agent",
+      "rag",
+      "learning-path"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-16T10:02:21Z"
+  },
+  {
+    "id": "20260716-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "multimodal",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-16T10:02:21Z"
+  },
+  {
+    "id": "20260716-github-wavetermdevwaveterm",
+    "title": "wavetermdev/waveterm",
+    "source_url": "https://github.com/wavetermdev/waveterm",
+    "source_type": "github_trending",
+    "tags": [
+      "terminal",
+      "electron",
+      "cross-platform",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-16T10:02:21Z"
+  },
+  {
+    "id": "20260716-github-yimmenuyimmenuv2",
+    "title": "YimMenu/YimMenuV2",
+    "source_url": "https://github.com/YimMenu/YimMenuV2",
+    "source_type": "github_trending",
+    "tags": [
+      "gta-v",
+      "mod-menu",
+      "cheat",
+      "lua",
+      "imgui"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-16T10:02:21Z"
+  },
+  {
+    "id": "20260716-github-zylon-aiprivate-gpt",
+    "title": "zylon-ai/private-gpt",
+    "source_url": "https://github.com/zylon-ai/private-gpt",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "privacy",
+      "document-qa",
+      "offline"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-16T10:02:21Z"
   }
 ]

@@ -1,0 +1,33 @@
+{
+  "id": "20260716-github-hkudsdeeptutor",
+  "title": "HKUDS/DeepTutor",
+  "source_url": "https://github.com/HKUDS/DeepTutor",
+  "source_type": "github_trending",
+  "summary": "DeepTutor 是一个基于大语言模型的智能辅导系统，旨在通过对话式交互提供个性化学习支持，支持多学科知识问答与自适应教学。",
+  "highlights": [
+    "基于LLM的对话式辅导，支持多轮交互与自适应学习路径",
+    "集成知识图谱与检索增强生成（RAG）技术，提升回答准确性",
+    "提供可扩展的模块化架构，便于集成不同学科内容"
+  ],
+  "use_cases": [
+    "在线教育平台中的智能辅导与答疑",
+    "个性化学习路径推荐与知识巩固",
+    "教师辅助工具，用于生成教学材料与评估学生理解"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "education",
+    "tutoring",
+    "rag",
+    "knowledge-graph"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-16T10:02:02Z",
+  "analyzed_at": "2026-07-16T10:02:19Z",
+  "curated_at": "2026-07-16T10:02:21Z"
+}

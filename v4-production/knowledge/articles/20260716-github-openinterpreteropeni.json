@@ -1,0 +1,33 @@
+{
+  "id": "20260716-github-openinterpreteropeni",
+  "title": "openinterpreter/openinterpreter",
+  "source_url": "https://github.com/openinterpreter/openinterpreter",
+  "source_type": "github_trending",
+  "summary": "Open Interpreter 是一个开源项目，允许 LLM 在本地运行代码（如 Python、JavaScript、Shell），实现自然语言驱动的计算机自动化。",
+  "highlights": [
+    "支持多种编程语言（Python、JavaScript、Shell 等）的本地代码执行",
+    "提供交互式终端和 API 接口，易于集成",
+    "基于 LLM（如 GPT-4）实现自然语言到代码的转换"
+  ],
+  "use_cases": [
+    "自动化日常任务（如文件操作、数据处理）",
+    "快速原型开发和代码实验",
+    "教育和学习编程的交互式工具"
+  ],
+  "maturity": {
+    "stars": 58000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "automation",
+    "code-interpreter",
+    "natural-language"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-16T10:02:02Z",
+  "analyzed_at": "2026-07-16T10:02:16Z",
+  "curated_at": "2026-07-16T10:02:21Z"
+}
