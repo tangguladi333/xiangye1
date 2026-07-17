@@ -1,0 +1,32 @@
+{
+  "id": "20260717-github-ossucomputer-science",
+  "title": "ossu/computer-science",
+  "source_url": "https://github.com/ossu/computer-science",
+  "source_type": "github_trending",
+  "summary": "OSSU计算机科学自学路径，提供完整的本科级CS课程体系，涵盖基础到高级主题，适合自学者系统学习。",
+  "highlights": [
+    "完整的本科计算机科学课程体系",
+    "社区驱动，持续更新课程资源",
+    "免费且开源，适合全球自学者"
+  ],
+  "use_cases": [
+    "自学计算机科学基础知识",
+    "作为转行或补充CS教育的路线图",
+    "教育机构参考课程设计"
+  ],
+  "maturity": {
+    "stars": 175000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "computer-science",
+    "education",
+    "curriculum",
+    "self-learning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-17T09:50:46Z",
+  "analyzed_at": "2026-07-17T09:51:12Z",
+  "curated_at": "2026-07-17T09:51:12Z"
+}

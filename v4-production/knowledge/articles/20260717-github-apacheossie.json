@@ -1,0 +1,31 @@
+{
+  "id": "20260717-github-apacheossie",
+  "title": "apache/ossie",
+  "source_url": "https://github.com/apache/ossie",
+  "source_type": "github_trending",
+  "summary": "Apache OSSIE 是一个基于 SCA 的软件无线电框架，提供组件化开发环境，支持动态波形部署与实时信号处理。",
+  "highlights": [
+    "基于 SCA 标准，支持跨平台波形开发",
+    "提供图形化开发工具和运行时环境",
+    "支持动态组件加载与实时信号处理"
+  ],
+  "use_cases": [
+    "军事通信系统开发",
+    "认知无线电研究",
+    "多模式无线协议原型验证"
+  ],
+  "maturity": {
+    "stars": 340,
+    "last_updated": "2023-10-15",
+    "production_ready": false
+  },
+  "tags": [
+    "sca",
+    "software-defined-radio",
+    "signal-processing"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-17T09:50:46Z",
+  "analyzed_at": "2026-07-17T09:50:55Z",
+  "curated_at": "2026-07-17T09:51:12Z"
+}

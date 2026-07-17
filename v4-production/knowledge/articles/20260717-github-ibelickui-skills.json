@@ -1,0 +1,33 @@
+{
+  "id": "20260717-github-ibelickui-skills",
+  "title": "ibelick/ui-skills",
+  "source_url": "https://github.com/ibelick/ui-skills",
+  "source_type": "github_trending",
+  "summary": "一个收集和展示现代UI技能与组件的仓库，包含可复用的前端交互效果和设计模式。",
+  "highlights": [
+    "提供多种交互式UI组件示例，如动画、过渡和手势效果",
+    "代码清晰且易于集成到现有项目中",
+    "基于现代前端技术栈（如React、Tailwind CSS）构建"
+  ],
+  "use_cases": [
+    "前端开发者学习高级UI交互技巧",
+    "快速原型设计中的UI组件参考",
+    "提升Web应用的用户体验和视觉吸引力"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ui",
+    "components",
+    "frontend",
+    "react",
+    "tailwind-css"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-17T09:50:46Z",
+  "analyzed_at": "2026-07-17T09:51:06Z",
+  "curated_at": "2026-07-17T09:51:12Z"
+}

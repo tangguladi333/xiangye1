@@ -1,0 +1,30 @@
+{
+  "id": "20260717-github-prismml-engbonsai-de",
+  "title": "PrismML-Eng/Bonsai-demo",
+  "source_url": "https://github.com/PrismML-Eng/Bonsai-demo",
+  "source_type": "github_trending",
+  "summary": "Bonsai-demo 是一个基于 PrismML 的机器学习模型演示项目，展示了如何快速构建和部署小型 AI 应用，适合初学者和快速原型开发。",
+  "highlights": [
+    "基于 PrismML 框架，简化模型开发流程",
+    "提供交互式演示，便于理解模型行为",
+    "代码结构清晰，适合学习和二次开发"
+  ],
+  "use_cases": [
+    "机器学习教学与演示",
+    "快速原型验证与概念展示"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "machine-learning",
+    "demo",
+    "prismml"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-17T09:50:46Z",
+  "analyzed_at": "2026-07-17T09:51:01Z",
+  "curated_at": "2026-07-17T09:51:12Z"
+}

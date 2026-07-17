@@ -1,0 +1,31 @@
+{
+  "id": "20260717-github-githubcopilot-sdk",
+  "title": "github/copilot-sdk",
+  "source_url": "https://github.com/github/copilot-sdk",
+  "source_type": "github_trending",
+  "summary": "GitHub 官方提供的 Copilot 扩展 SDK，用于构建自定义 Copilot 扩展，支持与 GitHub Copilot 平台集成。",
+  "highlights": [
+    "官方 SDK，由 GitHub 维护",
+    "支持构建自定义 Copilot 扩展",
+    "提供清晰的 API 和文档"
+  ],
+  "use_cases": [
+    "开发 Copilot 扩展以增强代码补全功能",
+    "集成第三方工具或服务到 Copilot 工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "copilot",
+    "sdk",
+    "extension",
+    "github"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-17T09:50:46Z",
+  "analyzed_at": "2026-07-17T09:51:03Z",
+  "curated_at": "2026-07-17T09:51:12Z"
+}

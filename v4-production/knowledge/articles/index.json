@@ -3902,5 +3902,118 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-16T10:02:21Z"
+  },
+  {
+    "id": "20260717-github-apacheossie",
+    "title": "apache/ossie",
+    "source_url": "https://github.com/apache/ossie",
+    "source_type": "github_trending",
+    "tags": [
+      "sca",
+      "software-defined-radio",
+      "signal-processing"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-17T09:51:12Z"
+  },
+  {
+    "id": "20260717-github-codecrafters-iobuild",
+    "title": "codecrafters-io/build-your-own-x",
+    "source_url": "https://github.com/codecrafters-io/build-your-own-x",
+    "source_type": "github_trending",
+    "tags": [
+      "tutorial",
+      "build-your-own",
+      "learning",
+      "system-design"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-17T09:51:12Z"
+  },
+  {
+    "id": "20260717-github-githubcopilot-sdk",
+    "title": "github/copilot-sdk",
+    "source_url": "https://github.com/github/copilot-sdk",
+    "source_type": "github_trending",
+    "tags": [
+      "copilot",
+      "sdk",
+      "extension",
+      "github"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-17T09:51:12Z"
+  },
+  {
+    "id": "20260717-github-ibelickui-skills",
+    "title": "ibelick/ui-skills",
+    "source_url": "https://github.com/ibelick/ui-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "ui",
+      "components",
+      "frontend",
+      "react",
+      "tailwind-css"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-17T09:51:12Z"
+  },
+  {
+    "id": "20260717-github-microsoftrd-agent",
+    "title": "microsoft/RD-Agent",
+    "source_url": "https://github.com/microsoft/RD-Agent",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "automation",
+      "r&d",
+      "microsoft"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-17T09:51:12Z"
+  },
+  {
+    "id": "20260717-github-ossucomputer-science",
+    "title": "ossu/computer-science",
+    "source_url": "https://github.com/ossu/computer-science",
+    "source_type": "github_trending",
+    "tags": [
+      "computer-science",
+      "education",
+      "curriculum",
+      "self-learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-17T09:51:12Z"
+  },
+  {
+    "id": "20260717-github-posthogposthog",
+    "title": "PostHog/posthog",
+    "source_url": "https://github.com/PostHog/posthog",
+    "source_type": "github_trending",
+    "tags": [
+      "product-analytics",
+      "session-replay",
+      "feature-flags",
+      "a-b-testing",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-17T09:51:12Z"
+  },
+  {
+    "id": "20260717-github-prismml-engbonsai-de",
+    "title": "PrismML-Eng/Bonsai-demo",
+    "source_url": "https://github.com/PrismML-Eng/Bonsai-demo",
+    "source_type": "github_trending",
+    "tags": [
+      "machine-learning",
+      "demo",
+      "prismml"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-17T09:51:12Z"
   }
 ]

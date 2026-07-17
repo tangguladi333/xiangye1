@@ -1,0 +1,32 @@
+{
+  "id": "20260717-github-codecrafters-iobuild",
+  "title": "codecrafters-io/build-your-own-x",
+  "source_url": "https://github.com/codecrafters-io/build-your-own-x",
+  "source_type": "github_trending",
+  "summary": "一个汇集了多种技术领域“从零开始构建”教程的仓库，涵盖从操作系统、数据库到区块链等，适合通过动手实践学习底层原理。",
+  "highlights": [
+    "涵盖超过50种技术主题的构建教程",
+    "每个教程都有清晰的步骤和资源链接",
+    "社区贡献活跃，持续更新新内容"
+  ],
+  "use_cases": [
+    "学习系统编程和底层原理",
+    "作为教学资源用于课程或工作坊",
+    "提升动手能力和项目经验"
+  ],
+  "maturity": {
+    "stars": 320000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "tutorial",
+    "build-your-own",
+    "learning",
+    "system-design"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-17T09:50:46Z",
+  "analyzed_at": "2026-07-17T09:51:09Z",
+  "curated_at": "2026-07-17T09:51:12Z"
+}

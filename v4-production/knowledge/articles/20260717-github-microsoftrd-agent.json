@@ -1,0 +1,33 @@
+{
+  "id": "20260717-github-microsoftrd-agent",
+  "title": "microsoft/RD-Agent",
+  "source_url": "https://github.com/microsoft/RD-Agent",
+  "source_type": "github_trending",
+  "summary": "微软开源的研发自动化智能体框架，支持数据驱动决策与自动化实验，提升研发效率。",
+  "highlights": [
+    "微软官方出品，企业级可靠性",
+    "支持自动化实验与数据驱动决策",
+    "模块化设计，易于扩展集成"
+  ],
+  "use_cases": [
+    "自动化研发实验与调优",
+    "数据驱动的研发决策支持",
+    "企业级研发流程智能化"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "automation",
+    "r&d",
+    "microsoft"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-17T09:50:45Z",
+  "analyzed_at": "2026-07-17T09:50:52Z",
+  "curated_at": "2026-07-17T09:51:12Z"
+}
