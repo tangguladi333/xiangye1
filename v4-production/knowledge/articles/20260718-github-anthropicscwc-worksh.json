@@ -1,0 +1,31 @@
+{
+  "id": "20260718-github-anthropicscwc-worksh",
+  "title": "anthropics/cwc-workshops",
+  "source_url": "https://github.com/anthropics/cwc-workshops",
+  "source_type": "github_trending",
+  "summary": "Anthropic 官方提供的 Claude Code CLI 工作坊教程，包含基础到高级的实战练习，帮助开发者掌握 AI 编程助手的使用。",
+  "highlights": [
+    "由 Anthropic 官方维护，权威性高",
+    "涵盖从基础到高级的完整教程路径",
+    "包含实际项目案例和练习，实用性强"
+  ],
+  "use_cases": [
+    "开发者学习如何使用 Claude Code 进行 AI 辅助编程",
+    "团队培训或内部工作坊，提升 AI 编程效率"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "workshop",
+    "tutorial",
+    "ai-coding"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-18T09:18:00Z",
+  "analyzed_at": "2026-07-18T09:18:07Z",
+  "curated_at": "2026-07-18T09:18:16Z"
+}

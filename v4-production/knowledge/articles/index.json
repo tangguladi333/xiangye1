@@ -4015,5 +4015,88 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-17T09:51:12Z"
+  },
+  {
+    "id": "20260718-github-anthropicscwc-worksh",
+    "title": "anthropics/cwc-workshops",
+    "source_url": "https://github.com/anthropics/cwc-workshops",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "workshop",
+      "tutorial",
+      "ai-coding"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-18T09:18:16Z"
+  },
+  {
+    "id": "20260718-github-docusealcodocuseal",
+    "title": "docusealco/docuseal",
+    "source_url": "https://github.com/docusealco/docuseal",
+    "source_type": "github_trending",
+    "tags": [
+      "document-signing",
+      "e-signature",
+      "self-hosted",
+      "workflow-automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-18T09:18:16Z"
+  },
+  {
+    "id": "20260718-github-protocolbuffersproto",
+    "title": "protocolbuffers/protobuf",
+    "source_url": "https://github.com/protocolbuffers/protobuf",
+    "source_type": "github_trending",
+    "tags": [
+      "serialization",
+      "protocol-buffers",
+      "rpc"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-18T09:18:16Z"
+  },
+  {
+    "id": "20260718-github-ryancodraiturbovec",
+    "title": "RyanCodrai/turbovec",
+    "source_url": "https://github.com/RyanCodrai/turbovec",
+    "source_type": "github_trending",
+    "tags": [
+      "vector-database",
+      "embeddings",
+      "similarity-search",
+      "rust",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-18T09:18:16Z"
+  },
+  {
+    "id": "20260718-github-tauricresearchtradin",
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "trading",
+      "quantitative-finance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-18T09:18:16Z"
+  },
+  {
+    "id": "20260718-github-tirth8205code-review",
+    "title": "tirth8205/code-review-graph",
+    "source_url": "https://github.com/tirth8205/code-review-graph",
+    "source_type": "github_trending",
+    "tags": [
+      "code-review",
+      "graph-database",
+      "dependency-analysis"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-18T09:18:16Z"
   }
 ]

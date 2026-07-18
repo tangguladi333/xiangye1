@@ -1,0 +1,30 @@
+{
+  "id": "20260718-github-tirth8205code-review",
+  "title": "tirth8205/code-review-graph",
+  "source_url": "https://github.com/tirth8205/code-review-graph",
+  "source_type": "github_trending",
+  "summary": "一个基于图数据库的代码审查工具，通过分析代码变更的依赖关系，提供更智能的审查建议。",
+  "highlights": [
+    "利用图数据库建模代码依赖关系",
+    "自动化生成审查建议",
+    "支持多种编程语言"
+  ],
+  "use_cases": [
+    "大型代码库的代码审查",
+    "识别代码变更的潜在影响范围"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "code-review",
+    "graph-database",
+    "dependency-analysis"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-18T09:18:00Z",
+  "analyzed_at": "2026-07-18T09:18:11Z",
+  "curated_at": "2026-07-18T09:18:16Z"
+}

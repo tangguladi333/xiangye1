@@ -1,0 +1,32 @@
+{
+  "id": "20260718-github-docusealcodocuseal",
+  "title": "docusealco/docuseal",
+  "source_url": "https://github.com/docusealco/docuseal",
+  "source_type": "github_trending",
+  "summary": "Docuseal 是一个开源的文档签名平台，支持电子签名、模板管理和工作流自动化，可自托管部署。",
+  "highlights": [
+    "支持多种签名方式（拖拽、手写、数字签名）",
+    "提供 REST API 和 Webhook 集成",
+    "可自托管，数据完全掌控"
+  ],
+  "use_cases": [
+    "合同与协议电子签署",
+    "企业内部审批流程自动化",
+    "法律文档签名管理"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "document-signing",
+    "e-signature",
+    "self-hosted",
+    "workflow-automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-18T09:18:00Z",
+  "analyzed_at": "2026-07-18T09:18:14Z",
+  "curated_at": "2026-07-18T09:18:16Z"
+}
