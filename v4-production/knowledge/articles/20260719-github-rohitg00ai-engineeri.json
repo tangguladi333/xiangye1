@@ -1,0 +1,33 @@
+{
+  "id": "20260719-github-rohitg00ai-engineeri",
+  "title": "rohitg00/ai-engineering-from-scratch",
+  "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "source_type": "github_trending",
+  "summary": "这是一个从零开始学习AI工程的教程仓库，涵盖LLM、RAG、Agent等核心概念，通过Jupyter Notebook提供实践代码和理论讲解。",
+  "highlights": [
+    "从基础到高级的AI工程系统性学习路径",
+    "包含大量可运行的Jupyter Notebook示例",
+    "覆盖LLM、RAG、Agent、微调等热门主题"
+  ],
+  "use_cases": [
+    "AI初学者系统学习工程实践",
+    "快速上手LLM应用开发",
+    "教学或内部培训材料"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "agent",
+    "tutorial",
+    "jupyter"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-19T09:46:41Z",
+  "analyzed_at": "2026-07-19T09:46:52Z",
+  "curated_at": "2026-07-19T09:47:04Z"
+}

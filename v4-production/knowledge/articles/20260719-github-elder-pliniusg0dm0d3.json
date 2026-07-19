@@ -1,0 +1,33 @@
+{
+  "id": "20260719-github-elder-pliniusg0dm0d3",
+  "title": "elder-plinius/G0DM0D3",
+  "source_url": "https://github.com/elder-plinius/G0DM0D3",
+  "source_type": "github_trending",
+  "summary": "G0DM0D3 是一个针对大型语言模型（LLM）的越狱工具，通过提示注入技术绕过安全限制，用于测试和评估模型安全性。",
+  "highlights": [
+    "专注于 LLM 越狱与安全测试",
+    "提供自动化提示注入方法",
+    "开源且易于集成到安全评估流程"
+  ],
+  "use_cases": [
+    "红队测试 LLM 安全边界",
+    "评估 AI 模型对恶意提示的防御能力",
+    "安全研究中的提示注入实验"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "jailbreak",
+    "prompt-injection",
+    "security",
+    "red-teaming"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-19T09:46:41Z",
+  "analyzed_at": "2026-07-19T09:46:55Z",
+  "curated_at": "2026-07-19T09:47:04Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260719-github-robbyantlingbot-map",
+  "title": "Robbyant/lingbot-map",
+  "source_url": "https://github.com/Robbyant/lingbot-map",
+  "source_type": "github_trending",
+  "summary": "一个基于大语言模型（LLM）的智能地图交互工具，支持自然语言查询和路径规划，旨在提升地图使用的便捷性。",
+  "highlights": [
+    "支持自然语言查询地理位置和路线",
+    "集成LLM实现智能交互",
+    "提供地图可视化与路径规划功能"
+  ],
+  "use_cases": [
+    "智能导航与位置查询",
+    "旅游规划与地理信息检索",
+    "教育与演示中的地图交互"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "map",
+    "navigation",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-19T09:46:41Z",
+  "analyzed_at": "2026-07-19T09:46:49Z",
+  "curated_at": "2026-07-19T09:47:04Z"
+}

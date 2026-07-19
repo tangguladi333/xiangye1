@@ -1,0 +1,31 @@
+{
+  "id": "20260719-github-moonshotaikimi-cli",
+  "title": "MoonshotAI/kimi-cli",
+  "source_url": "https://github.com/MoonshotAI/kimi-cli",
+  "source_type": "github_trending",
+  "summary": "MoonshotAI 开源的 Kimi 命令行工具，支持通过终端与 Kimi 大模型交互，具备文件处理、联网搜索等功能。",
+  "highlights": [
+    "支持多种文件格式（PDF、Word、Excel、图片等）的本地处理与理解",
+    "集成联网搜索能力，可获取实时信息",
+    "提供流式输出和交互式对话体验"
+  ],
+  "use_cases": [
+    "开发者通过命令行快速调用大模型进行问答或文件分析",
+    "自动化脚本中集成 AI 能力，如日志分析、文档摘要"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "cli",
+    "llm",
+    "kimi",
+    "ai-assistant"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-19T09:46:41Z",
+  "analyzed_at": "2026-07-19T09:47:04Z",
+  "curated_at": "2026-07-19T09:47:04Z"
+}

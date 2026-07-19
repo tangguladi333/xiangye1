@@ -4098,5 +4098,106 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-18T09:18:16Z"
+  },
+  {
+    "id": "20260719-github-elder-pliniusg0dm0d3",
+    "title": "elder-plinius/G0DM0D3",
+    "source_url": "https://github.com/elder-plinius/G0DM0D3",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "jailbreak",
+      "prompt-injection",
+      "security",
+      "red-teaming"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-19T09:47:04Z"
+  },
+  {
+    "id": "20260719-github-knockoutezwigolo",
+    "title": "KnockOutEZ/wigolo",
+    "source_url": "https://github.com/KnockOutEZ/wigolo",
+    "source_type": "github_trending",
+    "tags": [
+      "websocket",
+      "go",
+      "realtime",
+      "networking"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-19T09:47:04Z"
+  },
+  {
+    "id": "20260719-github-lyogavinairllm",
+    "title": "lyogavin/airllm",
+    "source_url": "https://github.com/lyogavin/airllm",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "inference-optimization",
+      "memory-efficient",
+      "gpu",
+      "cpu"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-19T09:47:04Z"
+  },
+  {
+    "id": "20260719-github-moonshotaikimi-cli",
+    "title": "MoonshotAI/kimi-cli",
+    "source_url": "https://github.com/MoonshotAI/kimi-cli",
+    "source_type": "github_trending",
+    "tags": [
+      "cli",
+      "llm",
+      "kimi",
+      "ai-assistant"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-19T09:47:04Z"
+  },
+  {
+    "id": "20260719-github-robbyantlingbot-map",
+    "title": "Robbyant/lingbot-map",
+    "source_url": "https://github.com/Robbyant/lingbot-map",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "map",
+      "navigation",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-19T09:47:04Z"
+  },
+  {
+    "id": "20260719-github-rohitg00ai-engineeri",
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "tutorial",
+      "jupyter"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-19T09:47:04Z"
+  },
+  {
+    "id": "20260719-github-startrail-orgleann",
+    "title": "StarTrail-org/LEANN",
+    "source_url": "https://github.com/StarTrail-org/LEANN",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "task-planning",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-19T09:47:04Z"
   }
 ]
