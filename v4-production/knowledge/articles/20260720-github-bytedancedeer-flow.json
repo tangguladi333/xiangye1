@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-bytedancedeer-flow",
+  "title": "bytedance/deer-flow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "source_type": "github_trending",
+  "summary": "DeerFlow 是字节跳动开源的实时流处理框架，专注于低延迟、高吞吐的流式计算，支持 SQL 和 Python 定义任务。",
+  "highlights": [
+    "支持 SQL 和 Python 双语言定义流处理逻辑",
+    "基于 Rust 实现核心引擎，性能优异",
+    "提供内置监控和容错机制"
+  ],
+  "use_cases": [
+    "实时数据清洗与 ETL",
+    "在线机器学习特征工程",
+    "金融交易或物联网实时监控"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "stream-processing",
+    "rust",
+    "real-time",
+    "sql",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:20Z",
+  "analyzed_at": "2026-07-20T10:44:45Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

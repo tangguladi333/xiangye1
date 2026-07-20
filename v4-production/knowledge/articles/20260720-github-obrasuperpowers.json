@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-obrasuperpowers",
+  "title": "obra/superpowers",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_type": "github_trending",
+  "summary": "Superpowers 是一个用于构建 AI 驱动的 Web 应用的开源框架，提供数据管理、认证和部署工具，简化开发流程。",
+  "highlights": [
+    "提供完整的后端即服务（BaaS）功能，包括数据库、认证和文件存储",
+    "支持快速部署 AI 应用，内置与 LLM 的集成",
+    "采用声明式配置，降低开发门槛"
+  ],
+  "use_cases": [
+    "快速构建 AI 聊天机器人或智能助手",
+    "开发需要用户认证和数据存储的 AI 驱动的 SaaS 应用",
+    "原型验证和 MVP 开发"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "web-framework",
+    "baas",
+    "llm",
+    "deployment"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:20Z",
+  "analyzed_at": "2026-07-20T10:44:26Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

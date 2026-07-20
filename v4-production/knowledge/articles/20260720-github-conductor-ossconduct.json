@@ -1,0 +1,30 @@
+{
+  "id": "20260720-github-conductor-ossconduct",
+  "title": "conductor-oss/conductor",
+  "source_url": "https://github.com/conductor-oss/conductor",
+  "source_type": "github_trending",
+  "summary": "Conductor 是一个微服务编排平台，支持工作流定义、执行和监控，适用于分布式系统。",
+  "highlights": [
+    "支持复杂工作流定义和状态管理",
+    "提供可视化的 UI 和 API 接口",
+    "支持多种语言 SDK 和扩展机制"
+  ],
+  "use_cases": [
+    "微服务编排和任务调度",
+    "工作流自动化与流程管理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "workflow",
+    "orchestration",
+    "microservices"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:22Z",
+  "analyzed_at": "2026-07-20T10:46:19Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

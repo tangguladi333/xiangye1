@@ -1,0 +1,32 @@
+{
+  "id": "20260720-github-pkuflyingpigcs-self-",
+  "title": "PKUFlyingPig/cs-self-learning",
+  "source_url": "https://github.com/PKUFlyingPig/cs-self-learning",
+  "source_type": "github_trending",
+  "summary": "北京大学计算机课程自学指南，涵盖从基础到进阶的完整CS学习路径，提供课程资源、学习建议和项目实践。",
+  "highlights": [
+    "系统化的计算机科学课程体系",
+    "包含大量知名大学公开课链接",
+    "社区活跃，持续更新学习资源"
+  ],
+  "use_cases": [
+    "计算机专业学生自学规划",
+    "转行人员系统学习CS知识",
+    "在职工程师查漏补缺"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "computer-science",
+    "education",
+    "curriculum",
+    "self-learning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:24Z",
+  "analyzed_at": "2026-07-20T10:47:12Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

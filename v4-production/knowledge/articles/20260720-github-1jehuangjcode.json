@@ -1,0 +1,31 @@
+{
+  "id": "20260720-github-1jehuangjcode",
+  "title": "1jehuang/jcode",
+  "source_url": "https://github.com/1jehuang/jcode",
+  "source_type": "github_trending",
+  "summary": "jcode 是一个轻量级的 Java 代码生成工具，支持通过模板快速生成 CRUD 代码，适用于快速开发后端服务。",
+  "highlights": [
+    "基于模板引擎的代码生成，支持自定义模板",
+    "支持多种数据库（MySQL、PostgreSQL 等）",
+    "生成代码结构清晰，易于集成到现有项目"
+  ],
+  "use_cases": [
+    "快速搭建 RESTful API 后端",
+    "自动化生成 CRUD 代码减少重复工作"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "java",
+    "code-generation",
+    "crud",
+    "template-engine"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:24Z",
+  "analyzed_at": "2026-07-20T10:47:04Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

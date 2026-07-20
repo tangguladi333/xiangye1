@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-msitarzewskiagency-a",
+  "title": "msitarzewski/agency-agents",
+  "source_url": "https://github.com/msitarzewski/agency-agents",
+  "source_type": "github_trending",
+  "summary": "一个用于构建多智能体系统的Python框架，支持LLM驱动的自主代理、任务编排和工具集成，强调模块化和可扩展性。",
+  "highlights": [
+    "支持多种LLM后端（如OpenAI、Anthropic）",
+    "提供任务编排和智能体协作机制",
+    "内置工具集成和自定义扩展能力"
+  ],
+  "use_cases": [
+    "自动化工作流和多步骤任务处理",
+    "智能客服或虚拟助手系统",
+    "研究和实验性多智能体协作场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multi-agent",
+    "framework",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:20Z",
+  "analyzed_at": "2026-07-20T10:44:40Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

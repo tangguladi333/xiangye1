@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-vercelai",
+  "title": "vercel/ai",
+  "source_url": "https://github.com/vercel/ai",
+  "source_type": "github_trending",
+  "summary": "Vercel 推出的 AI 工具库，提供 React、Vue、Svelte 等框架的流式 UI 组件和 API 封装，简化 AI 应用开发。",
+  "highlights": [
+    "支持多种 AI 提供商（OpenAI、Anthropic 等）的统一接口",
+    "内置流式文本、函数调用和生成式 UI 组件",
+    "与 Vercel 平台深度集成，支持边缘部署"
+  ],
+  "use_cases": [
+    "构建聊天机器人、AI 助手",
+    "快速集成 AI 功能到前端应用",
+    "开发流式响应和实时交互的 AI 界面"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ai",
+    "llm",
+    "react",
+    "vercel",
+    "streaming"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:21Z",
+  "analyzed_at": "2026-07-20T10:46:03Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

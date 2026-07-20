@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-infiniflowragflow",
+  "title": "infiniflow/ragflow",
+  "source_url": "https://github.com/infiniflow/ragflow",
+  "source_type": "github_trending",
+  "summary": "RAGFlow 是一个基于深度文档理解的开源 RAG 引擎，支持多种文档格式，提供智能检索和问答能力，适合企业级知识管理场景。",
+  "highlights": [
+    "支持 PDF、Word、Excel、PPT 等多种文档格式的深度解析",
+    "内置 LLM 集成和向量检索，实现精准问答",
+    "提供可视化工作流和 API，便于企业部署和定制"
+  ],
+  "use_cases": [
+    "企业知识库构建与智能问答",
+    "文档分析与信息提取",
+    "客服系统与内部知识检索"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "rag",
+    "llm",
+    "document-understanding",
+    "knowledge-retrieval",
+    "enterprise"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:20Z",
+  "analyzed_at": "2026-07-20T10:45:09Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

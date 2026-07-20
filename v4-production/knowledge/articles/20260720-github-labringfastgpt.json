@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-labringfastgpt",
+  "title": "labring/FastGPT",
+  "source_url": "https://github.com/labring/FastGPT",
+  "source_type": "github_trending",
+  "summary": "FastGPT 是一个基于 LLM 的知识库问答平台，提供开箱即用的数据处理、模型调用、RAG 检索、可视化编排和实时监控等功能，支持构建复杂的 AI 工作流。",
+  "highlights": [
+    "提供可视化工作流编排，支持复杂 AI 应用构建",
+    "内置 RAG 引擎，支持多种文档格式和向量检索",
+    "支持多模型接入（OpenAI、本地模型等）和灵活配置"
+  ],
+  "use_cases": [
+    "企业知识库问答系统",
+    "智能客服与自动化工作流",
+    "文档分析与内容生成"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "knowledge-base",
+    "workflow",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:22Z",
+  "analyzed_at": "2026-07-20T10:46:21Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

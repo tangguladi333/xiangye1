@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-astrbotdevsastrbot",
+  "title": "AstrBotDevs/AstrBot",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "source_type": "github_trending",
+  "summary": "AstrBot 是一个轻量级、可扩展的聊天机器人框架，支持多种消息平台和 AI 模型，易于集成和部署。",
+  "highlights": [
+    "支持多平台（如 QQ、微信、Telegram）消息接入",
+    "插件系统灵活，可快速扩展功能",
+    "内置对多种 AI 模型（如 GPT、Claude）的支持"
+  ],
+  "use_cases": [
+    "构建跨平台的 AI 聊天助手",
+    "快速开发自定义聊天机器人应用",
+    "集成企业级智能客服系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "chatbot",
+    "framework",
+    "multi-platform",
+    "ai",
+    "plugin"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:24Z",
+  "analyzed_at": "2026-07-20T10:47:01Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

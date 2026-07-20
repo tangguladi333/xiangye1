@@ -1,0 +1,32 @@
+{
+  "id": "20260720-github-jamiepinevoicebox",
+  "title": "jamiepine/voicebox",
+  "source_url": "https://github.com/jamiepine/voicebox",
+  "source_type": "github_trending",
+  "summary": "Voicebox 是一个基于 AI 的实时语音克隆与转换工具，支持多语言、多说话人，并提供 Web 界面和 API 接口。",
+  "highlights": [
+    "支持实时语音克隆与转换",
+    "提供易用的 Web 界面和 REST API",
+    "基于深度学习模型，支持多语言"
+  ],
+  "use_cases": [
+    "语音助手个性化定制",
+    "内容创作中的语音合成",
+    "多语言语音翻译与配音"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "voice-cloning",
+    "tts",
+    "deep-learning",
+    "api"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:24Z",
+  "analyzed_at": "2026-07-20T10:46:54Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

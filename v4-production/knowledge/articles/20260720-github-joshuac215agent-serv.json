@@ -1,0 +1,31 @@
+{
+  "id": "20260720-github-joshuac215agent-serv",
+  "title": "JoshuaC215/agent-service-toolkit",
+  "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+  "source_type": "github_trending",
+  "summary": "一个用于构建和部署AI代理服务的工具包，提供模块化组件和示例，支持快速开发可扩展的智能代理应用。",
+  "highlights": [
+    "提供预构建的代理服务组件，简化开发流程",
+    "包含多个实际应用示例，如客户支持和数据分析",
+    "支持多种部署选项，包括Docker和云服务"
+  ],
+  "use_cases": [
+    "快速原型开发AI代理服务",
+    "构建企业级智能客服系统",
+    "教育和研究中的代理架构学习"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "service-toolkit",
+    "deployment"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:20Z",
+  "analyzed_at": "2026-07-20T10:44:58Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

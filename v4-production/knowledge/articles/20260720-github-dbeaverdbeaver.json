@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-dbeaverdbeaver",
+  "title": "dbeaver/dbeaver",
+  "source_url": "https://github.com/dbeaver/dbeaver",
+  "source_type": "github_trending",
+  "summary": "DBeaver 是一个免费、开源的通用数据库管理工具和 SQL 客户端，支持多种数据库，界面友好，功能强大。",
+  "highlights": [
+    "支持几乎所有主流数据库（MySQL、PostgreSQL、Oracle、SQL Server 等）",
+    "提供跨平台桌面应用（Windows、macOS、Linux）",
+    "拥有丰富的插件生态系统和活跃的社区贡献"
+  ],
+  "use_cases": [
+    "数据库管理员日常管理和维护",
+    "开发人员进行 SQL 查询、数据迁移和调试",
+    "数据分析师进行数据探索和可视化"
+  ],
+  "maturity": {
+    "stars": 42000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "database",
+    "sql",
+    "client",
+    "open-source",
+    "cross-platform"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:21Z",
+  "analyzed_at": "2026-07-20T10:45:19Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

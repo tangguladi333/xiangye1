@@ -1,0 +1,32 @@
+{
+  "id": "20260720-github-agentscope-aiagentsc",
+  "title": "agentscope-ai/agentscope",
+  "source_url": "https://github.com/agentscope-ai/agentscope",
+  "source_type": "github_trending",
+  "summary": "AgentScope 是一个多智能体平台，旨在简化基于大语言模型的智能体应用的构建、部署和管理，提供灵活的通信与协作机制。",
+  "highlights": [
+    "支持多种大语言模型集成，如 OpenAI、HuggingFace 等",
+    "提供分布式多智能体通信与协作框架",
+    "包含丰富的工具和示例，便于快速开发智能体应用"
+  ],
+  "use_cases": [
+    "构建多智能体协作系统，如对话、任务分配",
+    "快速原型开发与实验基于 LLM 的智能体应用",
+    "企业级智能体服务的部署与管理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multi-agent",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:22Z",
+  "analyzed_at": "2026-07-20T10:46:44Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

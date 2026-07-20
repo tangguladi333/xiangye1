@@ -1,0 +1,32 @@
+{
+  "id": "20260720-github-usestrixstrix",
+  "title": "usestrix/strix",
+  "source_url": "https://github.com/usestrix/strix",
+  "source_type": "github_trending",
+  "summary": "Strix 是一个基于 Rust 的高性能流式数据处理引擎，支持实时数据管道和事件驱动架构，提供低延迟、高吞吐量的数据处理能力。",
+  "highlights": [
+    "基于 Rust 实现，性能优异，内存安全",
+    "支持流式数据处理和实时事件驱动",
+    "提供简洁的 API 和可扩展的架构"
+  ],
+  "use_cases": [
+    "实时数据管道和 ETL 处理",
+    "物联网设备数据流处理",
+    "金融交易或日志监控等低延迟场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "rust",
+    "stream-processing",
+    "real-time",
+    "data-pipeline"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:21Z",
+  "analyzed_at": "2026-07-20T10:45:27Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

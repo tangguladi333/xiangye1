@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-openaiopenai-agents-",
+  "title": "openai/openai-agents-python",
+  "source_url": "https://github.com/openai/openai-agents-python",
+  "source_type": "github_trending",
+  "summary": "OpenAI 官方推出的 Python 代理框架，用于构建基于 LLM 的智能代理系统，支持工具调用、多代理协作和任务编排。",
+  "highlights": [
+    "由 OpenAI 官方维护，与 GPT 模型深度集成",
+    "支持多代理协作和复杂任务编排",
+    "提供丰富的工具和插件扩展机制"
+  ],
+  "use_cases": [
+    "构建自动化客服或任务执行代理",
+    "开发多步骤工作流和智能助手",
+    "快速原型验证 LLM 代理应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "openai",
+    "python",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:22Z",
+  "analyzed_at": "2026-07-20T10:46:47Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

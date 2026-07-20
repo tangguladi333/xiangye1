@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-headroomlabs-aiheadr",
+  "title": "headroomlabs-ai/headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github_trending",
+  "summary": "Headroom 是一个开源的 AI 对话平台，支持多模型集成、自定义工作流和团队协作，旨在提供可自托管的 ChatGPT 替代方案。",
+  "highlights": [
+    "支持 OpenAI、Anthropic、Google 等多种 LLM 模型",
+    "提供可视化工作流编辑器，可构建复杂 AI 应用",
+    "支持团队协作与权限管理，适合企业级部署"
+  ],
+  "use_cases": [
+    "企业内部 AI 助手与知识库问答",
+    "自定义 AI 客服或自动化工作流",
+    "多模型测试与对比平台"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "chatbot",
+    "workflow",
+    "self-hosted",
+    "team-collaboration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:21Z",
+  "analyzed_at": "2026-07-20T10:45:16Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

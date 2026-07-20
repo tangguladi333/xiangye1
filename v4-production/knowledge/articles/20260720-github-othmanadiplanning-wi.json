@@ -1,0 +1,30 @@
+{
+  "id": "20260720-github-othmanadiplanning-wi",
+  "title": "OthmanAdi/planning-with-files",
+  "source_url": "https://github.com/OthmanAdi/planning-with-files",
+  "source_type": "github_trending",
+  "summary": "一个基于文件系统的任务规划工具，通过解析文件内容生成执行计划，支持自定义规则和动态调整。",
+  "highlights": [
+    "利用文件系统作为规划输入，降低学习成本",
+    "支持动态调整计划，适应变化",
+    "提供清晰的执行路径可视化"
+  ],
+  "use_cases": [
+    "自动化工作流管理",
+    "项目任务分解与跟踪"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "task-planning",
+    "file-based",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:22Z",
+  "analyzed_at": "2026-07-20T10:46:49Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-microsoftgenerative-",
+  "title": "microsoft/generative-ai-for-beginners",
+  "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "source_type": "github_trending",
+  "summary": "微软出品的生成式AI入门课程，涵盖GPT、RAG、Agent等核心概念，提供Jupyter Notebook实践，适合初学者系统学习。",
+  "highlights": [
+    "微软官方出品，内容权威且系统化",
+    "包含18个模块，从基础到高级循序渐进",
+    "提供丰富的代码示例和Jupyter Notebook实践"
+  ],
+  "use_cases": [
+    "生成式AI初学者入门学习",
+    "企业内部AI技术培训",
+    "开发者快速掌握LLM应用开发"
+  ],
+  "maturity": {
+    "stars": 65000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "generative-ai",
+    "llm",
+    "education",
+    "course",
+    "microsoft"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:21Z",
+  "analyzed_at": "2026-07-20T10:45:30Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

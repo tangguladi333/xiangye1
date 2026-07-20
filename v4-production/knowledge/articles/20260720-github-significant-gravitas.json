@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-significant-gravitas",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "source_type": "github_trending",
+  "summary": "AutoGPT 是一个基于 GPT-4 的自主 AI 代理，能够自动分解任务、执行操作并迭代优化，实现复杂目标的自动化。",
+  "highlights": [
+    "支持自主任务分解与执行",
+    "集成多种工具和插件扩展能力",
+    "活跃的社区和持续更新"
+  ],
+  "use_cases": [
+    "自动化工作流和任务管理",
+    "代码生成与调试",
+    "内容创作与数据分析"
+  ],
+  "maturity": {
+    "stars": 170000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "gpt-4",
+    "automation",
+    "autonomous"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:21Z",
+  "analyzed_at": "2026-07-20T10:45:13Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

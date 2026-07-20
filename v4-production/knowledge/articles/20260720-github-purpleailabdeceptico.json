@@ -1,0 +1,32 @@
+{
+  "id": "20260720-github-purpleailabdeceptico",
+  "title": "PurpleAILAB/Decepticon",
+  "source_url": "https://github.com/PurpleAILAB/Decepticon",
+  "source_type": "github_trending",
+  "summary": "Decepticon 是一个用于生成对抗性文本样本的 Python 框架，旨在测试和提升 NLP 模型的鲁棒性。它支持多种攻击策略，如同义词替换和字符扰动，并提供了评估工具。",
+  "highlights": [
+    "支持多种对抗性攻击策略（同义词、字符、拼写错误等）",
+    "提供模型鲁棒性评估和可视化工具",
+    "易于扩展，可集成自定义攻击和模型"
+  ],
+  "use_cases": [
+    "NLP 模型安全测试与鲁棒性评估",
+    "对抗性训练数据生成",
+    "学术研究中的对抗性样本分析"
+  ],
+  "maturity": {
+    "stars": 85,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "nlp",
+    "adversarial",
+    "robustness",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:20Z",
+  "analyzed_at": "2026-07-20T10:44:55Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

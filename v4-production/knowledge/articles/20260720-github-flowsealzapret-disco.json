@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-flowsealzapret-disco",
+  "title": "Flowseal/zapret-discord-youtube",
+  "source_url": "https://github.com/Flowseal/zapret-discord-youtube",
+  "source_type": "github_trending",
+  "summary": "一个用于绕过 Discord 和 YouTube 等平台网络限制的工具，基于 zapret 项目，提供 GUI 和自动化脚本，帮助用户恢复访问。",
+  "highlights": [
+    "专注于 Discord 和 YouTube 的特定绕过方案",
+    "提供图形界面和自动化脚本，降低使用门槛",
+    "基于成熟的 zapret 项目，稳定性较高"
+  ],
+  "use_cases": [
+    "网络审查环境下恢复 Discord 和 YouTube 访问",
+    "企业或学校网络限制下的临时绕过",
+    "技术用户快速部署网络绕过工具"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "network-bypass",
+    "discord",
+    "youtube",
+    "zapret",
+    "gui"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:24Z",
+  "analyzed_at": "2026-07-20T10:47:10Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

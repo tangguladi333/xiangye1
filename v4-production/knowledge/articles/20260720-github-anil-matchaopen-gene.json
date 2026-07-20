@@ -1,0 +1,32 @@
+{
+  "id": "20260720-github-anil-matchaopen-gene",
+  "title": "Anil-matcha/Open-Generative-AI",
+  "source_url": "https://github.com/Anil-matcha/Open-Generative-AI",
+  "source_type": "github_trending",
+  "summary": "一个全面的生成式AI学习资源集合，涵盖LLM、扩散模型、Agent等，提供教程、代码和工具，适合入门到进阶。",
+  "highlights": [
+    "覆盖多种生成式AI模型（LLM、扩散模型、VAE等）",
+    "包含实践教程和代码示例，易于上手",
+    "持续更新，紧跟AI前沿技术"
+  ],
+  "use_cases": [
+    "AI学习与教学",
+    "快速原型开发与实验"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "generative-ai",
+    "llm",
+    "diffusion-models",
+    "tutorial",
+    "resources"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:21Z",
+  "analyzed_at": "2026-07-20T10:45:34Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

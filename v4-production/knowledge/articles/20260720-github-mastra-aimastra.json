@@ -1,0 +1,33 @@
+{
+  "id": "20260720-github-mastra-aimastra",
+  "title": "mastra-ai/mastra",
+  "source_url": "https://github.com/mastra-ai/mastra",
+  "source_type": "github_trending",
+  "summary": "Mastra 是一个 TypeScript 框架，用于构建 LLM 驱动的 AI 应用和 agent，提供工具、工作流和 RAG 支持。",
+  "highlights": [
+    "提供 agent、工具、工作流和 RAG 等核心组件",
+    "支持多种 LLM 提供商（如 OpenAI、Anthropic）",
+    "内置可观测性和评估功能"
+  ],
+  "use_cases": [
+    "构建智能客服和聊天机器人",
+    "自动化复杂工作流和任务编排",
+    "开发基于 RAG 的知识检索系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "typescript",
+    "workflow",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:21Z",
+  "analyzed_at": "2026-07-20T10:45:57Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

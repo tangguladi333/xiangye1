@@ -1,0 +1,31 @@
+{
+  "id": "20260720-github-microsoftterminal",
+  "title": "microsoft/terminal",
+  "source_url": "https://github.com/microsoft/terminal",
+  "source_type": "github_trending",
+  "summary": "微软开源的 Windows 终端应用，支持多标签、GPU 加速渲染、Unicode 和自定义主题，旨在替代传统控制台。",
+  "highlights": [
+    "GPU 加速文本渲染，性能优异",
+    "支持多标签页和丰富的自定义配置",
+    "开源且由微软官方维护，社区活跃"
+  ],
+  "use_cases": [
+    "Windows 系统下的命令行开发与运维",
+    "替代 cmd、PowerShell 和 WSL 的默认终端"
+  ],
+  "maturity": {
+    "stars": 96000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "terminal",
+    "windows",
+    "command-line",
+    "gpu-accelerated"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:24Z",
+  "analyzed_at": "2026-07-20T10:46:59Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

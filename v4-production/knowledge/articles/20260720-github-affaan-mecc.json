@@ -1,0 +1,31 @@
+{
+  "id": "20260720-github-affaan-mecc",
+  "title": "affaan-m/ECC",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "source_type": "github_trending",
+  "summary": "ECC 是一个用 C 语言实现的椭圆曲线加密库，支持多种曲线和基本加密操作，适合嵌入式或学习用途。",
+  "highlights": [
+    "纯 C 实现，无外部依赖",
+    "支持 secp256k1、P-256 等主流曲线",
+    "包含密钥生成、签名、验证等基本功能"
+  ],
+  "use_cases": [
+    "嵌入式系统加密",
+    "加密算法教学与实验",
+    "轻量级区块链或物联网安全"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2024-08-15",
+    "production_ready": false
+  },
+  "tags": [
+    "cryptography",
+    "ecc",
+    "c"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:22Z",
+  "analyzed_at": "2026-07-20T10:46:24Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}

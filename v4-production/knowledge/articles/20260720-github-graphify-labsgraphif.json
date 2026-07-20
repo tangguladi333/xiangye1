@@ -1,0 +1,32 @@
+{
+  "id": "20260720-github-graphify-labsgraphif",
+  "title": "Graphify-Labs/graphify",
+  "source_url": "https://github.com/Graphify-Labs/graphify",
+  "source_type": "github_trending",
+  "summary": "Graphify 是一个基于图数据库的智能数据可视化平台，支持自然语言查询和自动图表生成，旨在简化复杂数据的探索与分析。",
+  "highlights": [
+    "支持自然语言查询，降低数据探索门槛",
+    "集成图数据库，高效处理关联数据",
+    "自动生成多种图表类型，提升可视化效率"
+  ],
+  "use_cases": [
+    "商业智能与数据报表快速生成",
+    "知识图谱可视化与关系分析",
+    "科研数据探索与交互式分析"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "data-visualization",
+    "graph-database",
+    "nlp",
+    "analytics"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-20T10:44:20Z",
+  "analyzed_at": "2026-07-20T10:45:03Z",
+  "curated_at": "2026-07-20T10:47:12Z"
+}
