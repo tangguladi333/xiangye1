@@ -1,0 +1,32 @@
+{
+  "id": "20260721-github-every-appopen-seo",
+  "title": "every-app/open-seo",
+  "source_url": "https://github.com/every-app/open-seo",
+  "source_type": "github_trending",
+  "summary": "Open SEO 是一个开源 SEO 工具，提供关键词研究、页面优化和性能分析功能，帮助提升网站搜索排名。",
+  "highlights": [
+    "提供全面的 SEO 分析功能，包括关键词研究和页面优化建议",
+    "开源且易于集成，支持自定义配置",
+    "活跃的社区维护，定期更新"
+  ],
+  "use_cases": [
+    "网站 SEO 优化和排名提升",
+    "内容营销策略制定",
+    "竞争对手 SEO 分析"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "seo",
+    "keyword-research",
+    "optimization",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:20:45Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

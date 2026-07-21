@@ -1,0 +1,33 @@
+{
+  "id": "20260721-github-handy-computertransc",
+  "title": "handy-computer/transcribe.cpp",
+  "source_url": "https://github.com/handy-computer/transcribe.cpp",
+  "source_type": "github_trending",
+  "summary": "一个基于C++的实时语音转文字工具，利用Whisper模型实现本地高效转录，支持麦克风输入和文件处理。",
+  "highlights": [
+    "基于Whisper模型的本地实时语音转文字",
+    "C++实现，性能高效，支持低延迟处理",
+    "支持麦克风输入和音频文件转录"
+  ],
+  "use_cases": [
+    "实时语音转写与字幕生成",
+    "本地语音识别应用开发",
+    "离线语音处理场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "whisper",
+    "speech-to-text",
+    "cpp",
+    "real-time",
+    "transcription"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:21:02Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

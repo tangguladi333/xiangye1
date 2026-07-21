@@ -1,0 +1,31 @@
+{
+  "id": "20260721-github-oblienopenship",
+  "title": "oblien/openship",
+  "source_url": "https://github.com/oblien/openship",
+  "source_type": "github_trending",
+  "summary": "OpenShip 是一个开源的订单履行和物流管理平台，支持多渠道订单导入、库存同步、自动发货和追踪，适用于电商卖家。",
+  "highlights": [
+    "支持多电商平台订单集成（如 Shopify、WooCommerce）",
+    "提供自动化发货规则和库存同步功能",
+    "基于 Web 的直观界面，易于部署和扩展"
+  ],
+  "use_cases": [
+    "中小型电商卖家的订单集中管理",
+    "多仓库或多渠道的物流自动化"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "e-commerce",
+    "logistics",
+    "order-management",
+    "fulfillment"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:20:57Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

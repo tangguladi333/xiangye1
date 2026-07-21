@@ -1,0 +1,31 @@
+{
+  "id": "20260721-github-danielmiesslerlifeos",
+  "title": "danielmiessler/LifeOS",
+  "source_url": "https://github.com/danielmiessler/LifeOS",
+  "source_type": "github_trending",
+  "summary": "LifeOS 是一个基于 Obsidian 和 AI 的个人知识管理与生活操作系统，旨在通过结构化笔记和自动化流程提升效率。",
+  "highlights": [
+    "整合 Obsidian 与 AI 实现自动化工作流",
+    "提供模块化生活管理系统模板",
+    "开源且社区活跃，持续更新"
+  ],
+  "use_cases": [
+    "个人知识管理与笔记自动化",
+    "日常生活任务与目标跟踪"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "obsidian",
+    "knowledge-management",
+    "productivity",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:35Z",
+  "analyzed_at": "2026-07-21T10:20:22Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260721-github-diegosouzapwomnirout",
+  "title": "diegosouzapw/OmniRoute",
+  "source_url": "https://github.com/diegosouzapw/OmniRoute",
+  "source_type": "github_trending",
+  "summary": "OmniRoute 是一个基于 AI 的智能路由库，用于动态选择最佳 API 或服务端点，提升系统可靠性和性能。",
+  "highlights": [
+    "支持多种路由策略（如延迟、错误率、成本优化）",
+    "集成主流 LLM 和 API 提供商",
+    "提供可扩展的插件架构"
+  ],
+  "use_cases": [
+    "多 API 提供商间的智能负载均衡",
+    "降低 LLM 调用成本与延迟",
+    "高可用性服务架构中的故障转移"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-01-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "api-routing",
+    "load-balancing",
+    "ai-infrastructure"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:20:39Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

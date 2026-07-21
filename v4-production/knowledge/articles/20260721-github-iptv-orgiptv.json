@@ -1,0 +1,33 @@
+{
+  "id": "20260721-github-iptv-orgiptv",
+  "title": "iptv-org/iptv",
+  "source_url": "https://github.com/iptv-org/iptv",
+  "source_type": "github_trending",
+  "summary": "一个收集全球公开IPTV频道链接的开源项目，提供可播放的m3u播放列表，支持多种设备和播放器。",
+  "highlights": [
+    "收录超过8000个公开IPTV频道，覆盖全球多个国家和地区",
+    "提供多种格式的播放列表（m3u、m3u8等），易于集成到各种播放器中",
+    "社区活跃，定期更新频道列表，确保链接有效性"
+  ],
+  "use_cases": [
+    "在智能电视、手机或电脑上观看全球免费电视直播",
+    "作为IPTV播放器（如VLC、Kodi）的频道源",
+    "用于测试或演示IPTV相关应用和工具"
+  ],
+  "maturity": {
+    "stars": 85000,
+    "last_updated": "2025-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "iptv",
+    "tv",
+    "streaming",
+    "playlist",
+    "m3u"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:20:54Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

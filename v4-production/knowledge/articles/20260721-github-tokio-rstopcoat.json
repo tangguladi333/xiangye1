@@ -1,0 +1,33 @@
+{
+  "id": "20260721-github-tokio-rstopcoat",
+  "title": "tokio-rs/topcoat",
+  "source_url": "https://github.com/tokio-rs/topcoat",
+  "source_type": "github_trending",
+  "summary": "Topcoat 是 Tokio 团队开发的异步 Rust 代码覆盖率工具，支持 tokio 运行时下的代码路径追踪。",
+  "highlights": [
+    "专为 tokio 异步运行时设计，填补异步代码覆盖率空白",
+    "基于 LLVM SanitizerCoverage 实现，性能开销低",
+    "与 cargo 集成，使用简单"
+  ],
+  "use_cases": [
+    "异步 Rust 项目的代码覆盖率测试",
+    "tokio 运行时下的测试质量评估",
+    "CI/CD 流水线中的覆盖率检查"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "rust",
+    "tokio",
+    "code-coverage",
+    "testing",
+    "async"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:20:51Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

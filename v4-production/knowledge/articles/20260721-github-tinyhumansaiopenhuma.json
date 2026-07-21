@@ -1,0 +1,32 @@
+{
+  "id": "20260721-github-tinyhumansaiopenhuma",
+  "title": "tinyhumansai/openhuman",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "source_type": "github_trending",
+  "summary": "OpenHuman 是一个开源框架，用于构建和部署逼真的 AI 虚拟人，支持实时对话、表情和动作生成。",
+  "highlights": [
+    "提供完整的虚拟人创建和交互流程",
+    "支持实时语音、表情和动作同步",
+    "基于模块化设计，易于扩展和定制"
+  ],
+  "use_cases": [
+    "虚拟客服和数字人助手",
+    "教育和培训中的虚拟导师",
+    "娱乐和社交中的虚拟角色"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "virtual-human",
+    "ai-avatar",
+    "real-time",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:34Z",
+  "analyzed_at": "2026-07-21T10:20:09Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260721-github-datawhalechinahello-",
+  "title": "datawhalechina/hello-agents",
+  "source_url": "https://github.com/datawhalechina/hello-agents",
+  "source_type": "github_trending",
+  "summary": "Datawhale 出品的 Agents 入门教程，从零讲解 Agent 概念、框架与实战，适合初学者快速上手。",
+  "highlights": [
+    "面向初学者的 Agent 系统教程",
+    "包含 LangChain、AutoGPT 等主流框架实践",
+    "配套代码与文档，学习路径清晰"
+  ],
+  "use_cases": [
+    "AI Agent 入门学习",
+    "教学与培训材料"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "tutorial",
+    "llm",
+    "datawhale"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:33Z",
+  "analyzed_at": "2026-07-21T10:19:55Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

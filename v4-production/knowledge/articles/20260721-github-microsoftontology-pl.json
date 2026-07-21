@@ -1,0 +1,33 @@
+{
+  "id": "20260721-github-microsoftontology-pl",
+  "title": "microsoft/Ontology-Playground",
+  "source_url": "https://github.com/microsoft/Ontology-Playground",
+  "source_type": "github_trending",
+  "summary": "微软开源的交互式本体论学习与实验平台，支持知识图谱构建、推理与可视化，适合教育、研究与快速原型开发。",
+  "highlights": [
+    "提供图形化界面进行本体编辑与推理",
+    "集成多种本体语言（如OWL、RDF）支持",
+    "基于Web的交互式沙盒环境，降低使用门槛"
+  ],
+  "use_cases": [
+    "语义网与知识图谱教学演示",
+    "本体工程快速原型验证",
+    "AI推理与知识表示实验"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ontology",
+    "knowledge-graph",
+    "semantic-web",
+    "reasoning",
+    "microsoft"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:20:59Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

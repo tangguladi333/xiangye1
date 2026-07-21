@@ -1,0 +1,33 @@
+{
+  "id": "20260721-github-aishwaryanrawesome-g",
+  "title": "aishwaryanr/awesome-generative-ai-guide",
+  "source_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+  "source_type": "github_trending",
+  "summary": "一个全面的生成式AI学习资源集合，涵盖从基础到高级的教程、论文、工具和项目，适合不同层次的学习者。",
+  "highlights": [
+    "包含丰富的学习路径和资源分类",
+    "覆盖LLM、扩散模型、RLHF等多个热门领域",
+    "定期更新，社区活跃度高"
+  ],
+  "use_cases": [
+    "个人学习生成式AI技术",
+    "教学和课程设计参考",
+    "研究论文和工具快速检索"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "generative-ai",
+    "llm",
+    "learning-resources",
+    "tutorial",
+    "awesome-list"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:34Z",
+  "analyzed_at": "2026-07-21T10:19:57Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

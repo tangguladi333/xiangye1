@@ -1,0 +1,32 @@
+{
+  "id": "20260721-github-moonshine-aimoonshin",
+  "title": "moonshine-ai/moonshine",
+  "source_url": "https://github.com/moonshine-ai/moonshine",
+  "source_type": "github_trending",
+  "summary": "Moonshine 是一个专为边缘设备优化的语音转文本模型，支持实时推理，性能优于 Whisper 等模型。",
+  "highlights": [
+    "专为边缘设备优化，支持实时语音转文本",
+    "性能优于 Whisper tiny 和 Distil-Whisper，参数更少",
+    "提供多种模型大小（250M、400M、1B 参数）和 ONNX 支持"
+  ],
+  "use_cases": [
+    "边缘设备上的实时语音识别",
+    "低延迟语音助手或转录应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "speech-to-text",
+    "edge-ai",
+    "real-time",
+    "onnx",
+    "whisper-alternative"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:21:05Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}

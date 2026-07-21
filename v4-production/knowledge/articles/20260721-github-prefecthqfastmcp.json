@@ -1,0 +1,32 @@
+{
+  "id": "20260721-github-prefecthqfastmcp",
+  "title": "PrefectHQ/fastmcp",
+  "source_url": "https://github.com/PrefectHQ/fastmcp",
+  "source_type": "github_trending",
+  "summary": "FastMCP 是一个用于构建 MCP（Model Context Protocol）服务器的高性能 Python 框架，由 Prefect 团队开发，旨在简化 AI 工具和资源的暴露。",
+  "highlights": [
+    "基于 asyncio 实现高性能异步 I/O，支持高并发请求",
+    "提供简洁的装饰器 API，快速将 Python 函数暴露为 MCP 工具",
+    "内置类型验证和错误处理，提升开发体验和稳定性"
+  ],
+  "use_cases": [
+    "为 LLM 应用快速构建工具和资源服务器",
+    "集成现有 Python 代码到 MCP 生态系统中"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "mcp",
+    "python",
+    "framework",
+    "ai",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-21T10:19:37Z",
+  "analyzed_at": "2026-07-21T10:20:48Z",
+  "curated_at": "2026-07-21T10:21:05Z"
+}
