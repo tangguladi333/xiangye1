@@ -1,0 +1,32 @@
+{
+  "id": "20260722-github-ayghrii-have-adhd",
+  "title": "ayghri/i-have-adhd",
+  "source_url": "https://github.com/ayghri/i-have-adhd",
+  "source_type": "github_trending",
+  "summary": "一个面向ADHD群体的开源工具集，提供任务管理、时间追踪和专注力辅助功能，帮助用户提升日常效率。",
+  "highlights": [
+    "专为ADHD用户设计的简洁界面与交互逻辑",
+    "集成番茄钟与任务分解功能，降低执行门槛",
+    "支持自定义提醒与奖励机制，增强持续动力"
+  ],
+  "use_cases": [
+    "ADHD患者日常任务管理与时间规划",
+    "需要结构化工作流支持的注意力分散人群",
+    "个人效率工具定制化开发参考"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-08-15",
+    "production_ready": false
+  },
+  "tags": [
+    "adhd",
+    "productivity",
+    "task-management",
+    "pomodoro"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:08Z",
+  "analyzed_at": "2026-07-22T10:19:31Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260722-github-dioxuslabsdioxus",
+  "title": "DioxusLabs/dioxus",
+  "source_url": "https://github.com/DioxusLabs/dioxus",
+  "source_type": "github_trending",
+  "summary": "Dioxus 是一个用于构建跨平台用户界面的 Rust 框架，支持 Web、桌面、移动端和 TUI，具有类似 React 的声明式编程模型。",
+  "highlights": [
+    "使用 Rust 语言，提供高性能和内存安全",
+    "支持 Web、桌面、移动端和终端等多种平台",
+    "声明式组件化开发，类似 React 的 Hooks 和状态管理"
+  ],
+  "use_cases": [
+    "构建高性能的跨平台桌面应用",
+    "开发轻量级移动端 UI",
+    "创建终端界面（TUI）应用"
+  ],
+  "maturity": {
+    "stars": 21000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "rust",
+    "ui-framework",
+    "cross-platform",
+    "react-like"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:08Z",
+  "analyzed_at": "2026-07-22T10:19:48Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}

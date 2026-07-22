@@ -1,0 +1,33 @@
+{
+  "id": "20260722-github-punkpeyeawesome-mcp-",
+  "title": "punkpeye/awesome-mcp-servers",
+  "source_url": "https://github.com/punkpeye/awesome-mcp-servers",
+  "source_type": "github_trending",
+  "summary": "这是一个精选的 MCP（Model Context Protocol）服务器资源列表，汇集了各种用途的 MCP 服务器实现，方便开发者快速查找和使用。",
+  "highlights": [
+    "收录了数十个不同领域的 MCP 服务器，涵盖数据库、API、文件系统等",
+    "按功能分类清晰，便于开发者快速定位所需服务器",
+    "持续更新，紧跟 MCP 协议发展，社区活跃度高"
+  ],
+  "use_cases": [
+    "寻找现成的 MCP 服务器集成到 LLM 应用中",
+    "学习 MCP 协议实现，参考不同服务器的代码结构",
+    "快速搭建支持 MCP 的 AI 工具链"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "mcp",
+    "awesome-list",
+    "llm",
+    "server",
+    "protocol"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:06Z",
+  "analyzed_at": "2026-07-22T10:19:25Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}

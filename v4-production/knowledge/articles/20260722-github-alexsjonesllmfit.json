@@ -1,0 +1,32 @@
+{
+  "id": "20260722-github-alexsjonesllmfit",
+  "title": "AlexsJones/llmfit",
+  "source_url": "https://github.com/AlexsJones/llmfit",
+  "source_type": "github_trending",
+  "summary": "llmfit 是一个轻量级 Python 库，用于通过函数签名和类型注解自动生成 LLM 调用，简化结构化输出提取。",
+  "highlights": [
+    "基于函数签名自动生成 LLM 提示，无需手动编写模板",
+    "支持 Pydantic 模型和类型注解，实现结构化输出",
+    "轻量级设计，易于集成到现有 Python 项目中"
+  ],
+  "use_cases": [
+    "从非结构化文本中提取结构化数据",
+    "快速构建 LLM 驱动的数据管道",
+    "简化 LLM 调用中的输出解析逻辑"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "python",
+    "structured-output",
+    "function-calling"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:08Z",
+  "analyzed_at": "2026-07-22T10:19:40Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}

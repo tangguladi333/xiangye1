@@ -1,0 +1,33 @@
+{
+  "id": "20260722-github-chrislgarryapollo-11",
+  "title": "chrislgarry/Apollo-11",
+  "source_url": "https://github.com/chrislgarry/Apollo-11",
+  "source_type": "github_trending",
+  "summary": "Apollo-11 是阿波罗11号制导计算机（AGC）指令模块和登月模块的原始源代码的 GitHub 仓库，包含汇编语言代码和注释，具有历史纪念意义。",
+  "highlights": [
+    "包含阿波罗11号制导计算机的原始汇编代码",
+    "代码注释丰富，具有历史和教育价值",
+    "GitHub 上最受关注的仓库之一，星标数极高"
+  ],
+  "use_cases": [
+    "计算机历史研究与教育",
+    "复古计算和汇编语言学习",
+    "航天工程文化展示"
+  ],
+  "maturity": {
+    "stars": 60000,
+    "last_updated": "2024-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "apollo",
+    "assembly",
+    "history",
+    "space",
+    "retrocomputing"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:08Z",
+  "analyzed_at": "2026-07-22T10:19:46Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}

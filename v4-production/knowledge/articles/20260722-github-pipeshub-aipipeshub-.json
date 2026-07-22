@@ -1,0 +1,33 @@
+{
+  "id": "20260722-github-pipeshub-aipipeshub-",
+  "title": "pipeshub-ai/pipeshub-ai",
+  "source_url": "https://github.com/pipeshub-ai/pipeshub-ai",
+  "source_type": "github_trending",
+  "summary": "PipesHub 是一个面向 AI 代理的实时数据管道平台，支持从多种数据源（如数据库、API、文件）提取、转换和加载数据到 AI 工作流中，提供低延迟的数据接入和预处理能力。",
+  "highlights": [
+    "专为 AI 代理设计的数据管道，支持实时数据流处理",
+    "提供丰富的连接器，覆盖数据库、API、文件等多种数据源",
+    "内置数据转换和过滤功能，便于 AI 模型直接消费"
+  ],
+  "use_cases": [
+    "为 LLM 应用提供实时上下文数据",
+    "构建 AI 代理的数据预处理流水线",
+    "集成多源数据到 AI 工作流中"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "data-pipeline",
+    "ai-agent",
+    "real-time",
+    "etl",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:03Z",
+  "analyzed_at": "2026-07-22T10:19:17Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}

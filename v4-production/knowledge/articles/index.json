@@ -5530,5 +5530,239 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-21T10:21:05Z"
+  },
+  {
+    "id": "20260722-github-ai-collectionai-coll",
+    "title": "ai-collection/ai-collection",
+    "source_url": "https://github.com/ai-collection/ai-collection",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "tools",
+      "collection",
+      "list"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-alexsjonesllmfit",
+    "title": "AlexsJones/llmfit",
+    "source_url": "https://github.com/AlexsJones/llmfit",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "python",
+      "structured-output",
+      "function-calling"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-ayghrii-have-adhd",
+    "title": "ayghri/i-have-adhd",
+    "source_url": "https://github.com/ayghri/i-have-adhd",
+    "source_type": "github_trending",
+    "tags": [
+      "adhd",
+      "productivity",
+      "task-management",
+      "pomodoro"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-chrislgarryapollo-11",
+    "title": "chrislgarry/Apollo-11",
+    "source_url": "https://github.com/chrislgarry/Apollo-11",
+    "source_type": "github_trending",
+    "tags": [
+      "apollo",
+      "assembly",
+      "history",
+      "space",
+      "retrocomputing"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-dioxuslabsdioxus",
+    "title": "DioxusLabs/dioxus",
+    "source_url": "https://github.com/DioxusLabs/dioxus",
+    "source_type": "github_trending",
+    "tags": [
+      "rust",
+      "ui-framework",
+      "cross-platform",
+      "react-like"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-dottxt-aioutlines",
+    "title": "dottxt-ai/outlines",
+    "source_url": "https://github.com/dottxt-ai/outlines",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "structured-generation",
+      "python",
+      "json-schema",
+      "pydantic"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-earthtojaketext-to-c",
+    "title": "earthtojake/text-to-cad",
+    "source_url": "https://github.com/earthtojake/text-to-cad",
+    "source_type": "github_trending",
+    "tags": [
+      "text-to-cad",
+      "3d-modeling",
+      "nlp",
+      "generative-ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-hyprwmhyprland",
+    "title": "hyprwm/Hyprland",
+    "source_url": "https://github.com/hyprwm/Hyprland",
+    "source_type": "github_trending",
+    "tags": [
+      "wayland",
+      "compositor",
+      "tiling",
+      "linux",
+      "desktop"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-koala73worldmonitor",
+    "title": "koala73/worldmonitor",
+    "source_url": "https://github.com/koala73/worldmonitor",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "monitoring",
+      "news-aggregation",
+      "real-time",
+      "trend-analysis"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain-mcp-adapters",
+    "source_url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+    "source_type": "github_trending",
+    "tags": [
+      "langchain",
+      "mcp",
+      "agent",
+      "tool-integration",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-langchain-ailanggrap",
+    "title": "langchain-ai/langgraphjs",
+    "source_url": "https://github.com/langchain-ai/langgraphjs",
+    "source_type": "github_trending",
+    "tags": [
+      "langchain",
+      "agent",
+      "state-machine",
+      "workflow",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-langchain-aiopendeep",
+    "title": "langchain-ai/open_deep_research",
+    "source_url": "https://github.com/langchain-ai/open_deep_research",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "research",
+      "langchain",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-pipeshub-aipipeshub-",
+    "title": "pipeshub-ai/pipeshub-ai",
+    "source_url": "https://github.com/pipeshub-ai/pipeshub-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "data-pipeline",
+      "ai-agent",
+      "real-time",
+      "etl",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-punkpeyeawesome-mcp-",
+    "title": "punkpeye/awesome-mcp-servers",
+    "source_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "source_type": "github_trending",
+    "tags": [
+      "mcp",
+      "awesome-list",
+      "llm",
+      "server",
+      "protocol"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-schollzcroc",
+    "title": "schollz/croc",
+    "source_url": "https://github.com/schollz/croc",
+    "source_type": "github_trending",
+    "tags": [
+      "file-transfer",
+      "encryption",
+      "cli",
+      "go"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260722-github-tradesdontlietrading",
+    "title": "tradesdontlie/tradingview-mcp",
+    "source_url": "https://github.com/tradesdontlie/tradingview-mcp",
+    "source_type": "github_trending",
+    "tags": [
+      "tradingview",
+      "mcp",
+      "market-data",
+      "ai-integration",
+      "finance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-22T10:19:59Z"
   }
 ]

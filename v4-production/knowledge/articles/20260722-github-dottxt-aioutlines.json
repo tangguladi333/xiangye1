@@ -1,0 +1,32 @@
+{
+  "id": "20260722-github-dottxt-aioutlines",
+  "title": "dottxt-ai/outlines",
+  "source_url": "https://github.com/dottxt-ai/outlines",
+  "source_type": "github_trending",
+  "summary": "Outlines 是一个用于结构化文本生成的 Python 库，支持通过正则表达式、JSON Schema 和 Pydantic 模型约束 LLM 输出，提升生成结果的可靠性和可控性。",
+  "highlights": [
+    "支持多种约束方式（正则、JSON Schema、Pydantic），灵活适配不同场景",
+    "与主流 LLM 框架（如 Transformers、vLLM）深度集成，易于使用",
+    "活跃的社区维护，文档完善，示例丰富"
+  ],
+  "use_cases": [
+    "需要严格格式输出的数据提取和结构化生成",
+    "构建可靠的 AI 应用，如自动化报告、代码生成和表单填充"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "structured-generation",
+    "python",
+    "json-schema",
+    "pydantic"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:08Z",
+  "analyzed_at": "2026-07-22T10:19:59Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}

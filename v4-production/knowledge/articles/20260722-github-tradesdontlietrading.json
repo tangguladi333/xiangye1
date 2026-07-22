@@ -1,0 +1,33 @@
+{
+  "id": "20260722-github-tradesdontlietrading",
+  "title": "tradesdontlie/tradingview-mcp",
+  "source_url": "https://github.com/tradesdontlie/tradingview-mcp",
+  "source_type": "github_trending",
+  "summary": "一个将TradingView图表数据与AI模型（如Claude）集成的MCP服务器，支持实时市场数据查询和图表分析。",
+  "highlights": [
+    "支持实时股票、加密货币、外汇等市场数据查询",
+    "与Claude等AI模型无缝集成，实现自然语言交互",
+    "提供图表分析、技术指标和K线数据获取功能"
+  ],
+  "use_cases": [
+    "AI辅助交易决策，通过自然语言查询市场数据",
+    "自动化交易策略开发中的实时数据获取",
+    "金融数据分析与可视化工具集成"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "tradingview",
+    "mcp",
+    "market-data",
+    "ai-integration",
+    "finance"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:08Z",
+  "analyzed_at": "2026-07-22T10:19:37Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}

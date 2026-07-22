@@ -1,0 +1,33 @@
+{
+  "id": "20260722-github-langchain-aiopendeep",
+  "title": "langchain-ai/open_deep_research",
+  "source_url": "https://github.com/langchain-ai/open_deep_research",
+  "source_type": "github_trending",
+  "summary": "一个基于 LangChain 构建的开源深度研究助手，能够自动搜索、阅读和综合网络信息，生成结构化研究报告。",
+  "highlights": [
+    "支持多轮搜索与信息整合，模拟人类研究流程",
+    "基于 LangGraph 构建，可定制研究步骤和工具",
+    "输出结构化报告，包含引用来源和推理过程"
+  ],
+  "use_cases": [
+    "市场调研与竞品分析",
+    "学术文献综述与知识综合",
+    "技术趋势追踪与报告生成"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "research",
+    "langchain",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-22T10:19:08Z",
+  "analyzed_at": "2026-07-22T10:19:51Z",
+  "curated_at": "2026-07-22T10:19:59Z"
+}
