@@ -1,0 +1,31 @@
+{
+  "id": "20260723-github-ruvnetruview",
+  "title": "ruvnet/RuView",
+  "source_url": "https://github.com/ruvnet/RuView",
+  "source_type": "github_trending",
+  "summary": "RuView 是一个基于 AI 的代码可视化工具，支持实时交互式代码结构分析与依赖图生成。",
+  "highlights": [
+    "支持多种编程语言的代码结构解析",
+    "提供实时交互式依赖图与可视化界面",
+    "集成 AI 辅助代码理解与注释生成"
+  ],
+  "use_cases": [
+    "代码审查与重构",
+    "新开发者快速理解项目结构",
+    "教学演示与文档生成"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-04-10",
+    "production_ready": false
+  },
+  "tags": [
+    "code-visualization",
+    "ai",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T10:14:02Z",
+  "analyzed_at": "2026-07-23T10:14:20Z",
+  "curated_at": "2026-07-23T10:14:36Z"
+}

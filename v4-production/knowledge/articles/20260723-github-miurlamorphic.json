@@ -1,0 +1,31 @@
+{
+  "id": "20260723-github-miurlamorphic",
+  "title": "miurla/morphic",
+  "source_url": "https://github.com/miurla/morphic",
+  "source_type": "github_trending",
+  "summary": "Morphic 是一个基于 Next.js 和 AI 的生成式用户界面搜索工具，支持自然语言查询并返回结构化结果。",
+  "highlights": [
+    "使用 Next.js 构建，支持流式响应和实时更新",
+    "集成多种 AI 模型（如 OpenAI、Anthropic）",
+    "提供可定制的搜索界面和结果展示"
+  ],
+  "use_cases": [
+    "构建智能搜索应用",
+    "快速原型开发 AI 驱动的用户界面"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "nextjs",
+    "ai",
+    "search",
+    "generative-ui"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T10:13:57Z",
+  "analyzed_at": "2026-07-23T10:14:10Z",
+  "curated_at": "2026-07-23T10:14:36Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260723-github-agegrpi-web",
+  "title": "agegr/pi-web",
+  "source_url": "https://github.com/agegr/pi-web",
+  "source_type": "github_trending",
+  "summary": "pi-web 是一个基于 Web 的 Pi 网络节点管理工具，提供节点状态监控、配置管理和日志查看功能，旨在简化 Pi 网络节点的部署与运维。",
+  "highlights": [
+    "提供直观的 Web 界面管理 Pi 网络节点",
+    "支持实时节点状态监控与日志查看",
+    "简化节点配置与部署流程"
+  ],
+  "use_cases": [
+    "Pi 网络节点运维与监控",
+    "去中心化网络节点管理"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "pi-network",
+    "node-management",
+    "web-interface"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T10:14:02Z",
+  "analyzed_at": "2026-07-23T10:14:30Z",
+  "curated_at": "2026-07-23T10:14:36Z"
+}

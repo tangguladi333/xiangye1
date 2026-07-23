@@ -5764,5 +5764,177 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-22T10:19:59Z"
+  },
+  {
+    "id": "20260723-github-agegrpi-web",
+    "title": "agegr/pi-web",
+    "source_url": "https://github.com/agegr/pi-web",
+    "source_type": "github_trending",
+    "tags": [
+      "pi-network",
+      "node-management",
+      "web-interface"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-composiohqawesome-cl",
+    "title": "ComposioHQ/awesome-claude-skills",
+    "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "ai",
+      "skills",
+      "integration",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-dreamhunter2333cloud",
+    "title": "dreamhunter2333/cloudflare_temp_email",
+    "source_url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+    "source_type": "github_trending",
+    "tags": [
+      "cloudflare",
+      "temp-email",
+      "workers",
+      "privacy",
+      "api"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-langchain4jlangchain",
+    "title": "langchain4j/langchain4j",
+    "source_url": "https://github.com/langchain4j/langchain4j",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "java",
+      "agent",
+      "rag",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-likec4likec4",
+    "title": "likec4/likec4",
+    "source_url": "https://github.com/likec4/likec4",
+    "source_type": "github_trending",
+    "tags": [
+      "c4-model",
+      "architecture",
+      "visualization",
+      "diagrams-as-code"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-miurlamorphic",
+    "title": "miurla/morphic",
+    "source_url": "https://github.com/miurla/morphic",
+    "source_type": "github_trending",
+    "tags": [
+      "nextjs",
+      "ai",
+      "search",
+      "generative-ui"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-pumpkin-mcpumpkin",
+    "title": "Pumpkin-MC/Pumpkin",
+    "source_url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "source_type": "github_trending",
+    "tags": [
+      "minecraft",
+      "server",
+      "rust",
+      "modular",
+      "high-performance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-ruvnetruview",
+    "title": "ruvnet/RuView",
+    "source_url": "https://github.com/ruvnet/RuView",
+    "source_type": "github_trending",
+    "tags": [
+      "code-visualization",
+      "ai",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-shiyu-coderkronos",
+    "title": "shiyu-coder/Kronos",
+    "source_url": "https://github.com/shiyu-coder/Kronos",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "calendar",
+      "nlp",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "chatbot",
+      "multimodal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-wavetermdevwaveterm",
+    "title": "wavetermdev/waveterm",
+    "source_url": "https://github.com/wavetermdev/waveterm",
+    "source_type": "github_trending",
+    "tags": [
+      "terminal",
+      "web-based",
+      "cross-platform",
+      "plugin"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-zylon-aiprivate-gpt",
+    "title": "zylon-ai/private-gpt",
+    "source_url": "https://github.com/zylon-ai/private-gpt",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "privacy",
+      "document-qa",
+      "offline"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T10:14:36Z"
   }
 ]

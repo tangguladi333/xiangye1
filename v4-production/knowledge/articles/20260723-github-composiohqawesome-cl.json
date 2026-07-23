@@ -1,0 +1,32 @@
+{
+  "id": "20260723-github-composiohqawesome-cl",
+  "title": "ComposioHQ/awesome-claude-skills",
+  "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "source_type": "github_trending",
+  "summary": "一个精选的Claude技能集合，旨在增强Claude AI助手的功能，涵盖工具集成、自动化工作流等场景。",
+  "highlights": [
+    "提供多种预构建的Claude技能，便于快速集成",
+    "由Composio维护，社区活跃，更新频繁",
+    "支持自定义技能扩展，灵活性高"
+  ],
+  "use_cases": [
+    "增强Claude AI助手的工具调用能力",
+    "自动化日常任务和工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "ai",
+    "skills",
+    "integration",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T10:14:02Z",
+  "analyzed_at": "2026-07-23T10:14:28Z",
+  "curated_at": "2026-07-23T10:14:36Z"
+}

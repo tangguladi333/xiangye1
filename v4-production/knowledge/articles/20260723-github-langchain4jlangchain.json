@@ -1,0 +1,32 @@
+{
+  "id": "20260723-github-langchain4jlangchain",
+  "title": "langchain4j/langchain4j",
+  "source_url": "https://github.com/langchain4j/langchain4j",
+  "source_type": "github_trending",
+  "summary": "LangChain4j 是 Java 版本的 LangChain 框架，旨在简化 LLM 集成，提供统一的 API 来构建 AI 应用。",
+  "highlights": [
+    "支持多种 LLM 提供商（如 OpenAI、Google、Anthropic）",
+    "提供丰富的工具链，包括提示模板、内存管理、检索增强生成（RAG）",
+    "活跃的社区和持续更新，拥有大量示例和文档"
+  ],
+  "use_cases": [
+    "构建基于 LLM 的聊天机器人和问答系统",
+    "集成 AI 到企业级 Java 应用中，如自动化客服或内容生成"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "java",
+    "agent",
+    "rag",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T10:13:57Z",
+  "analyzed_at": "2026-07-23T10:14:16Z",
+  "curated_at": "2026-07-23T10:14:36Z"
+}

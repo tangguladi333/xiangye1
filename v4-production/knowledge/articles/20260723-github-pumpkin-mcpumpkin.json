@@ -1,0 +1,33 @@
+{
+  "id": "20260723-github-pumpkin-mcpumpkin",
+  "title": "Pumpkin-MC/Pumpkin",
+  "source_url": "https://github.com/Pumpkin-MC/Pumpkin",
+  "source_type": "github_trending",
+  "summary": "Pumpkin 是一个用 Rust 编写的高性能、模块化的 Minecraft 服务器软件，支持最新版本，注重安全性和可扩展性。",
+  "highlights": [
+    "基于 Rust 语言，提供高性能和内存安全",
+    "模块化架构，易于扩展和定制",
+    "支持最新 Minecraft 版本，兼容性强"
+  ],
+  "use_cases": [
+    "搭建高性能 Minecraft 服务器",
+    "开发自定义 Minecraft 游戏模式或插件",
+    "学习 Rust 在游戏服务器开发中的应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "minecraft",
+    "server",
+    "rust",
+    "modular",
+    "high-performance"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T10:14:02Z",
+  "analyzed_at": "2026-07-23T10:14:36Z",
+  "curated_at": "2026-07-23T10:14:36Z"
+}

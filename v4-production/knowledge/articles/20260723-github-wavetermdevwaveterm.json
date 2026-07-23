@@ -1,0 +1,32 @@
+{
+  "id": "20260723-github-wavetermdevwaveterm",
+  "title": "wavetermdev/waveterm",
+  "source_url": "https://github.com/wavetermdev/waveterm",
+  "source_type": "github_trending",
+  "summary": "WaveTerm 是一个开源的、基于 Web 的终端模拟器，支持多标签、分屏、自定义主题和插件系统，旨在提供现代化的终端体验。",
+  "highlights": [
+    "基于 Web 技术构建，跨平台支持",
+    "支持多标签和分屏布局",
+    "可扩展的插件系统"
+  ],
+  "use_cases": [
+    "开发者的日常终端使用",
+    "远程服务器管理",
+    "需要高度自定义的终端环境"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "terminal",
+    "web-based",
+    "cross-platform",
+    "plugin"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T10:14:00Z",
+  "analyzed_at": "2026-07-23T10:14:18Z",
+  "curated_at": "2026-07-23T10:14:36Z"
+}
