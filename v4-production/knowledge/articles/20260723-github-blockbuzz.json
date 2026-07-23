@@ -1,0 +1,32 @@
+{
+  "id": "20260723-github-blockbuzz",
+  "title": "block/buzz",
+  "source_url": "https://github.com/block/buzz",
+  "source_type": "github_trending",
+  "summary": "Buzz 是一个基于 Web 的 AI 聊天界面，支持多模型（如 GPT、Claude、Gemini），提供实时对话、文件上传和代码执行功能，注重隐私和本地部署。",
+  "highlights": [
+    "支持多种主流 AI 模型（OpenAI、Anthropic、Google 等）",
+    "内置代码执行沙箱，支持 Python、JavaScript 等语言",
+    "强调数据隐私，支持完全本地运行"
+  ],
+  "use_cases": [
+    "个人或团队的多模型 AI 聊天助手",
+    "需要代码执行和文件处理的交互式 AI 工作台",
+    "隐私敏感场景下的本地 AI 部署"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-chat",
+    "multi-model",
+    "local-first",
+    "code-execution"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T16:20:36Z",
+  "analyzed_at": "2026-07-23T16:20:41Z",
+  "curated_at": "2026-07-23T16:20:55Z"
+}

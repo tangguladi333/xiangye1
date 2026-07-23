@@ -1,0 +1,30 @@
+{
+  "id": "20260723-github-julian-advopenmmo",
+  "title": "Julian-adv/OpenMMO",
+  "source_url": "https://github.com/Julian-adv/OpenMMO",
+  "source_type": "github_trending",
+  "summary": "OpenMMO 是一个基于大型语言模型（LLM）的多智能体（Multi-Agent）框架，旨在通过模块化设计实现复杂任务协作与自动化决策。",
+  "highlights": [
+    "支持多种 LLM 后端集成（如 OpenAI、Anthropic）",
+    "提供可扩展的智能体角色定义与通信协议",
+    "内置任务分解与结果聚合机制"
+  ],
+  "use_cases": [
+    "自动化工作流编排与执行",
+    "多角色协作式问题求解（如代码审查、报告生成）"
+  ],
+  "maturity": {
+    "stars": 320,
+    "last_updated": "2025-07-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "multi-agent",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T16:20:36Z",
+  "analyzed_at": "2026-07-23T16:20:49Z",
+  "curated_at": "2026-07-23T16:20:55Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260723-github-automatticharper",
+  "title": "Automattic/harper",
+  "source_url": "https://github.com/Automattic/harper",
+  "source_type": "github_trending",
+  "summary": "Harper 是一个由 Automattic 开发的语法检查工具，专注于为 Markdown 和代码提供快速、准确的拼写与语法建议，支持多种编辑器集成。",
+  "highlights": [
+    "基于 Rust 实现，性能优异且跨平台",
+    "专为 Markdown 和代码注释优化，减少误报",
+    "支持 VS Code、Neovim 等主流编辑器插件"
+  ],
+  "use_cases": [
+    "开发者编写文档或代码注释时的实时语法检查",
+    "博客作者或内容创作者在 Markdown 编辑器中的写作辅助"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "grammar-checker",
+    "rust",
+    "markdown",
+    "linter",
+    "editor-plugin"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T16:20:36Z",
+  "analyzed_at": "2026-07-23T16:20:52Z",
+  "curated_at": "2026-07-23T16:20:55Z"
+}

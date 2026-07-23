@@ -5779,6 +5779,64 @@
     "curated_at": "2026-07-23T10:14:36Z"
   },
   {
+    "id": "20260723-github-alibabaopen-code-rev",
+    "title": "alibaba/open-code-review",
+    "source_url": "https://github.com/alibaba/open-code-review",
+    "source_type": "github_trending",
+    "tags": [
+      "code-review",
+      "llm",
+      "automation",
+      "alibaba"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T16:20:55Z"
+  },
+  {
+    "id": "20260723-github-automatticharper",
+    "title": "Automattic/harper",
+    "source_url": "https://github.com/Automattic/harper",
+    "source_type": "github_trending",
+    "tags": [
+      "grammar-checker",
+      "rust",
+      "markdown",
+      "linter",
+      "editor-plugin"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T16:20:55Z"
+  },
+  {
+    "id": "20260723-github-blockbuzz",
+    "title": "block/buzz",
+    "source_url": "https://github.com/block/buzz",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-chat",
+      "multi-model",
+      "local-first",
+      "code-execution"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T16:20:55Z"
+  },
+  {
+    "id": "20260723-github-citrolabsego-lite",
+    "title": "citrolabs/ego-lite",
+    "source_url": "https://github.com/citrolabs/ego-lite",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "lightweight",
+      "modular"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T16:20:55Z"
+  },
+  {
     "id": "20260723-github-composiohqawesome-cl",
     "title": "ComposioHQ/awesome-claude-skills",
     "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
@@ -5807,6 +5865,34 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-23T10:14:36Z"
+  },
+  {
+    "id": "20260723-github-jellyfinjellyfin",
+    "title": "jellyfin/jellyfin",
+    "source_url": "https://github.com/jellyfin/jellyfin",
+    "source_type": "github_trending",
+    "tags": [
+      "media-server",
+      "streaming",
+      "open-source",
+      "self-hosted",
+      "video"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T16:20:55Z"
+  },
+  {
+    "id": "20260723-github-julian-advopenmmo",
+    "title": "Julian-adv/OpenMMO",
+    "source_url": "https://github.com/Julian-adv/OpenMMO",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "multi-agent",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-23T16:20:55Z"
   },
   {
     "id": "20260723-github-langchain4jlangchain",

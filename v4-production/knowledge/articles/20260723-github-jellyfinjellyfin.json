@@ -1,0 +1,33 @@
+{
+  "id": "20260723-github-jellyfinjellyfin",
+  "title": "jellyfin/jellyfin",
+  "source_url": "https://github.com/jellyfin/jellyfin",
+  "source_type": "github_trending",
+  "summary": "Jellyfin 是一个免费、开源的媒体服务器软件，允许用户管理和流式传输个人媒体库，支持多种设备和平台，是商业媒体服务器的替代方案。",
+  "highlights": [
+    "完全免费且开源，无任何付费功能或广告",
+    "支持广泛的媒体格式和设备，包括电视、手机、网页等",
+    "活跃的社区和持续的更新，拥有丰富的插件生态系统"
+  ],
+  "use_cases": [
+    "个人或家庭媒体库管理，如电影、电视剧、音乐和照片",
+    "远程访问和流式传输个人媒体内容",
+    "替代商业媒体服务器（如 Plex、Emby）的私有化部署"
+  ],
+  "maturity": {
+    "stars": 35000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "media-server",
+    "streaming",
+    "open-source",
+    "self-hosted",
+    "video"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-23T16:20:36Z",
+  "analyzed_at": "2026-07-23T16:20:55Z",
+  "curated_at": "2026-07-23T16:20:55Z"
+}
