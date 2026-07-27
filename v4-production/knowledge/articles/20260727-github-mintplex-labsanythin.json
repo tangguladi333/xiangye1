@@ -1,0 +1,33 @@
+{
+  "id": "20260727-github-mintplex-labsanythin",
+  "title": "Mintplex-Labs/anything-llm",
+  "source_url": "https://github.com/Mintplex-Labs/anything-llm",
+  "source_type": "github_trending",
+  "summary": "AnythingLLM 是一个全栈 AI 应用，支持多种 LLM 和向量数据库，提供文档管理、智能代理、多用户协作等功能，可快速构建定制化 AI 助手。",
+  "highlights": [
+    "支持 OpenAI、Anthropic、本地模型等 20+ LLM 提供商",
+    "内置 RAG 管道，支持 PDF、Word、代码等 10+ 文档格式",
+    "提供多用户管理、工作空间隔离和权限控制"
+  ],
+  "use_cases": [
+    "企业内部知识库问答系统",
+    "个人或团队的 AI 文档助手",
+    "快速原型开发与 AI 应用实验"
+  ],
+  "maturity": {
+    "stars": 35000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "agent",
+    "document-management",
+    "multi-tenant"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:02Z",
+  "analyzed_at": "2026-07-27T11:13:58Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-bytedancedeer-flow",
+  "title": "bytedance/deer-flow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "source_type": "github_trending",
+  "summary": "字节跳动开源的DeerFlow是一个基于Apache Flink的实时数据流处理平台，提供低延迟、高吞吐的流计算能力，支持SQL和自定义算子。",
+  "highlights": [
+    "基于Flink构建，兼容Flink生态",
+    "提供可视化任务管理和监控界面",
+    "支持SQL开发和自定义算子扩展"
+  ],
+  "use_cases": [
+    "实时数据清洗与ETL",
+    "实时指标计算与监控告警"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "flink",
+    "stream-processing",
+    "real-time",
+    "data-pipeline"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:01Z",
+  "analyzed_at": "2026-07-27T11:13:26Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

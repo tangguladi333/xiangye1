@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-giovannipasqagentic-",
+  "title": "GiovanniPasq/agentic-rag-for-dummies",
+  "source_url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
+  "source_type": "github_trending",
+  "summary": "一个面向初学者的智能体RAG（检索增强生成）教程项目，通过简单示例展示如何构建具备工具调用和记忆能力的AI代理。",
+  "highlights": [
+    "提供从零开始的Agentic RAG实现教程",
+    "包含多种工具集成示例（如搜索、计算）",
+    "代码结构清晰，适合学习入门"
+  ],
+  "use_cases": [
+    "教育场景：教授RAG与智能体结合的基础概念",
+    "快速原型开发：构建具备检索和推理能力的简单AI助手"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "rag",
+    "agent",
+    "tutorial",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:01Z",
+  "analyzed_at": "2026-07-27T11:13:43Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

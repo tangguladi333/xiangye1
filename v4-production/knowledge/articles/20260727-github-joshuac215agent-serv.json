@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-joshuac215agent-serv",
+  "title": "JoshuaC215/agent-service-toolkit",
+  "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+  "source_type": "github_trending",
+  "summary": "一个基于LangGraph的AI代理服务工具包，提供快速构建和部署智能代理的框架，支持多种LLM和工具集成。",
+  "highlights": [
+    "基于LangGraph构建，支持复杂代理工作流",
+    "提供预构建的代理模板和工具集成",
+    "支持快速部署到云服务"
+  ],
+  "use_cases": [
+    "构建自动化客服代理",
+    "开发智能助手和自动化工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "langgraph",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:01Z",
+  "analyzed_at": "2026-07-27T11:13:40Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

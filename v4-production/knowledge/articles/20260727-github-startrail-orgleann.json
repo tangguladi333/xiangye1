@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-startrail-orgleann",
+  "title": "StarTrail-org/LEANN",
+  "source_url": "https://github.com/StarTrail-org/LEANN",
+  "source_type": "github_trending",
+  "summary": "LEANN 是一个轻量级、高效的神经网络架构，专注于在资源受限设备上实现快速推理和低功耗，适用于边缘 AI 场景。",
+  "highlights": [
+    "提出了一种新颖的轻量级网络结构，在保持高精度的同时显著减少参数量和计算量",
+    "支持多种硬件平台（如 ARM、RISC-V）的部署优化",
+    "提供了完整的训练和推理工具链，便于快速集成"
+  ],
+  "use_cases": [
+    "物联网设备上的实时图像分类",
+    "可穿戴设备中的低功耗 AI 应用"
+  ],
+  "maturity": {
+    "stars": 320,
+    "last_updated": "2025-08-15",
+    "production_ready": false
+  },
+  "tags": [
+    "neural-network",
+    "edge-ai",
+    "lightweight",
+    "inference"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:03Z",
+  "analyzed_at": "2026-07-27T11:14:54Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

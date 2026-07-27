@@ -1,0 +1,32 @@
+{
+  "id": "20260727-github-vudovnag-kit",
+  "title": "vudovn/ag-kit",
+  "source_url": "https://github.com/vudovn/ag-kit",
+  "source_type": "github_trending",
+  "summary": "ag-kit 是一个用于构建 AI 代理的轻量级工具包，提供模块化组件和简洁 API，支持快速开发与集成。",
+  "highlights": [
+    "模块化设计，易于扩展和定制",
+    "简洁的 API 接口，降低开发门槛",
+    "支持多种 LLM 后端集成"
+  ],
+  "use_cases": [
+    "快速原型开发 AI 代理",
+    "教育场景中学习代理构建",
+    "轻量级生产环境代理部署"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "toolkit",
+    "lightweight"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:07Z",
+  "analyzed_at": "2026-07-27T11:15:52Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

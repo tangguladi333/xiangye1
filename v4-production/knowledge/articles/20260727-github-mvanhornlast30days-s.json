@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-mvanhornlast30days-s",
+  "title": "mvanhorn/last30days-skill",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "source_type": "github_trending",
+  "summary": "一个用于 Amazon Alexa 的技能，可查询过去30天内 GitHub 上最热门的仓库。",
+  "highlights": [
+    "集成 GitHub API 获取热门仓库数据",
+    "专为 Amazon Alexa 语音助手设计",
+    "支持按语言或类别筛选"
+  ],
+  "use_cases": [
+    "开发者通过语音快速了解近期热门开源项目",
+    "在智能家居或办公场景中获取技术动态"
+  ],
+  "maturity": {
+    "stars": 15,
+    "last_updated": "2023-04-10",
+    "production_ready": false
+  },
+  "tags": [
+    "alexa",
+    "github",
+    "voice-assistant",
+    "skill"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:07Z",
+  "analyzed_at": "2026-07-27T11:15:57Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

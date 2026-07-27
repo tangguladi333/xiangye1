@@ -1,0 +1,33 @@
+{
+  "id": "20260727-github-open-webuiopen-webui",
+  "title": "open-webui/open-webui",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "source_type": "github_trending",
+  "summary": "一个功能丰富的自托管WebUI，用于与LLM交互，支持Ollama和OpenAI兼容API，提供类似ChatGPT的界面，并集成RAG、多模态和插件系统。",
+  "highlights": [
+    "支持Ollama和OpenAI API，可灵活切换模型",
+    "内置RAG（检索增强生成）和文档上传功能",
+    "提供响应式Web界面，支持移动端和深色模式"
+  ],
+  "use_cases": [
+    "个人或团队自建AI聊天助手",
+    "企业内部知识库问答系统",
+    "教育或研究中的LLM交互实验平台"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "webui",
+    "ollama",
+    "rag",
+    "chatbot"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:02Z",
+  "analyzed_at": "2026-07-27T11:13:46Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

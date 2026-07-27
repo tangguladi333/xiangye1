@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-nousresearchhermes-a",
+  "title": "NousResearch/hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_type": "github_trending",
+  "summary": "Hermes Agent 是一个基于 LLM 的自主代理框架，专注于通过自然语言指令执行复杂任务，支持多工具调用和动态规划。",
+  "highlights": [
+    "支持多种 LLM 后端集成",
+    "提供模块化工具调用和任务规划能力",
+    "活跃的社区贡献和定期更新"
+  ],
+  "use_cases": [
+    "自动化工作流编排",
+    "智能客服与对话系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "autonomous",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:00Z",
+  "analyzed_at": "2026-07-27T11:13:12Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

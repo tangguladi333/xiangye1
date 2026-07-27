@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-dbeaverdbeaver",
+  "title": "dbeaver/dbeaver",
+  "source_url": "https://github.com/dbeaver/dbeaver",
+  "source_type": "github_trending",
+  "summary": "DBeaver 是一款跨平台的多数据库管理工具，支持 SQL 编辑、数据浏览和 ER 图等功能，适用于开发者和 DBA。",
+  "highlights": [
+    "支持 80+ 数据库（MySQL、PostgreSQL、Oracle 等）",
+    "提供图形化界面和 SQL 编辑器，支持自动补全",
+    "开源免费，社区活跃，持续更新"
+  ],
+  "use_cases": [
+    "数据库日常管理和查询",
+    "数据迁移和备份恢复"
+  ],
+  "maturity": {
+    "stars": 41000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "database",
+    "sql",
+    "gui",
+    "cross-platform"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:02Z",
+  "analyzed_at": "2026-07-27T11:14:06Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

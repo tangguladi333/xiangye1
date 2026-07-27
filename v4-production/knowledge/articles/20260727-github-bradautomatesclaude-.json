@@ -1,0 +1,30 @@
+{
+  "id": "20260727-github-bradautomatesclaude-",
+  "title": "bradautomates/claude-video",
+  "source_url": "https://github.com/bradautomates/claude-video",
+  "source_type": "github_trending",
+  "summary": "该项目利用Claude AI模型，将视频内容自动转换为文本摘要、关键帧提取和元数据生成，实现视频智能分析。",
+  "highlights": [
+    "集成Claude视觉模型进行视频帧分析",
+    "支持自动生成视频摘要和关键帧提取",
+    "提供命令行工具简化视频处理流程"
+  ],
+  "use_cases": [
+    "视频内容自动标注与归档",
+    "视频摘要生成用于快速浏览"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-09-15",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "video-analysis",
+    "ai-summary"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:07Z",
+  "analyzed_at": "2026-07-27T11:15:49Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

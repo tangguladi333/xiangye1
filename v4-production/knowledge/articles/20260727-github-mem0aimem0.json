@@ -1,0 +1,33 @@
+{
+  "id": "20260727-github-mem0aimem0",
+  "title": "mem0ai/mem0",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "source_type": "github_trending",
+  "summary": "Mem0 是一个智能记忆层，为 AI 应用提供持久化、可检索的记忆功能，支持个性化交互和长期上下文管理。",
+  "highlights": [
+    "提供统一的记忆存储和检索接口，支持多种后端（如向量数据库）",
+    "支持记忆的自动提取、更新和遗忘机制",
+    "易于集成到现有 AI 应用，提升用户体验"
+  ],
+  "use_cases": [
+    "个性化聊天机器人，记住用户偏好和历史对话",
+    "AI 助手长期上下文管理，实现连续交互",
+    "推荐系统，基于用户记忆提供精准推荐"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "memory",
+    "agent",
+    "vector-database",
+    "personalization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:03Z",
+  "analyzed_at": "2026-07-27T11:14:34Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

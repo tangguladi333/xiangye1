@@ -1,0 +1,33 @@
+{
+  "id": "20260727-github-openbmbchatdev",
+  "title": "OpenBMB/ChatDev",
+  "source_url": "https://github.com/OpenBMB/ChatDev",
+  "source_type": "github_trending",
+  "summary": "ChatDev 是一个基于大型语言模型（LLM）的虚拟软件公司框架，通过多智能体协作模拟软件开发流程，实现从需求到代码的自动化生成。",
+  "highlights": [
+    "多智能体协作模拟完整软件开发流程（CEO、CTO、程序员、测试员等角色）",
+    "支持自定义工作流和角色，灵活适配不同项目需求",
+    "基于自然语言交互，降低软件开发门槛"
+  ],
+  "use_cases": [
+    "快速原型开发与自动化代码生成",
+    "教育场景中模拟软件工程团队协作",
+    "探索 LLM 在复杂任务分解与多智能体协作中的应用"
+  ],
+  "maturity": {
+    "stars": 26000,
+    "last_updated": "2025-03-20",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multi-agent",
+    "software-development",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:05Z",
+  "analyzed_at": "2026-07-27T11:15:23Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

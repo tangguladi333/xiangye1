@@ -1,0 +1,30 @@
+{
+  "id": "20260727-github-pbakausimpeccable",
+  "title": "pbakaus/impeccable",
+  "source_url": "https://github.com/pbakaus/impeccable",
+  "source_type": "github_trending",
+  "summary": "Impeccable 是一个用于构建高质量、可维护的 Node.js 应用的框架，强调代码整洁性和最佳实践。",
+  "highlights": [
+    "提供开箱即用的项目结构和约定，减少样板代码",
+    "内置错误处理、日志和配置管理模块",
+    "支持模块化开发，易于扩展和测试"
+  ],
+  "use_cases": [
+    "快速搭建生产级 Node.js 后端服务",
+    "团队协作开发需要统一代码规范的项目"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "nodejs",
+    "framework",
+    "best-practices"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:07Z",
+  "analyzed_at": "2026-07-27T11:15:44Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

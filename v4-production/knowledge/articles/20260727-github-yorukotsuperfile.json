@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-yorukotsuperfile",
+  "title": "yorukot/superfile",
+  "source_url": "https://github.com/yorukot/superfile",
+  "source_type": "github_trending",
+  "summary": "一个用 Go 编写的现代化终端文件管理器，支持多面板、主题、插件和自定义快捷键，旨在提供高效的文件管理体验。",
+  "highlights": [
+    "采用 TUI 界面，支持鼠标和键盘操作，交互流畅",
+    "内置多面板布局，方便文件对比和批量操作",
+    "支持主题和插件系统，可高度定制化"
+  ],
+  "use_cases": [
+    "开发者在终端中快速浏览和管理项目文件",
+    "系统管理员进行远程服务器上的文件操作"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "terminal",
+    "file-manager",
+    "tui",
+    "go"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:07Z",
+  "analyzed_at": "2026-07-27T11:15:40Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

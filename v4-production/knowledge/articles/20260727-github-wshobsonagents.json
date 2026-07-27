@@ -1,0 +1,32 @@
+{
+  "id": "20260727-github-wshobsonagents",
+  "title": "wshobson/agents",
+  "source_url": "https://github.com/wshobson/agents",
+  "source_type": "github_trending",
+  "summary": "一个轻量级、模块化的AI Agent框架，支持多模型、工具调用和记忆管理，适合快速构建智能代理应用。",
+  "highlights": [
+    "支持多种LLM后端（OpenAI、Anthropic等）",
+    "内置工具调用和函数调用机制",
+    "提供可扩展的记忆和上下文管理模块"
+  ],
+  "use_cases": [
+    "构建自动化工作流助手",
+    "开发多步骤推理和决策的AI应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "multi-model",
+    "tool-use"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:05Z",
+  "analyzed_at": "2026-07-27T11:15:17Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

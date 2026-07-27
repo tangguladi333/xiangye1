@@ -1,0 +1,33 @@
+{
+  "id": "20260727-github-purpleailabdeceptico",
+  "title": "PurpleAILAB/Decepticon",
+  "source_url": "https://github.com/PurpleAILAB/Decepticon",
+  "source_type": "github_trending",
+  "summary": "Decepticon 是一个用于构建和部署多模态 AI 代理的开源框架，支持视觉、语言和工具调用，旨在简化复杂工作流的编排。",
+  "highlights": [
+    "支持多模态输入（图像、文本、音频）的代理系统",
+    "内置工具调用和任务编排能力",
+    "提供可扩展的插件架构和预构建模块"
+  ],
+  "use_cases": [
+    "自动化多步骤工作流（如文档处理、数据分析）",
+    "构建交互式 AI 助手（支持视觉问答）",
+    "快速原型开发多模态 AI 应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multimodal",
+    "agent",
+    "framework",
+    "llm",
+    "tool-calling"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:01Z",
+  "analyzed_at": "2026-07-27T11:13:38Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

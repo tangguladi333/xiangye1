@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-affaan-mecc",
+  "title": "affaan-m/ECC",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "source_type": "github_trending",
+  "summary": "ECC 是一个基于椭圆曲线密码学的加密工具库，提供密钥生成、签名和加密功能，适用于安全通信和数据保护。",
+  "highlights": [
+    "实现了椭圆曲线数字签名算法（ECDSA）",
+    "支持密钥生成、签名验证和加密解密",
+    "代码简洁，易于集成到其他项目"
+  ],
+  "use_cases": [
+    "安全通信中的数据加密",
+    "数字签名验证与身份认证"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2025-03-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ecc",
+    "cryptography",
+    "encryption",
+    "signature"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:04Z",
+  "analyzed_at": "2026-07-27T11:15:04Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}

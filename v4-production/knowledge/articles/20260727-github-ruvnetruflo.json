@@ -1,0 +1,31 @@
+{
+  "id": "20260727-github-ruvnetruflo",
+  "title": "ruvnet/ruflo",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "source_type": "github_trending",
+  "summary": "ruflo 是一个基于 Rust 的高性能流处理框架，专注于低延迟和可扩展性，适用于实时数据处理场景。",
+  "highlights": [
+    "使用 Rust 实现，提供内存安全和并发性能优势",
+    "支持自定义流处理管道和算子",
+    "内置监控和指标收集功能"
+  ],
+  "use_cases": [
+    "实时数据流处理",
+    "物联网设备数据聚合与分析",
+    "金融交易数据流处理"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-10",
+    "production_ready": false
+  },
+  "tags": [
+    "rust",
+    "stream-processing",
+    "data-pipeline"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-27T11:13:02Z",
+  "analyzed_at": "2026-07-27T11:13:55Z",
+  "curated_at": "2026-07-27T11:15:59Z"
+}
