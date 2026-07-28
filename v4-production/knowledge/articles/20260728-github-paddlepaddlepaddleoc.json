@@ -1,0 +1,34 @@
+{
+  "id": "20260728-github-paddlepaddlepaddleoc",
+  "title": "PaddlePaddle/PaddleOCR",
+  "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "source_type": "github_trending",
+  "summary": "基于PaddlePaddle的OCR工具库，支持多语言文本检测与识别，提供超轻量模型与丰富预训练模型，覆盖端到端OCR、表格识别、版面分析等场景。",
+  "highlights": [
+    "提供超轻量模型（3.5M）与高精度模型，支持80+语言识别",
+    "集成文本检测、识别、表格识别、版面分析等完整OCR流程",
+    "支持服务端部署、移动端部署及PaddleHub一键调用"
+  ],
+  "use_cases": [
+    "文档数字化与票据识别",
+    "多语言场景的文字提取与翻译辅助",
+    "智能表单与表格数据自动录入"
+  ],
+  "maturity": {
+    "stars": 43000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ocr",
+    "paddlepaddle",
+    "text-detection",
+    "text-recognition",
+    "table-recognition",
+    "layout-analysis"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-28T10:28:17Z",
+  "analyzed_at": "2026-07-28T10:28:30Z",
+  "curated_at": "2026-07-28T10:29:12Z"
+}

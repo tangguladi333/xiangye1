@@ -6990,5 +6990,268 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-27T11:15:59Z"
+  },
+  {
+    "id": "20260728-github-aishwaryanrawesome-g",
+    "title": "aishwaryanr/awesome-generative-ai-guide",
+    "source_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "source_type": "github_trending",
+    "tags": [
+      "generative-ai",
+      "learning-resources",
+      "guide",
+      "llm",
+      "deep-learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-andrewyngaisuite",
+    "title": "andrewyng/aisuite",
+    "source_url": "https://github.com/andrewyng/aisuite",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "api-wrapper",
+      "python",
+      "multi-provider"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-browser-usebrowser-u",
+    "title": "browser-use/browser-use",
+    "source_url": "https://github.com/browser-use/browser-use",
+    "source_type": "github_trending",
+    "tags": [
+      "browser-automation",
+      "llm",
+      "agent",
+      "playwright",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-cherryhqcherry-studi",
+    "title": "CherryHQ/cherry-studio",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "desktop-client",
+      "ai-assistant",
+      "knowledge-base"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-danielmiesslerlifeos",
+    "title": "danielmiessler/LifeOS",
+    "source_url": "https://github.com/danielmiessler/LifeOS",
+    "source_type": "github_trending",
+    "tags": [
+      "obsidian",
+      "personal-knowledge-management",
+      "productivity",
+      "life-os",
+      "note-taking"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-dayuanjiangnext-ai-d",
+    "title": "DayuanJiang/next-ai-draw-io",
+    "source_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "image-generation",
+      "nextjs",
+      "stable-diffusion",
+      "drawing-tool"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-elie222inbox-zero",
+    "title": "elie222/inbox-zero",
+    "source_url": "https://github.com/elie222/inbox-zero",
+    "source_type": "github_trending",
+    "tags": [
+      "email",
+      "ai",
+      "gmail",
+      "productivity",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-farion1231cc-switch",
+    "title": "farion1231/cc-switch",
+    "source_url": "https://github.com/farion1231/cc-switch",
+    "source_type": "github_trending",
+    "tags": [
+      "computer-vision",
+      "gesture-recognition",
+      "smart-home",
+      "opencv",
+      "mediapipe"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-harry0703moneyprinte",
+    "title": "harry0703/MoneyPrinterTurbo",
+    "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "video-generation",
+      "content-creation",
+      "ai-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "chain",
+      "nlp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-opengeosgeolibre",
+    "title": "opengeos/GeoLibre",
+    "source_url": "https://github.com/opengeos/GeoLibre",
+    "source_type": "github_trending",
+    "tags": [
+      "geospatial",
+      "gis",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-paddlepaddlepaddleoc",
+    "title": "PaddlePaddle/PaddleOCR",
+    "source_url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "source_type": "github_trending",
+    "tags": [
+      "ocr",
+      "paddlepaddle",
+      "text-detection",
+      "text-recognition",
+      "table-recognition",
+      "layout-analysis"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-patchy631ai-engineer",
+    "title": "patchy631/ai-engineering-hub",
+    "source_url": "https://github.com/patchy631/ai-engineering-hub",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-engineering",
+      "llm",
+      "rag",
+      "agent",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-plotlydash",
+    "title": "plotly/dash",
+    "source_url": "https://github.com/plotly/dash",
+    "source_type": "github_trending",
+    "tags": [
+      "python",
+      "data-visualization",
+      "web-framework",
+      "dashboard",
+      "plotly"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-rowboatlabsrowboat",
+    "title": "rowboatlabs/rowboat",
+    "source_url": "https://github.com/rowboatlabs/rowboat",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "automation",
+      "no-code"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-tinyhumansaiopenhuma",
+    "title": "tinyhumansai/openhuman",
+    "source_url": "https://github.com/tinyhumansai/openhuman",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "multi-modal",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-yishentuclaudian",
+    "title": "YishenTu/claudian",
+    "source_url": "https://github.com/YishenTu/claudian",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "claude",
+      "conversation",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260728-github-ykdojoclaude-code-ti",
+    "title": "ykdojo/claude-code-tips",
+    "source_url": "https://github.com/ykdojo/claude-code-tips",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "tips",
+      "coding",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-28T10:29:12Z"
   }
 ]

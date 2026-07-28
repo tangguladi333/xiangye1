@@ -1,0 +1,32 @@
+{
+  "id": "20260728-github-patchy631ai-engineer",
+  "title": "patchy631/ai-engineering-hub",
+  "source_url": "https://github.com/patchy631/ai-engineering-hub",
+  "source_type": "github_trending",
+  "summary": "一个专注于AI工程实践的资源中心，提供从基础到高级的教程、项目和最佳实践，涵盖LLM、RAG、Agent等热门主题。",
+  "highlights": [
+    "包含大量实战项目和代码示例，适合动手学习",
+    "覆盖LLM、RAG、Agent等前沿AI工程领域",
+    "社区驱动，持续更新，内容质量较高"
+  ],
+  "use_cases": [
+    "AI工程师学习进阶",
+    "企业AI项目参考与原型开发"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-engineering",
+    "llm",
+    "rag",
+    "agent",
+    "tutorial"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-28T10:28:19Z",
+  "analyzed_at": "2026-07-28T10:28:43Z",
+  "curated_at": "2026-07-28T10:29:12Z"
+}

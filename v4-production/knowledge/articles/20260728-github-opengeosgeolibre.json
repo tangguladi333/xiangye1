@@ -1,0 +1,30 @@
+{
+  "id": "20260728-github-opengeosgeolibre",
+  "title": "opengeos/GeoLibre",
+  "source_url": "https://github.com/opengeos/GeoLibre",
+  "source_type": "github_trending",
+  "summary": "GeoLibre 是一个开源的地理空间数据处理库，提供高效的空间分析、地图可视化和地理编码功能，旨在简化地理信息系统的开发。",
+  "highlights": [
+    "支持多种地理数据格式（如 GeoJSON、Shapefile）",
+    "集成高性能空间索引和查询优化",
+    "提供简洁的 API 和丰富的文档示例"
+  ],
+  "use_cases": [
+    "地理空间数据分析和可视化",
+    "基于位置的服务和地图应用开发"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "geospatial",
+    "gis",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-28T10:28:22Z",
+  "analyzed_at": "2026-07-28T10:29:12Z",
+  "curated_at": "2026-07-28T10:29:12Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260728-github-browser-usebrowser-u",
+  "title": "browser-use/browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github_trending",
+  "summary": "一个让AI代理能够像人类一样操作浏览器的Python库，支持多标签页、表单填写、点击导航等复杂交互，基于Playwright和LLM实现。",
+  "highlights": [
+    "支持多标签页管理和上下文切换",
+    "集成多种LLM（如GPT-4、Claude）进行智能决策",
+    "提供简洁的API，几行代码即可实现浏览器自动化"
+  ],
+  "use_cases": [
+    "自动化网页测试与数据抓取",
+    "构建能自主完成在线任务的AI助手",
+    "RPA流程中替代传统脚本的智能浏览器操作"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "browser-automation",
+    "llm",
+    "agent",
+    "playwright",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-28T10:28:17Z",
+  "analyzed_at": "2026-07-28T10:28:27Z",
+  "curated_at": "2026-07-28T10:29:12Z"
+}

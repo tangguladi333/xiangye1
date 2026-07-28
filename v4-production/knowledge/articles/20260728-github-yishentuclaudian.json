@@ -1,0 +1,32 @@
+{
+  "id": "20260728-github-yishentuclaudian",
+  "title": "YishenTu/claudian",
+  "source_url": "https://github.com/YishenTu/claudian",
+  "source_type": "github_trending",
+  "summary": "Claudian 是一个基于 Claude API 的智能对话代理框架，支持多轮对话、工具调用和记忆管理，旨在简化复杂 AI 应用的构建。",
+  "highlights": [
+    "支持多轮对话与上下文记忆管理",
+    "集成工具调用能力，可扩展外部 API",
+    "提供模块化设计，易于定制和部署"
+  ],
+  "use_cases": [
+    "构建智能客服或虚拟助手",
+    "开发自动化工作流中的对话代理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "claude",
+    "conversation",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-28T10:28:21Z",
+  "analyzed_at": "2026-07-28T10:29:05Z",
+  "curated_at": "2026-07-28T10:29:12Z"
+}

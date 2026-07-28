@@ -1,0 +1,32 @@
+{
+  "id": "20260728-github-dayuanjiangnext-ai-d",
+  "title": "DayuanJiang/next-ai-draw-io",
+  "source_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+  "source_type": "github_trending",
+  "summary": "基于 Next.js 的 AI 绘图工具，支持文本生成图像、图像编辑与风格迁移，提供简洁的 Web 界面和 API 接口。",
+  "highlights": [
+    "集成多种 AI 绘图模型（如 Stable Diffusion）",
+    "支持文本生成图像、图像编辑和风格迁移功能",
+    "基于 Next.js 构建，前后端一体化，部署便捷"
+  ],
+  "use_cases": [
+    "快速生成创意图像用于设计或内容创作",
+    "图像编辑与风格迁移，辅助艺术创作或原型设计"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-04-15",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "image-generation",
+    "nextjs",
+    "stable-diffusion",
+    "drawing-tool"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-28T10:28:21Z",
+  "analyzed_at": "2026-07-28T10:28:56Z",
+  "curated_at": "2026-07-28T10:29:12Z"
+}

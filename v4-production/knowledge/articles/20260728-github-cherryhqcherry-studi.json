@@ -1,0 +1,31 @@
+{
+  "id": "20260728-github-cherryhqcherry-studi",
+  "title": "CherryHQ/cherry-studio",
+  "source_url": "https://github.com/CherryHQ/cherry-studio",
+  "source_type": "github_trending",
+  "summary": "Cherry Studio 是一个支持多模型（如 OpenAI、Gemini、Claude 等）的桌面客户端，提供对话、知识库、AI 绘画、翻译等功能，旨在提升 AI 使用体验。",
+  "highlights": [
+    "支持多种主流 AI 模型（OpenAI、Gemini、Claude 等）",
+    "内置知识库和 AI 绘画功能",
+    "提供翻译、主题定制等实用工具"
+  ],
+  "use_cases": [
+    "多模型 AI 对话与切换",
+    "个人知识管理与内容创作"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "desktop-client",
+    "ai-assistant",
+    "knowledge-base"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-28T10:28:21Z",
+  "analyzed_at": "2026-07-28T10:28:53Z",
+  "curated_at": "2026-07-28T10:29:12Z"
+}
