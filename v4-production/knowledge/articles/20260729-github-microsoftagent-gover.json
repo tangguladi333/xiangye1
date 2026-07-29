@@ -1,0 +1,32 @@
+{
+  "id": "20260729-github-microsoftagent-gover",
+  "title": "microsoft/agent-governance-toolkit",
+  "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+  "source_type": "github_trending",
+  "summary": "微软推出的智能体治理工具包，用于管理、监控和治理AI Agent的行为与合规性，支持策略定义、审计和风险控制。",
+  "highlights": [
+    "提供策略引擎，可定义Agent行为规则与约束",
+    "内置审计日志与监控仪表盘，支持实时追踪",
+    "与Azure生态深度集成，支持企业级部署"
+  ],
+  "use_cases": [
+    "企业AI Agent的合规性管理与风险控制",
+    "多Agent系统的行为监控与策略统一管理"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-05-20",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "governance",
+    "microsoft",
+    "compliance",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-29T10:32:50Z",
+  "analyzed_at": "2026-07-29T10:33:14Z",
+  "curated_at": "2026-07-29T10:33:14Z"
+}

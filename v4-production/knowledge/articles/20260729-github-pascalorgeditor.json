@@ -1,0 +1,30 @@
+{
+  "id": "20260729-github-pascalorgeditor",
+  "title": "pascalorg/editor",
+  "source_url": "https://github.com/pascalorg/editor",
+  "source_type": "github_trending",
+  "summary": "Pascal 语言的在线编辑器，支持代码编辑、运行和调试，适合教学和快速原型开发。",
+  "highlights": [
+    "基于 Web 的 Pascal 开发环境",
+    "支持代码高亮和错误提示",
+    "轻量级，无需本地安装"
+  ],
+  "use_cases": [
+    "Pascal 语言教学与学习",
+    "快速测试和调试 Pascal 代码片段"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-10",
+    "production_ready": false
+  },
+  "tags": [
+    "pascal",
+    "editor",
+    "web-ide"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-29T10:32:50Z",
+  "analyzed_at": "2026-07-29T10:33:04Z",
+  "curated_at": "2026-07-29T10:33:14Z"
+}

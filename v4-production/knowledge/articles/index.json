@@ -7253,5 +7253,136 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-28T10:29:12Z"
+  },
+  {
+    "id": "20260729-github-datawhalechinahello-",
+    "title": "datawhalechina/hello-agents",
+    "source_url": "https://github.com/datawhalechina/hello-agents",
+    "source_type": "github_trending",
+    "tags": [
+      "agent",
+      "llm",
+      "tutorial",
+      "datawhale",
+      "入门"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260729-github-hkudsvibe-trading",
+    "title": "HKUDS/Vibe-Trading",
+    "source_url": "https://github.com/HKUDS/Vibe-Trading",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "trading",
+      "agent",
+      "quantitative-finance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260729-github-huggingfacespeech-to",
+    "title": "huggingface/speech-to-speech",
+    "source_url": "https://github.com/huggingface/speech-to-speech",
+    "source_type": "github_trending",
+    "tags": [
+      "speech-to-speech",
+      "voice-ai",
+      "huggingface",
+      "real-time",
+      "end-to-end"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260729-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain-mcp-adapters",
+    "source_url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+    "source_type": "github_trending",
+    "tags": [
+      "langchain",
+      "mcp",
+      "agent",
+      "tool-integration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260729-github-microsoftagent-gover",
+    "title": "microsoft/agent-governance-toolkit",
+    "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+    "source_type": "github_trending",
+    "tags": [
+      "agent",
+      "governance",
+      "microsoft",
+      "compliance",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260729-github-paperswithbacktestaw",
+    "title": "paperswithbacktest/awesome-systematic-trading",
+    "source_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "source_type": "github_trending",
+    "tags": [
+      "systematic-trading",
+      "quantitative-finance",
+      "backtesting",
+      "machine-learning",
+      "trading-strategies"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260729-github-pascalorgeditor",
+    "title": "pascalorg/editor",
+    "source_url": "https://github.com/pascalorg/editor",
+    "source_type": "github_trending",
+    "tags": [
+      "pascal",
+      "editor",
+      "web-ide"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260729-github-punkpeyeawesome-mcp-",
+    "title": "punkpeye/awesome-mcp-servers",
+    "source_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "source_type": "github_trending",
+    "tags": [
+      "mcp",
+      "awesome-list",
+      "server",
+      "protocol",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260729-github-virgiliojr94book-to-",
+    "title": "virgiliojr94/book-to-skill",
+    "source_url": "https://github.com/virgiliojr94/book-to-skill",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "education",
+      "book",
+      "skill",
+      "learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-29T10:33:14Z"
   }
 ]

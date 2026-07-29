@@ -1,0 +1,32 @@
+{
+  "id": "20260729-github-paperswithbacktestaw",
+  "title": "paperswithbacktest/awesome-systematic-trading",
+  "source_url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+  "source_type": "github_trending",
+  "summary": "一个精选的系统化交易资源列表，涵盖策略、回测、风险管理和机器学习应用，适合量化交易者参考。",
+  "highlights": [
+    "包含大量高质量的系统化交易论文和代码实现",
+    "覆盖从基础到高级的量化交易策略和工具",
+    "社区维护，持续更新，资源组织清晰"
+  ],
+  "use_cases": [
+    "量化交易策略研究与开发",
+    "系统化交易学习与教学参考"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "systematic-trading",
+    "quantitative-finance",
+    "backtesting",
+    "machine-learning",
+    "trading-strategies"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-29T10:32:50Z",
+  "analyzed_at": "2026-07-29T10:33:12Z",
+  "curated_at": "2026-07-29T10:33:14Z"
+}

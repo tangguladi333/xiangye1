@@ -1,0 +1,32 @@
+{
+  "id": "20260729-github-virgiliojr94book-to-",
+  "title": "virgiliojr94/book-to-skill",
+  "source_url": "https://github.com/virgiliojr94/book-to-skill",
+  "source_type": "github_trending",
+  "summary": "将书籍内容转化为可交互技能的学习工具，通过AI提取关键知识点并生成练习与测验。",
+  "highlights": [
+    "支持从PDF/EPUB书籍自动提取知识点",
+    "生成个性化练习题与测验",
+    "基于AI的交互式学习体验"
+  ],
+  "use_cases": [
+    "自学编程或技术书籍",
+    "教育机构辅助教学材料生成"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "education",
+    "book",
+    "skill",
+    "learning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-29T10:32:50Z",
+  "analyzed_at": "2026-07-29T10:33:09Z",
+  "curated_at": "2026-07-29T10:33:14Z"
+}

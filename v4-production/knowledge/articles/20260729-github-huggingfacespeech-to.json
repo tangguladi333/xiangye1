@@ -1,0 +1,32 @@
+{
+  "id": "20260729-github-huggingfacespeech-to",
+  "title": "huggingface/speech-to-speech",
+  "source_url": "https://github.com/huggingface/speech-to-speech",
+  "source_type": "github_trending",
+  "summary": "Hugging Face 推出的语音到语音（S2S）开源项目，提供端到端语音交互模型与工具，支持实时语音转换与生成。",
+  "highlights": [
+    "基于 Hugging Face Transformers 生态，易于集成与部署",
+    "支持多种语音任务（如语音识别、合成、翻译）的端到端流水线",
+    "提供预训练模型与微调脚本，降低开发门槛"
+  ],
+  "use_cases": [
+    "实时语音翻译与多语言对话系统",
+    "语音助手与智能客服的语音交互模块"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "speech-to-speech",
+    "voice-ai",
+    "huggingface",
+    "real-time",
+    "end-to-end"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-29T10:32:50Z",
+  "analyzed_at": "2026-07-29T10:33:07Z",
+  "curated_at": "2026-07-29T10:33:14Z"
+}
