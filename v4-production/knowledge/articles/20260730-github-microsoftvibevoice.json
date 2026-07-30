@@ -1,0 +1,32 @@
+{
+  "id": "20260730-github-microsoftvibevoice",
+  "title": "microsoft/VibeVoice",
+  "source_url": "https://github.com/microsoft/VibeVoice",
+  "source_type": "github_trending",
+  "summary": "微软开源的语音合成与情感表达工具，基于VITS模型，支持多语言和情感控制，适合语音交互应用。",
+  "highlights": [
+    "基于VITS的高质量语音合成",
+    "支持多语言和情感参数调节",
+    "微软官方维护，代码规范完整"
+  ],
+  "use_cases": [
+    "智能语音助手情感化交互",
+    "多语言有声内容生成"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "tts",
+    "voice-synthesis",
+    "vits",
+    "emotion-control",
+    "microsoft"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-30T10:17:28Z",
+  "analyzed_at": "2026-07-30T10:17:48Z",
+  "curated_at": "2026-07-30T10:17:55Z"
+}

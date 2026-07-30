@@ -1,0 +1,31 @@
+{
+  "id": "20260730-github-deepfakesfaceswap",
+  "title": "deepfakes/faceswap",
+  "source_url": "https://github.com/deepfakes/faceswap",
+  "source_type": "github_trending",
+  "summary": "基于深度学习的人脸替换工具，支持训练和实时换脸，社区活跃，文档完善。",
+  "highlights": [
+    "支持多种深度学习模型（如AE、GAN）",
+    "提供GUI界面，降低使用门槛",
+    "活跃的社区和丰富的教程资源"
+  ],
+  "use_cases": [
+    "影视后期制作中的人脸替换",
+    "个人娱乐和创意内容生成"
+  ],
+  "maturity": {
+    "stars": 50000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "deepfake",
+    "face-swap",
+    "deep-learning",
+    "computer-vision"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-30T10:17:28Z",
+  "analyzed_at": "2026-07-30T10:17:46Z",
+  "curated_at": "2026-07-30T10:17:55Z"
+}

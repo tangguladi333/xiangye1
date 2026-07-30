@@ -1,0 +1,31 @@
+{
+  "id": "20260730-github-moonshotaiflashkda",
+  "title": "MoonshotAI/FlashKDA",
+  "source_url": "https://github.com/MoonshotAI/FlashKDA",
+  "source_type": "github_trending",
+  "summary": "FlashKDA 是 MoonshotAI 开源的快速知识蒸馏框架，用于高效压缩大语言模型，提升推理速度并保持性能。",
+  "highlights": [
+    "基于 MoonshotAI 内部实践，支持多种蒸馏策略",
+    "提供简洁 API，易于集成到现有训练流程",
+    "兼容主流 LLM 架构（如 LLaMA、GPT）"
+  ],
+  "use_cases": [
+    "将大模型压缩为轻量级部署版本",
+    "在资源受限设备上运行高性能语言模型"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "knowledge-distillation",
+    "model-compression",
+    "moonshotai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-30T10:17:28Z",
+  "analyzed_at": "2026-07-30T10:17:53Z",
+  "curated_at": "2026-07-30T10:17:55Z"
+}

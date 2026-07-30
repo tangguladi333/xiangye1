@@ -1,0 +1,31 @@
+{
+  "id": "20260730-github-different-aiopenwork",
+  "title": "different-ai/openwork",
+  "source_url": "https://github.com/different-ai/openwork",
+  "source_type": "github_trending",
+  "summary": "OpenWork 是一个开源框架，用于构建和部署 AI 代理工作流，支持多模型编排、工具集成和可视化监控。",
+  "highlights": [
+    "支持多模型编排与动态切换",
+    "内置可视化工作流监控面板",
+    "提供丰富的工具集成接口"
+  ],
+  "use_cases": [
+    "自动化业务流程编排",
+    "多步骤 AI 任务链构建"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "orchestration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-30T10:17:28Z",
+  "analyzed_at": "2026-07-30T10:17:51Z",
+  "curated_at": "2026-07-30T10:17:55Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260730-github-shubhamsabooawesome-",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "source_type": "github_trending",
+  "summary": "一个精选的 LLM 应用集合，包含多种基于大语言模型的实用应用示例，涵盖聊天机器人、RAG 系统、AI 代理等，适合学习和快速原型开发。",
+  "highlights": [
+    "包含 20+ 个不同场景的 LLM 应用示例",
+    "提供详细的代码和文档，易于上手",
+    "覆盖 RAG、Agent、多模态等热门方向"
+  ],
+  "use_cases": [
+    "快速搭建 LLM 应用原型",
+    "学习 LLM 应用开发最佳实践"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "agent",
+    "chatbot",
+    "multimodal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-30T10:17:23Z",
+  "analyzed_at": "2026-07-30T10:17:30Z",
+  "curated_at": "2026-07-30T10:17:55Z"
+}

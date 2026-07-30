@@ -7384,5 +7384,162 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-29T10:33:14Z"
+  },
+  {
+    "id": "20260730-github-1jehuangjcode",
+    "title": "1jehuang/jcode",
+    "source_url": "https://github.com/1jehuang/jcode",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "code-generator",
+      "crud",
+      "template-engine"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-composiohqawesome-cl",
+    "title": "ComposioHQ/awesome-claude-skills",
+    "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "skills",
+      "composio",
+      "ai-integration",
+      "tool-use"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-deepfakesfaceswap",
+    "title": "deepfakes/faceswap",
+    "source_url": "https://github.com/deepfakes/faceswap",
+    "source_type": "github_trending",
+    "tags": [
+      "deepfake",
+      "face-swap",
+      "deep-learning",
+      "computer-vision"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-different-aiopenwork",
+    "title": "different-ai/openwork",
+    "source_url": "https://github.com/different-ai/openwork",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-grokabilitysnipe-it",
+    "title": "grokability/snipe-it",
+    "source_url": "https://github.com/grokability/snipe-it",
+    "source_type": "github_trending",
+    "tags": [
+      "asset-management",
+      "it-management",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-maderixane",
+    "title": "maderix/ANE",
+    "source_url": "https://github.com/maderix/ANE",
+    "source_type": "github_trending",
+    "tags": [
+      "attention",
+      "visualization",
+      "interpretability",
+      "transformer"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-microsoftvibevoice",
+    "title": "microsoft/VibeVoice",
+    "source_url": "https://github.com/microsoft/VibeVoice",
+    "source_type": "github_trending",
+    "tags": [
+      "tts",
+      "voice-synthesis",
+      "vits",
+      "emotion-control",
+      "microsoft"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-moonshotaiflashkda",
+    "title": "MoonshotAI/FlashKDA",
+    "source_url": "https://github.com/MoonshotAI/FlashKDA",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "knowledge-distillation",
+      "model-compression",
+      "moonshotai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "chatbot",
+      "multimodal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-wavetermdevwaveterm",
+    "title": "wavetermdev/waveterm",
+    "source_url": "https://github.com/wavetermdev/waveterm",
+    "source_type": "github_trending",
+    "tags": [
+      "terminal",
+      "gpu-accelerated",
+      "cross-platform",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260730-github-zylon-aiprivate-gpt",
+    "title": "zylon-ai/private-gpt",
+    "source_url": "https://github.com/zylon-ai/private-gpt",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "privacy",
+      "document-qa",
+      "offline"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-30T10:17:55Z"
   }
 ]

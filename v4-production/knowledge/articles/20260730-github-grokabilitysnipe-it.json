@@ -1,0 +1,30 @@
+{
+  "id": "20260730-github-grokabilitysnipe-it",
+  "title": "grokability/snipe-it",
+  "source_url": "https://github.com/grokability/snipe-it",
+  "source_type": "github_trending",
+  "summary": "Snipe-IT 是一个开源的 IT 资产管理系统，用于跟踪硬件、软件、许可证等，支持 Web 界面和 API，适合中小型组织。",
+  "highlights": [
+    "支持资产生命周期管理，包括采购、分配、维护和报废",
+    "内置丰富的报告和审计功能",
+    "活跃的社区和频繁的更新维护"
+  ],
+  "use_cases": [
+    "企业 IT 资产盘点与跟踪",
+    "软件许可证合规性管理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "asset-management",
+    "it-management",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-30T10:17:28Z",
+  "analyzed_at": "2026-07-30T10:17:44Z",
+  "curated_at": "2026-07-30T10:17:55Z"
+}
