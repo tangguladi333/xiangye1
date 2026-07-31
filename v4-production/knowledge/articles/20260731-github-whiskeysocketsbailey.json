@@ -1,0 +1,33 @@
+{
+  "id": "20260731-github-whiskeysocketsbailey",
+  "title": "WhiskeySockets/Baileys",
+  "source_url": "https://github.com/WhiskeySockets/Baileys",
+  "source_type": "github_trending",
+  "summary": "Baileys 是一个轻量级的 TypeScript 库，用于与 WhatsApp Web 的非官方 API 交互，支持多设备、消息收发、群组管理等功能，广泛用于构建 WhatsApp 机器人。",
+  "highlights": [
+    "纯 TypeScript 实现，无外部原生依赖，易于集成",
+    "支持 WhatsApp 多设备（MD）协议，兼容最新版本",
+    "活跃社区，持续更新以应对 WhatsApp 协议变化"
+  ],
+  "use_cases": [
+    "构建 WhatsApp 聊天机器人",
+    "自动化消息发送与群组管理",
+    "个人或企业级 WhatsApp 集成工具"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "whatsapp",
+    "typescript",
+    "bot",
+    "api",
+    "messaging"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-31T10:31:23Z",
+  "analyzed_at": "2026-07-31T10:31:37Z",
+  "curated_at": "2026-07-31T10:31:51Z"
+}

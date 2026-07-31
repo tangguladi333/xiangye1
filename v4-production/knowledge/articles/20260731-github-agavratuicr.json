@@ -1,0 +1,32 @@
+{
+  "id": "20260731-github-agavratuicr",
+  "title": "agavra/tuicr",
+  "source_url": "https://github.com/agavra/tuicr",
+  "source_type": "github_trending",
+  "summary": "tuicr 是一个基于 LLM 的代码审查工具，通过自然语言交互自动分析代码变更并生成审查意见，支持与 CI/CD 集成。",
+  "highlights": [
+    "利用 LLM 自动生成代码审查意见，减少人工审查负担",
+    "支持自然语言交互，可自定义审查规则和关注点",
+    "易于集成到现有 CI/CD 流程中，提升开发效率"
+  ],
+  "use_cases": [
+    "代码提交后的自动审查",
+    "团队代码质量保障",
+    "快速获取代码变更的反馈"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "code-review",
+    "ci/cd",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-31T10:31:23Z",
+  "analyzed_at": "2026-07-31T10:31:51Z",
+  "curated_at": "2026-07-31T10:31:51Z"
+}

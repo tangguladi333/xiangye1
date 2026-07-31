@@ -1,0 +1,33 @@
+{
+  "id": "20260731-github-microsoftai-for-begi",
+  "title": "microsoft/AI-For-Beginners",
+  "source_url": "https://github.com/microsoft/AI-For-Beginners",
+  "source_type": "github_trending",
+  "summary": "微软推出的 AI 初学者课程，涵盖机器学习、神经网络、NLP、计算机视觉等核心主题，提供免费视频、代码示例和实战项目，适合零基础入门。",
+  "highlights": [
+    "系统化课程设计，分模块覆盖 AI 主要领域",
+    "包含大量可运行的 Jupyter Notebook 示例",
+    "提供社区支持和多语言翻译版本"
+  ],
+  "use_cases": [
+    "AI 自学入门",
+    "高校教学辅助材料",
+    "企业内训基础课程"
+  ],
+  "maturity": {
+    "stars": 28000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "education",
+    "course",
+    "machine-learning",
+    "deep-learning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-07-31T10:31:23Z",
+  "analyzed_at": "2026-07-31T10:31:34Z",
+  "curated_at": "2026-07-31T10:31:51Z"
+}

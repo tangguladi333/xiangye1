@@ -7541,5 +7541,135 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-30T10:17:55Z"
+  },
+  {
+    "id": "20260731-github-agavratuicr",
+    "title": "agavra/tuicr",
+    "source_url": "https://github.com/agavra/tuicr",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "code-review",
+      "ci/cd",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260731-github-ansibleansible",
+    "title": "ansible/ansible",
+    "source_url": "https://github.com/ansible/ansible",
+    "source_type": "github_trending",
+    "tags": [
+      "automation",
+      "config-management",
+      "devops",
+      "provisioning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260731-github-chromedevtoolschrome",
+    "title": "ChromeDevTools/chrome-devtools-mcp",
+    "source_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "source_type": "github_trending",
+    "tags": [
+      "mcp",
+      "chrome-devtools",
+      "browser-automation",
+      "debugging"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260731-github-di-sukharevopencommi",
+    "title": "di-sukharev/opencommit",
+    "source_url": "https://github.com/di-sukharev/opencommit",
+    "source_type": "github_trending",
+    "tags": [
+      "git",
+      "cli",
+      "llm",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260731-github-dotnetaspnetcore",
+    "title": "dotnet/aspnetcore",
+    "source_url": "https://github.com/dotnet/aspnetcore",
+    "source_type": "github_trending",
+    "tags": [
+      "web-framework",
+      "cross-platform",
+      "mvc",
+      "blazor",
+      "api",
+      "dotnet"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260731-github-langchain4jlangchain",
+    "title": "langchain4j/langchain4j",
+    "source_url": "https://github.com/langchain4j/langchain4j",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "llm",
+      "rag",
+      "agent",
+      "spring-boot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260731-github-microsoftai-for-begi",
+    "title": "microsoft/AI-For-Beginners",
+    "source_url": "https://github.com/microsoft/AI-For-Beginners",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "education",
+      "course",
+      "machine-learning",
+      "deep-learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260731-github-microsoftpowertoys",
+    "title": "microsoft/PowerToys",
+    "source_url": "https://github.com/microsoft/PowerToys",
+    "source_type": "github_trending",
+    "tags": [
+      "windows",
+      "productivity",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260731-github-whiskeysocketsbailey",
+    "title": "WhiskeySockets/Baileys",
+    "source_url": "https://github.com/WhiskeySockets/Baileys",
+    "source_type": "github_trending",
+    "tags": [
+      "whatsapp",
+      "typescript",
+      "bot",
+      "api",
+      "messaging"
+    ],
+    "status": "curated",
+    "curated_at": "2026-07-31T10:31:51Z"
   }
 ]
