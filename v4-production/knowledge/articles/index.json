@@ -7671,5 +7671,161 @@
     ],
     "status": "curated",
     "curated_at": "2026-07-31T10:31:51Z"
+  },
+  {
+    "id": "20260801-github-bojieliai-agent-book",
+    "title": "bojieli/ai-agent-book",
+    "source_url": "https://github.com/bojieli/ai-agent-book",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "book",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-chatwootchatwoot",
+    "title": "chatwoot/chatwoot",
+    "source_url": "https://github.com/chatwoot/chatwoot",
+    "source_type": "github_trending",
+    "tags": [
+      "customer-support",
+      "live-chat",
+      "open-source",
+      "self-hosted"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-conductor-ossconduct",
+    "title": "conductor-oss/conductor",
+    "source_url": "https://github.com/conductor-oss/conductor",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "orchestration",
+      "microservices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-geo-tpesp32-bit-pira",
+    "title": "geo-tp/ESP32-Bit-Pirate",
+    "source_url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+    "source_type": "github_trending",
+    "tags": [
+      "esp32",
+      "bus-pirate",
+      "debugging",
+      "hardware",
+      "protocol"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-githubcopilot-sdk",
+    "title": "github/copilot-sdk",
+    "source_url": "https://github.com/github/copilot-sdk",
+    "source_type": "github_trending",
+    "tags": [
+      "copilot",
+      "sdk",
+      "ai",
+      "github",
+      "extension"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-nirdiamantagents-tow",
+    "title": "NirDiamant/agents-towards-production",
+    "source_url": "https://github.com/NirDiamant/agents-towards-production",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agents",
+      "production",
+      "tutorial",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-nirdiamantgenaiagent",
+    "title": "NirDiamant/GenAI_Agents",
+    "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "source_type": "github_trending",
+    "tags": [
+      "genai",
+      "agents",
+      "rag",
+      "multi-agent",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-usekaneokaneo",
+    "title": "usekaneo/kaneo",
+    "source_url": "https://github.com/usekaneo/kaneo",
+    "source_type": "github_trending",
+    "tags": [
+      "project-management",
+      "privacy",
+      "offline-first",
+      "collaboration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-usestrixstrix",
+    "title": "usestrix/strix",
+    "source_url": "https://github.com/usestrix/strix",
+    "source_type": "github_trending",
+    "tags": [
+      "observability",
+      "llm",
+      "agent",
+      "monitoring"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-x1xhlolsystem-prompt",
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_type": "github_trending",
+    "tags": [
+      "prompt-engineering",
+      "ai-tools",
+      "system-prompts"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260801-github-zhaoxuya520reverse-s",
+    "title": "zhaoxuya520/reverse-skill",
+    "source_url": "https://github.com/zhaoxuya520/reverse-skill",
+    "source_type": "github_trending",
+    "tags": [
+      "reverse-engineering",
+      "security",
+      "malware-analysis",
+      "ctf",
+      "binary-analysis"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-01T09:52:58Z"
   }
 ]

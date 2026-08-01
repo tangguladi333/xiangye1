@@ -1,0 +1,30 @@
+{
+  "id": "20260801-github-conductor-ossconduct",
+  "title": "conductor-oss/conductor",
+  "source_url": "https://github.com/conductor-oss/conductor",
+  "source_type": "github_trending",
+  "summary": "Conductor 是一个开源的事件驱动编排平台，由 Netflix 原团队维护，支持微服务工作流调度、状态管理和分布式执行。",
+  "highlights": [
+    "支持复杂工作流编排，具备可视化界面",
+    "高可用架构，支持水平扩展",
+    "提供丰富的 SDK 和 API，集成方便"
+  ],
+  "use_cases": [
+    "微服务编排与自动化流程",
+    "事件驱动架构中的任务调度"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "workflow",
+    "orchestration",
+    "microservices"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-01T09:52:26Z",
+  "analyzed_at": "2026-08-01T09:52:43Z",
+  "curated_at": "2026-08-01T09:52:58Z"
+}

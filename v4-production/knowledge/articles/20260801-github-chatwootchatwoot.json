@@ -1,0 +1,32 @@
+{
+  "id": "20260801-github-chatwootchatwoot",
+  "title": "chatwoot/chatwoot",
+  "source_url": "https://github.com/chatwoot/chatwoot",
+  "source_type": "github_trending",
+  "summary": "Chatwoot 是一个开源的全渠道客户支持平台，提供实时聊天、邮件、社交媒体集成等功能，支持多语言和自托管。",
+  "highlights": [
+    "全渠道支持：集成网站、邮件、Facebook、Twitter、WhatsApp 等渠道",
+    "高度可定制：支持自定义工作流、自动化规则和 API",
+    "开源且可自托管：提供云服务和自托管选项，数据完全可控"
+  ],
+  "use_cases": [
+    "中小企业客户支持系统",
+    "需要多渠道统一管理的客服团队",
+    "注重数据隐私的自托管支持平台"
+  ],
+  "maturity": {
+    "stars": 18000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "customer-support",
+    "live-chat",
+    "open-source",
+    "self-hosted"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-01T09:52:29Z",
+  "analyzed_at": "2026-08-01T09:52:53Z",
+  "curated_at": "2026-08-01T09:52:58Z"
+}

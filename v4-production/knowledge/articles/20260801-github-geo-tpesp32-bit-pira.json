@@ -1,0 +1,33 @@
+{
+  "id": "20260801-github-geo-tpesp32-bit-pira",
+  "title": "geo-tp/ESP32-Bit-Pirate",
+  "source_url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+  "source_type": "github_trending",
+  "summary": "ESP32-Bit-Pirate 是一个基于 ESP32 的硬件调试工具，模拟 Bus Pirate 功能，支持多种串行协议（如 I2C、SPI、UART），适用于嵌入式开发与调试。",
+  "highlights": [
+    "基于 ESP32 实现 Bus Pirate 兼容功能，支持多种协议",
+    "开源硬件设计，提供原理图与固件",
+    "支持通过 Web 界面或命令行交互控制"
+  ],
+  "use_cases": [
+    "嵌入式系统调试与协议分析",
+    "硬件逆向工程与传感器测试",
+    "教育用途，学习串行通信协议"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "esp32",
+    "bus-pirate",
+    "debugging",
+    "hardware",
+    "protocol"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-01T09:52:29Z",
+  "analyzed_at": "2026-08-01T09:52:58Z",
+  "curated_at": "2026-08-01T09:52:58Z"
+}

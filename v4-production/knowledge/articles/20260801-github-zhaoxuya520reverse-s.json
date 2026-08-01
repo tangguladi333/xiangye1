@@ -1,0 +1,33 @@
+{
+  "id": "20260801-github-zhaoxuya520reverse-s",
+  "title": "zhaoxuya520/reverse-skill",
+  "source_url": "https://github.com/zhaoxuya520/reverse-skill",
+  "source_type": "github_trending",
+  "summary": "reverse-skill 是一个专注于逆向工程技能学习与实战的仓库，提供从基础到进阶的逆向分析教程、工具集和案例解析，帮助开发者提升二进制安全与漏洞分析能力。",
+  "highlights": [
+    "系统化的逆向工程学习路径，覆盖静态分析与动态调试",
+    "集成多种主流逆向工具（如 IDA、Ghidra、x64dbg）的使用指南",
+    "包含真实漏洞案例与 CTF 题目解析，实践性强"
+  ],
+  "use_cases": [
+    "安全研究人员进行恶意软件分析",
+    "CTF 竞赛中逆向工程题目的准备与训练",
+    "软件开发者学习代码保护与反逆向技术"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "reverse-engineering",
+    "security",
+    "malware-analysis",
+    "ctf",
+    "binary-analysis"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-01T09:52:29Z",
+  "analyzed_at": "2026-08-01T09:52:48Z",
+  "curated_at": "2026-08-01T09:52:58Z"
+}
