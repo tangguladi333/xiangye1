@@ -1,0 +1,31 @@
+{
+  "id": "20260802-github-githubgh-stack",
+  "title": "github/gh-stack",
+  "source_url": "https://github.com/github/gh-stack",
+  "source_type": "github_trending",
+  "summary": "gh-stack 是 GitHub 官方推出的 CLI 工具，用于简化堆叠式 PR 的创建与管理，提升大型代码审查效率。",
+  "highlights": [
+    "官方出品，与 GitHub 深度集成",
+    "自动化处理堆叠 PR 的依赖关系",
+    "支持交互式命令，易于上手"
+  ],
+  "use_cases": [
+    "大型功能拆分为多个小 PR 进行审查",
+    "管理跨多个分支的复杂代码变更"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "cli",
+    "github",
+    "pr",
+    "stacked-pr"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-02T09:50:42Z",
+  "analyzed_at": "2026-08-02T09:50:50Z",
+  "curated_at": "2026-08-02T09:51:02Z"
+}

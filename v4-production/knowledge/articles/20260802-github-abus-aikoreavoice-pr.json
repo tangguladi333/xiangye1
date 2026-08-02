@@ -1,0 +1,33 @@
+{
+  "id": "20260802-github-abus-aikoreavoice-pr",
+  "title": "abus-aikorea/voice-pro",
+  "source_url": "https://github.com/abus-aikorea/voice-pro",
+  "source_type": "github_trending",
+  "summary": "Voice-Pro 是一个开源语音处理工具，集成了语音识别、翻译、TTS 和声音克隆功能，基于 Whisper 和 Gradio 构建，支持多语言和实时处理。",
+  "highlights": [
+    "集成多种语音任务（ASR、翻译、TTS、声音克隆）于一体",
+    "基于 Whisper 和 Gradio，易于部署和使用",
+    "支持多语言和实时语音处理"
+  ],
+  "use_cases": [
+    "语音转文字和翻译",
+    "语音合成和声音克隆应用",
+    "多语言语音交互系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "voice",
+    "whisper",
+    "tts",
+    "asr",
+    "gradio"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-02T09:50:42Z",
+  "analyzed_at": "2026-08-02T09:50:52Z",
+  "curated_at": "2026-08-02T09:51:02Z"
+}

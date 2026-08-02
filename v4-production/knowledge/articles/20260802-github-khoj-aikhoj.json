@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-khoj-aikhoj",
+  "title": "khoj-ai/khoj",
+  "source_url": "https://github.com/khoj-ai/khoj",
+  "source_type": "github_trending",
+  "summary": "Khoj 是一个开源 AI 个人助理，支持自然语言搜索、聊天和自动化，可连接个人文档、笔记和工具，提供本地或云端部署选项。",
+  "highlights": [
+    "支持多种数据源（如 PDF、Markdown、Notion 等）的语义搜索",
+    "提供跨平台客户端（Web、桌面、移动端）和 API",
+    "支持自定义代理和自动化工作流，集成 LLM 和嵌入式模型"
+  ],
+  "use_cases": [
+    "个人知识库管理和快速检索",
+    "自动化日常任务和提醒",
+    "作为团队内部知识问答助手"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ai-assistant",
+    "semantic-search",
+    "knowledge-management",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-02T09:50:40Z",
+  "analyzed_at": "2026-08-02T09:50:47Z",
+  "curated_at": "2026-08-02T09:51:02Z"
+}

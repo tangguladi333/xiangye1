@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-tencentcloudtencentd",
+  "title": "TencentCloud/TencentDB-Agent-Memory",
+  "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+  "source_type": "github_trending",
+  "summary": "腾讯云开源的Agent记忆管理框架，为LLM应用提供持久化、可扩展的记忆存储与检索能力，支持多种数据库后端，简化智能体上下文管理。",
+  "highlights": [
+    "提供统一的记忆抽象接口，支持多种数据库后端（如MySQL、PostgreSQL等）",
+    "内置记忆检索与排序策略，提升Agent对话连贯性",
+    "与腾讯云数据库服务深度集成，易于部署和扩展"
+  ],
+  "use_cases": [
+    "构建需要长期记忆的对话式AI助手",
+    "管理多轮对话中的上下文信息，提升个性化体验"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "memory",
+    "database",
+    "tencent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-02T09:50:42Z",
+  "analyzed_at": "2026-08-02T09:51:00Z",
+  "curated_at": "2026-08-02T09:51:02Z"
+}

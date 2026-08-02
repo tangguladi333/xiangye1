@@ -7827,5 +7827,105 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-01T09:52:58Z"
+  },
+  {
+    "id": "20260802-github-abus-aikoreavoice-pr",
+    "title": "abus-aikorea/voice-pro",
+    "source_url": "https://github.com/abus-aikorea/voice-pro",
+    "source_type": "github_trending",
+    "tags": [
+      "voice",
+      "whisper",
+      "tts",
+      "asr",
+      "gradio"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-02T09:51:02Z"
+  },
+  {
+    "id": "20260802-github-githubgh-stack",
+    "title": "github/gh-stack",
+    "source_url": "https://github.com/github/gh-stack",
+    "source_type": "github_trending",
+    "tags": [
+      "cli",
+      "github",
+      "pr",
+      "stacked-pr"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-02T09:51:02Z"
+  },
+  {
+    "id": "20260802-github-iv-orginvidious",
+    "title": "iv-org/invidious",
+    "source_url": "https://github.com/iv-org/invidious",
+    "source_type": "github_trending",
+    "tags": [
+      "youtube",
+      "privacy",
+      "self-hosted",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-02T09:51:02Z"
+  },
+  {
+    "id": "20260802-github-khoj-aikhoj",
+    "title": "khoj-ai/khoj",
+    "source_url": "https://github.com/khoj-ai/khoj",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-assistant",
+      "semantic-search",
+      "knowledge-management",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-02T09:51:02Z"
+  },
+  {
+    "id": "20260802-github-microsofttrellis2",
+    "title": "microsoft/TRELLIS.2",
+    "source_url": "https://github.com/microsoft/TRELLIS.2",
+    "source_type": "github_trending",
+    "tags": [
+      "3d-generation",
+      "text-to-3d",
+      "image-to-3d",
+      "flow-matching"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-02T09:51:02Z"
+  },
+  {
+    "id": "20260802-github-nomadamask-skill",
+    "title": "NomaDamas/k-skill",
+    "source_url": "https://github.com/NomaDamas/k-skill",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "framework",
+      "skills",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-02T09:51:02Z"
+  },
+  {
+    "id": "20260802-github-tencentcloudtencentd",
+    "title": "TencentCloud/TencentDB-Agent-Memory",
+    "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "memory",
+      "database",
+      "tencent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-02T09:51:02Z"
   }
 ]

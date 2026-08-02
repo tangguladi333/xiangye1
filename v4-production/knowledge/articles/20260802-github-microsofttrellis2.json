@@ -1,0 +1,31 @@
+{
+  "id": "20260802-github-microsofttrellis2",
+  "title": "microsoft/TRELLIS.2",
+  "source_url": "https://github.com/microsoft/TRELLIS.2",
+  "source_type": "github_trending",
+  "summary": "TRELLIS.2 是微软推出的统一 3D 资产生成框架，支持从文本或图像生成高质量 3D 模型，采用结构化潜表示和流匹配技术，性能优于现有方法。",
+  "highlights": [
+    "统一文本/图像到 3D 生成，支持多种输出格式",
+    "基于结构化潜表示与流匹配，生成质量高",
+    "微软官方维护，提供完整训练与推理代码"
+  ],
+  "use_cases": [
+    "游戏与影视资产快速原型制作",
+    "3D 内容创作与设计辅助"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "3d-generation",
+    "text-to-3d",
+    "image-to-3d",
+    "flow-matching"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-02T09:50:42Z",
+  "analyzed_at": "2026-08-02T09:50:57Z",
+  "curated_at": "2026-08-02T09:51:02Z"
+}

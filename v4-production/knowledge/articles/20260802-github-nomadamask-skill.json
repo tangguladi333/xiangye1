@@ -1,0 +1,32 @@
+{
+  "id": "20260802-github-nomadamask-skill",
+  "title": "NomaDamas/k-skill",
+  "source_url": "https://github.com/NomaDamas/k-skill",
+  "source_type": "github_trending",
+  "summary": "k-skill 是一个用于构建和管理 AI 技能（skill）的轻量级框架，支持多种 LLM 后端，提供统一的技能定义、调用和组合接口，简化复杂 AI 应用的开发。",
+  "highlights": [
+    "提供统一的技能定义和调用接口，支持多种 LLM 后端",
+    "支持技能组合与编排，便于构建复杂工作流",
+    "轻量级设计，易于集成到现有项目"
+  ],
+  "use_cases": [
+    "快速构建基于 LLM 的自动化任务",
+    "开发可复用的 AI 技能库",
+    "构建多步骤 AI 工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "framework",
+    "skills",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-02T09:50:42Z",
+  "analyzed_at": "2026-08-02T09:51:02Z",
+  "curated_at": "2026-08-02T09:51:02Z"
+}
