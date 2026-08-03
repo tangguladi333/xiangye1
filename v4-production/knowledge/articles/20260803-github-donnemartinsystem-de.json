@@ -1,0 +1,31 @@
+{
+  "id": "20260803-github-donnemartinsystem-de",
+  "title": "donnemartin/system-design-primer",
+  "source_url": "https://github.com/donnemartin/system-design-primer",
+  "source_type": "github_trending",
+  "summary": "System Design Primer 是一个开源项目，提供系统设计的基础知识和面试准备材料，涵盖可扩展性、可用性、一致性等核心概念，并包含大量案例和资源。",
+  "highlights": [
+    "涵盖系统设计核心概念，如可扩展性、可用性、一致性等",
+    "提供丰富的案例研究和面试准备材料",
+    "社区活跃，持续更新，资源丰富"
+  ],
+  "use_cases": [
+    "系统设计面试准备",
+    "学习分布式系统架构设计"
+  ],
+  "maturity": {
+    "stars": 250000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "system-design",
+    "interview",
+    "architecture",
+    "distributed-systems"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-03T11:15:23Z",
+  "analyzed_at": "2026-08-03T11:15:40Z",
+  "curated_at": "2026-08-03T11:15:57Z"
+}

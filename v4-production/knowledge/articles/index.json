@@ -7927,5 +7927,146 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-02T09:51:02Z"
+  },
+  {
+    "id": "20260803-github-antirezds4",
+    "title": "antirez/ds4",
+    "source_url": "https://github.com/antirez/ds4",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "inference",
+      "cpu",
+      "lightweight",
+      "c"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-donnemartinsystem-de",
+    "title": "donnemartin/system-design-primer",
+    "source_url": "https://github.com/donnemartin/system-design-primer",
+    "source_type": "github_trending",
+    "tags": [
+      "system-design",
+      "interview",
+      "architecture",
+      "distributed-systems"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-esenginedeepseek-rea",
+    "title": "esengine/DeepSeek-Reasonix",
+    "source_url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "source_type": "github_trending",
+    "tags": [
+      "deepseek",
+      "reasoning",
+      "llm",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-firecrawlpdf-inspect",
+    "title": "firecrawl/pdf-inspector",
+    "source_url": "https://github.com/firecrawl/pdf-inspector",
+    "source_type": "github_trending",
+    "tags": [
+      "pdf",
+      "debugging",
+      "visualization",
+      "web-tool"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-jamiepinevoicebox",
+    "title": "jamiepine/voicebox",
+    "source_url": "https://github.com/jamiepine/voicebox",
+    "source_type": "github_trending",
+    "tags": [
+      "voice",
+      "assistant",
+      "python",
+      "speech-recognition"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-livekitagents",
+    "title": "livekit/agents",
+    "source_url": "https://github.com/livekit/agents",
+    "source_type": "github_trending",
+    "tags": [
+      "realtime",
+      "voice-ai",
+      "multimodal",
+      "agent-framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-lyogavinairllm",
+    "title": "lyogavin/airllm",
+    "source_url": "https://github.com/lyogavin/airllm",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "inference",
+      "memory-optimization"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-panniantongagent-rea",
+    "title": "Panniantong/Agent-Reach",
+    "source_url": "https://github.com/Panniantong/Agent-Reach",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "communication",
+      "framework",
+      "distributed-systems"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-rockbenbenchatgpt-sh",
+    "title": "rockbenben/ChatGPT-Shortcut",
+    "source_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+    "source_type": "github_trending",
+    "tags": [
+      "chatgpt",
+      "prompt",
+      "shortcut",
+      "ai",
+      "productivity"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
+  },
+  {
+    "id": "20260803-github-shiyu-coderkronos",
+    "title": "shiyu-coder/Kronos",
+    "source_url": "https://github.com/shiyu-coder/Kronos",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "inference",
+      "optimization",
+      "streaming"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-03T11:15:57Z"
   }
 ]

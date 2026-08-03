@@ -1,0 +1,31 @@
+{
+  "id": "20260803-github-panniantongagent-rea",
+  "title": "Panniantong/Agent-Reach",
+  "source_url": "https://github.com/Panniantong/Agent-Reach",
+  "source_type": "github_trending",
+  "summary": "Agent-Reach 是一个面向多智能体系统的通信与协调框架，旨在简化智能体之间的消息传递和任务协作。项目提供轻量级 API 和可扩展架构，支持多种通信协议，适合快速构建分布式 AI 应用。",
+  "highlights": [
+    "轻量级多智能体通信层，支持异步消息传递",
+    "可插拔协议适配器，兼容 MQTT、WebSocket 等",
+    "内置任务调度与状态同步机制，简化协调逻辑"
+  ],
+  "use_cases": [
+    "构建分布式 AI 助手或机器人协作系统",
+    "需要灵活通信机制的 IoT 或边缘计算场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "communication",
+    "framework",
+    "distributed-systems"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-03T11:15:23Z",
+  "analyzed_at": "2026-08-03T11:15:49Z",
+  "curated_at": "2026-08-03T11:15:57Z"
+}

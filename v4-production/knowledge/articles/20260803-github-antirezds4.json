@@ -1,0 +1,33 @@
+{
+  "id": "20260803-github-antirezds4",
+  "title": "antirez/ds4",
+  "source_url": "https://github.com/antirez/ds4",
+  "source_type": "github_trending",
+  "summary": "ds4 是 antirez 开发的一个轻量级、无依赖的 LLM 推理引擎，专注于在 CPU 上高效运行小型模型，提供简洁的 API 和命令行工具。",
+  "highlights": [
+    "极简设计，零依赖，易于集成",
+    "针对 CPU 推理优化，内存占用低",
+    "支持多种量化格式，模型加载快速"
+  ],
+  "use_cases": [
+    "边缘设备或资源受限环境下的本地推理",
+    "快速原型验证和教学演示",
+    "作为嵌入式 LLM 推理后端"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference",
+    "cpu",
+    "lightweight",
+    "c"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-03T11:15:23Z",
+  "analyzed_at": "2026-08-03T11:15:43Z",
+  "curated_at": "2026-08-03T11:15:57Z"
+}

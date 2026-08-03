@@ -1,0 +1,31 @@
+{
+  "id": "20260803-github-shiyu-coderkronos",
+  "title": "shiyu-coder/Kronos",
+  "source_url": "https://github.com/shiyu-coder/Kronos",
+  "source_type": "github_trending",
+  "summary": "Kronos 是一个面向 LLM 应用的高性能推理引擎，专注于优化长上下文和流式生成场景，提供低延迟、高吞吐的推理服务。",
+  "highlights": [
+    "针对长上下文场景进行深度优化，支持高效 KV 缓存管理",
+    "提供流式生成和动态批处理，显著提升吞吐量",
+    "模块化设计，易于集成到现有 LLM 服务栈"
+  ],
+  "use_cases": [
+    "大规模 LLM 在线服务，需要低延迟响应",
+    "长文档问答和对话系统，需处理超长上下文"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference",
+    "optimization",
+    "streaming"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-03T11:15:23Z",
+  "analyzed_at": "2026-08-03T11:15:46Z",
+  "curated_at": "2026-08-03T11:15:57Z"
+}

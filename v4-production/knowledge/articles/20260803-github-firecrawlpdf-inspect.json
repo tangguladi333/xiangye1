@@ -1,0 +1,31 @@
+{
+  "id": "20260803-github-firecrawlpdf-inspect",
+  "title": "firecrawl/pdf-inspector",
+  "source_url": "https://github.com/firecrawl/pdf-inspector",
+  "source_type": "github_trending",
+  "summary": "PDF Inspector 是一个用于可视化和调试 PDF 文件结构的开源工具，提供交互式界面来检查 PDF 的页面、对象、字体和元数据，帮助开发者理解 PDF 内部结构。",
+  "highlights": [
+    "提供 PDF 结构可视化，支持逐层查看对象和页面内容",
+    "支持多种 PDF 元素检查，包括字体、图像和元数据",
+    "基于 Web 的交互式界面，易于使用和集成"
+  ],
+  "use_cases": [
+    "PDF 解析器开发调试",
+    "PDF 文件结构分析和教学"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "pdf",
+    "debugging",
+    "visualization",
+    "web-tool"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-03T11:15:23Z",
+  "analyzed_at": "2026-08-03T11:15:34Z",
+  "curated_at": "2026-08-03T11:15:57Z"
+}

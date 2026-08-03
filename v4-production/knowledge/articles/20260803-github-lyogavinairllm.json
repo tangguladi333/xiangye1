@@ -1,0 +1,30 @@
+{
+  "id": "20260803-github-lyogavinairllm",
+  "title": "lyogavin/airllm",
+  "source_url": "https://github.com/lyogavin/airllm",
+  "source_type": "github_trending",
+  "summary": "AirLLM 是一个轻量级推理框架，允许在单张消费级 GPU 上运行大型语言模型（如 70B 参数），通过分层推理和内存优化实现高效部署。",
+  "highlights": [
+    "支持 70B 模型在 4GB 显存上运行",
+    "无需量化，保持模型精度",
+    "提供简单 API，易于集成"
+  ],
+  "use_cases": [
+    "资源受限环境下的 LLM 推理",
+    "本地开发与测试大型模型"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference",
+    "memory-optimization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-03T11:15:23Z",
+  "analyzed_at": "2026-08-03T11:15:31Z",
+  "curated_at": "2026-08-03T11:15:57Z"
+}

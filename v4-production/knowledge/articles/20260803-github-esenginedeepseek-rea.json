@@ -1,0 +1,32 @@
+{
+  "id": "20260803-github-esenginedeepseek-rea",
+  "title": "esengine/DeepSeek-Reasonix",
+  "source_url": "https://github.com/esengine/DeepSeek-Reasonix",
+  "source_type": "github_trending",
+  "summary": "DeepSeek-Reasonix 是一个基于 DeepSeek 的推理增强框架，通过链式思维和反思机制提升模型在复杂任务中的表现。项目提供简洁 API 和示例，适合快速集成。",
+  "highlights": [
+    "引入反思式推理循环，显著提升逻辑推理准确性",
+    "轻量级设计，支持与现有 DeepSeek 工作流无缝集成",
+    "提供详细文档和示例，降低上手门槛"
+  ],
+  "use_cases": [
+    "复杂数学问题求解",
+    "多步逻辑推理任务",
+    "代码生成与调试辅助"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "deepseek",
+    "reasoning",
+    "llm",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-03T11:15:23Z",
+  "analyzed_at": "2026-08-03T11:15:37Z",
+  "curated_at": "2026-08-03T11:15:57Z"
+}
