@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-vercelai",
+  "title": "vercel/ai",
+  "source_url": "https://github.com/vercel/ai",
+  "source_type": "github_trending",
+  "summary": "Vercel AI 是用于构建 AI 应用的 TypeScript 工具包，提供统一的 API 来接入多种 AI 提供商，支持流式响应、工具调用和 React/Vue/Svelte 框架集成。",
+  "highlights": [
+    "统一 API 接入多家 AI 提供商，简化集成",
+    "支持流式响应和工具调用，适合实时交互",
+    "提供 React/Vue/Svelte 等框架的专用 hooks"
+  ],
+  "use_cases": [
+    "构建聊天机器人或 AI 助手",
+    "在 Web 应用中集成 AI 功能"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ai",
+    "llm",
+    "typescript",
+    "sdk",
+    "vercel"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:39Z",
+  "analyzed_at": "2026-08-04T10:33:13Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

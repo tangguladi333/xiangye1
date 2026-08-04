@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-mlflowmlflow",
+  "title": "mlflow/mlflow",
+  "source_url": "https://github.com/mlflow/mlflow",
+  "source_type": "github_trending",
+  "summary": "MLflow 是一个开源平台，用于管理机器学习生命周期，包括实验跟踪、模型注册和部署。它支持多种框架，提供 REST API 和 Python/R/Java 接口，帮助团队协作和模型可复现性。",
+  "highlights": [
+    "全面的 ML 生命周期管理（实验、模型、部署）",
+    "多框架支持（TensorFlow、PyTorch、Scikit-learn 等）",
+    "活跃的社区和丰富的文档"
+  ],
+  "use_cases": [
+    "机器学习实验跟踪和比较",
+    "模型版本管理和部署到生产环境"
+  ],
+  "maturity": {
+    "stars": 19000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "mlops",
+    "experiment-tracking",
+    "model-registry",
+    "deployment"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:39Z",
+  "analyzed_at": "2026-08-04T10:33:06Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

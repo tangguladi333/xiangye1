@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-yishentuclaudian",
+  "title": "YishenTu/claudian",
+  "source_url": "https://github.com/YishenTu/claudian",
+  "source_type": "github_trending",
+  "summary": "Claudian 是一个开源工具，用于管理和优化 Claude AI 的对话工作流，提供提示词模板、会话组织和 API 调用封装，提升开发效率。",
+  "highlights": [
+    "简化 Claude API 集成",
+    "提供可复用的提示词模板",
+    "支持会话历史管理"
+  ],
+  "use_cases": [
+    "快速构建 Claude 驱动的应用",
+    "团队共享提示词最佳实践",
+    "自动化对话流程测试"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "llm",
+    "workflow",
+    "api"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:41Z",
+  "analyzed_at": "2026-08-04T10:34:07Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

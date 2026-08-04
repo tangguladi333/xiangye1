@@ -1,0 +1,30 @@
+{
+  "id": "20260804-github-bytedancedeer-flow",
+  "title": "bytedance/deer-flow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "source_type": "github_trending",
+  "summary": "字节跳动开源的基于深度强化学习的对话式推荐系统框架，支持多轮交互与策略优化，提供完整训练与评估流程。",
+  "highlights": [
+    "基于深度强化学习，支持策略梯度与Q-learning等算法",
+    "提供模块化设计，便于自定义环境、状态与奖励函数",
+    "包含预训练模型与示例数据集，快速上手"
+  ],
+  "use_cases": [
+    "电商平台个性化推荐",
+    "智能客服多轮交互优化"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "reinforcement-learning",
+    "recommender-system",
+    "dialog-system"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:38Z",
+  "analyzed_at": "2026-08-04T10:32:03Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

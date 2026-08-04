@@ -1,0 +1,30 @@
+{
+  "id": "20260804-github-steven2358awesome-ge",
+  "title": "steven2358/awesome-generative-ai",
+  "source_url": "https://github.com/steven2358/awesome-generative-ai",
+  "source_type": "github_trending",
+  "summary": "这是一个精选的生成式AI资源列表，涵盖模型、工具、框架、应用和研究论文，为开发者提供一站式导航。",
+  "highlights": [
+    "涵盖广泛，从基础模型到前沿应用",
+    "分类清晰，便于快速查找",
+    "持续更新，紧跟领域发展"
+  ],
+  "use_cases": [
+    "快速了解生成式AI生态",
+    "寻找特定任务的工具或模型"
+  ],
+  "maturity": {
+    "stars": 5000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "awesome-list",
+    "generative-ai",
+    "resources"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:39Z",
+  "analyzed_at": "2026-08-04T10:32:56Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-mem0aimem0",
+  "title": "mem0ai/mem0",
+  "source_url": "https://github.com/mem0ai/mem0",
+  "source_type": "github_trending",
+  "summary": "Mem0 是一个为 AI 代理和助手设计的智能记忆层，提供持久化、自适应的记忆管理，支持个性化交互和上下文感知。",
+  "highlights": [
+    "支持多种记忆类型（短期、长期、情景）",
+    "与主流 LLM 框架（LangChain、LlamaIndex）集成",
+    "提供 REST API 和 Python SDK，易于部署"
+  ],
+  "use_cases": [
+    "构建个性化聊天机器人",
+    "增强 AI 助手的长期上下文理解"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "memory",
+    "agent",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:39Z",
+  "analyzed_at": "2026-08-04T10:33:00Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-adongwanaiagentguide",
+  "title": "adongwanai/AgentGuide",
+  "source_url": "https://github.com/adongwanai/AgentGuide",
+  "source_type": "github_trending",
+  "summary": "AgentGuide 是一个面向 AI Agent 开发者的系统性指南仓库，涵盖从基础概念到高级实践的完整学习路径，包括工具使用、记忆机制、多智能体协作等核心主题。",
+  "highlights": [
+    "提供结构化的 Agent 学习路线图，适合初学者快速入门",
+    "覆盖多种主流 Agent 框架和工具，如 LangChain、AutoGPT 等",
+    "包含实际案例和最佳实践，帮助开发者理解真实应用场景"
+  ],
+  "use_cases": [
+    "AI 开发者系统学习 Agent 开发技术",
+    "团队内部培训或技术分享的参考资料"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-01-15",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "llm",
+    "tutorial",
+    "guide"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:38Z",
+  "analyzed_at": "2026-08-04T10:32:12Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

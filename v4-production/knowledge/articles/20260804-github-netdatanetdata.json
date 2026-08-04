@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-netdatanetdata",
+  "title": "netdata/netdata",
+  "source_url": "https://github.com/netdata/netdata",
+  "source_type": "github_trending",
+  "summary": "Netdata 是一个开源、实时、分布式监控系统，提供高分辨率指标、可视化仪表板和告警功能，支持多种操作系统和容器环境，部署简单，性能开销极低。",
+  "highlights": [
+    "实时、高分辨率监控，无需配置即可自动发现并监控数百种服务",
+    "轻量级设计，CPU 和内存占用极低，适合边缘和容器环境",
+    "内置告警、异常检测和丰富的可视化界面，支持自定义仪表板"
+  ],
+  "use_cases": [
+    "基础设施和服务器性能监控",
+    "容器和微服务环境实时监控",
+    "边缘计算和物联网设备监控"
+  ],
+  "maturity": {
+    "stars": 72000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "monitoring",
+    "observability",
+    "devops",
+    "real-time"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:40Z",
+  "analyzed_at": "2026-08-04T10:33:42Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

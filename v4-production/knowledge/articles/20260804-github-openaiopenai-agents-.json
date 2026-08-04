@@ -1,0 +1,33 @@
+{
+  "id": "20260804-github-openaiopenai-agents-",
+  "title": "openai/openai-agents-python",
+  "source_url": "https://github.com/openai/openai-agents-python",
+  "source_type": "github_trending",
+  "summary": "OpenAI 官方发布的 Python 智能体框架，基于异步迭代器设计，支持多智能体协作、工具调用、会话管理和追踪功能，旨在简化生产级 AI 应用的构建。",
+  "highlights": [
+    "OpenAI 官方支持，可靠性高",
+    "支持多智能体协作和复杂工作流",
+    "内置追踪和调试功能，便于生产部署"
+  ],
+  "use_cases": [
+    "构建客户支持聊天机器人",
+    "自动化数据处理和决策流程",
+    "开发多步骤任务编排应用"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "openai",
+    "agent",
+    "python",
+    "framework",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:40Z",
+  "analyzed_at": "2026-08-04T10:33:53Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-modsettersurfsense",
+  "title": "MODSetter/SurfSense",
+  "source_url": "https://github.com/MODSetter/SurfSense",
+  "source_type": "github_trending",
+  "summary": "SurfSense 是一个基于 LLM 的智能浏览器扩展，通过 RAG 技术实现网页内容的高效检索与问答，帮助用户快速提取和总结信息。",
+  "highlights": [
+    "结合 LLM 与 RAG 技术，提供精准的网页内容问答",
+    "支持多页面上下文管理，提升信息检索效率",
+    "开源且易于扩展，适合个性化定制"
+  ],
+  "use_cases": [
+    "研究资料快速摘要与关键信息提取",
+    "在线文档和网页的智能问答助手"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "browser-extension",
+    "ai-assistant"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:38Z",
+  "analyzed_at": "2026-08-04T10:32:10Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-browser-usebrowser-u",
+  "title": "browser-use/browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github_trending",
+  "summary": "browser-use 是一个让 AI 代理通过自然语言控制浏览器的开源库，支持多标签页、表单填写、元素点击等操作，简化了网页自动化任务。",
+  "highlights": [
+    "基于 LLM 的智能浏览器控制，无需编写复杂选择器",
+    "支持多标签页管理和动态内容处理",
+    "提供 Python 和 TypeScript 版本，易于集成"
+  ],
+  "use_cases": [
+    "网页自动化测试",
+    "数据抓取与信息收集",
+    "AI 驱动的 RPA 流程"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "browser",
+    "automation",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:38Z",
+  "analyzed_at": "2026-08-04T10:32:01Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

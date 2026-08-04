@@ -1,0 +1,32 @@
+{
+  "id": "20260804-github-tambo-aitambo",
+  "title": "tambo-ai/tambo",
+  "source_url": "https://github.com/tambo-ai/tambo",
+  "source_type": "github_trending",
+  "summary": "Tambo 是一个开源框架，用于构建可观测、可追踪的 AI 代理，提供会话记忆、工具调用监控和调试功能，支持多语言 SDK。",
+  "highlights": [
+    "提供完整的代理会话追踪与可视化调试界面",
+    "支持多种 LLM 提供商和工具调用集成",
+    "内置记忆管理，便于构建长期运行的代理应用"
+  ],
+  "use_cases": [
+    "构建需要复杂工具调用和状态管理的 AI 代理",
+    "开发需要深度调试和性能监控的 LLM 应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "observability",
+    "debugging",
+    "memory"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:39Z",
+  "analyzed_at": "2026-08-04T10:32:58Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

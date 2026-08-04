@@ -1,0 +1,33 @@
+{
+  "id": "20260804-github-rowboatlabsrowboat",
+  "title": "rowboatlabs/rowboat",
+  "source_url": "https://github.com/rowboatlabs/rowboat",
+  "source_type": "github_trending",
+  "summary": "Rowboat 是一个开源的企业级 AI 助手平台，支持多模型接入、知识库管理和工作流自动化，提供可视化配置界面，适合快速构建内部智能应用。",
+  "highlights": [
+    "支持多模型（OpenAI、Anthropic 等）统一接入",
+    "内置知识库与 RAG 能力，支持文档上传和检索",
+    "提供可视化工作流编排和 API 接口，易于集成"
+  ],
+  "use_cases": [
+    "企业内部知识问答助手",
+    "自动化客服与工单处理",
+    "业务流程自动化（审批、数据提取）"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag",
+    "workflow",
+    "enterprise"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:41Z",
+  "analyzed_at": "2026-08-04T10:34:05Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

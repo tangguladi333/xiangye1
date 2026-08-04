@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-startrail-orgleann",
+  "title": "StarTrail-org/LEANN",
+  "source_url": "https://github.com/StarTrail-org/LEANN",
+  "source_type": "github_trending",
+  "summary": "LEANN 是一个面向大语言模型（LLM）的轻量级、可扩展的神经网络推理引擎，专注于高效部署和低资源环境下的推理优化。",
+  "highlights": [
+    "支持多种量化技术（如 INT8/INT4），显著降低内存占用",
+    "提供模块化设计，易于集成到现有 LLM 应用中",
+    "包含针对 CPU/GPU 的优化内核，提升推理速度"
+  ],
+  "use_cases": [
+    "边缘设备上的 LLM 推理",
+    "生产环境中的低延迟服务部署"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference",
+    "optimization",
+    "quantization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:39Z",
+  "analyzed_at": "2026-08-04T10:33:21Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

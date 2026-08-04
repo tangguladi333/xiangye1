@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-hkudsnanobot",
+  "title": "HKUDS/nanobot",
+  "source_url": "https://github.com/HKUDS/nanobot",
+  "source_type": "github_trending",
+  "summary": "nanobot 是一个由港大数据科学实验室开源的轻量级 LLM 智能体框架，旨在简化多智能体系统的构建与部署，支持快速集成和灵活扩展。",
+  "highlights": [
+    "轻量级设计，易于上手和部署",
+    "支持多智能体协作与任务编排",
+    "提供丰富的工具集成和可扩展接口"
+  ],
+  "use_cases": [
+    "快速原型开发与教学演示",
+    "企业内部自动化流程与智能助手"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "multi-agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:39Z",
+  "analyzed_at": "2026-08-04T10:32:36Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-purpleailabdeceptico",
+  "title": "PurpleAILAB/Decepticon",
+  "source_url": "https://github.com/PurpleAILAB/Decepticon",
+  "source_type": "github_trending",
+  "summary": "Decepticon 是一个面向多智能体系统的开源框架，专注于提升 LLM 代理的协作效率与安全性。它提供模块化工具、可扩展架构及实时监控，适合构建复杂自动化工作流。",
+  "highlights": [
+    "模块化设计，支持快速集成多种 LLM 和工具",
+    "内置安全机制，防止代理越权或误操作",
+    "活跃的社区维护，文档完善，示例丰富"
+  ],
+  "use_cases": [
+    "构建企业级自动化客服或流程代理",
+    "研究多智能体协作与决策机制"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multi-agent",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:38Z",
+  "analyzed_at": "2026-08-04T10:32:15Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

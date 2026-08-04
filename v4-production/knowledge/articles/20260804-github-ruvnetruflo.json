@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-ruvnetruflo",
+  "title": "ruvnet/ruflo",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "source_type": "github_trending",
+  "summary": "ruflo 是一个基于 Rust 的高性能工作流引擎，专注于 AI 代理编排和任务自动化。它提供声明式工作流定义、并行执行和可观测性，旨在简化复杂 AI 系统的构建与部署。",
+  "highlights": [
+    "基于 Rust 实现，性能优异且内存安全",
+    "支持声明式工作流定义，易于编排 AI 代理",
+    "内置并行执行与可观测性，适合生产级任务"
+  ],
+  "use_cases": [
+    "构建多步骤 AI 代理流水线",
+    "自动化数据处理与决策流程"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "rust",
+    "workflow",
+    "ai-agents",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:38Z",
+  "analyzed_at": "2026-08-04T10:32:27Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

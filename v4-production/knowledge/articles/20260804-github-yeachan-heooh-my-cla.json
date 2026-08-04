@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-yeachan-heooh-my-cla",
+  "title": "Yeachan-Heo/oh-my-claudecode",
+  "source_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+  "source_type": "github_trending",
+  "summary": "oh-my-claudecode 是一个为 Claude Code 提供增强功能的开源工具集，包含自定义命令、工作流优化和效率提升插件，帮助开发者更高效地使用 Claude Code。",
+  "highlights": [
+    "提供丰富的自定义命令和快捷操作，简化日常开发流程",
+    "集成多种工作流模板，支持快速启动和配置",
+    "社区驱动，持续更新，兼容 Claude Code 最新版本"
+  ],
+  "use_cases": [
+    "开发者日常编码辅助，提升 Claude Code 使用效率",
+    "团队统一配置 Claude Code 环境，标准化工作流"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2026-06-10",
+    "production_ready": false
+  },
+  "tags": [
+    "claude-code",
+    "developer-tools",
+    "workflow",
+    "cli"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:40Z",
+  "analyzed_at": "2026-08-04T10:33:49Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

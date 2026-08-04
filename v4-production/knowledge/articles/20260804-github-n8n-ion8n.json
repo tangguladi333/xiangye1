@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-n8n-ion8n",
+  "title": "n8n-io/n8n",
+  "source_url": "https://github.com/n8n-io/n8n",
+  "source_type": "github_trending",
+  "summary": "n8n 是一个开源的工作流自动化工具，支持可视化编排和代码自定义，可连接数百种应用与服务，适合构建 AI 代理和自动化流程。",
+  "highlights": [
+    "可视化拖拽式工作流编辑器，支持代码节点",
+    "支持自托管和云服务，数据隐私可控",
+    "拥有丰富的集成生态和活跃的社区"
+  ],
+  "use_cases": [
+    "自动化业务流程，如数据同步、通知发送",
+    "构建 AI 代理，集成 LLM 与外部工具"
+  ],
+  "maturity": {
+    "stars": 50000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "workflow",
+    "automation",
+    "ai-agent",
+    "low-code"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:40Z",
+  "analyzed_at": "2026-08-04T10:33:23Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}

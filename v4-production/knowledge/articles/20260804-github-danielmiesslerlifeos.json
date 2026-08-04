@@ -1,0 +1,31 @@
+{
+  "id": "20260804-github-danielmiesslerlifeos",
+  "title": "danielmiessler/LifeOS",
+  "source_url": "https://github.com/danielmiessler/LifeOS",
+  "source_type": "github_trending",
+  "summary": "LifeOS 是一个基于 AI 的个人知识管理和生活操作系统，利用 LLM 自动整理笔记、任务和日程，帮助用户构建第二大脑。",
+  "highlights": [
+    "深度集成 LLM，实现自然语言交互和自动分类",
+    "模块化设计，支持笔记、任务、日程等统一管理",
+    "开源且社区活跃，持续迭代更新"
+  ],
+  "use_cases": [
+    "个人知识库构建与智能检索",
+    "自动化日程规划和任务管理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "personal-knowledge-management",
+    "productivity",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-04T10:31:41Z",
+  "analyzed_at": "2026-08-04T10:34:03Z",
+  "curated_at": "2026-08-04T10:34:14Z"
+}
