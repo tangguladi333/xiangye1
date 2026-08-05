@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-joshuac215agent-serv",
+  "title": "JoshuaC215/agent-service-toolkit",
+  "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+  "source_type": "github_trending",
+  "summary": "这是一个用于构建和部署基于LangGraph的AI代理服务的完整工具包，提供FastAPI后端、React前端及Docker部署方案，支持流式响应和可观测性。",
+  "highlights": [
+    "提供完整的代理服务架构，包括API、前端和部署配置",
+    "基于LangGraph，支持复杂代理工作流和状态管理",
+    "内置可观测性集成，便于监控和调试"
+  ],
+  "use_cases": [
+    "快速搭建生产级AI代理服务",
+    "作为LangGraph应用开发的参考模板"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "langgraph",
+    "fastapi",
+    "react",
+    "docker",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:23Z",
+  "analyzed_at": "2026-08-05T10:28:31Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}

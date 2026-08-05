@@ -1,0 +1,30 @@
+{
+  "id": "20260805-github-webpackwebpack",
+  "title": "webpack/webpack",
+  "source_url": "https://github.com/webpack/webpack",
+  "source_type": "github_trending",
+  "summary": "webpack 是领先的 JavaScript 模块打包器，通过依赖图将模块打包成静态资源，支持丰富的插件和加载器，广泛应用于现代前端工程化。",
+  "highlights": [
+    "高度模块化架构，支持代码分割和懒加载",
+    "强大的插件系统和加载器生态",
+    "活跃的社区和持续的版本迭代"
+  ],
+  "use_cases": [
+    "前端应用构建与优化",
+    "库和组件库的打包发布"
+  ],
+  "maturity": {
+    "stars": 64000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "bundler",
+    "javascript",
+    "build-tool"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:28Z",
+  "analyzed_at": "2026-08-05T10:28:44Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}

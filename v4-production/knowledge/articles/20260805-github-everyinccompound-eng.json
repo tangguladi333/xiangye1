@@ -1,0 +1,30 @@
+{
+  "id": "20260805-github-everyinccompound-eng",
+  "title": "EveryInc/compound-engineering-plugin",
+  "source_url": "https://github.com/EveryInc/compound-engineering-plugin",
+  "source_type": "github_trending",
+  "summary": "这是一个面向工程团队的复合工程插件，旨在通过自动化工作流和智能辅助提升开发效率，集成多种工具链。",
+  "highlights": [
+    "自动化工作流集成",
+    "多工具链支持",
+    "团队协作优化"
+  ],
+  "use_cases": [
+    "工程团队日常开发",
+    "CI/CD 流程优化"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "engineering",
+    "plugin",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:28Z",
+  "analyzed_at": "2026-08-05T10:28:59Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260805-github-gabimespdlog",
+  "title": "gabime/spdlog",
+  "source_url": "https://github.com/gabime/spdlog",
+  "source_type": "github_trending",
+  "summary": "spdlog 是一个快速、头文件即可用的 C++ 日志库，支持格式化输出、多线程安全、异步日志和多种输出目标（控制台、文件、syslog 等），性能优异，广泛用于生产环境。",
+  "highlights": [
+    "头文件库，无需编译，易于集成",
+    "支持异步日志和多线程安全",
+    "丰富的格式化选项和多种 sink（输出目标）"
+  ],
+  "use_cases": [
+    "C++ 应用程序的日志记录",
+    "高性能服务器和游戏引擎的日志系统",
+    "需要灵活输出（文件、控制台、网络）的嵌入式或桌面应用"
+  ],
+  "maturity": {
+    "stars": 24000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "c++",
+    "logging",
+    "header-only",
+    "async",
+    "performance"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:28Z",
+  "analyzed_at": "2026-08-05T10:28:47Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}

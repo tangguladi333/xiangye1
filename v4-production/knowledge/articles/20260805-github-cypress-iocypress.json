@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-cypress-iocypress",
+  "title": "cypress-io/cypress",
+  "source_url": "https://github.com/cypress-io/cypress",
+  "source_type": "github_trending",
+  "summary": "Cypress 是一个现代的前端端到端测试框架，提供快速、可靠、易用的测试体验，支持实时重载、时间旅行调试和自动等待，广泛应用于 Web 应用的自动化测试。",
+  "highlights": [
+    "基于浏览器的测试运行器，提供可视化调试界面",
+    "自动等待和重试机制，减少测试不稳定",
+    "支持网络请求拦截和模拟，便于测试复杂交互"
+  ],
+  "use_cases": [
+    "Web 应用的端到端测试",
+    "集成测试和回归测试",
+    "开发过程中的快速反馈和调试"
+  ],
+  "maturity": {
+    "stars": 48000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "testing",
+    "e2e",
+    "frontend",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:28Z",
+  "analyzed_at": "2026-08-05T10:28:42Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}

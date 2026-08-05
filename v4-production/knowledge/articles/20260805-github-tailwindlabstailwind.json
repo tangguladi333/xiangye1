@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-tailwindlabstailwind",
+  "title": "tailwindlabs/tailwindcss",
+  "source_url": "https://github.com/tailwindlabs/tailwindcss",
+  "source_type": "github_trending",
+  "summary": "Tailwind CSS 是一个高度可定制的实用优先 CSS 框架，通过类名组合快速构建现代界面，提供 JIT 编译、响应式设计和丰富的生态工具。",
+  "highlights": [
+    "实用优先的类名体系，极大提升开发效率",
+    "JIT 编译引擎，按需生成样式，性能优异",
+    "丰富的配置和插件生态，支持主题定制"
+  ],
+  "use_cases": [
+    "快速原型开发",
+    "大型项目样式统一管理",
+    "组件库开发"
+  ],
+  "maturity": {
+    "stars": 85000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "css",
+    "framework",
+    "frontend",
+    "utility-first"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:28Z",
+  "analyzed_at": "2026-08-05T10:28:54Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}

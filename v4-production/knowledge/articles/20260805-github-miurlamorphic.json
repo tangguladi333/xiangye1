@@ -1,0 +1,31 @@
+{
+  "id": "20260805-github-miurlamorphic",
+  "title": "miurla/morphic",
+  "source_url": "https://github.com/miurla/morphic",
+  "source_type": "github_trending",
+  "summary": "Morphic 是一个开源的 AI 问答应用，具备生成式 UI 和流式响应功能，基于 Next.js 和 Vercel AI SDK 构建，支持多模型提供商。",
+  "highlights": [
+    "生成式 UI 与流式响应",
+    "支持多种 AI 模型提供商",
+    "基于 Next.js 和 Vercel AI SDK"
+  ],
+  "use_cases": [
+    "构建 AI 驱动的问答应用",
+    "快速原型开发与演示"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "nextjs",
+    "llm",
+    "chatbot"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:25Z",
+  "analyzed_at": "2026-08-05T10:28:32Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}

@@ -8951,5 +8951,171 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-04T10:34:14Z"
+  },
+  {
+    "id": "20260805-github-angularangular",
+    "title": "angular/angular",
+    "source_url": "https://github.com/angular/angular",
+    "source_type": "github_trending",
+    "tags": [
+      "web-framework",
+      "typescript",
+      "spa",
+      "frontend"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-browser-usevideo-use",
+    "title": "browser-use/video-use",
+    "source_url": "https://github.com/browser-use/video-use",
+    "source_type": "github_trending",
+    "tags": [
+      "browser-use",
+      "vision-language-model",
+      "automation",
+      "web-testing"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-cypress-iocypress",
+    "title": "cypress-io/cypress",
+    "source_url": "https://github.com/cypress-io/cypress",
+    "source_type": "github_trending",
+    "tags": [
+      "testing",
+      "e2e",
+      "frontend",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-denolanddeno",
+    "title": "denoland/deno",
+    "source_url": "https://github.com/denoland/deno",
+    "source_type": "github_trending",
+    "tags": [
+      "runtime",
+      "typescript",
+      "javascript",
+      "web"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-everyinccompound-eng",
+    "title": "EveryInc/compound-engineering-plugin",
+    "source_url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "source_type": "github_trending",
+    "tags": [
+      "engineering",
+      "plugin",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-gabimespdlog",
+    "title": "gabime/spdlog",
+    "source_url": "https://github.com/gabime/spdlog",
+    "source_type": "github_trending",
+    "tags": [
+      "c++",
+      "logging",
+      "header-only",
+      "async",
+      "performance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-joshuac215agent-serv",
+    "title": "JoshuaC215/agent-service-toolkit",
+    "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+    "source_type": "github_trending",
+    "tags": [
+      "langgraph",
+      "fastapi",
+      "react",
+      "docker",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-miurlamorphic",
+    "title": "miurla/morphic",
+    "source_url": "https://github.com/miurla/morphic",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "nextjs",
+      "llm",
+      "chatbot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-tailwindlabstailwind",
+    "title": "tailwindlabs/tailwindcss",
+    "source_url": "https://github.com/tailwindlabs/tailwindcss",
+    "source_type": "github_trending",
+    "tags": [
+      "css",
+      "framework",
+      "frontend",
+      "utility-first"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-uberadr",
+    "title": "uber/ADR",
+    "source_url": "https://github.com/uber/ADR",
+    "source_type": "github_trending",
+    "tags": [
+      "architecture",
+      "documentation",
+      "cli"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-webpackwebpack",
+    "title": "webpack/webpack",
+    "source_url": "https://github.com/webpack/webpack",
+    "source_type": "github_trending",
+    "tags": [
+      "bundler",
+      "javascript",
+      "build-tool"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260805-github-wshobsonagents",
+    "title": "wshobson/agents",
+    "source_url": "https://github.com/wshobson/agents",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agents",
+      "framework",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-05T10:28:59Z"
   }
 ]

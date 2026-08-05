@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-angularangular",
+  "title": "angular/angular",
+  "source_url": "https://github.com/angular/angular",
+  "source_type": "github_trending",
+  "summary": "Angular 是 Google 维护的现代 Web 应用开发框架，提供组件化架构、依赖注入、响应式编程和强大的 CLI 工具，支持构建高性能、可扩展的单页应用。",
+  "highlights": [
+    "组件化架构与模块化设计，提升代码复用性和可维护性",
+    "内置依赖注入和 RxJS 响应式编程，简化状态管理",
+    "强大的 Angular CLI 和丰富的生态工具链，提升开发效率"
+  ],
+  "use_cases": [
+    "企业级单页应用开发",
+    "复杂数据驱动的 Web 应用",
+    "跨平台移动应用（配合 Ionic 或 NativeScript）"
+  ],
+  "maturity": {
+    "stars": 98000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "web-framework",
+    "typescript",
+    "spa",
+    "frontend"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:28Z",
+  "analyzed_at": "2026-08-05T10:28:52Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}

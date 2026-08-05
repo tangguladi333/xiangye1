@@ -1,0 +1,32 @@
+{
+  "id": "20260805-github-browser-usevideo-use",
+  "title": "browser-use/video-use",
+  "source_url": "https://github.com/browser-use/video-use",
+  "source_type": "github_trending",
+  "summary": "video-use 是 browser-use 生态的扩展，通过视觉语言模型驱动浏览器操作，实现基于视频或屏幕画面的自动化交互，降低对 DOM 解析的依赖。",
+  "highlights": [
+    "利用视觉理解替代传统 DOM 选择器，提升对动态页面的适应性",
+    "与 browser-use 无缝集成，支持自然语言指令控制浏览器",
+    "开源社区活跃，持续更新以支持最新视觉模型"
+  ],
+  "use_cases": [
+    "复杂单页应用的自动化测试",
+    "视觉回归测试与用户流程模拟",
+    "辅助残障用户的浏览器操作"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "browser-use",
+    "vision-language-model",
+    "automation",
+    "web-testing"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-05T10:28:28Z",
+  "analyzed_at": "2026-08-05T10:28:57Z",
+  "curated_at": "2026-08-05T10:28:59Z"
+}
