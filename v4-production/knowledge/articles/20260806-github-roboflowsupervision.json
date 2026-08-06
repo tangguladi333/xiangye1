@@ -1,0 +1,32 @@
+{
+  "id": "20260806-github-roboflowsupervision",
+  "title": "roboflow/supervision",
+  "source_url": "https://github.com/roboflow/supervision",
+  "source_type": "github_trending",
+  "summary": "supervision 是 Roboflow 推出的计算机视觉工具库，提供模型无关的组件，用于目标检测、分割和跟踪的后处理、标注与可视化，简化 CV 应用开发。",
+  "highlights": [
+    "模型无关，兼容 YOLO、RT-DETR 等主流检测模型",
+    "提供丰富的标注、跟踪和可视化工具，如 ByteTrack",
+    "支持多任务：检测、分割、分类、关键点等"
+  ],
+  "use_cases": [
+    "快速构建目标检测/跟踪应用原型",
+    "数据集标注与可视化分析",
+    "集成到现有 CV 流水线中增强后处理能力"
+  ],
+  "maturity": {
+    "stars": 25000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "computer-vision",
+    "object-detection",
+    "tracking",
+    "visualization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-06T10:32:24Z",
+  "analyzed_at": "2026-08-06T10:32:35Z",
+  "curated_at": "2026-08-06T10:32:38Z"
+}

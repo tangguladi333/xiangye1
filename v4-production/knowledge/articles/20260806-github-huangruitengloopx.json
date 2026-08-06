@@ -1,0 +1,31 @@
+{
+  "id": "20260806-github-huangruitengloopx",
+  "title": "huangruiteng/loopx",
+  "source_url": "https://github.com/huangruiteng/loopx",
+  "source_type": "github_trending",
+  "summary": "LoopX 是一个轻量级 LLM 代理框架，专注于循环任务执行与状态管理，支持多步骤工作流和工具调用，旨在简化复杂 AI 应用的开发。",
+  "highlights": [
+    "提供简洁的循环执行引擎，支持动态任务调度",
+    "内置状态持久化，便于长时运行任务管理",
+    "模块化设计，易于集成自定义工具和模型"
+  ],
+  "use_cases": [
+    "自动化多步骤业务流程",
+    "构建可扩展的 AI 助手或工作流引擎"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-06T10:32:24Z",
+  "analyzed_at": "2026-08-06T10:32:29Z",
+  "curated_at": "2026-08-06T10:32:38Z"
+}

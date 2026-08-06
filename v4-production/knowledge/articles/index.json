@@ -9117,5 +9117,74 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-05T10:28:59Z"
+  },
+  {
+    "id": "20260806-github-addyosmaniagent-skil",
+    "title": "addyosmani/agent-skills",
+    "source_url": "https://github.com/addyosmani/agent-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agents",
+      "skills",
+      "best-practices",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-06T10:32:38Z"
+  },
+  {
+    "id": "20260806-github-cloudflarecomputer",
+    "title": "cloudflare/computer",
+    "source_url": "https://github.com/cloudflare/computer",
+    "source_type": "github_trending",
+    "tags": [
+      "computer-vision",
+      "edge-computing",
+      "cloudflare"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-06T10:32:38Z"
+  },
+  {
+    "id": "20260806-github-huangruitengloopx",
+    "title": "huangruiteng/loopx",
+    "source_url": "https://github.com/huangruiteng/loopx",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-06T10:32:38Z"
+  },
+  {
+    "id": "20260806-github-roboflowsupervision",
+    "title": "roboflow/supervision",
+    "source_url": "https://github.com/roboflow/supervision",
+    "source_type": "github_trending",
+    "tags": [
+      "computer-vision",
+      "object-detection",
+      "tracking",
+      "visualization"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-06T10:32:38Z"
+  },
+  {
+    "id": "20260806-github-vercelnextjs",
+    "title": "vercel/next.js",
+    "source_url": "https://github.com/vercel/next.js",
+    "source_type": "github_trending",
+    "tags": [
+      "react",
+      "framework",
+      "ssr",
+      "web"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-06T10:32:38Z"
   }
 ]

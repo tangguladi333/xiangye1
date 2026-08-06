@@ -1,0 +1,31 @@
+{
+  "id": "20260806-github-addyosmaniagent-skil",
+  "title": "addyosmani/agent-skills",
+  "source_url": "https://github.com/addyosmani/agent-skills",
+  "source_type": "github_trending",
+  "summary": "这是一个为AI代理（如Claude、Copilot等）提供技能和最佳实践的资源库，由知名开发者Addy Osmani维护，旨在提升代理在编码、调试等任务中的表现。",
+  "highlights": [
+    "由Google Chrome团队知名工程师Addy Osmani创建，权威性高",
+    "提供多种可复用的代理技能（skills），覆盖编码、测试、调试等场景",
+    "包含实际案例和最佳实践，帮助用户快速上手"
+  ],
+  "use_cases": [
+    "开发者配置AI编程助手以提升代码质量",
+    "团队标准化AI代理的工作流程和提示词"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agents",
+    "skills",
+    "best-practices",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-06T10:32:24Z",
+  "analyzed_at": "2026-08-06T10:32:32Z",
+  "curated_at": "2026-08-06T10:32:38Z"
+}
