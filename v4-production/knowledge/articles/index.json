@@ -9186,5 +9186,160 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-06T10:32:38Z"
+  },
+  {
+    "id": "20260807-github-datawhalechinahello-",
+    "title": "datawhalechina/hello-agents",
+    "source_url": "https://github.com/datawhalechina/hello-agents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tutorial",
+      "education"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-goauthentikauthentik",
+    "title": "goauthentik/authentik",
+    "source_url": "https://github.com/goauthentik/authentik",
+    "source_type": "github_trending",
+    "tags": [
+      "identity",
+      "sso",
+      "authentication",
+      "authorization",
+      "ldap",
+      "oauth2",
+      "saml"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-googleguava",
+    "title": "google/guava",
+    "source_url": "https://github.com/google/guava",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "library",
+      "collections",
+      "caching",
+      "concurrency"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-hkudsvibe-trading",
+    "title": "HKUDS/Vibe-Trading",
+    "source_url": "https://github.com/HKUDS/Vibe-Trading",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "multi-agent",
+      "trading",
+      "finance",
+      "backtesting"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-mattpocockskills",
+    "title": "mattpocock/skills",
+    "source_url": "https://github.com/mattpocock/skills",
+    "source_type": "github_trending",
+    "tags": [
+      "typescript",
+      "frontend",
+      "learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-punkpeyeawesome-mcp-",
+    "title": "punkpeye/awesome-mcp-servers",
+    "source_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "source_type": "github_trending",
+    "tags": [
+      "mcp",
+      "awesome-list",
+      "resources"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "ai-agent",
+      "awesome-list"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-tapxworldchinatextbo",
+    "title": "TapXWorld/ChinaTextbook",
+    "source_url": "https://github.com/TapXWorld/ChinaTextbook",
+    "source_type": "github_trending",
+    "tags": [
+      "education",
+      "textbook",
+      "chinese"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-tirth8205code-review",
+    "title": "tirth8205/code-review-graph",
+    "source_url": "https://github.com/tirth8205/code-review-graph",
+    "source_type": "github_trending",
+    "tags": [
+      "code-review",
+      "graph",
+      "static-analysis"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-wavetermdevwaveterm",
+    "title": "wavetermdev/waveterm",
+    "source_url": "https://github.com/wavetermdev/waveterm",
+    "source_type": "github_trending",
+    "tags": [
+      "terminal",
+      "web",
+      "ai",
+      "collaboration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260807-github-zylon-aiprivate-gpt",
+    "title": "zylon-ai/private-gpt",
+    "source_url": "https://github.com/zylon-ai/private-gpt",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "privacy",
+      "document-qa"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-07T08:50:22Z"
   }
 ]

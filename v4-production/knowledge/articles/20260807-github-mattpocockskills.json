@@ -1,0 +1,31 @@
+{
+  "id": "20260807-github-mattpocockskills",
+  "title": "mattpocock/skills",
+  "source_url": "https://github.com/mattpocock/skills",
+  "source_type": "github_trending",
+  "summary": "这是一个面向开发者的技能提升项目，提供结构化学习路径和实战练习，帮助掌握现代前端与TypeScript技能。",
+  "highlights": [
+    "系统化技能树",
+    "实战项目驱动",
+    "社区活跃"
+  ],
+  "use_cases": [
+    "个人技能提升",
+    "团队培训",
+    "技术面试准备"
+  ],
+  "maturity": {
+    "stars": 1500,
+    "last_updated": "2026-05-20",
+    "production_ready": false
+  },
+  "tags": [
+    "typescript",
+    "frontend",
+    "learning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-07T08:49:54Z",
+  "analyzed_at": "2026-08-07T08:50:13Z",
+  "curated_at": "2026-08-07T08:50:22Z"
+}

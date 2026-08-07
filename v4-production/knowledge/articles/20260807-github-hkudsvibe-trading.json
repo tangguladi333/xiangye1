@@ -1,0 +1,33 @@
+{
+  "id": "20260807-github-hkudsvibe-trading",
+  "title": "HKUDS/Vibe-Trading",
+  "source_url": "https://github.com/HKUDS/Vibe-Trading",
+  "source_type": "github_trending",
+  "summary": "Vibe-Trading 是港大数据科学实验室开源的 AI 交易框架，融合大语言模型与多智能体协作，支持实时市场分析、策略生成与自动执行，旨在降低量化交易门槛。",
+  "highlights": [
+    "多智能体协作架构，模拟专业交易团队分工",
+    "集成实时新闻、技术指标与链上数据等多源信号",
+    "提供可视化回测与模拟交易界面，便于策略验证"
+  ],
+  "use_cases": [
+    "个人投资者自动化交易策略开发",
+    "金融教育场景中的 AI 交易模拟教学",
+    "研究机构探索 LLM 在金融决策中的应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "multi-agent",
+    "trading",
+    "finance",
+    "backtesting"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-07T08:49:53Z",
+  "analyzed_at": "2026-08-07T08:50:09Z",
+  "curated_at": "2026-08-07T08:50:22Z"
+}

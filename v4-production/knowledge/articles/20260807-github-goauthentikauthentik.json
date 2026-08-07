@@ -1,0 +1,34 @@
+{
+  "id": "20260807-github-goauthentikauthentik",
+  "title": "goauthentik/authentik",
+  "source_url": "https://github.com/goauthentik/authentik",
+  "source_type": "github_trending",
+  "summary": "authentik 是一个开源的身份认证与授权平台，提供多租户、单点登录（SSO）和访问控制功能，支持多种协议（OAuth2、SAML、LDAP），并具备灵活的流程引擎和策略管理。",
+  "highlights": [
+    "支持多种身份认证协议（OAuth2、SAML、LDAP）",
+    "可视化流程编辑器，可定制登录和授权流程",
+    "内置策略引擎，实现细粒度的访问控制"
+  ],
+  "use_cases": [
+    "企业统一身份认证与单点登录",
+    "多应用访问控制与权限管理"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "identity",
+    "sso",
+    "authentication",
+    "authorization",
+    "ldap",
+    "oauth2",
+    "saml"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-07T08:49:54Z",
+  "analyzed_at": "2026-08-07T08:50:16Z",
+  "curated_at": "2026-08-07T08:50:22Z"
+}

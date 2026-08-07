@@ -1,0 +1,31 @@
+{
+  "id": "20260807-github-tapxworldchinatextbo",
+  "title": "TapXWorld/ChinaTextbook",
+  "source_url": "https://github.com/TapXWorld/ChinaTextbook",
+  "source_type": "github_trending",
+  "summary": "该项目提供中国中小学教材的电子版资源，涵盖多学科多版本，方便用户在线阅读和下载，是一个非官方的教材资源聚合仓库。",
+  "highlights": [
+    "覆盖学科和版本全面",
+    "提供在线阅读和下载",
+    "持续更新维护"
+  ],
+  "use_cases": [
+    "学生自学复习",
+    "教师备课参考",
+    "教育研究者查阅"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "education",
+    "textbook",
+    "chinese"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-07T08:49:54Z",
+  "analyzed_at": "2026-08-07T08:50:20Z",
+  "curated_at": "2026-08-07T08:50:22Z"
+}

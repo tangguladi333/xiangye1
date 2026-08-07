@@ -1,0 +1,31 @@
+{
+  "id": "20260807-github-tirth8205code-review",
+  "title": "tirth8205/code-review-graph",
+  "source_url": "https://github.com/tirth8205/code-review-graph",
+  "source_type": "github_trending",
+  "summary": "这是一个基于代码图谱的代码审查工具，通过分析代码依赖关系辅助审查流程，提升审查效率与准确性。",
+  "highlights": [
+    "利用图结构分析代码依赖，提供直观的审查视角",
+    "自动化识别潜在问题，减少人工审查负担",
+    "支持与主流开发流程集成，易于部署"
+  ],
+  "use_cases": [
+    "大型代码库的日常审查",
+    "新代码合并前的质量检查",
+    "团队协作中的代码规范执行"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "code-review",
+    "graph",
+    "static-analysis"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-07T08:49:54Z",
+  "analyzed_at": "2026-08-07T08:50:22Z",
+  "curated_at": "2026-08-07T08:50:22Z"
+}
