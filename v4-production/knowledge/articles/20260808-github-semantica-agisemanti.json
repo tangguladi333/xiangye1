@@ -1,0 +1,33 @@
+{
+  "id": "20260808-github-semantica-agisemanti",
+  "title": "semantica-agi/semantica",
+  "source_url": "https://github.com/semantica-agi/semantica",
+  "source_type": "github_trending",
+  "summary": "Semantica 是一个面向 AGI 的语义计算框架，旨在通过结构化知识表示和推理增强大语言模型的能力，支持多模态语义理解与复杂任务规划。",
+  "highlights": [
+    "提供统一的语义层，整合知识图谱与向量检索",
+    "支持多模态输入（文本、图像、音频）的语义对齐",
+    "内置可解释的推理引擎，提升决策透明度"
+  ],
+  "use_cases": [
+    "复杂知识问答与推理系统",
+    "多模态内容理解与生成",
+    "自主智能体的长期记忆与规划"
+  ],
+  "maturity": {
+    "stars": 320,
+    "last_updated": "2026-05-15",
+    "production_ready": false
+  },
+  "tags": [
+    "semantic-computing",
+    "knowledge-graph",
+    "multimodal",
+    "agi",
+    "reasoning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:44Z",
+  "analyzed_at": "2026-08-08T08:32:04Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

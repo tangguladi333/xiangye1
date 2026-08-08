@@ -1,0 +1,31 @@
+{
+  "id": "20260808-github-unclebobswarm-forge",
+  "title": "unclebob/swarm-forge",
+  "source_url": "https://github.com/unclebob/swarm-forge",
+  "source_type": "github_trending",
+  "summary": "Swarm Forge 是一个用于构建和编排多智能体系统的框架，强调简洁性和可测试性，由 Bob 大叔（Robert C. Martin）开发。它提供了一套轻量级工具，用于定义智能体行为、管理通信和协调复杂任务。",
+  "highlights": [
+    "由软件工程大师 Robert C. Martin 创建，代码质量高",
+    "专注于简洁设计和可测试性，遵循 SOLID 原则",
+    "提供灵活的智能体编排机制，支持多种通信模式"
+  ],
+  "use_cases": [
+    "构建企业级多智能体协作系统",
+    "用于教学和演示软件设计原则在 AI 系统中的应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "framework",
+    "clean-code",
+    "orchestration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:44Z",
+  "analyzed_at": "2026-08-08T08:32:13Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

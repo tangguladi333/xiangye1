@@ -1,0 +1,32 @@
+{
+  "id": "20260808-github-langchain-ailanggrap",
+  "title": "langchain-ai/langgraphjs",
+  "source_url": "https://github.com/langchain-ai/langgraphjs",
+  "source_type": "github_trending",
+  "summary": "LangGraph.js 是 LangChain 官方推出的 JavaScript/TypeScript 版图状态编排框架，用于构建可复现、可监控的 LLM 代理与多智能体工作流，支持持久化、人机协同与流式输出。",
+  "highlights": [
+    "官方维护，与 LangChain 生态深度集成",
+    "支持图状态、条件边、循环等复杂工作流编排",
+    "内置持久化、检查点与流式执行能力"
+  ],
+  "use_cases": [
+    "构建生产级 LLM 代理应用",
+    "实现多步骤、可回滚的对话或任务流程"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "graph",
+    "typescript"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:38Z",
+  "analyzed_at": "2026-08-08T08:31:49Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

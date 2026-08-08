@@ -1,0 +1,32 @@
+{
+  "id": "20260808-github-cloudwegoeino",
+  "title": "cloudwego/eino",
+  "source_url": "https://github.com/cloudwego/eino",
+  "source_type": "github_trending",
+  "summary": "Eino 是字节跳动开源的 Go 语言 LLM 应用开发框架，提供组件化、可扩展的编排能力，支持多种模型和工具，旨在简化 AI 应用构建。",
+  "highlights": [
+    "基于 Go 的高性能 LLM 应用框架，适合对性能敏感的场景",
+    "提供丰富的组件和编排能力，支持复杂 AI 工作流",
+    "由字节跳动 CloudWeGo 团队维护，社区活跃"
+  ],
+  "use_cases": [
+    "构建高性能 AI Agent 或聊天机器人",
+    "开发需要复杂流程编排的 LLM 应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "framework",
+    "go",
+    "agent",
+    "orchestration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:40Z",
+  "analyzed_at": "2026-08-08T08:31:59Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

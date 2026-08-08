@@ -1,0 +1,32 @@
+{
+  "id": "20260808-github-primeintellect-aipri",
+  "title": "PrimeIntellect-ai/prime-agent",
+  "source_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+  "source_type": "github_trending",
+  "summary": "Prime Agent 是一个开源的多智能体框架，专注于构建可扩展、可观测的 AI 代理系统，支持复杂任务分解与并行执行。",
+  "highlights": [
+    "支持多智能体协作与任务编排",
+    "提供可观测性和调试工具",
+    "基于 Python 和异步架构，易于扩展"
+  ],
+  "use_cases": [
+    "复杂工作流自动化",
+    "多步骤研究或数据分析任务",
+    "构建企业级 AI 助手"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "framework",
+    "python",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:44Z",
+  "analyzed_at": "2026-08-08T08:32:01Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

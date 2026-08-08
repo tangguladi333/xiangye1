@@ -1,0 +1,33 @@
+{
+  "id": "20260808-github-run-llamallamaindex",
+  "title": "run-llama/llama_index",
+  "source_url": "https://github.com/run-llama/llama_index",
+  "source_type": "github_trending",
+  "summary": "LlamaIndex 是一个开源的数据框架，用于连接大型语言模型（LLM）与外部数据源，支持构建上下文增强的生成式 AI 应用，如 RAG、知识代理和结构化数据查询。",
+  "highlights": [
+    "提供丰富的数据连接器，支持多种数据源（如文档、数据库、API）",
+    "支持高级索引和检索机制，包括向量索引、图索引和关键词索引",
+    "与主流 LLM 和框架（如 LangChain、OpenAI）深度集成"
+  ],
+  "use_cases": [
+    "构建企业级 RAG 系统，实现基于私有文档的问答",
+    "开发数据代理，自动查询和分析结构化及非结构化数据",
+    "创建知识库应用，支持多文档摘要和语义搜索"
+  ],
+  "maturity": {
+    "stars": 38000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "data-framework",
+    "agent",
+    "vector-search"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:40Z",
+  "analyzed_at": "2026-08-08T08:31:54Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

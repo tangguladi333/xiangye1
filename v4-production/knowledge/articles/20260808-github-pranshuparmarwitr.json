@@ -1,0 +1,31 @@
+{
+  "id": "20260808-github-pranshuparmarwitr",
+  "title": "pranshuparmar/witr",
+  "source_url": "https://github.com/pranshuparmar/witr",
+  "source_type": "github_trending",
+  "summary": "Witr 是一个轻量级、可嵌入的 Web 推理运行时，专注于在边缘设备上高效运行 LLM 推理，提供低延迟和低资源占用。",
+  "highlights": [
+    "轻量级设计，适合边缘部署",
+    "支持多种量化格式，优化推理性能",
+    "提供简单 API，易于集成"
+  ],
+  "use_cases": [
+    "边缘设备上的实时 AI 推理",
+    "资源受限环境中的 LLM 部署"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference",
+    "edge",
+    "runtime"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:44Z",
+  "analyzed_at": "2026-08-08T08:32:20Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

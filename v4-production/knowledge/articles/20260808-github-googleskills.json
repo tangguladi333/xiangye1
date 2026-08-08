@@ -1,0 +1,30 @@
+{
+  "id": "20260808-github-googleskills",
+  "title": "google/skills",
+  "source_url": "https://github.com/google/skills",
+  "source_type": "github_trending",
+  "summary": "Google Skills 是一个用于构建 AI 代理技能的框架，提供标准化接口、工具集成和可复用技能库，支持快速开发与部署。",
+  "highlights": [
+    "标准化技能定义与接口",
+    "丰富的预构建技能库",
+    "与 Google 生态深度集成"
+  ],
+  "use_cases": [
+    "快速构建企业级 AI 代理",
+    "自动化工作流与任务编排"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "agent",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:44Z",
+  "analyzed_at": "2026-08-08T08:32:22Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

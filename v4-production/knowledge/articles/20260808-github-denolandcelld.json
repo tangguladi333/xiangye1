@@ -1,0 +1,31 @@
+{
+  "id": "20260808-github-denolandcelld",
+  "title": "denoland/celld",
+  "source_url": "https://github.com/denoland/celld",
+  "source_type": "github_trending",
+  "summary": "Deno 官方推出的轻量级无服务器计算运行时，基于 V8 引擎，支持边缘部署和快速冷启动，旨在简化云函数开发。",
+  "highlights": [
+    "Deno 官方项目，可靠性高",
+    "专为边缘计算设计，冷启动快",
+    "与 Deno 生态无缝集成"
+  ],
+  "use_cases": [
+    "边缘函数计算",
+    "无服务器 API 后端"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "deno",
+    "serverless",
+    "edge-computing",
+    "runtime"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:44Z",
+  "analyzed_at": "2026-08-08T08:32:16Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

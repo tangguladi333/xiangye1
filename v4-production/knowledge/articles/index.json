@@ -9341,5 +9341,215 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-07T08:50:22Z"
+  },
+  {
+    "id": "20260808-github-666ghjmirofish",
+    "title": "666ghj/MiroFish",
+    "source_url": "https://github.com/666ghj/MiroFish",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "multimodal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-chenymegrok2api",
+    "title": "chenyme/grok2api",
+    "source_url": "https://github.com/chenyme/grok2api",
+    "source_type": "github_trending",
+    "tags": [
+      "grok",
+      "api",
+      "proxy",
+      "openai-compatible"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-cloudwegoeino",
+    "title": "cloudwego/eino",
+    "source_url": "https://github.com/cloudwego/eino",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "framework",
+      "go",
+      "agent",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-denolandcelld",
+    "title": "denoland/celld",
+    "source_url": "https://github.com/denoland/celld",
+    "source_type": "github_trending",
+    "tags": [
+      "deno",
+      "serverless",
+      "edge-computing",
+      "runtime"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-googleskills",
+    "title": "google/skills",
+    "source_url": "https://github.com/google/skills",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "agent",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-jdxmise",
+    "title": "jdx/mise",
+    "source_url": "https://github.com/jdx/mise",
+    "source_type": "github_trending",
+    "tags": [
+      "devops",
+      "cli",
+      "version-management"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-k2sosintlegendaryosi",
+    "title": "K2SOsint/Legendary_OSINT",
+    "source_url": "https://github.com/K2SOsint/Legendary_OSINT",
+    "source_type": "github_trending",
+    "tags": [
+      "osint",
+      "security",
+      "reconnaissance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain-mcp-adapters",
+    "source_url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+    "source_type": "github_trending",
+    "tags": [
+      "langchain",
+      "mcp",
+      "agent",
+      "integration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-langchain-ailanggrap",
+    "title": "langchain-ai/langgraphjs",
+    "source_url": "https://github.com/langchain-ai/langgraphjs",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "graph",
+      "typescript"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-langchain4jlangchain",
+    "title": "langchain4j/langchain4j",
+    "source_url": "https://github.com/langchain4j/langchain4j",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "llm",
+      "langchain",
+      "ai",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-pranshuparmarwitr",
+    "title": "pranshuparmar/witr",
+    "source_url": "https://github.com/pranshuparmar/witr",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "inference",
+      "edge",
+      "runtime"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-primeintellect-aipri",
+    "title": "PrimeIntellect-ai/prime-agent",
+    "source_url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "python",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-semantica-agisemanti",
+    "title": "semantica-agi/semantica",
+    "source_url": "https://github.com/semantica-agi/semantica",
+    "source_type": "github_trending",
+    "tags": [
+      "semantic-computing",
+      "knowledge-graph",
+      "multimodal",
+      "agi",
+      "reasoning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-thesysdevopenui",
+    "title": "thesysdev/openui",
+    "source_url": "https://github.com/thesysdev/openui",
+    "source_type": "github_trending",
+    "tags": [
+      "ui-generation",
+      "llm",
+      "frontend",
+      "prototyping"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260808-github-unclebobswarm-forge",
+    "title": "unclebob/swarm-forge",
+    "source_url": "https://github.com/unclebob/swarm-forge",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "clean-code",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-08T08:32:22Z"
   }
 ]

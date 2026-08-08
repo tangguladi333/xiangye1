@@ -1,0 +1,31 @@
+{
+  "id": "20260808-github-k2sosintlegendaryosi",
+  "title": "K2SOsint/Legendary_OSINT",
+  "source_url": "https://github.com/K2SOsint/Legendary_OSINT",
+  "source_type": "github_trending",
+  "summary": "Legendary_OSINT 是一个综合性的开源情报（OSINT）工具集合，提供多种信息收集、分析和可视化功能，适合安全研究和调查人员使用。",
+  "highlights": [
+    "集成多种 OSINT 数据源和搜索技术",
+    "提供友好的命令行界面和自动化脚本",
+    "支持数据可视化与报告生成"
+  ],
+  "use_cases": [
+    "安全研究中的信息收集",
+    "网络威胁情报分析",
+    "数字足迹调查"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "osint",
+    "security",
+    "reconnaissance"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:44Z",
+  "analyzed_at": "2026-08-08T08:32:18Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}

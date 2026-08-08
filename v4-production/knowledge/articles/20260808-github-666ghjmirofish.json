@@ -1,0 +1,30 @@
+{
+  "id": "20260808-github-666ghjmirofish",
+  "title": "666ghj/MiroFish",
+  "source_url": "https://github.com/666ghj/MiroFish",
+  "source_type": "github_trending",
+  "summary": "MiroFish 是一个基于大语言模型的智能体框架，专注于多模态交互和自动化任务执行，提供灵活的插件机制和可视化工作流设计。",
+  "highlights": [
+    "支持多模态输入（文本、图像、音频）",
+    "模块化插件架构，易于扩展",
+    "内置可视化工作流编辑器"
+  ],
+  "use_cases": [
+    "自动化办公流程",
+    "多模态数据分析助手"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "multimodal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-08T08:31:44Z",
+  "analyzed_at": "2026-08-08T08:32:06Z",
+  "curated_at": "2026-08-08T08:32:22Z"
+}
