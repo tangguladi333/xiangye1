@@ -1,0 +1,31 @@
+{
+  "id": "20260809-github-bojieliai-agent-book",
+  "title": "bojieli/ai-agent-book",
+  "source_url": "https://github.com/bojieli/ai-agent-book",
+  "source_type": "github_trending",
+  "summary": "这是一本关于构建 AI Agent 的实战书籍，涵盖从基础概念到高级架构的完整知识体系，适合开发者系统学习 Agent 开发。",
+  "highlights": [
+    "系统化的 Agent 知识体系，从入门到进阶",
+    "包含大量实战案例和代码示例",
+    "覆盖主流框架和工具，如 LangChain、AutoGPT 等"
+  ],
+  "use_cases": [
+    "开发者学习 AI Agent 开发",
+    "技术团队构建智能体应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "llm",
+    "book",
+    "tutorial"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-09T08:33:42Z",
+  "analyzed_at": "2026-08-09T08:33:54Z",
+  "curated_at": "2026-08-09T08:34:03Z"
+}

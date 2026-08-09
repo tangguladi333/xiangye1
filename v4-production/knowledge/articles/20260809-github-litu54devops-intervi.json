@@ -1,0 +1,30 @@
+{
+  "id": "20260809-github-litu54devops-intervi",
+  "title": "litu54/DevOps-Interview-Guide",
+  "source_url": "https://github.com/litu54/DevOps-Interview-Guide",
+  "source_type": "github_trending",
+  "summary": "DevOps 面试指南，涵盖 CI/CD、容器化、云平台、监控等核心主题，提供常见面试题与解答，适合求职者系统复习。",
+  "highlights": [
+    "覆盖 DevOps 全栈知识点",
+    "提供常见面试题与详细解答",
+    "持续更新，社区活跃"
+  ],
+  "use_cases": [
+    "DevOps 岗位面试准备",
+    "团队技术培训参考"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "devops",
+    "interview",
+    "guide"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-09T08:33:43Z",
+  "analyzed_at": "2026-08-09T08:34:01Z",
+  "curated_at": "2026-08-09T08:34:03Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260809-github-conductor-ossconduct",
+  "title": "conductor-oss/conductor",
+  "source_url": "https://github.com/conductor-oss/conductor",
+  "source_type": "github_trending",
+  "summary": "Conductor 是一个开源的事件驱动编排平台，支持微服务和工作流自动化，提供可视化界面和 API，适合构建复杂分布式系统。",
+  "highlights": [
+    "支持事件驱动和基于 DAG 的工作流编排",
+    "提供可视化工作流设计器和监控界面",
+    "支持多语言 SDK 和 REST API 集成"
+  ],
+  "use_cases": [
+    "微服务编排与分布式事务管理",
+    "CI/CD 流水线自动化",
+    "数据管道和业务工作流自动化"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "workflow",
+    "orchestration",
+    "microservices",
+    "event-driven"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-09T08:33:41Z",
+  "analyzed_at": "2026-08-09T08:33:52Z",
+  "curated_at": "2026-08-09T08:34:03Z"
+}

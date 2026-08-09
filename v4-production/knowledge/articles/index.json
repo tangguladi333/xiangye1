@@ -9551,5 +9551,115 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-08T08:32:22Z"
+  },
+  {
+    "id": "20260809-github-bannedbookfanqiang",
+    "title": "bannedbook/fanqiang",
+    "source_url": "https://github.com/bannedbook/fanqiang",
+    "source_type": "github_trending",
+    "tags": [
+      "翻墙",
+      "代理",
+      "VPN",
+      "科学上网"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-09T08:34:03Z"
+  },
+  {
+    "id": "20260809-github-bojieliai-agent-book",
+    "title": "bojieli/ai-agent-book",
+    "source_url": "https://github.com/bojieli/ai-agent-book",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "llm",
+      "book",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-09T08:34:03Z"
+  },
+  {
+    "id": "20260809-github-conductor-ossconduct",
+    "title": "conductor-oss/conductor",
+    "source_url": "https://github.com/conductor-oss/conductor",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "orchestration",
+      "microservices",
+      "event-driven"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-09T08:34:03Z"
+  },
+  {
+    "id": "20260809-github-ladybirdbrowserladyb",
+    "title": "LadybirdBrowser/ladybird",
+    "source_url": "https://github.com/LadybirdBrowser/ladybird",
+    "source_type": "github_trending",
+    "tags": [
+      "browser",
+      "engine",
+      "web",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-09T08:34:03Z"
+  },
+  {
+    "id": "20260809-github-litu54devops-intervi",
+    "title": "litu54/DevOps-Interview-Guide",
+    "source_url": "https://github.com/litu54/DevOps-Interview-Guide",
+    "source_type": "github_trending",
+    "tags": [
+      "devops",
+      "interview",
+      "guide"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-09T08:34:03Z"
+  },
+  {
+    "id": "20260809-github-tauricresearchtradin",
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "multi-agent",
+      "finance",
+      "trading"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-09T08:34:03Z"
+  },
+  {
+    "id": "20260809-github-usestrixstrix",
+    "title": "usestrix/strix",
+    "source_url": "https://github.com/usestrix/strix",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "observability",
+      "monitoring"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-09T08:34:03Z"
+  },
+  {
+    "id": "20260809-github-x1xhlolsystem-prompt",
+    "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-tools",
+      "system-prompts",
+      "models",
+      "reference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-09T08:34:03Z"
   }
 ]

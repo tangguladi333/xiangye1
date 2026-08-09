@@ -1,0 +1,31 @@
+{
+  "id": "20260809-github-tauricresearchtradin",
+  "title": "TauricResearch/TradingAgents",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "source_type": "github_trending",
+  "summary": "TradingAgents 是一个基于多智能体 LLM 的金融交易框架，模拟真实交易公司中分析师、研究员、交易员和风控专家的协作流程，通过辩论与反思机制提升交易决策质量。",
+  "highlights": [
+    "多智能体角色模拟（分析师、研究员、交易员、风控）",
+    "集成辩论与反思机制，增强决策鲁棒性",
+    "提供完整回测与实时交易示例，支持多种数据源"
+  ],
+  "use_cases": [
+    "金融交易策略研究与回测",
+    "多智能体协作框架的学术研究与教学"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "multi-agent",
+    "finance",
+    "trading"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-09T08:33:43Z",
+  "analyzed_at": "2026-08-09T08:33:56Z",
+  "curated_at": "2026-08-09T08:34:03Z"
+}

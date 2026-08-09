@@ -1,0 +1,31 @@
+{
+  "id": "20260809-github-bannedbookfanqiang",
+  "title": "bannedbook/fanqiang",
+  "source_url": "https://github.com/bannedbook/fanqiang",
+  "source_type": "github_trending",
+  "summary": "该项目是一个翻墙工具和科学上网资源汇总库，提供各类代理软件、教程和配置，帮助用户访问被屏蔽的网站。",
+  "highlights": [
+    "汇集大量翻墙工具和教程，覆盖多平台",
+    "持续更新，社区活跃，资源丰富",
+    "提供详细的配置指南和常见问题解答"
+  ],
+  "use_cases": [
+    "个人用户获取科学上网工具和配置",
+    "研究网络审查和绕过技术"
+  ],
+  "maturity": {
+    "stars": 15000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "翻墙",
+    "代理",
+    "VPN",
+    "科学上网"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-09T08:33:43Z",
+  "analyzed_at": "2026-08-09T08:34:03Z",
+  "curated_at": "2026-08-09T08:34:03Z"
+}
