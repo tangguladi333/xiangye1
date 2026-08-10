@@ -1,0 +1,33 @@
+{
+  "id": "20260810-github-pingdotggt3code",
+  "title": "pingdotgg/t3code",
+  "source_url": "https://github.com/pingdotgg/t3code",
+  "source_type": "github_trending",
+  "summary": "t3code 是一个基于 T3 技术栈（TypeScript、Tailwind、tRPC）的 AI 编程助手，通过自然语言生成代码片段，支持多语言和框架，旨在提升开发效率。",
+  "highlights": [
+    "基于 T3 栈，与现代 TypeScript 项目无缝集成",
+    "支持自然语言生成代码，覆盖多种语言和框架",
+    "提供 CLI 和交互式界面，易于集成到现有工作流"
+  ],
+  "use_cases": [
+    "快速生成样板代码或函数实现",
+    "辅助学习新框架或语言语法",
+    "在开发中即时获取代码建议"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "code-generation",
+    "typescript",
+    "t3-stack",
+    "cli"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-10T09:10:56Z",
+  "analyzed_at": "2026-08-10T09:11:18Z",
+  "curated_at": "2026-08-10T09:11:18Z"
+}

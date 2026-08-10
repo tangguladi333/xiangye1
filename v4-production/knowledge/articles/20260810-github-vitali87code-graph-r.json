@@ -1,0 +1,32 @@
+{
+  "id": "20260810-github-vitali87code-graph-r",
+  "title": "vitali87/code-graph-rag",
+  "source_url": "https://github.com/vitali87/code-graph-rag",
+  "source_type": "github_trending",
+  "summary": "code-graph-rag 是一个将代码库解析为知识图谱，并结合 RAG 技术实现智能代码问答与检索的开源工具，旨在提升大型代码库的理解与导航效率。",
+  "highlights": [
+    "将代码结构（函数、类、调用关系）转化为图数据库，支持语义化查询",
+    "集成 RAG 流程，可基于自然语言检索代码片段与依赖关系",
+    "提供可视化界面，帮助开发者直观探索代码架构"
+  ],
+  "use_cases": [
+    "大型代码库的快速上手与架构理解",
+    "智能代码搜索与问答，辅助开发调试",
+    "代码审查与依赖影响分析"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "code-analysis",
+    "knowledge-graph",
+    "rag",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-10T09:10:56Z",
+  "analyzed_at": "2026-08-10T09:11:05Z",
+  "curated_at": "2026-08-10T09:11:18Z"
+}

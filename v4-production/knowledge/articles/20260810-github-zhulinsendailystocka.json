@@ -1,0 +1,31 @@
+{
+  "id": "20260810-github-zhulinsendailystocka",
+  "title": "ZhuLinsen/daily_stock_analysis",
+  "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "source_type": "github_trending",
+  "summary": "这是一个基于大语言模型的每日股票分析工具，自动抓取行情数据并生成分析报告，适合个人投资者快速获取市场洞察。",
+  "highlights": [
+    "自动化数据抓取与报告生成",
+    "集成多种LLM接口",
+    "提供可视化分析结果"
+  ],
+  "use_cases": [
+    "个人投资者每日复盘",
+    "量化策略辅助决策"
+  ],
+  "maturity": {
+    "stars": 15,
+    "last_updated": "2025-03-01",
+    "production_ready": false
+  },
+  "tags": [
+    "stock",
+    "llm",
+    "analysis",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-10T09:10:56Z",
+  "analyzed_at": "2026-08-10T09:11:10Z",
+  "curated_at": "2026-08-10T09:11:18Z"
+}

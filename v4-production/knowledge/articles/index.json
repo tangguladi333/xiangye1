@@ -9661,5 +9661,118 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-09T08:34:03Z"
+  },
+  {
+    "id": "20260810-github-comfy-orgcomfyui",
+    "title": "Comfy-Org/ComfyUI",
+    "source_url": "https://github.com/Comfy-Org/ComfyUI",
+    "source_type": "github_trending",
+    "tags": [
+      "stable-diffusion",
+      "node-based",
+      "image-generation",
+      "workflow",
+      "gui"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-10T09:11:18Z"
+  },
+  {
+    "id": "20260810-github-google-deepmindweath",
+    "title": "google-deepmind/weathernext",
+    "source_url": "https://github.com/google-deepmind/weathernext",
+    "source_type": "github_trending",
+    "tags": [
+      "weather",
+      "diffusion-model",
+      "deepmind",
+      "forecasting",
+      "ai4science"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-10T09:11:18Z"
+  },
+  {
+    "id": "20260810-github-harveyaiharvey-labs",
+    "title": "harveyai/harvey-labs",
+    "source_url": "https://github.com/harveyai/harvey-labs",
+    "source_type": "github_trending",
+    "tags": [
+      "legal-tech",
+      "llm",
+      "document-analysis",
+      "contract-review"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-10T09:11:18Z"
+  },
+  {
+    "id": "20260810-github-koala73worldmonitor",
+    "title": "koala73/worldmonitor",
+    "source_url": "https://github.com/koala73/worldmonitor",
+    "source_type": "github_trending",
+    "tags": [
+      "news",
+      "monitoring",
+      "visualization"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-10T09:11:18Z"
+  },
+  {
+    "id": "20260810-github-pingdotggt3code",
+    "title": "pingdotgg/t3code",
+    "source_url": "https://github.com/pingdotgg/t3code",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "code-generation",
+      "typescript",
+      "t3-stack",
+      "cli"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-10T09:11:18Z"
+  },
+  {
+    "id": "20260810-github-vitali87code-graph-r",
+    "title": "vitali87/code-graph-rag",
+    "source_url": "https://github.com/vitali87/code-graph-rag",
+    "source_type": "github_trending",
+    "tags": [
+      "code-analysis",
+      "knowledge-graph",
+      "rag",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-10T09:11:18Z"
+  },
+  {
+    "id": "20260810-github-ykdojoclaude-code-ti",
+    "title": "ykdojo/claude-code-tips",
+    "source_url": "https://github.com/ykdojo/claude-code-tips",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "tips",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-10T09:11:18Z"
+  },
+  {
+    "id": "20260810-github-zhulinsendailystocka",
+    "title": "ZhuLinsen/daily_stock_analysis",
+    "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source_type": "github_trending",
+    "tags": [
+      "stock",
+      "llm",
+      "analysis",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-10T09:11:18Z"
   }
 ]

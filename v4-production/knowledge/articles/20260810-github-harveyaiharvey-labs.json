@@ -1,0 +1,32 @@
+{
+  "id": "20260810-github-harveyaiharvey-labs",
+  "title": "harveyai/harvey-labs",
+  "source_url": "https://github.com/harveyai/harvey-labs",
+  "source_type": "github_trending",
+  "summary": "Harvey Labs 是面向法律行业的 AI 助手平台，提供文档分析、合同审查和法规检索等工具，基于 LLM 构建，旨在提升法律工作效率。",
+  "highlights": [
+    "专为法律领域定制，支持合同审查和法规检索",
+    "提供多种 AI 工具，覆盖文档分析、问答等场景",
+    "基于现代 LLM 技术，具备可扩展的架构"
+  ],
+  "use_cases": [
+    "法律文档自动化处理",
+    "合同风险审查与合规检查",
+    "法律研究辅助与知识检索"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "legal-tech",
+    "llm",
+    "document-analysis",
+    "contract-review"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-10T09:10:56Z",
+  "analyzed_at": "2026-08-10T09:11:16Z",
+  "curated_at": "2026-08-10T09:11:18Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260810-github-koala73worldmonitor",
+  "title": "koala73/worldmonitor",
+  "source_url": "https://github.com/koala73/worldmonitor",
+  "source_type": "github_trending",
+  "summary": "worldmonitor 是一个实时监控全球新闻与事件的工具，聚合多源信息并提供可视化界面，帮助用户快速掌握世界动态。",
+  "highlights": [
+    "多源新闻聚合，覆盖全球主要媒体",
+    "实时事件追踪与可视化地图展示",
+    "支持自定义关键词过滤和订阅提醒"
+  ],
+  "use_cases": [
+    "新闻聚合与实时事件监控",
+    "舆情分析与趋势追踪"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "news",
+    "monitoring",
+    "visualization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-10T09:10:54Z",
+  "analyzed_at": "2026-08-10T09:11:01Z",
+  "curated_at": "2026-08-10T09:11:18Z"
+}
