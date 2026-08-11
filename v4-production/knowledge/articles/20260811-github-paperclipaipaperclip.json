@@ -1,0 +1,31 @@
+{
+  "id": "20260811-github-paperclipaipaperclip",
+  "title": "paperclipai/paperclip",
+  "source_url": "https://github.com/paperclipai/paperclip",
+  "source_type": "github_trending",
+  "summary": "Paperclip 是一个开源平台，用于构建和部署 AI 代理，提供可视化工作流编辑器和可扩展的运行时环境。",
+  "highlights": [
+    "可视化工作流设计器",
+    "支持多种模型和工具集成",
+    "提供云部署和本地运行选项"
+  ],
+  "use_cases": [
+    "自动化业务流程",
+    "构建智能客服助手",
+    "快速原型开发AI应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "workflow",
+    "low-code"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-11T08:46:13Z",
+  "analyzed_at": "2026-08-11T08:46:24Z",
+  "curated_at": "2026-08-11T08:46:30Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260811-github-vladmandicsdnext",
+  "title": "vladmandic/sdnext",
+  "source_url": "https://github.com/vladmandic/sdnext",
+  "source_type": "github_trending",
+  "summary": "sdnext 是 Stable Diffusion WebUI 的增强版，提供更快的性能、更现代的界面和更丰富的功能，支持多种模型和扩展，适合高级用户和开发者。",
+  "highlights": [
+    "性能优化显著，生成速度提升",
+    "界面现代化，用户体验友好",
+    "支持多种模型和扩展，兼容性强"
+  ],
+  "use_cases": [
+    "AI 图像生成与编辑",
+    "模型实验与开发"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "stable-diffusion",
+    "webui",
+    "ai-art",
+    "image-generation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-11T08:46:11Z",
+  "analyzed_at": "2026-08-11T08:46:18Z",
+  "curated_at": "2026-08-11T08:46:30Z"
+}

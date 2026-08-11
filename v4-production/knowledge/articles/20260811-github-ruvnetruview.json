@@ -1,0 +1,32 @@
+{
+  "id": "20260811-github-ruvnetruview",
+  "title": "ruvnet/RuView",
+  "source_url": "https://github.com/ruvnet/RuView",
+  "source_type": "github_trending",
+  "summary": "RuView 是一个基于 AI 的实时视频分析工具，支持对象检测、场景识别和内容摘要，提供轻量级 API 和 Web 界面。",
+  "highlights": [
+    "实时视频流处理与多模型集成",
+    "简洁的 REST API 和 Web 演示",
+    "支持自定义模型和扩展"
+  ],
+  "use_cases": [
+    "智能监控与安防",
+    "视频内容审核与摘要",
+    "实时场景理解"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-04-10",
+    "production_ready": false
+  },
+  "tags": [
+    "video-analysis",
+    "ai",
+    "real-time",
+    "computer-vision"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-11T08:46:13Z",
+  "analyzed_at": "2026-08-11T08:46:26Z",
+  "curated_at": "2026-08-11T08:46:30Z"
+}

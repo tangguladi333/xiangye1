@@ -1,0 +1,32 @@
+{
+  "id": "20260811-github-nanmicodermediacrawl",
+  "title": "NanmiCoder/MediaCrawler",
+  "source_url": "https://github.com/NanmiCoder/MediaCrawler",
+  "source_type": "github_trending",
+  "summary": "MediaCrawler 是一个基于 Playwright 的社交媒体数据爬虫工具，支持小红书、抖音、快手、B 站、微博等平台，用于采集视频、图片、评论等公开数据。",
+  "highlights": [
+    "支持多平台（小红书、抖音、快手、B 站、微博）",
+    "基于 Playwright 实现自动化，无需登录即可采集部分数据",
+    "提供数据导出功能（CSV/JSON）和代理支持"
+  ],
+  "use_cases": [
+    "社交媒体舆情分析",
+    "内容创作者竞品研究",
+    "学术研究数据采集"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "crawler",
+    "playwright",
+    "social-media",
+    "data-mining"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-11T08:46:13Z",
+  "analyzed_at": "2026-08-11T08:46:22Z",
+  "curated_at": "2026-08-11T08:46:30Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260811-github-opa334dopamine",
+  "title": "opa334/Dopamine",
+  "source_url": "https://github.com/opa334/Dopamine",
+  "source_type": "github_trending",
+  "summary": "Dopamine 是一款针对 iOS 15.0-15.4.1 的越狱工具，基于 rootless 架构，支持 arm64 和 arm64e 设备，提供稳定、安全的越狱体验。",
+  "highlights": [
+    "支持 iOS 15.0-15.4.1 全系设备",
+    "采用 rootless 架构，增强系统安全性",
+    "开源且社区活跃，持续更新"
+  ],
+  "use_cases": [
+    "iOS 系统定制与功能扩展",
+    "安全研究和漏洞分析",
+    "开发调试和逆向工程"
+  ],
+  "maturity": {
+    "stars": 2500,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "jailbreak",
+    "ios",
+    "security",
+    "rootless"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-11T08:46:13Z",
+  "analyzed_at": "2026-08-11T08:46:30Z",
+  "curated_at": "2026-08-11T08:46:30Z"
+}
