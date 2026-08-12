@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-3b1bmanim",
+  "title": "3b1b/manim",
+  "source_url": "https://github.com/3b1b/manim",
+  "source_type": "github_trending",
+  "summary": "Manim 是 3Blue1Brown 用于制作数学动画的 Python 引擎，支持精确的数学对象渲染和动画，广泛用于教育视频创作。",
+  "highlights": [
+    "强大的数学对象系统，支持 LaTeX 公式渲染",
+    "声明式动画设计，便于精确控制",
+    "社区活跃，文档完善，有多个版本分支"
+  ],
+  "use_cases": [
+    "数学教育视频制作",
+    "科学可视化演示",
+    "交互式教学工具开发"
+  ],
+  "maturity": {
+    "stars": 20000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "animation",
+    "math",
+    "python",
+    "education"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:57Z",
+  "analyzed_at": "2026-08-12T09:07:25Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

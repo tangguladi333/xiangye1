@@ -1,0 +1,30 @@
+{
+  "id": "20260812-github-cathrynlaverydiagram",
+  "title": "cathrynlavery/diagram-design",
+  "source_url": "https://github.com/cathrynlavery/diagram-design",
+  "source_type": "github_trending",
+  "summary": "diagram-design 是一个专注于图表设计的开源项目，提供基于代码的图表创建工具，支持多种图表类型，强调可定制性和易用性。",
+  "highlights": [
+    "支持多种图表类型，如流程图、时序图等",
+    "提供代码驱动的图表定义，便于版本控制",
+    "强调设计美观与可定制性，适合开发者使用"
+  ],
+  "use_cases": [
+    "开发文档中的架构图绘制",
+    "技术博客中的示意图制作"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "未知",
+    "production_ready": false
+  },
+  "tags": [
+    "diagram",
+    "design",
+    "visualization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:57Z",
+  "analyzed_at": "2026-08-12T09:07:19Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

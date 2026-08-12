@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-anthropicsskills",
+  "title": "anthropics/skills",
+  "source_url": "https://github.com/anthropics/skills",
+  "source_type": "github_trending",
+  "summary": "Anthropics 官方技能库，提供可复用的提示词模板和技能定义，用于增强 Claude 等 AI 助手的特定任务能力，涵盖文档处理、数据分析等场景。",
+  "highlights": [
+    "官方出品，质量有保障",
+    "技能模块化，易于集成",
+    "覆盖多种实用场景"
+  ],
+  "use_cases": [
+    "快速为 AI 助手添加专业能力",
+    "标准化团队内部 AI 使用流程"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "anthropic",
+    "skills",
+    "prompt-engineering",
+    "claude"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:57Z",
+  "analyzed_at": "2026-08-12T09:07:23Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

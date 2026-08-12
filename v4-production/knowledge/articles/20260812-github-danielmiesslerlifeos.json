@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-danielmiesslerlifeos",
+  "title": "danielmiessler/LifeOS",
+  "source_url": "https://github.com/danielmiessler/LifeOS",
+  "source_type": "github_trending",
+  "summary": "LifeOS 是一个将个人知识管理与 AI 结合的开源项目，旨在通过结构化笔记和自动化流程，帮助用户构建个人操作系统，提升生活和工作效率。",
+  "highlights": [
+    "将 AI 与个人知识管理深度融合，提供智能化的笔记处理",
+    "强调系统化思维，帮助用户建立可复用的生活工作流程",
+    "由知名安全专家 Daniel Miessler 维护，社区活跃"
+  ],
+  "use_cases": [
+    "个人知识库构建与自动化整理",
+    "日常任务与项目管理的 AI 辅助"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "knowledge-management",
+    "productivity",
+    "pkm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:55Z",
+  "analyzed_at": "2026-08-12T09:07:08Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-rowboatlabsrowboat",
+  "title": "rowboatlabs/rowboat",
+  "source_url": "https://github.com/rowboatlabs/rowboat",
+  "source_type": "github_trending",
+  "summary": "Rowboat 是一个开源的 AI 客服平台，提供可定制的聊天机器人、多渠道接入和实时数据分析，帮助企业自动化客户支持流程。",
+  "highlights": [
+    "多渠道支持（Web、Slack、Discord 等）",
+    "可视化流程构建器，无需代码即可设计对话",
+    "内置分析仪表盘，实时监控客服绩效"
+  ],
+  "use_cases": [
+    "企业客户支持自动化",
+    "电商售前售后咨询",
+    "内部知识库问答助手"
+  ],
+  "maturity": {
+    "stars": 1500,
+    "last_updated": "2026-06-15",
+    "production_ready": true
+  },
+  "tags": [
+    "ai",
+    "customer-support",
+    "chatbot",
+    "analytics"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:55Z",
+  "analyzed_at": "2026-08-12T09:07:10Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

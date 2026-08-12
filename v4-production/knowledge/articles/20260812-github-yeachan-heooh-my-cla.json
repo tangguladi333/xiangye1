@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-yeachan-heooh-my-cla",
+  "title": "Yeachan-Heo/oh-my-claudecode",
+  "source_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+  "source_type": "github_trending",
+  "summary": "oh-my-claudecode 是一个为 Claude Code CLI 提供增强配置和脚本的社区项目，旨在简化安装、主题定制和功能扩展，提升开发体验。",
+  "highlights": [
+    "提供一键安装脚本，简化 Claude Code 的配置流程",
+    "包含多种主题和别名配置，增强终端美观性和可用性",
+    "社区驱动，持续集成用户反馈和最佳实践"
+  ],
+  "use_cases": [
+    "开发者快速配置 Claude Code 环境",
+    "定制化终端主题和快捷键，提升编码效率"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude-code",
+    "cli",
+    "configuration",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:55Z",
+  "analyzed_at": "2026-08-12T09:06:56Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260812-github-nvidia-nemospeech",
+  "title": "NVIDIA-NeMo/Speech",
+  "source_url": "https://github.com/NVIDIA-NeMo/Speech",
+  "source_type": "github_trending",
+  "summary": "NVIDIA NeMo Speech 是一个面向语音AI的开源工具包，提供语音识别、合成和翻译等预训练模型，支持多语言和实时推理，适合研究和生产部署。",
+  "highlights": [
+    "集成多种SOTA语音模型，如Conformer、FastConformer",
+    "支持语音识别、语音合成、语音翻译等多项任务",
+    "提供灵活的微调和推理API，便于定制化应用"
+  ],
+  "use_cases": [
+    "智能语音助手与客服系统",
+    "多语言语音翻译与字幕生成",
+    "语音合成用于有声内容创作"
+  ],
+  "maturity": {
+    "stars": 3200,
+    "last_updated": "2026-05-15",
+    "production_ready": true
+  },
+  "tags": [
+    "speech",
+    "asr",
+    "tts",
+    "nvidia",
+    "deep-learning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:53Z",
+  "analyzed_at": "2026-08-12T09:05:58Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

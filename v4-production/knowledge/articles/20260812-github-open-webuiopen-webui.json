@@ -1,0 +1,33 @@
+{
+  "id": "20260812-github-open-webuiopen-webui",
+  "title": "open-webui/open-webui",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "source_type": "github_trending",
+  "summary": "Open WebUI 是一个可扩展、功能丰富的自托管 WebUI，支持 Ollama 和 OpenAI 兼容 API，提供聊天、RAG、多用户管理等特性，旨在完全离线运行。",
+  "highlights": [
+    "支持 Ollama 和 OpenAI 接口，无缝切换",
+    "内置 RAG 管道、多用户管理和 RBAC",
+    "响应式设计，支持 PWA，可离线使用"
+  ],
+  "use_cases": [
+    "本地私有化部署 LLM 聊天界面",
+    "团队协作的 AI 助手平台",
+    "集成文档问答的 RAG 应用"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "webui",
+    "rag",
+    "ollama",
+    "self-hosted"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:52Z",
+  "analyzed_at": "2026-08-12T09:05:32Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

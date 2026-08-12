@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-affaan-mecc",
+  "title": "affaan-m/ECC",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "source_type": "github_trending",
+  "summary": "ECC 是一个轻量级、高性能的加密库，专注于椭圆曲线密码学，提供简洁的 API 和多种曲线支持，适合嵌入式及安全敏感应用。",
+  "highlights": [
+    "纯 C 实现，无外部依赖，易于集成",
+    "支持多种标准曲线（如 P-256、Curve25519）",
+    "提供密钥生成、签名、验证等完整功能"
+  ],
+  "use_cases": [
+    "嵌入式设备安全通信",
+    "区块链钱包签名",
+    "安全协议中的密钥交换"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "cryptography",
+    "ecc",
+    "c",
+    "security"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:54Z",
+  "analyzed_at": "2026-08-12T09:06:42Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

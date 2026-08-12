@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-bytedancedeer-flow",
+  "title": "bytedance/deer-flow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "source_type": "github_trending",
+  "summary": "DeerFlow 是字节跳动开源的 LLM 应用开发框架，专注于构建可观测、可调试的 Agent 工作流，提供可视化调试和监控能力。",
+  "highlights": [
+    "可视化工作流调试与监控",
+    "支持多种 LLM 和工具集成",
+    "提供可观测性和追踪功能"
+  ],
+  "use_cases": [
+    "构建复杂 Agent 应用",
+    "工作流调试与性能监控"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "observability"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:52Z",
+  "analyzed_at": "2026-08-12T09:05:17Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

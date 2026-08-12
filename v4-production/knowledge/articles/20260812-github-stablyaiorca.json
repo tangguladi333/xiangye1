@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-stablyaiorca",
+  "title": "stablyai/orca",
+  "source_url": "https://github.com/stablyai/orca",
+  "source_type": "github_trending",
+  "summary": "Orca 是一个开源的多模态 AI 推理引擎，专注于高效部署和运行大型语言模型（LLM）与视觉模型，提供低延迟、高吞吐的推理服务。",
+  "highlights": [
+    "支持多模态模型（文本+图像）的统一推理",
+    "针对 GPU 和 CPU 进行了性能优化，降低延迟",
+    "提供简洁的 API 和 Docker 部署方案"
+  ],
+  "use_cases": [
+    "生产环境中的 LLM 服务部署",
+    "多模态应用（如视觉问答、图像描述）",
+    "边缘设备上的模型推理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "multimodal",
+    "inference",
+    "deployment"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:57Z",
+  "analyzed_at": "2026-08-12T09:07:29Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

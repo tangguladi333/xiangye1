@@ -1,0 +1,33 @@
+{
+  "id": "20260812-github-tambo-aitambo",
+  "title": "tambo-ai/tambo",
+  "source_url": "https://github.com/tambo-ai/tambo",
+  "source_type": "github_trending",
+  "summary": "Tambo 是一个面向 AI 代理的实时会话记忆基础设施，提供 Python 和 TypeScript SDK，支持持久化、检索和上下文管理，帮助开发者构建具有长期记忆的智能代理。",
+  "highlights": [
+    "提供 Python 和 TypeScript 双语言 SDK，覆盖主流开发栈",
+    "专注于代理记忆管理，解决长期上下文保持问题",
+    "支持实时会话数据持久化与检索，易于集成"
+  ],
+  "use_cases": [
+    "构建具有长期记忆的聊天机器人或虚拟助手",
+    "需要跨会话保持上下文的 AI 代理应用",
+    "多代理协作场景下的共享记忆管理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "memory",
+    "sdk",
+    "infrastructure"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:53Z",
+  "analyzed_at": "2026-08-12T09:06:06Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

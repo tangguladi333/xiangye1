@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-practical-tutorialsp",
+  "title": "practical-tutorials/project-based-learning",
+  "source_url": "https://github.com/practical-tutorials/project-based-learning",
+  "source_type": "github_trending",
+  "summary": "该项目是一个精选的编程教程列表，涵盖多种语言和框架，通过项目实战帮助开发者学习。资源丰富，社区维护活跃。",
+  "highlights": [
+    "涵盖多种编程语言",
+    "教程按技术栈分类",
+    "社区驱动持续更新"
+  ],
+  "use_cases": [
+    "自学编程",
+    "教学参考",
+    "技术选型调研"
+  ],
+  "maturity": {
+    "stars": 150000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "教程",
+    "项目实战",
+    "编程学习"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:57Z",
+  "analyzed_at": "2026-08-12T09:07:38Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-farion1231cc-switch",
+  "title": "farion1231/cc-switch",
+  "source_url": "https://github.com/farion1231/cc-switch",
+  "source_type": "github_trending",
+  "summary": "cc-switch 是一个用于切换 Claude Code 和 Codex 供应商配置的桌面工具，支持多配置管理、一键切换和本地数据存储，提升开发效率。",
+  "highlights": [
+    "支持 Claude Code 和 Codex 双平台配置切换",
+    "提供图形化界面，操作简单直观",
+    "数据本地存储，保障隐私安全"
+  ],
+  "use_cases": [
+    "多 API 供应商环境下的快速切换",
+    "开发与生产环境配置隔离管理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude-code",
+    "codex",
+    "config-switcher",
+    "desktop-app"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:54Z",
+  "analyzed_at": "2026-08-12T09:06:44Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

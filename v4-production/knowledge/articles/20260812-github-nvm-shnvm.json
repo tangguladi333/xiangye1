@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-nvm-shnvm",
+  "title": "nvm-sh/nvm",
+  "source_url": "https://github.com/nvm-sh/nvm",
+  "source_type": "github_trending",
+  "summary": "nvm 是流行的 Node.js 版本管理器，通过 shell 脚本实现多版本安装、切换和管理，支持 POSIX 兼容系统，是 Node 开发者的必备工具。",
+  "highlights": [
+    "支持安装、切换、卸载多个 Node.js 版本",
+    "通过 shell 函数实现，无额外依赖",
+    "支持 .nvmrc 文件自动切换版本"
+  ],
+  "use_cases": [
+    "本地开发环境管理多个 Node 版本",
+    "CI/CD 中按项目需求切换 Node 版本"
+  ],
+  "maturity": {
+    "stars": 82000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "nodejs",
+    "version-manager",
+    "shell",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:57Z",
+  "analyzed_at": "2026-08-12T09:07:21Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

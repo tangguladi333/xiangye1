@@ -1,0 +1,30 @@
+{
+  "id": "20260812-github-jaywcjloveawesome-ma",
+  "title": "jaywcjlove/awesome-mac",
+  "source_url": "https://github.com/jaywcjlove/awesome-mac",
+  "source_type": "github_trending",
+  "summary": "这是一个精选的 macOS 软件、工具和资源列表，涵盖开发、设计、办公等多个类别，持续更新，社区活跃。",
+  "highlights": [
+    "分类详尽，覆盖开发、设计、办公等众多领域",
+    "持续更新，紧跟 macOS 生态最新动态",
+    "社区贡献活跃，收录大量实用工具"
+  ],
+  "use_cases": [
+    "发现 macOS 平台的高效开发工具",
+    "寻找特定场景下的最佳软件解决方案"
+  ],
+  "maturity": {
+    "stars": 45000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "macos",
+    "awesome-list",
+    "tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:57Z",
+  "analyzed_at": "2026-08-12T09:07:34Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-headroomlabs-aiheadr",
+  "title": "headroomlabs-ai/headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github_trending",
+  "summary": "Headroom 是一个开源框架，用于构建可观测、可治理的 AI 代理系统，提供实时监控、审计日志和策略控制，帮助团队在生产环境中安全部署 LLM 应用。",
+  "highlights": [
+    "提供细粒度的代理行为追踪与可视化仪表盘",
+    "内置策略引擎，支持动态权限控制和合规审计",
+    "与主流 LLM 框架（如 LangChain、LlamaIndex）无缝集成"
+  ],
+  "use_cases": [
+    "企业级 AI 助手的安全部署与监控",
+    "需要严格合规审计的金融、医疗等行业的代理系统"
+  ],
+  "maturity": {
+    "stars": 850,
+    "last_updated": "2026-06-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "observability",
+    "governance",
+    "security"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:52Z",
+  "analyzed_at": "2026-08-12T09:05:43Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

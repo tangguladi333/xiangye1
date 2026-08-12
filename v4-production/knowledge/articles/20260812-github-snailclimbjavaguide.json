@@ -1,0 +1,33 @@
+{
+  "id": "20260812-github-snailclimbjavaguide",
+  "title": "Snailclimb/JavaGuide",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "source_type": "github_trending",
+  "summary": "JavaGuide 是一份全面的 Java 学习指南，涵盖基础、框架、面试题、系统设计等核心知识，适合初学者和进阶者系统学习。",
+  "highlights": [
+    "内容覆盖广，从 Java 基础到分布式、微服务等高级主题",
+    "包含大量面试题和实战经验，适合求职准备",
+    "社区活跃，持续更新，贡献者众多"
+  ],
+  "use_cases": [
+    "Java 初学者系统学习路线",
+    "Java 面试复习与准备",
+    "开发者日常查阅参考手册"
+  ],
+  "maturity": {
+    "stars": 140000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "java",
+    "interview",
+    "learning",
+    "guide",
+    "backend"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:51Z",
+  "analyzed_at": "2026-08-12T09:05:03Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

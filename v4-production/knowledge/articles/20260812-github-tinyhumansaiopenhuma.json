@@ -1,0 +1,32 @@
+{
+  "id": "20260812-github-tinyhumansaiopenhuma",
+  "title": "tinyhumansai/openhuman",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "source_type": "github_trending",
+  "summary": "OpenHuman 是一个开源项目，旨在构建可交互的 AI 数字人，提供实时对话、情感表达和动作驱动能力。项目包含完整的 SDK、示例和文档，适合快速集成到应用中。",
+  "highlights": [
+    "提供跨平台 SDK，支持 Web、移动端和桌面端",
+    "内置情感识别与自然语言处理，实现沉浸式交互",
+    "模块化架构，支持自定义动作和表情驱动"
+  ],
+  "use_cases": [
+    "虚拟客服与智能助手",
+    "教育培训中的虚拟讲师",
+    "娱乐与社交中的虚拟角色"
+  ],
+  "maturity": {
+    "stars": 850,
+    "last_updated": "2026-05-20",
+    "production_ready": false
+  },
+  "tags": [
+    "digital-human",
+    "ai",
+    "sdk",
+    "interactive"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:54Z",
+  "analyzed_at": "2026-08-12T09:06:40Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}

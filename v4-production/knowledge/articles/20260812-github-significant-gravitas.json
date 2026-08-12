@@ -1,0 +1,31 @@
+{
+  "id": "20260812-github-significant-gravitas",
+  "title": "Significant-Gravitas/AutoGPT",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "source_type": "github_trending",
+  "summary": "AutoGPT 是一个开源的 AI 代理平台，旨在让用户轻松构建、部署和运行自主 AI 代理。它提供了可视化构建器、后端服务和前端界面，支持多种 AI 模型，并强调安全性和可扩展性。",
+  "highlights": [
+    "提供可视化代理构建器，降低开发门槛",
+    "支持多种 AI 模型（如 GPT-4、Llama 等）和自定义扩展",
+    "包含完整的后端、前端和 CLI，便于集成和部署"
+  ],
+  "use_cases": [
+    "自动化复杂任务流程，如数据分析、内容生成",
+    "构建定制化 AI 助手，用于客户支持、个人助理等"
+  ],
+  "maturity": {
+    "stars": 170000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ai-agent",
+    "automation",
+    "llm",
+    "low-code"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-12T09:04:53Z",
+  "analyzed_at": "2026-08-12T09:05:46Z",
+  "curated_at": "2026-08-12T09:07:38Z"
+}
