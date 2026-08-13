@@ -1,0 +1,32 @@
+{
+  "id": "20260813-github-joshuac215agent-serv",
+  "title": "JoshuaC215/agent-service-toolkit",
+  "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+  "source_type": "github_trending",
+  "summary": "这是一个用于构建和部署 LangGraph 代理服务的完整工具包，提供 FastAPI 接口、流式响应和可观测性支持，简化生产级 AI 代理的落地。",
+  "highlights": [
+    "基于 LangGraph 构建，支持复杂代理工作流",
+    "提供 FastAPI 服务模板，支持流式输出和健康检查",
+    "集成 LangSmith 进行可观测性和调试"
+  ],
+  "use_cases": [
+    "快速搭建生产级 AI 代理后端服务",
+    "作为微服务集成到现有系统中"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "langgraph",
+    "fastapi",
+    "agent",
+    "llm",
+    "backend"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:11Z",
+  "analyzed_at": "2026-08-13T09:05:18Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}

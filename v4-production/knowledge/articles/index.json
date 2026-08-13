@@ -10838,5 +10838,212 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-12T09:07:38Z"
+  },
+  {
+    "id": "20260813-github-aishwaryanrawesome-g",
+    "title": "aishwaryanr/awesome-generative-ai-guide",
+    "source_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "source_type": "github_trending",
+    "tags": [
+      "generative-ai",
+      "awesome-list",
+      "resources",
+      "guide"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-cactus-computeneedle",
+    "title": "cactus-compute/needle",
+    "source_url": "https://github.com/cactus-compute/needle",
+    "source_type": "github_trending",
+    "tags": [
+      "vector-database",
+      "ai",
+      "similarity-search",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-embabelembabel-agent",
+    "title": "embabel/embabel-agent",
+    "source_url": "https://github.com/embabel/embabel-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-hugohe3ppt-master",
+    "title": "hugohe3/ppt-master",
+    "source_url": "https://github.com/hugohe3/ppt-master",
+    "source_type": "github_trending",
+    "tags": [
+      "ppt",
+      "ai",
+      "generation",
+      "productivity"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-jerryzliudayflow",
+    "title": "JerryZLiu/Dayflow",
+    "source_url": "https://github.com/JerryZLiu/Dayflow",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "automation",
+      "scheduler"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-joshuac215agent-serv",
+    "title": "JoshuaC215/agent-service-toolkit",
+    "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+    "source_type": "github_trending",
+    "tags": [
+      "langgraph",
+      "fastapi",
+      "agent",
+      "llm",
+      "backend"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-lightricksltx-2",
+    "title": "Lightricks/LTX-2",
+    "source_url": "https://github.com/Lightricks/LTX-2",
+    "source_type": "github_trending",
+    "tags": [
+      "video-generation",
+      "multimodal",
+      "generative-ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-localsendlocalsend",
+    "title": "localsend/localsend",
+    "source_url": "https://github.com/localsend/localsend",
+    "source_type": "github_trending",
+    "tags": [
+      "file-transfer",
+      "privacy",
+      "cross-platform"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-macro-incmacro",
+    "title": "macro-inc/macro",
+    "source_url": "https://github.com/macro-inc/macro",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "framework",
+      "visual-tool"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-miurlamorphic",
+    "title": "miurla/morphic",
+    "source_url": "https://github.com/miurla/morphic",
+    "source_type": "github_trending",
+    "tags": [
+      "nextjs",
+      "ai",
+      "search",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-nvidia-nemoswitchyar",
+    "title": "NVIDIA-NeMo/Switchyard",
+    "source_url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "nvidia",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-openaiopenai-agents-",
+    "title": "openai/openai-agents-python",
+    "source_url": "https://github.com/openai/openai-agents-python",
+    "source_type": "github_trending",
+    "tags": [
+      "openai",
+      "agent",
+      "llm",
+      "python",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-shiyu-coderkronos",
+    "title": "shiyu-coder/Kronos",
+    "source_url": "https://github.com/shiyu-coder/Kronos",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "inference",
+      "optimization",
+      "kv-cache"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-smicallefspiderfoot",
+    "title": "smicallef/spiderfoot",
+    "source_url": "https://github.com/smicallef/spiderfoot",
+    "source_type": "github_trending",
+    "tags": [
+      "osint",
+      "security",
+      "threat-intelligence",
+      "reconnaissance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260813-github-zuodaotecheveryone-c",
+    "title": "ZuodaoTech/everyone-can-use-english",
+    "source_url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "source_type": "github_trending",
+    "tags": [
+      "english",
+      "education",
+      "learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-13T09:05:53Z"
   }
 ]

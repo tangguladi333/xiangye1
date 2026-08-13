@@ -1,0 +1,33 @@
+{
+  "id": "20260813-github-nvidia-nemoswitchyar",
+  "title": "NVIDIA-NeMo/Switchyard",
+  "source_url": "https://github.com/NVIDIA-NeMo/Switchyard",
+  "source_type": "github_trending",
+  "summary": "Switchyard 是 NVIDIA 推出的开源框架，用于构建和编排多智能体 LLM 系统，提供灵活的工作流定义、并行执行和可观测性，简化复杂 AI 应用的开发与部署。",
+  "highlights": [
+    "支持多智能体协作与复杂工作流编排",
+    "提供并行执行和可观测性功能",
+    "由 NVIDIA 维护，与 NeMo 生态集成"
+  ],
+  "use_cases": [
+    "构建多智能体协作的 AI 应用",
+    "复杂任务分解与并行处理",
+    "企业级 LLM 工作流编排与监控"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "nvidia",
+    "orchestration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:15Z",
+  "analyzed_at": "2026-08-13T09:05:39Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}

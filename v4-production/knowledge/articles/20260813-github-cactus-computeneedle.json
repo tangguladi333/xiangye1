@@ -1,0 +1,32 @@
+{
+  "id": "20260813-github-cactus-computeneedle",
+  "title": "cactus-compute/needle",
+  "source_url": "https://github.com/cactus-compute/needle",
+  "source_type": "github_trending",
+  "summary": "Needle 是一个轻量级、高性能的向量数据库，专为 AI 应用设计，支持实时相似性搜索和元数据过滤，提供简单 API 和嵌入式部署。",
+  "highlights": [
+    "极简设计，易于集成和部署",
+    "高性能向量索引，支持实时搜索",
+    "内置元数据过滤，增强查询灵活性"
+  ],
+  "use_cases": [
+    "AI 聊天机器人的上下文检索",
+    "推荐系统的相似内容匹配",
+    "RAG 应用的文档向量存储"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "vector-database",
+    "ai",
+    "similarity-search",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:15Z",
+  "analyzed_at": "2026-08-13T09:05:53Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}

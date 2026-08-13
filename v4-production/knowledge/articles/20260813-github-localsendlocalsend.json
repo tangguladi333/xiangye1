@@ -1,0 +1,30 @@
+{
+  "id": "20260813-github-localsendlocalsend",
+  "title": "localsend/localsend",
+  "source_url": "https://github.com/localsend/localsend",
+  "source_type": "github_trending",
+  "summary": "LocalSend 是一个开源跨平台文件传输工具，支持设备间无需互联网的本地文件分享，注重隐私与易用性。",
+  "highlights": [
+    "跨平台支持（Windows、macOS、Linux、Android、iOS）",
+    "端到端加密，确保传输安全",
+    "无需服务器，基于局域网直连"
+  ],
+  "use_cases": [
+    "在无网络环境下快速传输文件",
+    "跨设备（手机、电脑）共享文档和媒体"
+  ],
+  "maturity": {
+    "stars": 45000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "file-transfer",
+    "privacy",
+    "cross-platform"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:15Z",
+  "analyzed_at": "2026-08-13T09:05:46Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}

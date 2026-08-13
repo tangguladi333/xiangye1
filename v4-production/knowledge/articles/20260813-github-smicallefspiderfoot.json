@@ -1,0 +1,32 @@
+{
+  "id": "20260813-github-smicallefspiderfoot",
+  "title": "smicallef/spiderfoot",
+  "source_url": "https://github.com/smicallef/spiderfoot",
+  "source_type": "github_trending",
+  "summary": "SpiderFoot 是一款开源自动化 OSINT 情报收集工具，集成了 200+ 数据源，支持攻击面发现、资产映射和威胁情报分析，适用于安全研究和渗透测试。",
+  "highlights": [
+    "集成 200+ 数据源，覆盖域名、IP、邮箱、社交账号等",
+    "支持 CLI、Web 界面和 API，易于自动化集成",
+    "模块化架构，可扩展自定义扫描模块"
+  ],
+  "use_cases": [
+    "渗透测试前期的信息收集与攻击面测绘",
+    "企业安全团队进行外部资产暴露面监控",
+    "威胁情报分析师追踪恶意基础设施"
+  ],
+  "maturity": {
+    "stars": 13000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "osint",
+    "security",
+    "threat-intelligence",
+    "reconnaissance"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:15Z",
+  "analyzed_at": "2026-08-13T09:05:44Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}

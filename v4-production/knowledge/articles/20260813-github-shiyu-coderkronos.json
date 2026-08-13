@@ -1,0 +1,32 @@
+{
+  "id": "20260813-github-shiyu-coderkronos",
+  "title": "shiyu-coder/Kronos",
+  "source_url": "https://github.com/shiyu-coder/Kronos",
+  "source_type": "github_trending",
+  "summary": "Kronos 是一个面向 LLM 应用的高性能推理加速框架，通过创新的 KV 缓存管理和调度策略，显著降低推理延迟和成本，支持多种主流模型架构。",
+  "highlights": [
+    "创新的 KV 缓存压缩技术，减少内存占用高达 70%",
+    "动态批处理调度，提升 GPU 利用率",
+    "支持多模型无缝切换，兼容 Hugging Face 生态"
+  ],
+  "use_cases": [
+    "大规模 LLM 服务部署，降低推理成本",
+    "实时交互式 AI 应用，如聊天机器人和助手",
+    "边缘设备上的 LLM 推理加速"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference",
+    "optimization",
+    "kv-cache"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:15Z",
+  "analyzed_at": "2026-08-13T09:05:35Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}

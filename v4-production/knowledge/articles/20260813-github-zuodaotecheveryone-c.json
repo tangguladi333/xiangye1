@@ -1,0 +1,30 @@
+{
+  "id": "20260813-github-zuodaotecheveryone-c",
+  "title": "ZuodaoTech/everyone-can-use-english",
+  "source_url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+  "source_type": "github_trending",
+  "summary": "这是一个面向所有人的英语学习开源项目，提供系统化的学习路径和实用资源，帮助用户高效提升英语能力。",
+  "highlights": [
+    "系统化的学习路径设计",
+    "丰富的实用英语学习资源",
+    "社区驱动，持续更新"
+  ],
+  "use_cases": [
+    "英语自学入门",
+    "日常英语能力提升"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "english",
+    "education",
+    "learning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:15Z",
+  "analyzed_at": "2026-08-13T09:05:41Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}

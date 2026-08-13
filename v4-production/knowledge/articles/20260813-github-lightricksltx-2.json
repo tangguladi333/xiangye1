@@ -1,0 +1,31 @@
+{
+  "id": "20260813-github-lightricksltx-2",
+  "title": "Lightricks/LTX-2",
+  "source_url": "https://github.com/Lightricks/LTX-2",
+  "source_type": "github_trending",
+  "summary": "LTX-2 是 Lightricks 推出的新一代视频生成模型，支持高分辨率、长视频生成，具备多模态交互能力，显著提升视频创作的效率与质量。",
+  "highlights": [
+    "支持高分辨率长视频生成，突破时长限制",
+    "集成多模态交互，文本/图像驱动视频创作",
+    "面向专业创作者，提供高效工作流"
+  ],
+  "use_cases": [
+    "影视级视频内容创作",
+    "广告与社交媒体视频制作",
+    "快速原型与概念可视化"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "video-generation",
+    "multimodal",
+    "generative-ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:15Z",
+  "analyzed_at": "2026-08-13T09:05:48Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260813-github-jerryzliudayflow",
+  "title": "JerryZLiu/Dayflow",
+  "source_url": "https://github.com/JerryZLiu/Dayflow",
+  "source_type": "github_trending",
+  "summary": "Dayflow 是一个轻量级的工作流引擎，专注于简化日常任务自动化。它提供直观的 API 和可视化界面，支持定时触发和事件驱动，适合个人和小团队快速构建自动化流程。",
+  "highlights": [
+    "轻量级设计，易于集成",
+    "支持可视化工作流编辑",
+    "内置定时与事件触发机制"
+  ],
+  "use_cases": [
+    "日常任务自动化",
+    "数据管道编排",
+    "定时报告生成"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "workflow",
+    "automation",
+    "scheduler"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-13T09:05:14Z",
+  "analyzed_at": "2026-08-13T09:05:30Z",
+  "curated_at": "2026-08-13T09:05:53Z"
+}
