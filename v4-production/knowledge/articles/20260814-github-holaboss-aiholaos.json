@@ -1,0 +1,32 @@
+{
+  "id": "20260814-github-holaboss-aiholaos",
+  "title": "holaboss-ai/holaOS",
+  "source_url": "https://github.com/holaboss-ai/holaOS",
+  "source_type": "github_trending",
+  "summary": "holaOS 是一个面向 AI 代理的操作系统，提供容器化运行环境、资源调度和工具集成，旨在简化 AI 应用的部署与管理。",
+  "highlights": [
+    "专为 AI 代理设计的轻量级操作系统",
+    "内置容器化隔离和资源调度功能",
+    "支持多种 AI 框架和工具的无缝集成"
+  ],
+  "use_cases": [
+    "AI 代理的云端部署与运维",
+    "多代理系统的资源管理与调度",
+    "边缘设备上的 AI 应用运行"
+  ],
+  "maturity": {
+    "stars": 850,
+    "last_updated": "2026-05-20",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "operating-system",
+    "container",
+    "orchestration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:16Z",
+  "analyzed_at": "2026-08-14T09:01:50Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

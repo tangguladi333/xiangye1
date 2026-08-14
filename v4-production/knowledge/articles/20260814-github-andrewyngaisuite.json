@@ -1,0 +1,31 @@
+{
+  "id": "20260814-github-andrewyngaisuite",
+  "title": "andrewyng/aisuite",
+  "source_url": "https://github.com/andrewyng/aisuite",
+  "source_type": "github_trending",
+  "summary": "aisuite 是 Andrew Ng 推出的轻量级多 LLM 提供商统一接口库，支持 OpenAI、Anthropic、Google 等主流模型，简化切换与调用，适合快速原型开发。",
+  "highlights": [
+    "统一 API 接口，一行代码切换多家 LLM 提供商",
+    "轻量级设计，无强制依赖，易于集成",
+    "由 AI 领域权威 Andrew Ng 发起，社区关注度高"
+  ],
+  "use_cases": [
+    "快速构建多模型对比测试环境",
+    "在应用中灵活切换不同 LLM 提供商以优化成本或性能"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "multi-provider",
+    "python",
+    "api"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:12Z",
+  "analyzed_at": "2026-08-14T09:01:31Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

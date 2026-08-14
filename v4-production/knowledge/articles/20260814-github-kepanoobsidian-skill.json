@@ -1,0 +1,30 @@
+{
+  "id": "20260814-github-kepanoobsidian-skill",
+  "title": "kepano/obsidian-skills",
+  "source_url": "https://github.com/kepano/obsidian-skills",
+  "source_type": "github_trending",
+  "summary": "obsidian-skills 是一个为 Obsidian 笔记软件设计的技能插件集合，通过自然语言指令增强笔记操作，提升知识管理效率。",
+  "highlights": [
+    "自然语言驱动笔记操作",
+    "与 Obsidian 深度集成",
+    "开源且社区活跃"
+  ],
+  "use_cases": [
+    "快速创建和整理笔记",
+    "通过语音或文本指令管理知识库"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "obsidian",
+    "plugin",
+    "productivity"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:16Z",
+  "analyzed_at": "2026-08-14T09:01:52Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

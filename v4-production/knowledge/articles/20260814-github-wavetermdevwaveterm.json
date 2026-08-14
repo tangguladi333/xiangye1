@@ -1,0 +1,32 @@
+{
+  "id": "20260814-github-wavetermdevwaveterm",
+  "title": "wavetermdev/waveterm",
+  "source_url": "https://github.com/wavetermdev/waveterm",
+  "source_type": "github_trending",
+  "summary": "WaveTerm 是一个开源终端，融合 AI 与 Web 技术，提供现代化界面、工作区和协作功能，支持本地与远程连接，提升开发效率。",
+  "highlights": [
+    "基于 Web 技术构建，界面现代且可定制",
+    "内置 AI 助手，支持命令建议和自动化",
+    "支持工作区、标签页和远程会话管理"
+  ],
+  "use_cases": [
+    "开发者日常终端操作与多任务管理",
+    "远程服务器管理和云开发环境",
+    "团队协作和共享终端会话"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "terminal",
+    "ai",
+    "web",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:14Z",
+  "analyzed_at": "2026-08-14T09:01:39Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260814-github-unslothaiunsloth",
+  "title": "unslothai/unsloth",
+  "source_url": "https://github.com/unslothai/unsloth",
+  "source_type": "github_trending",
+  "summary": "Unsloth 是一个开源项目，旨在通过优化内存和计算效率，大幅加速大型语言模型的微调与推理过程，支持多种主流模型架构。",
+  "highlights": [
+    "显著提升微调速度（最高可达 2-5 倍）并减少内存占用",
+    "支持 LoRA、QLoRA 等高效微调方法，兼容 Hugging Face 生态",
+    "提供简单易用的 API，并针对消费级 GPU 进行优化"
+  ],
+  "use_cases": [
+    "在有限硬件资源下微调大语言模型",
+    "快速迭代模型原型，降低实验成本",
+    "为特定领域定制轻量级模型"
+  ],
+  "maturity": {
+    "stars": 15000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "optimization",
+    "lora",
+    "gpu"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:16Z",
+  "analyzed_at": "2026-08-14T09:01:45Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

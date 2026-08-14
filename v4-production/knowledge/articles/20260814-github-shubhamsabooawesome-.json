@@ -1,0 +1,32 @@
+{
+  "id": "20260814-github-shubhamsabooawesome-",
+  "title": "Shubhamsaboo/awesome-llm-apps",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "source_type": "github_trending",
+  "summary": "这是一个精选的 LLM 应用集合，包含基于 RAG、AI Agent 等技术的真实生产级应用示例，涵盖 Python、React 等实现，适合学习和参考。",
+  "highlights": [
+    "包含 100+ 个真实可运行的 LLM 应用示例",
+    "覆盖 RAG、Agent、多模态、微调等多个热门方向",
+    "提供详细的文档和架构图，便于理解与复现"
+  ],
+  "use_cases": [
+    "学习 LLM 应用开发的最佳实践",
+    "快速原型验证与项目脚手架参考"
+  ],
+  "maturity": {
+    "stars": 25000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "agent",
+    "awesome-list",
+    "tutorial"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:10Z",
+  "analyzed_at": "2026-08-14T09:01:18Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

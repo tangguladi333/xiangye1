@@ -1,0 +1,31 @@
+{
+  "id": "20260814-github-hkudsvibe-trading",
+  "title": "HKUDS/Vibe-Trading",
+  "source_url": "https://github.com/HKUDS/Vibe-Trading",
+  "source_type": "github_trending",
+  "summary": "Vibe-Trading 是一个基于大语言模型的智能交易框架，由港大数据科学实验室开发，支持多策略回测与实时交易，强调可解释性和用户交互。",
+  "highlights": [
+    "集成多种 LLM 驱动的交易策略",
+    "提供回测与实盘交易双模式",
+    "强调交易决策的可解释性"
+  ],
+  "use_cases": [
+    "量化交易策略研究与回测",
+    "基于自然语言交互的智能交易辅助"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "trading",
+    "quantitative-finance",
+    "backtesting"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:14Z",
+  "analyzed_at": "2026-08-14T09:01:37Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

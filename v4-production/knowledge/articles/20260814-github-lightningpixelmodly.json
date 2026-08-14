@@ -1,0 +1,31 @@
+{
+  "id": "20260814-github-lightningpixelmodly",
+  "title": "lightningpixel/modly",
+  "source_url": "https://github.com/lightningpixel/modly",
+  "source_type": "github_trending",
+  "summary": "Modly 是一个轻量级、模块化的 AI 代理框架，专注于简化 LLM 应用的构建与部署。它提供灵活的插件系统，支持多种模型提供商，并强调可扩展性与易用性。",
+  "highlights": [
+    "模块化设计，支持自定义插件与扩展",
+    "多模型提供商集成，包括 OpenAI、Anthropic 等",
+    "轻量级，低依赖，易于集成到现有项目"
+  ],
+  "use_cases": [
+    "快速构建聊天机器人或虚拟助手",
+    "作为内部工具或自动化流程的 AI 代理层"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "modular"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:16Z",
+  "analyzed_at": "2026-08-14T09:01:54Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260814-github-altic-devfluidvoice",
+  "title": "altic-dev/FluidVoice",
+  "source_url": "https://github.com/altic-dev/FluidVoice",
+  "source_type": "github_trending",
+  "summary": "FluidVoice 是一个开源语音合成工具包，专注于高效、高质量的文本转语音（TTS）模型训练与推理，支持多语言和自定义音色，提供简洁的 API 和预训练模型。",
+  "highlights": [
+    "支持多语言 TTS 训练与推理，灵活适配不同语种",
+    "提供预训练模型和简易 API，降低使用门槛",
+    "代码结构清晰，文档齐全，便于二次开发"
+  ],
+  "use_cases": [
+    "语音助手和交互式应用的语音生成",
+    "内容创作（如播客、有声书）的自动化配音",
+    "个性化语音克隆和定制音色场景"
+  ],
+  "maturity": {
+    "stars": 320,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "tts",
+    "speech-synthesis",
+    "voice-cloning",
+    "deep-learning"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:16Z",
+  "analyzed_at": "2026-08-14T09:01:42Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

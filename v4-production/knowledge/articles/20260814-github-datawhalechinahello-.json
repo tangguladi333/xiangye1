@@ -1,0 +1,31 @@
+{
+  "id": "20260814-github-datawhalechinahello-",
+  "title": "datawhalechina/hello-agents",
+  "source_url": "https://github.com/datawhalechina/hello-agents",
+  "source_type": "github_trending",
+  "summary": "Datawhale 出品的 LLM Agent 入门教程，涵盖 Agent 原理、框架使用与实战项目，适合初学者快速上手。",
+  "highlights": [
+    "系统化中文教程，降低学习门槛",
+    "包含多个实战案例，覆盖主流框架",
+    "社区活跃，持续更新"
+  ],
+  "use_cases": [
+    "初学者入门 LLM Agent 开发",
+    "教学培训与自学参考"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "tutorial",
+    "datawhale"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-14T09:01:10Z",
+  "analyzed_at": "2026-08-14T09:01:26Z",
+  "curated_at": "2026-08-14T09:01:54Z"
+}

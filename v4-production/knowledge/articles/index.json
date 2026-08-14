@@ -11045,5 +11045,205 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-13T09:05:53Z"
+  },
+  {
+    "id": "20260814-github-altic-devfluidvoice",
+    "title": "altic-dev/FluidVoice",
+    "source_url": "https://github.com/altic-dev/FluidVoice",
+    "source_type": "github_trending",
+    "tags": [
+      "tts",
+      "speech-synthesis",
+      "voice-cloning",
+      "deep-learning"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-andrewyngaisuite",
+    "title": "andrewyng/aisuite",
+    "source_url": "https://github.com/andrewyng/aisuite",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "multi-provider",
+      "python",
+      "api"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-datawhalechinahello-",
+    "title": "datawhalechina/hello-agents",
+    "source_url": "https://github.com/datawhalechina/hello-agents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tutorial",
+      "datawhale"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-google-geminigemini-",
+    "title": "google-gemini/gemini-cli",
+    "source_url": "https://github.com/google-gemini/gemini-cli",
+    "source_type": "github_trending",
+    "tags": [
+      "cli",
+      "gemini",
+      "ai",
+      "terminal",
+      "google"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-hkudsvibe-trading",
+    "title": "HKUDS/Vibe-Trading",
+    "source_url": "https://github.com/HKUDS/Vibe-Trading",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "trading",
+      "quantitative-finance",
+      "backtesting"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-holaboss-aiholaos",
+    "title": "holaboss-ai/holaOS",
+    "source_url": "https://github.com/holaboss-ai/holaOS",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "operating-system",
+      "container",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-kepanoobsidian-skill",
+    "title": "kepano/obsidian-skills",
+    "source_url": "https://github.com/kepano/obsidian-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "obsidian",
+      "plugin",
+      "productivity"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-langchain-aiagent-ch",
+    "title": "langchain-ai/agent-chat-ui",
+    "source_url": "https://github.com/langchain-ai/agent-chat-ui",
+    "source_type": "github_trending",
+    "tags": [
+      "langchain",
+      "react",
+      "ui",
+      "agent",
+      "chat"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-lightningpixelmodly",
+    "title": "lightningpixel/modly",
+    "source_url": "https://github.com/lightningpixel/modly",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "modular"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-megadoseholehe",
+    "title": "megadose/holehe",
+    "source_url": "https://github.com/megadose/holehe",
+    "source_type": "github_trending",
+    "tags": [
+      "osint",
+      "email",
+      "cli",
+      "privacy"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "awesome-list",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-unslothaiunsloth",
+    "title": "unslothai/unsloth",
+    "source_url": "https://github.com/unslothai/unsloth",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "fine-tuning",
+      "optimization",
+      "lora",
+      "gpu"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-wavetermdevwaveterm",
+    "title": "wavetermdev/waveterm",
+    "source_url": "https://github.com/wavetermdev/waveterm",
+    "source_type": "github_trending",
+    "tags": [
+      "terminal",
+      "ai",
+      "web",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260814-github-zylon-aiprivate-gpt",
+    "title": "zylon-ai/private-gpt",
+    "source_url": "https://github.com/zylon-ai/private-gpt",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "privacy",
+      "document-qa",
+      "offline"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-14T09:01:54Z"
   }
 ]
