@@ -1,0 +1,32 @@
+{
+  "id": "20260815-github-nirdiamantagents-tow",
+  "title": "NirDiamant/agents-towards-production",
+  "source_url": "https://github.com/NirDiamant/agents-towards-production",
+  "source_type": "github_trending",
+  "summary": "这是一个面向生产环境的AI智能体（Agent）学习与实践仓库，提供从基础到高级的构建指南、代码示例和最佳实践，涵盖工具使用、记忆、多智能体协作等关键主题。",
+  "highlights": [
+    "系统化覆盖智能体开发全生命周期，从入门到生产部署",
+    "包含大量可运行的代码示例和实用模板",
+    "社区活跃，持续更新，紧跟最新技术趋势"
+  ],
+  "use_cases": [
+    "开发者学习如何构建生产级AI智能体",
+    "团队参考最佳实践设计多智能体系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agents",
+    "llm",
+    "production",
+    "tutorial",
+    "best-practices"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-15T08:18:47Z",
+  "analyzed_at": "2026-08-15T08:18:55Z",
+  "curated_at": "2026-08-15T08:19:11Z"
+}

@@ -11245,5 +11245,118 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-14T09:01:54Z"
+  },
+  {
+    "id": "20260815-github-citrolabsego-lite",
+    "title": "citrolabs/ego-lite",
+    "source_url": "https://github.com/citrolabs/ego-lite",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "lightweight",
+      "tool-calling"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-15T08:19:11Z"
+  },
+  {
+    "id": "20260815-github-cursorplugins",
+    "title": "cursor/plugins",
+    "source_url": "https://github.com/cursor/plugins",
+    "source_type": "github_trending",
+    "tags": [
+      "cursor",
+      "editor",
+      "plugin",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-15T08:19:11Z"
+  },
+  {
+    "id": "20260815-github-deepseek-aiawesome-d",
+    "title": "deepseek-ai/awesome-deepseek-agent",
+    "source_url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "deepseek",
+      "agent",
+      "awesome-list"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-15T08:19:11Z"
+  },
+  {
+    "id": "20260815-github-githubspec-kit",
+    "title": "github/spec-kit",
+    "source_url": "https://github.com/github/spec-kit",
+    "source_type": "github_trending",
+    "tags": [
+      "api",
+      "code-generation",
+      "spec-driven",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-15T08:19:11Z"
+  },
+  {
+    "id": "20260815-github-nirdiamantagents-tow",
+    "title": "NirDiamant/agents-towards-production",
+    "source_url": "https://github.com/NirDiamant/agents-towards-production",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agents",
+      "llm",
+      "production",
+      "tutorial",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-15T08:19:11Z"
+  },
+  {
+    "id": "20260815-github-nirdiamantgenaiagent",
+    "title": "NirDiamant/GenAI_Agents",
+    "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tutorial",
+      "rag",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-15T08:19:11Z"
+  },
+  {
+    "id": "20260815-github-opencut-appopencut",
+    "title": "OpenCut-app/OpenCut",
+    "source_url": "https://github.com/OpenCut-app/OpenCut",
+    "source_type": "github_trending",
+    "tags": [
+      "video-editing",
+      "electron",
+      "cross-platform"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-15T08:19:11Z"
+  },
+  {
+    "id": "20260815-github-rustdeskrustdesk",
+    "title": "rustdesk/rustdesk",
+    "source_url": "https://github.com/rustdesk/rustdesk",
+    "source_type": "github_trending",
+    "tags": [
+      "remote-desktop",
+      "rust",
+      "self-hosted",
+      "cross-platform"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-15T08:19:11Z"
   }
 ]

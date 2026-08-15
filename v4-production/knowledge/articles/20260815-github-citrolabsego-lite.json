@@ -1,0 +1,33 @@
+{
+  "id": "20260815-github-citrolabsego-lite",
+  "title": "citrolabs/ego-lite",
+  "source_url": "https://github.com/citrolabs/ego-lite",
+  "source_type": "github_trending",
+  "summary": "ego-lite 是一个轻量级、模块化的 AI 代理框架，专注于简化 LLM 驱动的任务编排与工具调用，支持多模型接入和可扩展的插件系统。",
+  "highlights": [
+    "极简设计，核心代码量小，易于定制和嵌入",
+    "内置工具调用与任务规划接口，支持快速集成外部 API",
+    "活跃的社区维护，文档清晰，示例丰富"
+  ],
+  "use_cases": [
+    "快速构建个人 AI 助手或自动化工作流",
+    "作为教学或研究用的轻量级代理框架",
+    "在资源受限环境中部署轻量 AI 代理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "lightweight",
+    "tool-calling"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-15T08:18:50Z",
+  "analyzed_at": "2026-08-15T08:19:00Z",
+  "curated_at": "2026-08-15T08:19:11Z"
+}

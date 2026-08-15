@@ -1,0 +1,31 @@
+{
+  "id": "20260815-github-githubspec-kit",
+  "title": "github/spec-kit",
+  "source_url": "https://github.com/github/spec-kit",
+  "source_type": "github_trending",
+  "summary": "Spec Kit 是 GitHub 官方推出的规范驱动开发工具包，通过 YAML 定义 API 规范并自动生成代码、文档和测试，提升开发效率与一致性。",
+  "highlights": [
+    "官方背书，质量与维护有保障",
+    "规范驱动，自动化生成代码和文档",
+    "支持多语言，集成主流框架"
+  ],
+  "use_cases": [
+    "API 设计与开发流程标准化",
+    "快速生成客户端 SDK 和服务端骨架"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "api",
+    "code-generation",
+    "spec-driven",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-15T08:18:50Z",
+  "analyzed_at": "2026-08-15T08:19:02Z",
+  "curated_at": "2026-08-15T08:19:11Z"
+}
