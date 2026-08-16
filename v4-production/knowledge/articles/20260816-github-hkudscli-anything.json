@@ -1,0 +1,32 @@
+{
+  "id": "20260816-github-hkudscli-anything",
+  "title": "HKUDS/CLI-Anything",
+  "source_url": "https://github.com/HKUDS/CLI-Anything",
+  "source_type": "github_trending",
+  "summary": "CLI-Anything 是一个将任意 Python 函数或对象转换为命令行界面的工具，通过 LLM 自动生成 CLI 参数解析和帮助文档，简化开发流程。",
+  "highlights": [
+    "利用 LLM 自动生成 CLI 参数和帮助，减少手动编写 argparse 代码",
+    "支持将任意 Python 函数或类方法快速包装为命令行工具",
+    "提供简洁的 API 和示例，易于集成到现有项目中"
+  ],
+  "use_cases": [
+    "快速为内部脚本或工具生成命令行接口",
+    "为机器学习模型或数据处理函数提供交互式 CLI",
+    "自动化生成 CLI 文档和参数校验"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "cli",
+    "python",
+    "code-generation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-16T08:20:08Z",
+  "analyzed_at": "2026-08-16T08:20:33Z",
+  "curated_at": "2026-08-16T08:20:33Z"
+}

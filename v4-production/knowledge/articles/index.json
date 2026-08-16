@@ -11358,5 +11358,130 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-15T08:19:11Z"
+  },
+  {
+    "id": "20260816-github-cloudwegoeino",
+    "title": "cloudwego/eino",
+    "source_url": "https://github.com/cloudwego/eino",
+    "source_type": "github_trending",
+    "tags": [
+      "go",
+      "llm",
+      "agent",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
+  },
+  {
+    "id": "20260816-github-cordiversecordis",
+    "title": "cordiverse/cordis",
+    "source_url": "https://github.com/cordiverse/cordis",
+    "source_type": "github_trending",
+    "tags": [
+      "chatbot",
+      "framework",
+      "modular"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
+  },
+  {
+    "id": "20260816-github-d4vinciscrapling",
+    "title": "D4Vinci/Scrapling",
+    "source_url": "https://github.com/D4Vinci/Scrapling",
+    "source_type": "github_trending",
+    "tags": [
+      "web-scraping",
+      "python",
+      "automation",
+      "data-extraction"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
+  },
+  {
+    "id": "20260816-github-earendil-workspi",
+    "title": "earendil-works/pi",
+    "source_url": "https://github.com/earendil-works/pi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
+  },
+  {
+    "id": "20260816-github-hkudscli-anything",
+    "title": "HKUDS/CLI-Anything",
+    "source_url": "https://github.com/HKUDS/CLI-Anything",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "cli",
+      "python",
+      "code-generation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
+  },
+  {
+    "id": "20260816-github-langchain4jlangchain",
+    "title": "langchain4j/langchain4j",
+    "source_url": "https://github.com/langchain4j/langchain4j",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "llm",
+      "langchain",
+      "rag",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
+  },
+  {
+    "id": "20260816-github-makazhanalpamyssoup",
+    "title": "MakazhanAlpamys/Soup",
+    "source_url": "https://github.com/MakazhanAlpamys/Soup",
+    "source_type": "github_trending",
+    "tags": [
+      "web-scraping",
+      "python",
+      "parser"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
+  },
+  {
+    "id": "20260816-github-public-apispublic-ap",
+    "title": "public-apis/public-apis",
+    "source_url": "https://github.com/public-apis/public-apis",
+    "source_type": "github_trending",
+    "tags": [
+      "api",
+      "public-apis",
+      "list",
+      "resources"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
+  },
+  {
+    "id": "20260816-github-wshobsonagents",
+    "title": "wshobson/agents",
+    "source_url": "https://github.com/wshobson/agents",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "agents",
+      "framework",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-16T08:20:33Z"
   }
 ]

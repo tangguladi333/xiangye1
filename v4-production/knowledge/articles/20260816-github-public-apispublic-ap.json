@@ -1,0 +1,31 @@
+{
+  "id": "20260816-github-public-apispublic-ap",
+  "title": "public-apis/public-apis",
+  "source_url": "https://github.com/public-apis/public-apis",
+  "source_type": "github_trending",
+  "summary": "这是一个收集了各种免费公共 API 的列表，涵盖动物、动漫、天气、金融等多个类别，为开发者提供丰富的 API 资源。",
+  "highlights": [
+    "包含超过 1400 个免费 API，分类清晰",
+    "社区维护活跃，持续更新",
+    "提供 API 文档链接和认证方式说明"
+  ],
+  "use_cases": [
+    "开发者寻找免费 API 用于项目开发或学习",
+    "快速浏览和发现不同领域的公共 API 资源"
+  ],
+  "maturity": {
+    "stars": 310000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "api",
+    "public-apis",
+    "list",
+    "resources"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-16T08:20:08Z",
+  "analyzed_at": "2026-08-16T08:20:28Z",
+  "curated_at": "2026-08-16T08:20:33Z"
+}

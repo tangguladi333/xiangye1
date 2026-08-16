@@ -1,0 +1,32 @@
+{
+  "id": "20260816-github-earendil-workspi",
+  "title": "earendil-works/pi",
+  "source_url": "https://github.com/earendil-works/pi",
+  "source_type": "github_trending",
+  "summary": "Pi 是一个轻量级、高性能的 AI 代理框架，专注于简化多步骤任务编排和工具调用，支持多种 LLM 后端，并提供 Python 和 TypeScript SDK。",
+  "highlights": [
+    "极简设计，核心代码少于 2000 行，易于定制和扩展",
+    "内置任务图引擎，支持复杂工作流和条件分支",
+    "提供统一接口，无缝切换 OpenAI、Anthropic 等主流模型"
+  ],
+  "use_cases": [
+    "快速构建自动化客服或知识库问答代理",
+    "用于教学演示 LLM 代理的核心原理",
+    "作为内部工具链中轻量级任务编排层"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "workflow",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-16T08:20:04Z",
+  "analyzed_at": "2026-08-16T08:20:11Z",
+  "curated_at": "2026-08-16T08:20:33Z"
+}

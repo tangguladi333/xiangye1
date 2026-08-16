@@ -1,0 +1,30 @@
+{
+  "id": "20260816-github-cordiversecordis",
+  "title": "cordiverse/cordis",
+  "source_url": "https://github.com/cordiverse/cordis",
+  "source_type": "github_trending",
+  "summary": "Cordis 是一个用于构建聊天机器人的模块化框架，支持多平台接入（如 Discord、Telegram 等），提供插件系统和依赖注入，便于扩展和维护。",
+  "highlights": [
+    "模块化架构，支持插件热插拔",
+    "多平台适配器，统一接口",
+    "内置依赖注入和生命周期管理"
+  ],
+  "use_cases": [
+    "构建跨平台聊天机器人",
+    "开发可复用的聊天机器人插件"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "chatbot",
+    "framework",
+    "modular"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-16T08:20:08Z",
+  "analyzed_at": "2026-08-16T08:20:26Z",
+  "curated_at": "2026-08-16T08:20:33Z"
+}

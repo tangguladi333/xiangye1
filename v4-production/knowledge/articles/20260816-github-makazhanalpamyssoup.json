@@ -1,0 +1,30 @@
+{
+  "id": "20260816-github-makazhanalpamyssoup",
+  "title": "MakazhanAlpamys/Soup",
+  "source_url": "https://github.com/MakazhanAlpamys/Soup",
+  "source_type": "github_trending",
+  "summary": "Soup 是一个轻量级的 Python 库，用于简化网页抓取和数据提取，提供简洁的 API 和内置的请求重试、解析功能。",
+  "highlights": [
+    "简洁的 API 设计，易于上手",
+    "内置请求重试和错误处理机制",
+    "支持多种解析器（如 BeautifulSoup、lxml）"
+  ],
+  "use_cases": [
+    "快速构建网页爬虫原型",
+    "数据采集和内容提取任务"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-03-10",
+    "production_ready": false
+  },
+  "tags": [
+    "web-scraping",
+    "python",
+    "parser"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-16T08:20:08Z",
+  "analyzed_at": "2026-08-16T08:20:30Z",
+  "curated_at": "2026-08-16T08:20:33Z"
+}
