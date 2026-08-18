@@ -1,0 +1,33 @@
+{
+  "id": "20260818-github-jundotomlx",
+  "title": "jundot/omlx",
+  "source_url": "https://github.com/jundot/omlx",
+  "source_type": "github_trending",
+  "summary": "omlx 是一个轻量级、高性能的 LLM 推理引擎，专注于在 CPU 上运行量化模型，提供简洁的 API 和跨平台支持。",
+  "highlights": [
+    "纯 C++ 实现，无外部依赖，易于集成",
+    "支持多种量化格式（如 GGUF、Q4_0），内存占用低",
+    "提供 Python 绑定和命令行工具，使用方便"
+  ],
+  "use_cases": [
+    "边缘设备上的本地 LLM 推理",
+    "资源受限环境下的模型部署",
+    "快速原型开发和教学演示"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "inference",
+    "cpu",
+    "quantization",
+    "c++"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-18T08:27:13Z",
+  "analyzed_at": "2026-08-18T08:27:42Z",
+  "curated_at": "2026-08-18T08:27:47Z"
+}

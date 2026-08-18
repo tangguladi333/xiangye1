@@ -1,0 +1,33 @@
+{
+  "id": "20260818-github-santifercareer-ops",
+  "title": "santifer/career-ops",
+  "source_url": "https://github.com/santifer/career-ops",
+  "source_type": "github_trending",
+  "summary": "career-ops 是一个面向求职者的 AI 工具集，通过自动化简历优化、职位匹配和面试准备，帮助用户高效管理求职流程。项目提供命令行界面，集成多种 LLM 服务，适合个人求职场景。",
+  "highlights": [
+    "自动化简历优化与职位匹配",
+    "支持多种 LLM 后端（如 OpenAI、Anthropic）",
+    "提供命令行工具，易于集成到工作流"
+  ],
+  "use_cases": [
+    "个人求职者快速优化简历和求职信",
+    "自动化筛选和匹配职位描述",
+    "面试问题生成与模拟练习"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-11-15",
+    "production_ready": false
+  },
+  "tags": [
+    "career",
+    "job-search",
+    "llm",
+    "cli",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-18T08:27:13Z",
+  "analyzed_at": "2026-08-18T08:27:39Z",
+  "curated_at": "2026-08-18T08:27:47Z"
+}

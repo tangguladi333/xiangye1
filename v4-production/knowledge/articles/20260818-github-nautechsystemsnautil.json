@@ -1,0 +1,32 @@
+{
+  "id": "20260818-github-nautechsystemsnautil",
+  "title": "nautechsystems/nautilus_trader",
+  "source_url": "https://github.com/nautechsystems/nautilus_trader",
+  "source_type": "github_trending",
+  "summary": "Nautilus Trader 是一个高性能开源量化交易平台，提供事件驱动架构、多资产支持及回测/实盘一体化能力，适合机构级算法交易。",
+  "highlights": [
+    "事件驱动架构，低延迟执行",
+    "支持多资产类别（加密货币、外汇、股票等）",
+    "内置回测引擎与实盘交易接口"
+  ],
+  "use_cases": [
+    "算法交易策略开发与回测",
+    "高频交易系统搭建",
+    "多市场量化研究"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "quantitative-trading",
+    "algorithmic-trading",
+    "backtesting",
+    "low-latency"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-18T08:27:13Z",
+  "analyzed_at": "2026-08-18T08:27:30Z",
+  "curated_at": "2026-08-18T08:27:47Z"
+}

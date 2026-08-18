@@ -1,0 +1,32 @@
+{
+  "id": "20260818-github-agalwoodmotrix",
+  "title": "agalwood/Motrix",
+  "source_url": "https://github.com/agalwood/Motrix",
+  "source_type": "github_trending",
+  "summary": "Motrix 是一款开源下载管理器，支持 HTTP、FTP、BitTorrent、Magnet 等协议，界面简洁，跨平台（Windows、macOS、Linux），基于 Electron 和 aria2 构建。",
+  "highlights": [
+    "支持多种下载协议，包括 BT 和磁力链接",
+    "界面美观，用户体验良好，支持多任务并行下载",
+    "跨平台，提供一致的桌面应用体验"
+  ],
+  "use_cases": [
+    "日常文件下载管理",
+    "替代系统自带下载工具或浏览器下载",
+    "需要支持 BT/磁力链接的下载场景"
+  ],
+  "maturity": {
+    "stars": 45000,
+    "last_updated": "2026-05-01",
+    "production_ready": true
+  },
+  "tags": [
+    "download-manager",
+    "electron",
+    "aria2",
+    "cross-platform"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-18T08:27:13Z",
+  "analyzed_at": "2026-08-18T08:27:47Z",
+  "curated_at": "2026-08-18T08:27:47Z"
+}

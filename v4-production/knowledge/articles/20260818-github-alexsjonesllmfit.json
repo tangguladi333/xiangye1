@@ -1,0 +1,30 @@
+{
+  "id": "20260818-github-alexsjonesllmfit",
+  "title": "AlexsJones/llmfit",
+  "source_url": "https://github.com/AlexsJones/llmfit",
+  "source_type": "github_trending",
+  "summary": "llmfit 是一个轻量级工具，用于将大型语言模型（LLM）集成到 Go 应用中，提供简单的 API 调用和结构化输出解析，简化开发流程。",
+  "highlights": [
+    "提供简洁的 Go API，快速集成 LLM 功能",
+    "支持结构化输出解析，便于数据处理",
+    "轻量级设计，无复杂依赖"
+  ],
+  "use_cases": [
+    "在 Go 服务中快速添加 LLM 驱动的功能",
+    "需要结构化响应的自动化任务"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "go",
+    "llm",
+    "integration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-18T08:27:13Z",
+  "analyzed_at": "2026-08-18T08:27:37Z",
+  "curated_at": "2026-08-18T08:27:47Z"
+}

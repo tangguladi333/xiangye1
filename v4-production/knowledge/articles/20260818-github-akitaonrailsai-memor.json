@@ -1,0 +1,32 @@
+{
+  "id": "20260818-github-akitaonrailsai-memor",
+  "title": "akitaonrails/ai-memory",
+  "source_url": "https://github.com/akitaonrails/ai-memory",
+  "source_type": "github_trending",
+  "summary": "ai-memory 是一个为 AI 助手提供持久化记忆层的开源项目，通过向量数据库和语义检索实现对话历史与用户偏好的长期存储，增强个性化交互体验。",
+  "highlights": [
+    "支持多种向量数据库后端（如 Chroma、Pinecone）",
+    "提供简单 API 集成，便于快速嵌入现有 AI 应用",
+    "包含记忆管理功能，如自动摘要和过期清理"
+  ],
+  "use_cases": [
+    "构建具有长期记忆的聊天机器人",
+    "个性化推荐系统，基于用户历史行为"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "memory",
+    "vector-database",
+    "llm",
+    "persistence"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-18T08:27:13Z",
+  "analyzed_at": "2026-08-18T08:27:33Z",
+  "curated_at": "2026-08-18T08:27:47Z"
+}

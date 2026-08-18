@@ -11537,5 +11537,188 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-17T08:35:05Z"
+  },
+  {
+    "id": "20260818-github-agalwoodmotrix",
+    "title": "agalwood/Motrix",
+    "source_url": "https://github.com/agalwood/Motrix",
+    "source_type": "github_trending",
+    "tags": [
+      "download-manager",
+      "electron",
+      "aria2",
+      "cross-platform"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-akitaonrailsai-memor",
+    "title": "akitaonrails/ai-memory",
+    "source_url": "https://github.com/akitaonrails/ai-memory",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "memory",
+      "vector-database",
+      "llm",
+      "persistence"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-alexsjonesllmfit",
+    "title": "AlexsJones/llmfit",
+    "source_url": "https://github.com/AlexsJones/llmfit",
+    "source_type": "github_trending",
+    "tags": [
+      "go",
+      "llm",
+      "integration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-conductor-ossconduct",
+    "title": "conductor-oss/conductor",
+    "source_url": "https://github.com/conductor-oss/conductor",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "orchestration",
+      "microservices",
+      "event-driven"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-immich-appimmich",
+    "title": "immich-app/immich",
+    "source_url": "https://github.com/immich-app/immich",
+    "source_type": "github_trending",
+    "tags": [
+      "photo-management",
+      "self-hosted",
+      "backup",
+      "ai-search"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-jundotomlx",
+    "title": "jundot/omlx",
+    "source_url": "https://github.com/jundot/omlx",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "inference",
+      "cpu",
+      "quantization",
+      "c++"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-koala73worldmonitor",
+    "title": "koala73/worldmonitor",
+    "source_url": "https://github.com/koala73/worldmonitor",
+    "source_type": "github_trending",
+    "tags": [
+      "monitoring",
+      "realtime",
+      "dashboard",
+      "data-aggregation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-mukul975anthropic-cy",
+    "title": "mukul975/Anthropic-Cybersecurity-Skills",
+    "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "source_type": "github_trending",
+    "tags": [
+      "cybersecurity",
+      "llm",
+      "anthropic",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-nautechsystemsnautil",
+    "title": "nautechsystems/nautilus_trader",
+    "source_url": "https://github.com/nautechsystems/nautilus_trader",
+    "source_type": "github_trending",
+    "tags": [
+      "quantitative-trading",
+      "algorithmic-trading",
+      "backtesting",
+      "low-latency"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-punkpeyeawesome-mcp-",
+    "title": "punkpeye/awesome-mcp-servers",
+    "source_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "source_type": "github_trending",
+    "tags": [
+      "mcp",
+      "awesome-list",
+      "resources"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-santifercareer-ops",
+    "title": "santifer/career-ops",
+    "source_url": "https://github.com/santifer/career-ops",
+    "source_type": "github_trending",
+    "tags": [
+      "career",
+      "job-search",
+      "llm",
+      "cli",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-xerrorsyuxi",
+    "title": "xerrors/Yuxi",
+    "source_url": "https://github.com/xerrors/Yuxi",
+    "source_type": "github_trending",
+    "tags": [
+      "go",
+      "async",
+      "event-driven",
+      "network"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260818-github-ykdojoclaude-code-ti",
+    "title": "ykdojo/claude-code-tips",
+    "source_url": "https://github.com/ykdojo/claude-code-tips",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "tips",
+      "ai-coding",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-18T08:27:47Z"
   }
 ]
