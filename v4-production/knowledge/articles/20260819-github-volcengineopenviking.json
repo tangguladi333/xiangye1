@@ -1,0 +1,31 @@
+{
+  "id": "20260819-github-volcengineopenviking",
+  "title": "volcengine/OpenViking",
+  "source_url": "https://github.com/volcengine/OpenViking",
+  "source_type": "github_trending",
+  "summary": "OpenViking 是火山引擎开源的多模态检索与 RAG 引擎，支持文本、图像、视频的向量化与混合检索，提供高性能、低延迟的检索能力。",
+  "highlights": [
+    "支持多模态数据（文本、图像、视频）的统一向量检索",
+    "提供混合检索（向量+关键词）与重排序能力",
+    "面向生产环境设计，具备高并发与低延迟优化"
+  ],
+  "use_cases": [
+    "多模态 RAG 应用（如企业知识库、智能客服）",
+    "大规模图像/视频相似性搜索与推荐系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multimodal",
+    "retrieval",
+    "rag",
+    "vector-search"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-19T08:27:45Z",
+  "analyzed_at": "2026-08-19T08:27:53Z",
+  "curated_at": "2026-08-19T08:27:56Z"
+}

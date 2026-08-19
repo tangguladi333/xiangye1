@@ -11720,5 +11720,45 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-18T08:27:47Z"
+  },
+  {
+    "id": "20260819-github-chaitanyagirimunder-",
+    "title": "chaitanyagiri/munder-difflin",
+    "source_url": "https://github.com/chaitanyagiri/munder-difflin",
+    "source_type": "github_trending",
+    "tags": [
+      "etl",
+      "data-pipeline",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-19T08:27:56Z"
+  },
+  {
+    "id": "20260819-github-genlayerlabsgenlayer",
+    "title": "genlayerlabs/genlayer-project-boilerplate",
+    "source_url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+    "source_type": "github_trending",
+    "tags": [
+      "blockchain",
+      "smart-contracts",
+      "boilerplate"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-19T08:27:56Z"
+  },
+  {
+    "id": "20260819-github-volcengineopenviking",
+    "title": "volcengine/OpenViking",
+    "source_url": "https://github.com/volcengine/OpenViking",
+    "source_type": "github_trending",
+    "tags": [
+      "multimodal",
+      "retrieval",
+      "rag",
+      "vector-search"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-19T08:27:56Z"
   }
 ]

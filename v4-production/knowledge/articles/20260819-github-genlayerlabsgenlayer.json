@@ -1,0 +1,30 @@
+{
+  "id": "20260819-github-genlayerlabsgenlayer",
+  "title": "genlayerlabs/genlayer-project-boilerplate",
+  "source_url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+  "source_type": "github_trending",
+  "summary": "GenLayer 项目模板，提供智能合约开发脚手架，集成测试与部署工具，助力开发者快速构建去中心化应用。",
+  "highlights": [
+    "官方模板，快速启动",
+    "集成测试与部署流程",
+    "面向 GenLayer 生态"
+  ],
+  "use_cases": [
+    "GenLayer 智能合约开发",
+    "去中心化应用原型搭建"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "blockchain",
+    "smart-contracts",
+    "boilerplate"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-19T08:27:45Z",
+  "analyzed_at": "2026-08-19T08:27:56Z",
+  "curated_at": "2026-08-19T08:27:56Z"
+}
