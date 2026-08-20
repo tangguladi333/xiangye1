@@ -1,0 +1,30 @@
+{
+  "id": "20260820-github-hkudsnanobot",
+  "title": "HKUDS/nanobot",
+  "source_url": "https://github.com/HKUDS/nanobot",
+  "source_type": "github_trending",
+  "summary": "nanobot 是一个轻量级、可扩展的 AI 代理框架，支持多模型接入和工具调用，旨在简化智能体开发流程。",
+  "highlights": [
+    "模块化设计，易于集成多种 LLM",
+    "提供丰富的工具调用接口",
+    "活跃的社区和持续更新"
+  ],
+  "use_cases": [
+    "快速构建对话式 AI 助手",
+    "自动化任务编排与执行"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:13Z",
+  "analyzed_at": "2026-08-20T08:30:07Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

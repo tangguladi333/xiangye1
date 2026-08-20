@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-comet-mlopik",
+  "title": "comet-ml/opik",
+  "source_url": "https://github.com/comet-ml/opik",
+  "source_type": "github_trending",
+  "summary": "Opik 是一个开源 LLM 可观测性平台，用于调试、评估和监控基于大语言模型的应用程序。它提供追踪、指标、提示词管理和评估工具，支持主流框架和自托管。",
+  "highlights": [
+    "提供完整的 LLM 追踪和评估工作流",
+    "支持自托管，数据隐私可控",
+    "集成主流框架如 LangChain、OpenAI 等"
+  ],
+  "use_cases": [
+    "LLM 应用开发调试与性能监控",
+    "提示词版本管理与评估"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "observability",
+    "evaluation",
+    "monitoring"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:14Z",
+  "analyzed_at": "2026-08-20T08:30:40Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

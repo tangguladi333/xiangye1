@@ -1,0 +1,32 @@
+{
+  "id": "20260820-github-modsettersurfsense",
+  "title": "MODSetter/SurfSense",
+  "source_url": "https://github.com/MODSetter/SurfSense",
+  "source_type": "github_trending",
+  "summary": "SurfSense 是一个基于 LLM 的智能网页浏览与信息提取工具，通过自然语言交互实现网页内容理解、摘要和问答，提升信息检索效率。",
+  "highlights": [
+    "自然语言驱动的网页内容理解与摘要生成",
+    "支持基于网页内容的问答交互",
+    "轻量级设计，易于集成到现有工作流"
+  ],
+  "use_cases": [
+    "快速获取网页核心信息",
+    "研究资料整理与知识提取",
+    "辅助阅读长文或技术文档"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "web-scraping",
+    "nlp",
+    "information-extraction"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:12Z",
+  "analyzed_at": "2026-08-20T08:29:42Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

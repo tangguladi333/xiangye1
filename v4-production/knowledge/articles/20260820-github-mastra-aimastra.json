@@ -1,0 +1,34 @@
+{
+  "id": "20260820-github-mastra-aimastra",
+  "title": "mastra-ai/mastra",
+  "source_url": "https://github.com/mastra-ai/mastra",
+  "source_type": "github_trending",
+  "summary": "Mastra 是一个用于构建 AI 应用的开源 TypeScript 框架，提供工作流、代理、RAG 等核心原语，支持多种模型提供商，并包含开发工具和部署能力。",
+  "highlights": [
+    "提供工作流、代理、RAG 等模块化 AI 原语",
+    "支持多种 LLM 提供商和工具集成",
+    "包含开发工具和可部署的 API 服务"
+  ],
+  "use_cases": [
+    "构建复杂的 AI 代理应用",
+    "实现基于 RAG 的知识库问答系统",
+    "编排多步骤的 AI 工作流"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ai",
+    "framework",
+    "typescript",
+    "agent",
+    "workflow",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:14Z",
+  "analyzed_at": "2026-08-20T08:30:33Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260820-github-obrasuperpowers",
+  "title": "obra/superpowers",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_type": "github_trending",
+  "summary": "Superpowers 是一个为 Claude Code 提供技能（Skills）的集合，旨在增强 AI 编码助手的能力，包含规划、调试、文档编写等多种实用技能。",
+  "highlights": [
+    "提供多种可复用的技能，覆盖开发全流程",
+    "基于 Claude Code 生态，易于集成和使用",
+    "社区驱动，持续更新"
+  ],
+  "use_cases": [
+    "辅助 AI 编码助手进行更复杂的任务",
+    "作为技能开发的参考和模板"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude-code",
+    "skills",
+    "ai-assistant"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:12Z",
+  "analyzed_at": "2026-08-20T08:29:20Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-marcelopratesprettym",
+  "title": "marceloprates/prettymaps",
+  "source_url": "https://github.com/marceloprates/prettymaps",
+  "source_type": "github_trending",
+  "summary": "prettymaps 是一个 Python 库，用于从 OpenStreetMap 数据生成美观的矢量地图，支持自定义样式和图层，适合制作海报或艺术地图。",
+  "highlights": [
+    "基于 OpenStreetMap 数据，无需额外 API 密钥",
+    "支持自定义配色、图层和布局，生成高分辨率 SVG/PNG",
+    "提供命令行工具和 Python API，易于集成"
+  ],
+  "use_cases": [
+    "生成城市或区域的艺术风格地图用于印刷或展示",
+    "快速创建带标注的定制地图用于报告或演示"
+  ],
+  "maturity": {
+    "stars": 4500,
+    "last_updated": "2024-01-15",
+    "production_ready": false
+  },
+  "tags": [
+    "gis",
+    "map",
+    "visualization",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:18Z",
+  "analyzed_at": "2026-08-20T08:31:37Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

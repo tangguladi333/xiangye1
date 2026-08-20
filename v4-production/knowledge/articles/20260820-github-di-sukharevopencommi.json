@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-di-sukharevopencommi",
+  "title": "di-sukharev/opencommit",
+  "source_url": "https://github.com/di-sukharev/opencommit",
+  "source_type": "github_trending",
+  "summary": "opencommit 是一个利用 LLM 自动生成规范 Git 提交消息的 CLI 工具，支持多种 AI 提供商，可显著提升开发效率。",
+  "highlights": [
+    "支持 OpenAI、Gemini 等多家 AI 服务，灵活配置",
+    "提供交互式 CLI，可预览和编辑生成的提交信息",
+    "支持 gitmoji 风格，提升提交信息可读性"
+  ],
+  "use_cases": [
+    "个人项目快速生成规范提交信息",
+    "团队协作统一提交风格，减少沟通成本"
+  ],
+  "maturity": {
+    "stars": 15000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "git",
+    "cli",
+    "llm",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:16Z",
+  "analyzed_at": "2026-08-20T08:31:30Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

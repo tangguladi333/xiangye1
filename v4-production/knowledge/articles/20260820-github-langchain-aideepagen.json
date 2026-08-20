@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-langchain-aideepagen",
+  "title": "langchain-ai/deepagents",
+  "source_url": "https://github.com/langchain-ai/deepagents",
+  "source_type": "github_trending",
+  "summary": "DeepAgents 是 LangChain 官方推出的多智能体框架，支持图结构编排、记忆共享和工具调用，旨在简化复杂 Agent 系统的构建与部署。",
+  "highlights": [
+    "基于 LangGraph 的图式多智能体编排",
+    "内置跨智能体记忆共享机制",
+    "支持结构化输出与工具调用",
+    "提供丰富的示例与文档"
+  ],
+  "use_cases": [
+    "复杂任务分解与多角色协作",
+    "需要持久记忆的对话系统",
+    "企业级自动化工作流编排"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "langchain",
+    "multi-agent",
+    "langgraph",
+    "agent-framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:12Z",
+  "analyzed_at": "2026-08-20T08:29:40Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

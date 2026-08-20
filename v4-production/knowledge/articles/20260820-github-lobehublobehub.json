@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-lobehublobehub",
+  "title": "lobehub/lobehub",
+  "source_url": "https://github.com/lobehub/lobehub",
+  "source_type": "github_trending",
+  "summary": "LobeHub 是一个开源的多模态 AI 助手平台，支持聊天、绘画、语音等多种功能，提供可扩展的插件系统和本地部署能力。",
+  "highlights": [
+    "支持多模态交互，集成文本、图像、语音等多种 AI 能力",
+    "提供丰富的插件生态和自定义助手功能，易于扩展",
+    "支持本地部署，保障数据隐私和定制化需求"
+  ],
+  "use_cases": [
+    "个人 AI 助手，集成日常对话、创作和查询",
+    "团队协作平台，统一管理多种 AI 工具和知识库"
+  ],
+  "maturity": {
+    "stars": 52000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "ai",
+    "assistant",
+    "multimodal",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:15Z",
+  "analyzed_at": "2026-08-20T08:31:00Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

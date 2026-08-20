@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-bytedancedeer-flow",
+  "title": "bytedance/deer-flow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "source_type": "github_trending",
+  "summary": "字节跳动开源的AI工作流编排框架，基于DAG模型，支持LLM、Agent、RAG等节点，提供可视化编排和低代码开发能力。",
+  "highlights": [
+    "基于DAG的灵活工作流编排，支持复杂任务分解",
+    "内置多种AI节点（LLM、Agent、RAG），开箱即用",
+    "可视化界面，降低AI应用开发门槛"
+  ],
+  "use_cases": [
+    "构建多步骤AI自动化流程",
+    "快速原型开发AI Agent应用",
+    "企业级AI工作流集成与编排"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "workflow",
+    "llm",
+    "agent",
+    "rag",
+    "low-code"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:12Z",
+  "analyzed_at": "2026-08-20T08:29:35Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

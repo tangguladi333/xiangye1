@@ -1,0 +1,30 @@
+{
+  "id": "20260820-github-tinyhumansaiopenhuma",
+  "title": "tinyhumansai/openhuman",
+  "source_url": "https://github.com/tinyhumansai/openhuman",
+  "source_type": "github_trending",
+  "summary": "OpenHuman 是一个开源框架，用于构建和管理数字人（AI 驱动的虚拟角色），支持多模态交互和个性化定制。",
+  "highlights": [
+    "提供模块化架构，支持快速集成不同 AI 模型",
+    "包含丰富的预置角色模板和对话管理工具",
+    "支持实时语音、视觉和文本多模态交互"
+  ],
+  "use_cases": [
+    "虚拟客服和在线教育助手",
+    "游戏 NPC 和虚拟社交角色"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "digital-human",
+    "multimodal",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:15Z",
+  "analyzed_at": "2026-08-20T08:30:54Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

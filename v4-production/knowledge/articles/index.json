@@ -11760,5 +11760,851 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-19T08:27:56Z"
+  },
+  {
+    "id": "20260820-github-affaan-mecc",
+    "title": "affaan-m/ECC",
+    "source_url": "https://github.com/affaan-m/ECC",
+    "source_type": "github_trending",
+    "tags": [
+      "cryptography",
+      "elliptic-curve",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-amadeusprotocolnode",
+    "title": "amadeusprotocol/node",
+    "source_url": "https://github.com/amadeusprotocol/node",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "decentralized",
+      "rust",
+      "node"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-anil-matchaopen-gene",
+    "title": "Anil-matcha/Open-Generative-AI",
+    "source_url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "source_type": "github_trending",
+    "tags": [
+      "generative-ai",
+      "awesome-list",
+      "resources"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-apacheairflow",
+    "title": "apache/airflow",
+    "source_url": "https://github.com/apache/airflow",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "scheduling",
+      "data-pipeline",
+      "etl",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-browser-usebrowser-u",
+    "title": "browser-use/browser-use",
+    "source_url": "https://github.com/browser-use/browser-use",
+    "source_type": "github_trending",
+    "tags": [
+      "browser automation",
+      "ai agent",
+      "playwright",
+      "web scraping"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-bytedancedeer-flow",
+    "title": "bytedance/deer-flow",
+    "source_url": "https://github.com/bytedance/deer-flow",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "llm",
+      "agent",
+      "rag",
+      "low-code"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-calesthioopenmontage",
+    "title": "calesthio/OpenMontage",
+    "source_url": "https://github.com/calesthio/OpenMontage",
+    "source_type": "github_trending",
+    "tags": [
+      "multimodal",
+      "ai",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-cannerwrenai",
+    "title": "Canner/WrenAI",
+    "source_url": "https://github.com/Canner/WrenAI",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "data",
+      "nl2sql",
+      "semantic-layer"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-cherryhqcherry-studi",
+    "title": "CherryHQ/cherry-studio",
+    "source_url": "https://github.com/CherryHQ/cherry-studio",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "desktop",
+      "chat",
+      "knowledge-base"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-comet-mlopik",
+    "title": "comet-ml/opik",
+    "source_url": "https://github.com/comet-ml/opik",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "observability",
+      "evaluation",
+      "monitoring"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-copilotkitcopilotkit",
+    "title": "CopilotKit/CopilotKit",
+    "source_url": "https://github.com/CopilotKit/CopilotKit",
+    "source_type": "github_trending",
+    "tags": [
+      "react",
+      "ai",
+      "copilot",
+      "llm",
+      "frontend"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-danielmiesslerlifeos",
+    "title": "danielmiessler/LifeOS",
+    "source_url": "https://github.com/danielmiessler/LifeOS",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "knowledge-management",
+      "productivity",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-danny-avilalibrechat",
+    "title": "danny-avila/LibreChat",
+    "source_url": "https://github.com/danny-avila/LibreChat",
+    "source_type": "github_trending",
+    "tags": [
+      "chat",
+      "llm",
+      "self-hosted",
+      "multi-provider"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-dayuanjiangnext-ai-d",
+    "title": "DayuanJiang/next-ai-draw-io",
+    "source_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+    "source_type": "github_trending",
+    "tags": [
+      "nextjs",
+      "ai",
+      "drawing",
+      "collaboration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-dbeaverdbeaver",
+    "title": "dbeaver/dbeaver",
+    "source_url": "https://github.com/dbeaver/dbeaver",
+    "source_type": "github_trending",
+    "tags": [
+      "database",
+      "sql",
+      "gui",
+      "cross-platform"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-deepset-aihaystack",
+    "title": "deepset-ai/haystack",
+    "source_url": "https://github.com/deepset-ai/haystack",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "agent",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-di-sukharevopencommi",
+    "title": "di-sukharev/opencommit",
+    "source_url": "https://github.com/di-sukharev/opencommit",
+    "source_type": "github_trending",
+    "tags": [
+      "git",
+      "cli",
+      "llm",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-elie222inbox-zero",
+    "title": "elie222/inbox-zero",
+    "source_url": "https://github.com/elie222/inbox-zero",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "email",
+      "productivity",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-farion1231cc-switch",
+    "title": "farion1231/cc-switch",
+    "source_url": "https://github.com/farion1231/cc-switch",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "codex",
+      "配置管理",
+      "桌面应用"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-googlecloudplatformg",
+    "title": "GoogleCloudPlatform/generative-ai",
+    "source_url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "google-cloud",
+      "generative-ai",
+      "gemini",
+      "vertex-ai",
+      "tutorials"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-graphify-labsgraphif",
+    "title": "Graphify-Labs/graphify",
+    "source_url": "https://github.com/Graphify-Labs/graphify",
+    "source_type": "github_trending",
+    "tags": [
+      "knowledge-graph",
+      "nlp",
+      "visualization",
+      "api"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-harry0703moneyprinte",
+    "title": "harry0703/MoneyPrinterTurbo",
+    "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "video-generation",
+      "automation",
+      "content-creation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-headroomlabs-aiheadr",
+    "title": "headroomlabs-ai/headroom",
+    "source_url": "https://github.com/headroomlabs-ai/headroom",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "observability",
+      "monitoring"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-hkudsnanobot",
+    "title": "HKUDS/nanobot",
+    "source_url": "https://github.com/HKUDS/nanobot",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-hmbowncodewhale",
+    "title": "Hmbown/CodeWhale",
+    "source_url": "https://github.com/Hmbown/CodeWhale",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "code-generation",
+      "developer-tools",
+      "ide-plugin"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-infiniflowragflow",
+    "title": "infiniflow/ragflow",
+    "source_url": "https://github.com/infiniflow/ragflow",
+    "source_type": "github_trending",
+    "tags": [
+      "rag",
+      "llm",
+      "knowledge-base"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-langchain-aideepagen",
+    "title": "langchain-ai/deepagents",
+    "source_url": "https://github.com/langchain-ai/deepagents",
+    "source_type": "github_trending",
+    "tags": [
+      "langchain",
+      "multi-agent",
+      "langgraph",
+      "agent-framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain",
+    "source_url": "https://github.com/langchain-ai/langchain",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "framework",
+      "agent",
+      "nlp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-langchain-ailanggrap",
+    "title": "langchain-ai/langgraph",
+    "source_url": "https://github.com/langchain-ai/langgraph",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "workflow",
+      "state-machine",
+      "langchain"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-langflow-ailangflow",
+    "title": "langflow-ai/langflow",
+    "source_url": "https://github.com/langflow-ai/langflow",
+    "source_type": "github_trending",
+    "tags": [
+      "low-code",
+      "rag",
+      "multi-agent",
+      "workflow",
+      "langchain"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-langgeniusdify",
+    "title": "langgenius/dify",
+    "source_url": "https://github.com/langgenius/dify",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "rag",
+      "low-code",
+      "workflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-lobehublobehub",
+    "title": "lobehub/lobehub",
+    "source_url": "https://github.com/lobehub/lobehub",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "assistant",
+      "multimodal",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-marcelopratesprettym",
+    "title": "marceloprates/prettymaps",
+    "source_url": "https://github.com/marceloprates/prettymaps",
+    "source_type": "github_trending",
+    "tags": [
+      "gis",
+      "map",
+      "visualization",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-mastra-aimastra",
+    "title": "mastra-ai/mastra",
+    "source_url": "https://github.com/mastra-ai/mastra",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "framework",
+      "typescript",
+      "agent",
+      "workflow",
+      "rag"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-mattpocockskills",
+    "title": "mattpocock/skills",
+    "source_url": "https://github.com/mattpocock/skills",
+    "source_type": "github_trending",
+    "tags": [
+      "typescript",
+      "react",
+      "learning",
+      "skills"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-mem0aimem0",
+    "title": "mem0ai/mem0",
+    "source_url": "https://github.com/mem0ai/mem0",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "memory",
+      "agent",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-microsoftgenerative-",
+    "title": "microsoft/generative-ai-for-beginners",
+    "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "source_type": "github_trending",
+    "tags": [
+      "generative-ai",
+      "llm",
+      "education",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-mlflowmlflow",
+    "title": "mlflow/mlflow",
+    "source_url": "https://github.com/mlflow/mlflow",
+    "source_type": "github_trending",
+    "tags": [
+      "mlops",
+      "machine-learning",
+      "experiment-tracking",
+      "model-registry",
+      "deployment"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-modsettersurfsense",
+    "title": "MODSetter/SurfSense",
+    "source_url": "https://github.com/MODSetter/SurfSense",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "web-scraping",
+      "nlp",
+      "information-extraction"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-n8n-ion8n",
+    "title": "n8n-io/n8n",
+    "source_url": "https://github.com/n8n-io/n8n",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "automation",
+      "ai",
+      "self-hosted"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-nashsullmwiki",
+    "title": "nashsu/llm_wiki",
+    "source_url": "https://github.com/nashsu/llm_wiki",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "wiki",
+      "knowledge-base",
+      "reference"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-nousresearchhermes-a",
+    "title": "NousResearch/hermes-agent",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "automation",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-nvidia-nemospeech",
+    "title": "NVIDIA-NeMo/Speech",
+    "source_url": "https://github.com/NVIDIA-NeMo/Speech",
+    "source_type": "github_trending",
+    "tags": [
+      "speech",
+      "asr",
+      "tts",
+      "nemo",
+      "nvidia"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-obrasuperpowers",
+    "title": "obra/superpowers",
+    "source_url": "https://github.com/obra/superpowers",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "skills",
+      "ai-assistant"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-open-webuiopen-webui",
+    "title": "open-webui/open-webui",
+    "source_url": "https://github.com/open-webui/open-webui",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "webui",
+      "ollama",
+      "rag",
+      "self-hosted"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-plotlydash",
+    "title": "plotly/dash",
+    "source_url": "https://github.com/plotly/dash",
+    "source_type": "github_trending",
+    "tags": [
+      "python",
+      "data-visualization",
+      "dashboard",
+      "flask",
+      "react"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-purpleailabdeceptico",
+    "title": "PurpleAILAB/Decepticon",
+    "source_url": "https://github.com/PurpleAILAB/Decepticon",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-security",
+      "red-team",
+      "llm",
+      "multimodal",
+      "pentesting"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-rockbenbenchatgpt-sh",
+    "title": "rockbenben/ChatGPT-Shortcut",
+    "source_url": "https://github.com/rockbenben/ChatGPT-Shortcut",
+    "source_type": "github_trending",
+    "tags": [
+      "chatgpt",
+      "prompts",
+      "ai",
+      "productivity"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-rowboatlabsrowboat",
+    "title": "rowboatlabs/rowboat",
+    "source_url": "https://github.com/rowboatlabs/rowboat",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "slack",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-ruvnetruflo",
+    "title": "ruvnet/ruflo",
+    "source_url": "https://github.com/ruvnet/ruflo",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "llm",
+      "orchestration",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-significant-gravitas",
+    "title": "Significant-Gravitas/AutoGPT",
+    "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "automation",
+      "llm",
+      "workflow",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-snailclimbjavaguide",
+    "title": "Snailclimb/JavaGuide",
+    "source_url": "https://github.com/Snailclimb/JavaGuide",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "interview",
+      "learning",
+      "guide"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-tambo-aitambo",
+    "title": "tambo-ai/tambo",
+    "source_url": "https://github.com/tambo-ai/tambo",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "memory",
+      "infrastructure"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-thedotmackclaude-mem",
+    "title": "thedotmack/claude-mem",
+    "source_url": "https://github.com/thedotmack/claude-mem",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "memory",
+      "sqlite",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-tinyhumansaiopenhuma",
+    "title": "tinyhumansai/openhuman",
+    "source_url": "https://github.com/tinyhumansai/openhuman",
+    "source_type": "github_trending",
+    "tags": [
+      "digital-human",
+      "multimodal",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-tooljettooljet",
+    "title": "ToolJet/ToolJet",
+    "source_url": "https://github.com/ToolJet/ToolJet",
+    "source_type": "github_trending",
+    "tags": [
+      "low-code",
+      "internal-tools",
+      "workflow"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-vercelai",
+    "title": "vercel/ai",
+    "source_url": "https://github.com/vercel/ai",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "ai",
+      "typescript",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-yeachan-heooh-my-cla",
+    "title": "Yeachan-Heo/oh-my-claudecode",
+    "source_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "config",
+      "cli",
+      "productivity"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-yishentuclaudian",
+    "title": "YishenTu/claudian",
+    "source_url": "https://github.com/YishenTu/claudian",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "api",
+      "llm",
+      "local"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260820-github-zhayujiecowagent",
+    "title": "zhayujie/CowAgent",
+    "source_url": "https://github.com/zhayujie/CowAgent",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "framework",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-20T08:31:37Z"
   }
 ]

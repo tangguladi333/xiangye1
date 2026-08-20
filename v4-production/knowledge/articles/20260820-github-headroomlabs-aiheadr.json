@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-headroomlabs-aiheadr",
+  "title": "headroomlabs-ai/headroom",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github_trending",
+  "summary": "Headroom 是一个面向 AI 代理的实时监控与可视化平台，提供会话追踪、性能指标和调试工具，帮助开发者优化代理行为。",
+  "highlights": [
+    "实时追踪 AI 代理的决策过程与工具调用",
+    "提供直观的可视化仪表盘和性能分析",
+    "支持多种主流 LLM 框架集成"
+  ],
+  "use_cases": [
+    "AI 代理开发调试与性能优化",
+    "生产环境代理行为监控与审计"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "observability",
+    "monitoring"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:13Z",
+  "analyzed_at": "2026-08-20T08:29:58Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

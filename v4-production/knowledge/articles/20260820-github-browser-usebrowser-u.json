@@ -1,0 +1,32 @@
+{
+  "id": "20260820-github-browser-usebrowser-u",
+  "title": "browser-use/browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github_trending",
+  "summary": "browser-use 是一个让 AI 代理通过自然语言控制浏览器的开源库，支持网页自动化、数据提取和任务执行，基于 Playwright 构建，提供简洁的 API。",
+  "highlights": [
+    "自然语言控制浏览器，无需编写复杂脚本",
+    "基于 Playwright，支持多浏览器和云服务",
+    "提供 DOM 状态提取和自愈机制，增强稳定性"
+  ],
+  "use_cases": [
+    "网页自动化测试",
+    "AI 驱动的数据抓取与表单填写",
+    "构建智能体执行多步骤网页任务"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "browser automation",
+    "ai agent",
+    "playwright",
+    "web scraping"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:12Z",
+  "analyzed_at": "2026-08-20T08:29:33Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

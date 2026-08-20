@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-rowboatlabsrowboat",
+  "title": "rowboatlabs/rowboat",
+  "source_url": "https://github.com/rowboatlabs/rowboat",
+  "source_type": "github_trending",
+  "summary": "Rowboat 是一个开源的企业级 AI 助手平台，专注于将 LLM 集成到 Slack 等协作工具中，提供自定义工作流、知识库和自动化能力。",
+  "highlights": [
+    "支持多平台集成（Slack、Discord 等）",
+    "提供可视化工作流编排和自定义工具",
+    "内置知识库和对话记忆管理"
+  ],
+  "use_cases": [
+    "企业内部 AI 助手部署",
+    "团队协作自动化与信息检索"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "slack",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:16Z",
+  "analyzed_at": "2026-08-20T08:31:21Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

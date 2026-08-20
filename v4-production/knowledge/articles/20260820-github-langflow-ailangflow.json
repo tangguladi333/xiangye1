@@ -1,0 +1,33 @@
+{
+  "id": "20260820-github-langflow-ailangflow",
+  "title": "langflow-ai/langflow",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "source_type": "github_trending",
+  "summary": "Langflow 是一个可视化低代码平台，用于构建多智能体与检索增强生成（RAG）应用，支持拖拽式流程编排，与 LangChain、LlamaIndex 等框架集成，并提供 API 和云服务。",
+  "highlights": [
+    "可视化拖拽界面，无需代码即可构建复杂 AI 工作流",
+    "支持多智能体编排、RAG 流程及自定义组件扩展",
+    "提供 API 和云部署选项，便于集成到现有系统"
+  ],
+  "use_cases": [
+    "快速原型开发与演示",
+    "企业内部 AI 工作流自动化",
+    "教学与学习 LLM 应用构建"
+  ],
+  "maturity": {
+    "stars": 45000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "low-code",
+    "rag",
+    "multi-agent",
+    "workflow",
+    "langchain"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:12Z",
+  "analyzed_at": "2026-08-20T08:29:26Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

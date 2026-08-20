@@ -1,0 +1,31 @@
+{
+  "id": "20260820-github-graphify-labsgraphif",
+  "title": "Graphify-Labs/graphify",
+  "source_url": "https://github.com/Graphify-Labs/graphify",
+  "source_type": "github_trending",
+  "summary": "Graphify 是一个用于构建和部署知识图谱的开发者平台，提供可视化界面和 API，支持从非结构化数据自动提取实体与关系，简化图谱构建流程。",
+  "highlights": [
+    "自动从文本中提取实体和关系，降低图谱构建门槛",
+    "提供可视化编辑器和 REST API，便于集成",
+    "支持多种数据源导入，如 JSON、CSV 和数据库"
+  ],
+  "use_cases": [
+    "构建企业知识库和智能问答系统",
+    "用于数据分析和关系挖掘，辅助决策"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "knowledge-graph",
+    "nlp",
+    "visualization",
+    "api"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:13Z",
+  "analyzed_at": "2026-08-20T08:29:49Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

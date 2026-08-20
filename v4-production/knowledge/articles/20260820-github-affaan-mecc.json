@@ -1,0 +1,30 @@
+{
+  "id": "20260820-github-affaan-mecc",
+  "title": "affaan-m/ECC",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "source_type": "github_trending",
+  "summary": "ECC 是一个用于椭圆曲线密码学的 Python 库，提供简洁的 API 实现密钥生成、签名和验证，适合教学和轻量级应用。",
+  "highlights": [
+    "纯 Python 实现，易于理解和扩展",
+    "支持多种椭圆曲线，如 secp256k1",
+    "包含详细文档和示例代码"
+  ],
+  "use_cases": [
+    "区块链和加密货币相关开发",
+    "密码学教学和实验"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2024-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "cryptography",
+    "elliptic-curve",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:15Z",
+  "analyzed_at": "2026-08-20T08:30:56Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}

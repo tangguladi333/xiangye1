@@ -1,0 +1,30 @@
+{
+  "id": "20260820-github-zhayujiecowagent",
+  "title": "zhayujie/CowAgent",
+  "source_url": "https://github.com/zhayujie/CowAgent",
+  "source_type": "github_trending",
+  "summary": "CowAgent 是一个面向开发者的轻量级 AI 代理框架，专注于简化多步骤任务自动化与工具调用，提供简洁 API 和可扩展设计。",
+  "highlights": [
+    "轻量级设计，易于集成到现有项目",
+    "支持多步骤任务编排与工具调用",
+    "提供清晰的扩展接口，便于自定义代理行为"
+  ],
+  "use_cases": [
+    "自动化工作流（如数据处理、报告生成）",
+    "智能助手开发（如客服、内部工具）"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "framework",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-20T08:29:16Z",
+  "analyzed_at": "2026-08-20T08:31:02Z",
+  "curated_at": "2026-08-20T08:31:37Z"
+}
