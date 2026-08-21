@@ -1,0 +1,30 @@
+{
+  "id": "20260821-github-ryancodraiturbovec",
+  "title": "RyanCodrai/turbovec",
+  "source_url": "https://github.com/RyanCodrai/turbovec",
+  "source_type": "github_trending",
+  "summary": "Turbovec 是一个高性能向量数据库，专为 AI 应用设计，支持快速相似性搜索和实时索引，提供简洁的 API 和可扩展的架构。",
+  "highlights": [
+    "高性能向量索引，支持毫秒级相似性搜索",
+    "简洁易用的 Python API，快速集成",
+    "可扩展架构，支持大规模数据存储"
+  ],
+  "use_cases": [
+    "AI 应用中的语义搜索和推荐系统",
+    "大规模向量数据的实时检索与过滤"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "vector-database",
+    "similarity-search",
+    "ai-infrastructure"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:42Z",
+  "analyzed_at": "2026-08-21T08:32:15Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

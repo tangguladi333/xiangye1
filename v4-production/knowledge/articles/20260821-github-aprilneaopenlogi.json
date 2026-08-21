@@ -1,0 +1,31 @@
+{
+  "id": "20260821-github-aprilneaopenlogi",
+  "title": "AprilNEA/OpenLogi",
+  "source_url": "https://github.com/AprilNEA/OpenLogi",
+  "source_type": "github_trending",
+  "summary": "OpenLogi 是一个开源日志分析工具，利用 LLM 自动解析和可视化日志数据，支持多种日志格式，提供智能异常检测和摘要生成。",
+  "highlights": [
+    "基于 LLM 的日志智能解析，无需手动编写正则",
+    "支持多种日志格式，易于扩展",
+    "提供交互式可视化界面，便于快速洞察"
+  ],
+  "use_cases": [
+    "开发调试中的日志快速分析",
+    "运维监控中的异常日志检测"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "logging",
+    "analysis",
+    "visualization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:42Z",
+  "analyzed_at": "2026-08-21T08:32:00Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

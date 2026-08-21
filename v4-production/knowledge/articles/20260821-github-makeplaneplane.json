@@ -1,0 +1,31 @@
+{
+  "id": "20260821-github-makeplaneplane",
+  "title": "makeplane/plane",
+  "source_url": "https://github.com/makeplane/plane",
+  "source_type": "github_trending",
+  "summary": "Plane 是一个开源的 Jira 替代品，提供项目管理、问题跟踪和产品开发工具，支持自托管和云服务，界面现代，功能全面。",
+  "highlights": [
+    "功能丰富的项目管理工具，包含问题、周期、模块和看板视图",
+    "支持自托管，提供 Docker 部署，数据完全可控",
+    "活跃的社区和持续的版本更新，文档完善"
+  ],
+  "use_cases": [
+    "中小团队的项目管理和敏捷开发",
+    "需要数据隐私和自托管的企业内部工具"
+  ],
+  "maturity": {
+    "stars": 30000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "project-management",
+    "issue-tracking",
+    "self-hosted",
+    "agile"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:42Z",
+  "analyzed_at": "2026-08-21T08:32:11Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

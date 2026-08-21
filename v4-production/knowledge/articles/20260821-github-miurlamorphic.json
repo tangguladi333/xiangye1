@@ -1,0 +1,31 @@
+{
+  "id": "20260821-github-miurlamorphic",
+  "title": "miurla/morphic",
+  "source_url": "https://github.com/miurla/morphic",
+  "source_type": "github_trending",
+  "summary": "Morphic 是一个开源的 AI 问答搜索引擎，基于 Next.js 和 Vercel AI SDK 构建，支持多模型接入和流式响应，界面现代，适合快速部署私有搜索服务。",
+  "highlights": [
+    "基于 Next.js 和 Vercel AI SDK，支持流式响应和多种 LLM 提供商",
+    "提供类似 Perplexity 的现代 UI，支持深色模式和响应式设计",
+    "易于部署到 Vercel，支持自定义 API 密钥和模型配置"
+  ],
+  "use_cases": [
+    "构建私有化 AI 搜索工具",
+    "作为学习 Next.js 和 AI 集成的参考项目"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-search",
+    "nextjs",
+    "llm",
+    "vercel-ai-sdk"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:37Z",
+  "analyzed_at": "2026-08-21T08:31:49Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

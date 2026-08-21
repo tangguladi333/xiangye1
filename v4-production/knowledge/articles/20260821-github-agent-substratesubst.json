@@ -1,0 +1,30 @@
+{
+  "id": "20260821-github-agent-substratesubst",
+  "title": "agent-substrate/substrate",
+  "source_url": "https://github.com/agent-substrate/substrate",
+  "source_type": "github_trending",
+  "summary": "Substrate 是一个用于构建 AI 代理的模块化框架，提供可组合的工具链和运行时环境，支持快速开发与部署。",
+  "highlights": [
+    "模块化设计，支持灵活组合代理组件",
+    "内置运行时沙箱，增强安全性与隔离性",
+    "活跃的社区与持续更新"
+  ],
+  "use_cases": [
+    "构建定制化 AI 代理",
+    "快速原型开发与实验"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "agent",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:42Z",
+  "analyzed_at": "2026-08-21T08:32:02Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

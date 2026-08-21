@@ -12606,5 +12606,185 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-20T08:31:37Z"
+  },
+  {
+    "id": "20260821-github-agent-substratesubst",
+    "title": "agent-substrate/substrate",
+    "source_url": "https://github.com/agent-substrate/substrate",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "agent",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-aishwaryanrawesome-g",
+    "title": "aishwaryanr/awesome-generative-ai-guide",
+    "source_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "source_type": "github_trending",
+    "tags": [
+      "generative-ai",
+      "awesome-list",
+      "resources",
+      "guide"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-aprilneaopenlogi",
+    "title": "AprilNEA/OpenLogi",
+    "source_url": "https://github.com/AprilNEA/OpenLogi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "logging",
+      "analysis",
+      "visualization"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-jerryzliudayflow",
+    "title": "JerryZLiu/Dayflow",
+    "source_url": "https://github.com/JerryZLiu/Dayflow",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "automation",
+      "scheduler"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-joshuac215agent-serv",
+    "title": "JoshuaC215/agent-service-toolkit",
+    "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "api",
+      "deployment",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-juliusbrusseecaveman",
+    "title": "JuliusBrussee/caveman",
+    "source_url": "https://github.com/JuliusBrussee/caveman",
+    "source_type": "github_trending",
+    "tags": [
+      "rust",
+      "database",
+      "embedded",
+      "key-value"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-makeplaneplane",
+    "title": "makeplane/plane",
+    "source_url": "https://github.com/makeplane/plane",
+    "source_type": "github_trending",
+    "tags": [
+      "project-management",
+      "issue-tracking",
+      "self-hosted",
+      "agile"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-miurlamorphic",
+    "title": "miurla/morphic",
+    "source_url": "https://github.com/miurla/morphic",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-search",
+      "nextjs",
+      "llm",
+      "vercel-ai-sdk"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-modularmodular",
+    "title": "modular/modular",
+    "source_url": "https://github.com/modular/modular",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "python",
+      "framework",
+      "high-performance"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-posthogposthog",
+    "title": "PostHog/posthog",
+    "source_url": "https://github.com/PostHog/posthog",
+    "source_type": "github_trending",
+    "tags": [
+      "product-analytics",
+      "session-replay",
+      "feature-flags",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-ryancodraiturbovec",
+    "title": "RyanCodrai/turbovec",
+    "source_url": "https://github.com/RyanCodrai/turbovec",
+    "source_type": "github_trending",
+    "tags": [
+      "vector-database",
+      "similarity-search",
+      "ai-infrastructure"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-startrail-orgleann",
+    "title": "StarTrail-org/LEANN",
+    "source_url": "https://github.com/StarTrail-org/LEANN",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "framework",
+      "lightweight"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260821-github-tencentai-infra-guar",
+    "title": "Tencent/AI-Infra-Guard",
+    "source_url": "https://github.com/Tencent/AI-Infra-Guard",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-security",
+      "infrastructure",
+      "monitoring",
+      "tencent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-21T08:32:15Z"
   }
 ]

@@ -1,0 +1,31 @@
+{
+  "id": "20260821-github-modularmodular",
+  "title": "modular/modular",
+  "source_url": "https://github.com/modular/modular",
+  "source_type": "github_trending",
+  "summary": "Modular 是一个面向 AI 开发者的高性能 Python 框架，旨在简化从原型到生产的 AI 应用构建，提供模块化设计和高效执行。",
+  "highlights": [
+    "模块化架构，支持灵活组合 AI 组件",
+    "高性能执行，优化推理和训练速度",
+    "与主流 AI 库和框架集成"
+  ],
+  "use_cases": [
+    "快速构建和部署 AI 原型",
+    "生产环境中的高性能 AI 服务"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "python",
+    "framework",
+    "high-performance"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:42Z",
+  "analyzed_at": "2026-08-21T08:31:58Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

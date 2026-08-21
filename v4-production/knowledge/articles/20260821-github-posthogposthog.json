@@ -1,0 +1,32 @@
+{
+  "id": "20260821-github-posthogposthog",
+  "title": "PostHog/posthog",
+  "source_url": "https://github.com/PostHog/posthog",
+  "source_type": "github_trending",
+  "summary": "PostHog 是一个开源的产品分析平台，提供事件追踪、会话录制、功能开关和 A/B 测试等工具，帮助团队理解用户行为并优化产品。",
+  "highlights": [
+    "一体化产品分析套件，涵盖事件、漏斗、路径和留存分析",
+    "内置会话录制和热图，支持可视化用户行为",
+    "开源且可自托管，同时提供云服务，支持功能开关和实验"
+  ],
+  "use_cases": [
+    "产品团队进行用户行为分析和产品优化",
+    "增长团队运行 A/B 测试和功能灰度发布",
+    "数据团队自建分析平台，替代商业 SaaS 工具"
+  ],
+  "maturity": {
+    "stars": 22000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "product-analytics",
+    "session-replay",
+    "feature-flags",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:42Z",
+  "analyzed_at": "2026-08-21T08:32:04Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

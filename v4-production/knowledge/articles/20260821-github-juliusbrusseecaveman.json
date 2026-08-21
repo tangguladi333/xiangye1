@@ -1,0 +1,32 @@
+{
+  "id": "20260821-github-juliusbrusseecaveman",
+  "title": "JuliusBrussee/caveman",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "source_type": "github_trending",
+  "summary": "Caveman 是一个基于 Rust 的高性能嵌入式键值存储引擎，专注于极简设计和零依赖，提供类似 Redis 的 API 但更轻量。",
+  "highlights": [
+    "纯 Rust 实现，无外部依赖",
+    "支持持久化与内存模式",
+    "提供简单易用的 API 和 CLI"
+  ],
+  "use_cases": [
+    "嵌入式应用的数据存储",
+    "轻量级缓存服务",
+    "边缘计算场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "rust",
+    "database",
+    "embedded",
+    "key-value"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:42Z",
+  "analyzed_at": "2026-08-21T08:32:09Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

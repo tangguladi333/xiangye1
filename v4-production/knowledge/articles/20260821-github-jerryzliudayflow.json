@@ -1,0 +1,30 @@
+{
+  "id": "20260821-github-jerryzliudayflow",
+  "title": "JerryZLiu/Dayflow",
+  "source_url": "https://github.com/JerryZLiu/Dayflow",
+  "source_type": "github_trending",
+  "summary": "Dayflow 是一个面向开发者的轻量级工作流引擎，支持可视化编排和自动化任务调度，旨在简化复杂业务流程的构建与维护。",
+  "highlights": [
+    "提供直观的可视化工作流设计器",
+    "支持多种任务节点类型和条件分支",
+    "内置调度器与监控告警功能"
+  ],
+  "use_cases": [
+    "自动化数据处理管道",
+    "业务审批流程编排"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-10",
+    "production_ready": false
+  },
+  "tags": [
+    "workflow",
+    "automation",
+    "scheduler"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:40Z",
+  "analyzed_at": "2026-08-21T08:31:56Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

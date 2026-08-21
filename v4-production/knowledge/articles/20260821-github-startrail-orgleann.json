@@ -1,0 +1,31 @@
+{
+  "id": "20260821-github-startrail-orgleann",
+  "title": "StarTrail-org/LEANN",
+  "source_url": "https://github.com/StarTrail-org/LEANN",
+  "source_type": "github_trending",
+  "summary": "LEANN 是一个面向大语言模型（LLM）的轻量级、可扩展的智能体框架，旨在简化多步骤推理和工具调用流程，提供模块化设计和高效执行引擎。",
+  "highlights": [
+    "轻量级架构，易于集成到现有项目",
+    "支持自定义工具和插件，扩展性强",
+    "提供高效的推理调度和错误处理机制"
+  ],
+  "use_cases": [
+    "构建自动化工作流和智能助手",
+    "快速原型开发多步骤推理应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "framework",
+    "lightweight"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:37Z",
+  "analyzed_at": "2026-08-21T08:31:54Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}

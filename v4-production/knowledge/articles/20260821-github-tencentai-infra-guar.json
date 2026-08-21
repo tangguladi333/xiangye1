@@ -1,0 +1,32 @@
+{
+  "id": "20260821-github-tencentai-infra-guar",
+  "title": "Tencent/AI-Infra-Guard",
+  "source_url": "https://github.com/Tencent/AI-Infra-Guard",
+  "source_type": "github_trending",
+  "summary": "腾讯开源的AI基础设施安全防护框架，提供模型部署、数据流和API调用的实时监控与异常检测，支持多云环境。",
+  "highlights": [
+    "实时异常检测与告警",
+    "支持多云和混合云部署",
+    "提供可视化安全仪表盘"
+  ],
+  "use_cases": [
+    "AI模型生产环境安全监控",
+    "企业AI基础设施合规审计",
+    "多云AI服务统一安全管理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-security",
+    "infrastructure",
+    "monitoring",
+    "tencent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-21T08:31:42Z",
+  "analyzed_at": "2026-08-21T08:32:13Z",
+  "curated_at": "2026-08-21T08:32:15Z"
+}
