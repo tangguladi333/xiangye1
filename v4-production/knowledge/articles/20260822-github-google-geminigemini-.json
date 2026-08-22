@@ -1,0 +1,33 @@
+{
+  "id": "20260822-github-google-geminigemini-",
+  "title": "google-gemini/gemini-cli",
+  "source_url": "https://github.com/google-gemini/gemini-cli",
+  "source_type": "github_trending",
+  "summary": "Google 官方开源的 Gemini CLI 工具，提供交互式终端界面，支持多模态输入、代码执行和 Agent 模式，可无缝集成 Google AI 与 Vertex AI，简化 AI 工作流。",
+  "highlights": [
+    "官方出品，与 Gemini API 深度集成",
+    "支持多模态输入（文本、图像、代码）",
+    "内置代码执行和 Agent 模式，可自动化任务"
+  ],
+  "use_cases": [
+    "开发者在终端中快速进行 AI 辅助编程",
+    "自动化数据处理和脚本生成",
+    "作为 CLI 工具集成到 CI/CD 流程"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "cli",
+    "gemini",
+    "ai",
+    "google",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-22T08:20:10Z",
+  "analyzed_at": "2026-08-22T08:20:19Z",
+  "curated_at": "2026-08-22T08:20:55Z"
+}

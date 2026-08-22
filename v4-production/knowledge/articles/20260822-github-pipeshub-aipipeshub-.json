@@ -1,0 +1,33 @@
+{
+  "id": "20260822-github-pipeshub-aipipeshub-",
+  "title": "pipeshub-ai/pipeshub-ai",
+  "source_url": "https://github.com/pipeshub-ai/pipeshub-ai",
+  "source_type": "github_trending",
+  "summary": "PipesHub 是一个开源 AI 代理平台，用于构建、部署和监控生产级 AI 代理。它提供可视化工作流编辑器、多模型支持、内置可观测性和团队协作功能，旨在简化 AI 应用从开发到生产的全流程。",
+  "highlights": [
+    "可视化工作流编辑器，支持拖拽式构建 AI 代理",
+    "内置可观测性工具，实时监控代理性能和成本",
+    "支持多种 LLM 提供商，并具备模型切换和回退机制"
+  ],
+  "use_cases": [
+    "企业级 AI 代理的快速原型设计与生产部署",
+    "需要精细监控和成本控制的 AI 应用运维",
+    "团队协作开发复杂 AI 工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "workflow",
+    "observability",
+    "llm",
+    "platform"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-22T08:20:10Z",
+  "analyzed_at": "2026-08-22T08:20:26Z",
+  "curated_at": "2026-08-22T08:20:55Z"
+}

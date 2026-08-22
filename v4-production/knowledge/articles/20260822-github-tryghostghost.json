@@ -1,0 +1,33 @@
+{
+  "id": "20260822-github-tryghostghost",
+  "title": "TryGhost/Ghost",
+  "source_url": "https://github.com/TryGhost/Ghost",
+  "source_type": "github_trending",
+  "summary": "Ghost 是一个开源、专业的发布平台，专为现代网络构建。它提供强大的编辑体验、会员订阅、内置 SEO 和极快的性能，被全球众多创作者和团队用于内容创作与分发。",
+  "highlights": [
+    "专为内容创作设计的极简、专注的编辑器",
+    "内置会员订阅和付费墙功能，支持内容变现",
+    "高性能、SEO 友好，支持静态页面生成和 CDN 加速"
+  ],
+  "use_cases": [
+    "个人博客或专业新闻网站",
+    "创作者经济中的订阅制内容平台",
+    "企业内容营销和品牌发布渠道"
+  ],
+  "maturity": {
+    "stars": 48000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "cms",
+    "blogging",
+    "publishing",
+    "membership",
+    "seo"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-22T08:20:14Z",
+  "analyzed_at": "2026-08-22T08:20:45Z",
+  "curated_at": "2026-08-22T08:20:55Z"
+}

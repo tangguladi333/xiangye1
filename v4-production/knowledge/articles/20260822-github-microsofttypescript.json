@@ -1,0 +1,32 @@
+{
+  "id": "20260822-github-microsofttypescript",
+  "title": "microsoft/TypeScript",
+  "source_url": "https://github.com/microsoft/TypeScript",
+  "source_type": "github_trending",
+  "summary": "TypeScript 是微软开发的开源编程语言，是 JavaScript 的超集，添加了静态类型检查。它提供类型推断、接口、泛型等特性，并编译为纯 JavaScript，广泛应用于大型前端项目。",
+  "highlights": [
+    "静态类型系统，提升代码可维护性和可读性",
+    "强大的类型推断和编辑器支持（如 VS Code）",
+    "活跃的社区和持续的版本迭代"
+  ],
+  "use_cases": [
+    "大型前端应用开发",
+    "Node.js 后端开发",
+    "库和框架的编写"
+  ],
+  "maturity": {
+    "stars": 100000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "typescript",
+    "javascript",
+    "compiler",
+    "language"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-22T08:20:14Z",
+  "analyzed_at": "2026-08-22T08:20:41Z",
+  "curated_at": "2026-08-22T08:20:55Z"
+}

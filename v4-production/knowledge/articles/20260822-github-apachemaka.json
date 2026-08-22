@@ -1,0 +1,31 @@
+{
+  "id": "20260822-github-apachemaka",
+  "title": "apache/maka",
+  "source_url": "https://github.com/apache/maka",
+  "source_type": "github_trending",
+  "summary": "Apache Maka 是一个用于构建可扩展 AI 代理工作流的开源框架，提供模块化组件和可视化编排，支持多模型集成与事件驱动架构。",
+  "highlights": [
+    "Apache 顶级项目，社区活跃度高",
+    "模块化设计，支持自定义组件与插件",
+    "内置可视化工作流编辑器，降低开发门槛"
+  ],
+  "use_cases": [
+    "企业级 AI 代理自动化流程编排",
+    "多模型协同的复杂任务处理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "workflow",
+    "agent",
+    "apache"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-22T08:20:14Z",
+  "analyzed_at": "2026-08-22T08:20:48Z",
+  "curated_at": "2026-08-22T08:20:55Z"
+}

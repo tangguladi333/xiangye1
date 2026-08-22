@@ -12786,5 +12786,235 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-21T08:32:15Z"
+  },
+  {
+    "id": "20260822-github-apachemaka",
+    "title": "apache/maka",
+    "source_url": "https://github.com/apache/maka",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "workflow",
+      "agent",
+      "apache"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-cursorplugins",
+    "title": "cursor/plugins",
+    "source_url": "https://github.com/cursor/plugins",
+    "source_type": "github_trending",
+    "tags": [
+      "cursor",
+      "editor",
+      "plugin",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-datawhalechinahello-",
+    "title": "datawhalechina/hello-agents",
+    "source_url": "https://github.com/datawhalechina/hello-agents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tutorial",
+      "datawhale"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-elder-pliniusobliter",
+    "title": "elder-plinius/OBLITERATUS",
+    "source_url": "https://github.com/elder-plinius/OBLITERATUS",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "security",
+      "jailbreak",
+      "red-team"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-google-geminigemini-",
+    "title": "google-gemini/gemini-cli",
+    "source_url": "https://github.com/google-gemini/gemini-cli",
+    "source_type": "github_trending",
+    "tags": [
+      "cli",
+      "gemini",
+      "ai",
+      "google",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-hkudsvibe-trading",
+    "title": "HKUDS/Vibe-Trading",
+    "source_url": "https://github.com/HKUDS/Vibe-Trading",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "trading",
+      "agent",
+      "fintech"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-kunagentkun",
+    "title": "KunAgent/Kun",
+    "source_url": "https://github.com/KunAgent/Kun",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-microsoftonnxruntime",
+    "title": "microsoft/onnxruntime",
+    "source_url": "https://github.com/microsoft/onnxruntime",
+    "source_type": "github_trending",
+    "tags": [
+      "onnx",
+      "inference",
+      "cross-platform",
+      "microsoft"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-microsofttypescript",
+    "title": "microsoft/TypeScript",
+    "source_url": "https://github.com/microsoft/TypeScript",
+    "source_type": "github_trending",
+    "tags": [
+      "typescript",
+      "javascript",
+      "compiler",
+      "language"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-nirdiamantagents-tow",
+    "title": "NirDiamant/agents-towards-production",
+    "source_url": "https://github.com/NirDiamant/agents-towards-production",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agents",
+      "llm",
+      "production",
+      "tutorial",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-nirdiamantgenaiagent",
+    "title": "NirDiamant/GenAI_Agents",
+    "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "source_type": "github_trending",
+    "tags": [
+      "genai",
+      "agents",
+      "tutorial",
+      "rag",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-pipeshub-aipipeshub-",
+    "title": "pipeshub-ai/pipeshub-ai",
+    "source_url": "https://github.com/pipeshub-ai/pipeshub-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "workflow",
+      "observability",
+      "llm",
+      "platform"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-protocolbuffersproto",
+    "title": "protocolbuffers/protobuf",
+    "source_url": "https://github.com/protocolbuffers/protobuf",
+    "source_type": "github_trending",
+    "tags": [
+      "serialization",
+      "protocol-buffers",
+      "grpc",
+      "data-interchange"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "ai-agent",
+      "awesome-list",
+      "examples"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-tryghostghost",
+    "title": "TryGhost/Ghost",
+    "source_url": "https://github.com/TryGhost/Ghost",
+    "source_type": "github_trending",
+    "tags": [
+      "cms",
+      "blogging",
+      "publishing",
+      "membership",
+      "seo"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260822-github-zylon-aiprivate-gpt",
+    "title": "zylon-ai/private-gpt",
+    "source_url": "https://github.com/zylon-ai/private-gpt",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "privacy",
+      "document-qa",
+      "offline"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-22T08:20:55Z"
   }
 ]

@@ -1,0 +1,32 @@
+{
+  "id": "20260822-github-zylon-aiprivate-gpt",
+  "title": "zylon-ai/private-gpt",
+  "source_url": "https://github.com/zylon-ai/private-gpt",
+  "source_type": "github_trending",
+  "summary": "PrivateGPT 是一个基于 LLM 的本地文档问答系统，支持完全离线运行，保护数据隐私。它提供 API 和 UI，可连接多种本地模型，实现文档摄取、检索和生成式问答。",
+  "highlights": [
+    "完全离线运行，数据不出本地，保障隐私",
+    "支持多种开源模型（如 Llama 2、Mistral）和向量数据库",
+    "提供 REST API 和 Gradio UI，易于集成和部署"
+  ],
+  "use_cases": [
+    "企业内部文档问答，无需上传至云端",
+    "敏感数据环境下的知识库检索与生成"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "rag",
+    "privacy",
+    "document-qa",
+    "offline"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-22T08:20:11Z",
+  "analyzed_at": "2026-08-22T08:20:32Z",
+  "curated_at": "2026-08-22T08:20:55Z"
+}

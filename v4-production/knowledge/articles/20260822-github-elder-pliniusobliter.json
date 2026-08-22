@@ -1,0 +1,32 @@
+{
+  "id": "20260822-github-elder-pliniusobliter",
+  "title": "elder-plinius/OBLITERATUS",
+  "source_url": "https://github.com/elder-plinius/OBLITERATUS",
+  "source_type": "github_trending",
+  "summary": "OBLITERATUS 是一个针对大型语言模型（LLM）的越狱（jailbreak）工具集，提供自动化生成和测试对抗性提示的方法，用于评估模型安全性和鲁棒性。",
+  "highlights": [
+    "自动化生成越狱提示，支持多种攻击策略",
+    "集成主流 LLM API，便于批量测试",
+    "提供可视化报告，直观展示模型脆弱点"
+  ],
+  "use_cases": [
+    "安全研究人员评估 LLM 防御能力",
+    "红队测试，识别模型潜在风险",
+    "开发安全对齐工具时的基准测试"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "security",
+    "jailbreak",
+    "red-team"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-22T08:20:14Z",
+  "analyzed_at": "2026-08-22T08:20:53Z",
+  "curated_at": "2026-08-22T08:20:55Z"
+}

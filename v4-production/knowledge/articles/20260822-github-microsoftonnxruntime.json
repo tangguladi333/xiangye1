@@ -1,0 +1,32 @@
+{
+  "id": "20260822-github-microsoftonnxruntime",
+  "title": "microsoft/onnxruntime",
+  "source_url": "https://github.com/microsoft/onnxruntime",
+  "source_type": "github_trending",
+  "summary": "微软开源的跨平台推理引擎，支持 ONNX 模型的高性能执行，覆盖云端、边缘和移动端，提供多语言 API 和硬件加速。",
+  "highlights": [
+    "支持多种硬件后端（CPU、GPU、NPU）及加速库（TensorRT、OpenVINO）",
+    "提供 Python、C++、C#、Java 等丰富语言接口",
+    "集成模型优化工具（量化、图优化）和动态形状处理"
+  ],
+  "use_cases": [
+    "生产环境中的模型部署与推理服务",
+    "边缘设备上的轻量化模型运行",
+    "跨框架模型转换后的统一推理"
+  ],
+  "maturity": {
+    "stars": 15000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "onnx",
+    "inference",
+    "cross-platform",
+    "microsoft"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-22T08:20:14Z",
+  "analyzed_at": "2026-08-22T08:20:55Z",
+  "curated_at": "2026-08-22T08:20:55Z"
+}
