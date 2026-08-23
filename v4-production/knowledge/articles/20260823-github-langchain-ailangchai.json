@@ -1,0 +1,32 @@
+{
+  "id": "20260823-github-langchain-ailangchai",
+  "title": "langchain-ai/langchain-mcp-adapters",
+  "source_url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+  "source_type": "github_trending",
+  "summary": "LangChain 官方 MCP 适配器，将 Model Context Protocol 服务器无缝集成到 LangChain 生态，支持工具、提示和资源的标准接入，简化 AI 应用开发。",
+  "highlights": [
+    "官方维护，与 LangChain 深度集成",
+    "支持 MCP 工具、提示和资源的标准适配",
+    "提供异步和同步客户端，易于使用"
+  ],
+  "use_cases": [
+    "将 MCP 服务器接入 LangChain 智能体",
+    "统一管理外部工具和资源，构建复杂 AI 工作流"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "langchain",
+    "mcp",
+    "adapter",
+    "agent",
+    "integration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-23T08:20:56Z",
+  "analyzed_at": "2026-08-23T08:21:05Z",
+  "curated_at": "2026-08-23T08:21:25Z"
+}

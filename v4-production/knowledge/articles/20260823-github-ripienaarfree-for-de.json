@@ -1,0 +1,32 @@
+{
+  "id": "20260823-github-ripienaarfree-for-de",
+  "title": "ripienaar/free-for-dev",
+  "source_url": "https://github.com/ripienaar/free-for-dev",
+  "source_type": "github_trending",
+  "summary": "这是一个汇集了大量免费开发者资源的列表，涵盖云服务、SaaS、API 等，帮助开发者节省成本。",
+  "highlights": [
+    "资源分类清晰，覆盖广泛",
+    "持续更新，社区维护活跃",
+    "提供实用筛选和对比信息"
+  ],
+  "use_cases": [
+    "寻找免费云服务或工具",
+    "比较不同免费套餐",
+    "降低开发成本"
+  ],
+  "maturity": {
+    "stars": 90000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "free",
+    "resources",
+    "devtools",
+    "cloud"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-23T08:21:01Z",
+  "analyzed_at": "2026-08-23T08:21:25Z",
+  "curated_at": "2026-08-23T08:21:25Z"
+}

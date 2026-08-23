@@ -1,0 +1,32 @@
+{
+  "id": "20260823-github-wshobsonagents",
+  "title": "wshobson/agents",
+  "source_url": "https://github.com/wshobson/agents",
+  "source_type": "github_trending",
+  "summary": "这是一个面向开发者的多智能体框架，支持构建、编排和部署自主AI代理，提供模块化设计和丰富的工具集成。",
+  "highlights": [
+    "模块化架构，易于扩展",
+    "支持多种LLM后端",
+    "内置工具和插件系统"
+  ],
+  "use_cases": [
+    "自动化工作流",
+    "智能客服系统",
+    "复杂任务分解与执行"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "framework",
+    "ai",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-23T08:20:58Z",
+  "analyzed_at": "2026-08-23T08:21:12Z",
+  "curated_at": "2026-08-23T08:21:25Z"
+}

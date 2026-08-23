@@ -1,0 +1,30 @@
+{
+  "id": "20260823-github-multica-aiandrej-kar",
+  "title": "multica-ai/andrej-karpathy-skills",
+  "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "source_type": "github_trending",
+  "summary": "该项目收集了 Andrej Karpathy 的编程技能和最佳实践，以可复用的技能文件形式组织，便于 AI 助手或开发者参考。",
+  "highlights": [
+    "汇集 Karpathy 的实战经验",
+    "结构化技能文件，易于集成",
+    "面向 AI 辅助开发场景"
+  ],
+  "use_cases": [
+    "AI 编程助手技能注入",
+    "开发者学习 Karpathy 风格"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "skills",
+    "karpathy",
+    "ai-assistant"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-23T08:21:01Z",
+  "analyzed_at": "2026-08-23T08:21:21Z",
+  "curated_at": "2026-08-23T08:21:25Z"
+}

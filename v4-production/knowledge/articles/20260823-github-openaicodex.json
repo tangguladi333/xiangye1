@@ -1,0 +1,32 @@
+{
+  "id": "20260823-github-openaicodex",
+  "title": "openai/codex",
+  "source_url": "https://github.com/openai/codex",
+  "source_type": "github_trending",
+  "summary": "OpenAI Codex 是一个基于大语言模型的编码代理工具，能够理解自然语言指令并自动生成、修改代码，支持多文件编辑和命令行操作，旨在提升开发效率。",
+  "highlights": [
+    "由 OpenAI 官方开发，与 GPT 模型深度集成",
+    "支持自然语言驱动的代码生成与修改",
+    "提供命令行接口，便于集成到开发工作流"
+  ],
+  "use_cases": [
+    "自动化代码生成与重构",
+    "辅助开发者进行日常编码任务",
+    "作为 AI 编程助手集成到 IDE 或 CI/CD 流程"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "coding-agent",
+    "developer-tools",
+    "cli"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-23T08:21:01Z",
+  "analyzed_at": "2026-08-23T08:21:14Z",
+  "curated_at": "2026-08-23T08:21:25Z"
+}

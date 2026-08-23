@@ -1,0 +1,31 @@
+{
+  "id": "20260823-github-earendil-workspi",
+  "title": "earendil-works/pi",
+  "source_url": "https://github.com/earendil-works/pi",
+  "source_type": "github_trending",
+  "summary": "Pi 是一个轻量级的 AI 代理框架，专注于本地优先和隐私保护，提供模块化工具调用和可扩展的插件系统。",
+  "highlights": [
+    "本地优先设计，数据不离开设备",
+    "模块化工具调用，支持自定义插件",
+    "轻量级，易于集成到现有项目"
+  ],
+  "use_cases": [
+    "本地自动化任务处理",
+    "隐私敏感场景的 AI 助手"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "agent",
+    "privacy",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-23T08:20:55Z",
+  "analyzed_at": "2026-08-23T08:21:03Z",
+  "curated_at": "2026-08-23T08:21:25Z"
+}

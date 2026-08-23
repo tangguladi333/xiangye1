@@ -13016,5 +13016,144 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-22T08:20:55Z"
+  },
+  {
+    "id": "20260823-github-anthropicsclaude-cod",
+    "title": "anthropics/claude-code",
+    "source_url": "https://github.com/anthropics/claude-code",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "coding-assistant",
+      "cli",
+      "anthropic"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-earendil-workspi",
+    "title": "earendil-works/pi",
+    "source_url": "https://github.com/earendil-works/pi",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "agent",
+      "privacy",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-langchain-ailangchai",
+    "title": "langchain-ai/langchain-mcp-adapters",
+    "source_url": "https://github.com/langchain-ai/langchain-mcp-adapters",
+    "source_type": "github_trending",
+    "tags": [
+      "langchain",
+      "mcp",
+      "adapter",
+      "agent",
+      "integration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-langchain4jlangchain",
+    "title": "langchain4j/langchain4j",
+    "source_url": "https://github.com/langchain4j/langchain4j",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "llm",
+      "rag",
+      "agent",
+      "spring-boot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-mahlernimgoogle-time",
+    "title": "mahlernim/google-timeline-visualizer",
+    "source_url": "https://github.com/mahlernim/google-timeline-visualizer",
+    "source_type": "github_trending",
+    "tags": [
+      "visualization",
+      "location",
+      "privacy"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-multica-aiandrej-kar",
+    "title": "multica-ai/andrej-karpathy-skills",
+    "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "skills",
+      "karpathy",
+      "ai-assistant"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-openaicodex",
+    "title": "openai/codex",
+    "source_url": "https://github.com/openai/codex",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "coding-agent",
+      "developer-tools",
+      "cli"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-ripienaarfree-for-de",
+    "title": "ripienaar/free-for-dev",
+    "source_url": "https://github.com/ripienaar/free-for-dev",
+    "source_type": "github_trending",
+    "tags": [
+      "free",
+      "resources",
+      "devtools",
+      "cloud"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-wei-shawsub2api",
+    "title": "Wei-Shaw/sub2api",
+    "source_url": "https://github.com/Wei-Shaw/sub2api",
+    "source_type": "github_trending",
+    "tags": [
+      "subscription",
+      "api",
+      "converter"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260823-github-wshobsonagents",
+    "title": "wshobson/agents",
+    "source_url": "https://github.com/wshobson/agents",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "ai",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-23T08:21:25Z"
   }
 ]
