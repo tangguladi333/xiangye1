@@ -1,0 +1,31 @@
+{
+  "id": "20260824-github-comfy-orgcomfyui",
+  "title": "Comfy-Org/ComfyUI",
+  "source_url": "https://github.com/Comfy-Org/ComfyUI",
+  "source_type": "github_trending",
+  "summary": "ComfyUI 是一个基于节点式工作流的稳定扩散 GUI 和后端，支持模块化流程设计，广泛用于 AI 图像生成。",
+  "highlights": [
+    "节点式可视化工作流，灵活组合模型和流程",
+    "支持多种扩散模型及自定义节点扩展",
+    "活跃社区与持续更新，生态丰富"
+  ],
+  "use_cases": [
+    "AI 图像生成与编辑",
+    "复杂工作流原型设计与自动化"
+  ],
+  "maturity": {
+    "stars": 45000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "stable-diffusion",
+    "image-generation",
+    "workflow",
+    "gui"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-24T08:41:04Z",
+  "analyzed_at": "2026-08-24T08:41:29Z",
+  "curated_at": "2026-08-24T08:41:29Z"
+}

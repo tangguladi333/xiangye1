@@ -1,0 +1,31 @@
+{
+  "id": "20260824-github-voltagentawesome-age",
+  "title": "VoltAgent/awesome-agent-skills",
+  "source_url": "https://github.com/VoltAgent/awesome-agent-skills",
+  "source_type": "github_trending",
+  "summary": "这是一个精选的AI Agent技能列表，涵盖工具使用、记忆、规划等核心能力，为开发者提供构建智能体的实用资源。",
+  "highlights": [
+    "系统整理Agent技能分类，便于快速检索",
+    "包含大量实用工具和框架链接，覆盖主流技术栈",
+    "社区维护，持续更新，紧跟AI Agent发展前沿"
+  ],
+  "use_cases": [
+    "开发者快速了解Agent能力图谱，选择合适工具",
+    "研究者调研Agent技能趋势，获取最新资源"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "agent",
+    "awesome-list",
+    "resources",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-24T08:41:04Z",
+  "analyzed_at": "2026-08-24T08:41:20Z",
+  "curated_at": "2026-08-24T08:41:29Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260824-github-dani-garciavaultward",
+  "title": "dani-garcia/vaultwarden",
+  "source_url": "https://github.com/dani-garcia/vaultwarden",
+  "source_type": "github_trending",
+  "summary": "Vaultwarden 是一个用 Rust 编写的 Bitwarden 服务器兼容实现，旨在提供轻量、自托管的密码管理解决方案。它支持大部分 Bitwarden 功能，并易于部署。",
+  "highlights": [
+    "用 Rust 实现，内存占用低，性能高效",
+    "与 Bitwarden 客户端完全兼容",
+    "支持 Docker 一键部署，易于自托管"
+  ],
+  "use_cases": [
+    "个人或团队自托管密码管理器",
+    "在低资源服务器上运行密码管理服务"
+  ],
+  "maturity": {
+    "stars": 38000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "password-manager",
+    "rust",
+    "self-hosted",
+    "bitwarden"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-24T08:41:04Z",
+  "analyzed_at": "2026-08-24T08:41:25Z",
+  "curated_at": "2026-08-24T08:41:29Z"
+}

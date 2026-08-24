@@ -13155,5 +13155,129 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-23T08:21:25Z"
+  },
+  {
+    "id": "20260824-github-anthropicsclaude-plu",
+    "title": "anthropics/claude-plugins-community",
+    "source_url": "https://github.com/anthropics/claude-plugins-community",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "plugins",
+      "anthropic",
+      "community"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260824-github-basecampomarchy",
+    "title": "basecamp/omarchy",
+    "source_url": "https://github.com/basecamp/omarchy",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "framework",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260824-github-blockbuzz",
+    "title": "block/buzz",
+    "source_url": "https://github.com/block/buzz",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "chat",
+      "web-ui"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260824-github-bojieliai-agent-book",
+    "title": "bojieli/ai-agent-book",
+    "source_url": "https://github.com/bojieli/ai-agent-book",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "book",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260824-github-comfy-orgcomfyui",
+    "title": "Comfy-Org/ComfyUI",
+    "source_url": "https://github.com/Comfy-Org/ComfyUI",
+    "source_type": "github_trending",
+    "tags": [
+      "stable-diffusion",
+      "image-generation",
+      "workflow",
+      "gui"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260824-github-dani-garciavaultward",
+    "title": "dani-garcia/vaultwarden",
+    "source_url": "https://github.com/dani-garcia/vaultwarden",
+    "source_type": "github_trending",
+    "tags": [
+      "password-manager",
+      "rust",
+      "self-hosted",
+      "bitwarden"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260824-github-freestyleflyawesome-",
+    "title": "freestylefly/awesome-gpt-image-2",
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "source_type": "github_trending",
+    "tags": [
+      "gpt-4o",
+      "image-generation",
+      "awesome-list",
+      "resources"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260824-github-virgiliojr94book-to-",
+    "title": "virgiliojr94/book-to-skill",
+    "source_url": "https://github.com/virgiliojr94/book-to-skill",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "learning",
+      "book",
+      "skill"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260824-github-voltagentawesome-age",
+    "title": "VoltAgent/awesome-agent-skills",
+    "source_url": "https://github.com/VoltAgent/awesome-agent-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "agent",
+      "awesome-list",
+      "resources",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-24T08:41:29Z"
   }
 ]

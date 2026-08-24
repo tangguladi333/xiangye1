@@ -1,0 +1,30 @@
+{
+  "id": "20260824-github-basecampomarchy",
+  "title": "basecamp/omarchy",
+  "source_url": "https://github.com/basecamp/omarchy",
+  "source_type": "github_trending",
+  "summary": "Omarchy 是 Basecamp 推出的开源 AI 代理框架，强调简洁、可组合的代理工作流，支持本地优先和多种模型接入，适合构建轻量级自动化任务。",
+  "highlights": [
+    "由知名公司 Basecamp 维护，信誉良好",
+    "设计简洁，注重可组合性和易用性",
+    "支持本地优先，保护数据隐私"
+  ],
+  "use_cases": [
+    "构建轻量级个人 AI 助手",
+    "自动化日常办公流程"
+  ],
+  "maturity": {
+    "stars": 850,
+    "last_updated": "2026-05-20",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "framework",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-24T08:41:04Z",
+  "analyzed_at": "2026-08-24T08:41:13Z",
+  "curated_at": "2026-08-24T08:41:29Z"
+}

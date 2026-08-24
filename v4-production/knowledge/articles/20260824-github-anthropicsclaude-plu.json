@@ -1,0 +1,31 @@
+{
+  "id": "20260824-github-anthropicsclaude-plu",
+  "title": "anthropics/claude-plugins-community",
+  "source_url": "https://github.com/anthropics/claude-plugins-community",
+  "source_type": "github_trending",
+  "summary": "Anthropic 官方社区插件仓库，提供多种 Claude 桌面应用的社区构建插件，涵盖生产力、开发工具等场景，展示插件开发最佳实践。",
+  "highlights": [
+    "官方维护，社区驱动，插件生态丰富",
+    "提供多种实用插件示例，如文档处理、代码辅助",
+    "包含插件开发指南和最佳实践"
+  ],
+  "use_cases": [
+    "扩展 Claude 桌面应用功能",
+    "学习如何开发 Claude 插件"
+  ],
+  "maturity": {
+    "stars": 1500,
+    "last_updated": "2026-05-15",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "plugins",
+    "anthropic",
+    "community"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-24T08:41:04Z",
+  "analyzed_at": "2026-08-24T08:41:27Z",
+  "curated_at": "2026-08-24T08:41:29Z"
+}

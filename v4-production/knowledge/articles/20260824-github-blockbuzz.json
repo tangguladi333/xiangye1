@@ -1,0 +1,30 @@
+{
+  "id": "20260824-github-blockbuzz",
+  "title": "block/buzz",
+  "source_url": "https://github.com/block/buzz",
+  "source_type": "github_trending",
+  "summary": "Buzz 是一个基于 Web 的 AI 对话界面，支持多模型切换、本地存储和 Markdown 渲染，适合快速搭建个人 AI 助手。",
+  "highlights": [
+    "支持多种主流 LLM 提供商（如 OpenAI、Anthropic）",
+    "纯前端实现，无需后端，数据本地存储",
+    "界面简洁，易于部署和定制"
+  ],
+  "use_cases": [
+    "个人 AI 聊天工具",
+    "团队内部 AI 助手原型"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "chat",
+    "web-ui"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-24T08:41:04Z",
+  "analyzed_at": "2026-08-24T08:41:15Z",
+  "curated_at": "2026-08-24T08:41:29Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260824-github-freestyleflyawesome-",
+  "title": "freestylefly/awesome-gpt-image-2",
+  "source_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+  "source_type": "github_trending",
+  "summary": "这是一个精选GPT-4o图像生成相关资源、工具和教程的列表，涵盖提示词技巧、应用案例及社区贡献，帮助用户高效利用GPT-4o的图像生成能力。",
+  "highlights": [
+    "汇集了丰富的GPT-4o图像生成提示词示例与技巧",
+    "整理了多种实际应用场景和创意案例",
+    "社区驱动，持续更新，资源分类清晰"
+  ],
+  "use_cases": [
+    "快速学习GPT-4o图像生成的最佳实践",
+    "寻找创意灵感和应用场景参考",
+    "作为开发或设计项目中的资源索引"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "gpt-4o",
+    "image-generation",
+    "awesome-list",
+    "resources"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-24T08:41:04Z",
+  "analyzed_at": "2026-08-24T08:41:11Z",
+  "curated_at": "2026-08-24T08:41:29Z"
+}
