@@ -1,0 +1,31 @@
+{
+  "id": "20260825-github-openclawopenclaw",
+  "title": "openclaw/openclaw",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "source_type": "github_trending",
+  "summary": "OpenClaw 是一个开源的多智能体协作框架，旨在简化复杂任务的分解与执行。它提供灵活的编排机制和可扩展的接口，支持多种 LLM 后端，适合构建自动化工作流。",
+  "highlights": [
+    "支持多智能体协作与任务编排",
+    "提供可插拔的 LLM 后端接口",
+    "内置任务监控与日志记录功能"
+  ],
+  "use_cases": [
+    "自动化业务流程编排",
+    "多步骤研究或数据分析任务"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "orchestration",
+    "llm",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:48Z",
+  "analyzed_at": "2026-08-25T08:34:10Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}

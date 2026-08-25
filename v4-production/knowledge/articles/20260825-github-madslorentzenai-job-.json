@@ -1,0 +1,30 @@
+{
+  "id": "20260825-github-madslorentzenai-job-",
+  "title": "MadsLorentzen/ai-job-search",
+  "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+  "source_type": "github_trending",
+  "summary": "该项目利用AI技术自动化职位搜索和申请流程，通过智能匹配和个性化申请材料生成，提升求职效率。",
+  "highlights": [
+    "自动化职位搜索与匹配",
+    "个性化申请材料生成",
+    "开源且易于定制"
+  ],
+  "use_cases": [
+    "求职者快速筛选合适职位",
+    "自动化生成求职信和简历"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "job-search",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:48Z",
+  "analyzed_at": "2026-08-25T08:34:08Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260825-github-adongwanaiagentguide",
+  "title": "adongwanai/AgentGuide",
+  "source_url": "https://github.com/adongwanai/AgentGuide",
+  "source_type": "github_trending",
+  "summary": "AgentGuide 是一个面向 AI Agent 开发者的综合指南，涵盖设计模式、工具链和最佳实践，帮助快速构建生产级智能体应用。",
+  "highlights": [
+    "系统化梳理 Agent 架构与设计模式",
+    "提供多语言示例和实战案例",
+    "持续更新，紧跟最新 AI 技术趋势"
+  ],
+  "use_cases": [
+    "AI Agent 初学者快速入门",
+    "企业级 Agent 架构设计与选型参考"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "guide",
+    "llm",
+    "best-practices"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:43Z",
+  "analyzed_at": "2026-08-25T08:33:50Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260825-github-tashfeenahmedfreellm",
+  "title": "tashfeenahmed/freellmapi",
+  "source_url": "https://github.com/tashfeenahmed/freellmapi",
+  "source_type": "github_trending",
+  "summary": "freellmapi 是一个提供免费 LLM API 的聚合项目，集成了多种开源模型，旨在降低开发者使用大模型的成本。",
+  "highlights": [
+    "免费聚合多种 LLM API",
+    "支持多种开源模型",
+    "简化接入流程"
+  ],
+  "use_cases": [
+    "低成本原型开发",
+    "教学与实验环境"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "unknown",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "api",
+    "free",
+    "aggregator"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:48Z",
+  "analyzed_at": "2026-08-25T08:34:15Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}

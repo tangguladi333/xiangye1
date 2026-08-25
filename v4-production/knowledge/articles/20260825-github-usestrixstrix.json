@@ -1,0 +1,32 @@
+{
+  "id": "20260825-github-usestrixstrix",
+  "title": "usestrix/strix",
+  "source_url": "https://github.com/usestrix/strix",
+  "source_type": "github_trending",
+  "summary": "Strix 是一个开源的可观测性平台，专为 AI 代理和 LLM 应用设计，提供追踪、评估和监控功能，帮助开发者调试和优化 AI 工作流。",
+  "highlights": [
+    "专为 AI 代理设计，支持追踪复杂多步骤工作流",
+    "内置评估工具，可对比不同模型或提示词性能",
+    "提供实时监控和可视化仪表盘，便于生产环境调试"
+  ],
+  "use_cases": [
+    "开发调试 AI 代理应用，追踪每一步决策和工具调用",
+    "在生产环境中监控 LLM 应用性能，评估输出质量"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "observability",
+    "llm",
+    "agent",
+    "monitoring",
+    "tracing"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:44Z",
+  "analyzed_at": "2026-08-25T08:33:55Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}

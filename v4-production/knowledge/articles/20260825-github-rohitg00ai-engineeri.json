@@ -1,0 +1,31 @@
+{
+  "id": "20260825-github-rohitg00ai-engineeri",
+  "title": "rohitg00/ai-engineering-from-scratch",
+  "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "source_type": "github_trending",
+  "summary": "该仓库提供从零开始学习AI工程的系统性资源，涵盖机器学习、深度学习、LLM、Agent等核心主题，包含教程、代码示例和项目实践，适合初学者和进阶开发者。",
+  "highlights": [
+    "系统化的学习路径，从基础到高级",
+    "丰富的代码示例和实战项目",
+    "涵盖最新LLM和Agent技术"
+  ],
+  "use_cases": [
+    "AI工程师系统学习",
+    "快速上手LLM应用开发"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-engineering",
+    "llm",
+    "agent",
+    "tutorial"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:48Z",
+  "analyzed_at": "2026-08-25T08:34:14Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}

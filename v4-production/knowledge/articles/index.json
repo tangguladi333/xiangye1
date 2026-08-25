@@ -13279,5 +13279,170 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-24T08:41:29Z"
+  },
+  {
+    "id": "20260825-github-adongwanaiagentguide",
+    "title": "adongwanai/AgentGuide",
+    "source_url": "https://github.com/adongwanai/AgentGuide",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "guide",
+      "llm",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-agricidanielclaude-o",
+    "title": "AgriciDaniel/claude-obsidian",
+    "source_url": "https://github.com/AgriciDaniel/claude-obsidian",
+    "source_type": "github_trending",
+    "tags": [
+      "obsidian",
+      "claude",
+      "ai",
+      "note-taking"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-conductor-ossconduct",
+    "title": "conductor-oss/conductor",
+    "source_url": "https://github.com/conductor-oss/conductor",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "orchestration",
+      "microservices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-koala73worldmonitor",
+    "title": "koala73/worldmonitor",
+    "source_url": "https://github.com/koala73/worldmonitor",
+    "source_type": "github_trending",
+    "tags": [
+      "monitoring",
+      "real-time",
+      "data-visualization"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-madslorentzenai-job-",
+    "title": "MadsLorentzen/ai-job-search",
+    "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "job-search",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-netdatanetdata",
+    "title": "netdata/netdata",
+    "source_url": "https://github.com/netdata/netdata",
+    "source_type": "github_trending",
+    "tags": [
+      "monitoring",
+      "observability",
+      "devops"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-openclawopenclaw",
+    "title": "openclaw/openclaw",
+    "source_url": "https://github.com/openclaw/openclaw",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "orchestration",
+      "llm",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-rohitg00ai-engineeri",
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-engineering",
+      "llm",
+      "agent",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-tashfeenahmedfreellm",
+    "title": "tashfeenahmed/freellmapi",
+    "source_url": "https://github.com/tashfeenahmed/freellmapi",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "api",
+      "free",
+      "aggregator"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-usestrixstrix",
+    "title": "usestrix/strix",
+    "source_url": "https://github.com/usestrix/strix",
+    "source_type": "github_trending",
+    "tags": [
+      "observability",
+      "llm",
+      "agent",
+      "monitoring",
+      "tracing"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-xerrorsyuxi",
+    "title": "xerrors/Yuxi",
+    "source_url": "https://github.com/xerrors/Yuxi",
+    "source_type": "github_trending",
+    "tags": [
+      "go",
+      "async",
+      "event-driven",
+      "network"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260825-github-ykdojoclaude-code-ti",
+    "title": "ykdojo/claude-code-tips",
+    "source_url": "https://github.com/ykdojo/claude-code-tips",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "tips",
+      "ai-coding",
+      "best-practices"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-25T08:34:15Z"
   }
 ]

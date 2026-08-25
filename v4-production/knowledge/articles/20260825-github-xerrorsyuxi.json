@@ -1,0 +1,31 @@
+{
+  "id": "20260825-github-xerrorsyuxi",
+  "title": "xerrors/Yuxi",
+  "source_url": "https://github.com/xerrors/Yuxi",
+  "source_type": "github_trending",
+  "summary": "Yuxi 是一个基于 Go 的高性能异步事件驱动框架，专注于构建可扩展的网络服务。它提供轻量级协程调度、内置中间件和优雅停机支持，适合微服务与实时通信场景。",
+  "highlights": [
+    "纯 Go 实现，无外部依赖，性能优化显著",
+    "内置协程池与事件循环，支持高并发连接",
+    "提供简洁的中间件链和路由 API，易于扩展"
+  ],
+  "use_cases": [
+    "构建高性能 TCP/UDP 服务",
+    "微服务网关或实时消息推送系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "go",
+    "async",
+    "event-driven",
+    "network"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:43Z",
+  "analyzed_at": "2026-08-25T08:33:52Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260825-github-agricidanielclaude-o",
+  "title": "AgriciDaniel/claude-obsidian",
+  "source_url": "https://github.com/AgriciDaniel/claude-obsidian",
+  "source_type": "github_trending",
+  "summary": "将 Claude AI 集成到 Obsidian 笔记中的工具，支持自然语言交互、笔记管理和知识库查询，提升笔记使用效率。",
+  "highlights": [
+    "无缝集成 Claude 到 Obsidian",
+    "支持自然语言笔记操作",
+    "增强知识库检索能力"
+  ],
+  "use_cases": [
+    "笔记整理与检索",
+    "知识管理自动化"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "未知",
+    "production_ready": false
+  },
+  "tags": [
+    "obsidian",
+    "claude",
+    "ai",
+    "note-taking"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:48Z",
+  "analyzed_at": "2026-08-25T08:34:12Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}

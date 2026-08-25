@@ -1,0 +1,30 @@
+{
+  "id": "20260825-github-netdatanetdata",
+  "title": "netdata/netdata",
+  "source_url": "https://github.com/netdata/netdata",
+  "source_type": "github_trending",
+  "summary": "Netdata 是一个开源的实时监控和故障排除平台，提供分布式基础设施的即时洞察，支持多种系统和服务。",
+  "highlights": [
+    "实时、低延迟的监控能力",
+    "支持多种系统和服务",
+    "提供可视化仪表板和告警功能"
+  ],
+  "use_cases": [
+    "基础设施监控",
+    "性能分析和故障排查"
+  ],
+  "maturity": {
+    "stars": 68000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "monitoring",
+    "observability",
+    "devops"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-25T08:33:46Z",
+  "analyzed_at": "2026-08-25T08:34:02Z",
+  "curated_at": "2026-08-25T08:34:15Z"
+}
