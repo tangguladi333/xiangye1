@@ -1,0 +1,31 @@
+{
+  "id": "20260826-github-anthropicsclaude-plu",
+  "title": "anthropics/claude-plugins-official",
+  "source_url": "https://github.com/anthropics/claude-plugins-official",
+  "source_type": "github_trending",
+  "summary": "Anthropic 官方发布的 Claude 插件仓库，提供插件 SDK、示例和文档，用于扩展 Claude 的功能，支持自定义工具集成。",
+  "highlights": [
+    "官方维护，质量有保障",
+    "提供完整的插件开发 SDK 和示例",
+    "支持自定义工具集成，扩展性强"
+  ],
+  "use_cases": [
+    "为 Claude 开发自定义工具或插件",
+    "集成第三方服务到 Claude 工作流"
+  ],
+  "maturity": {
+    "stars": 1500,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "claude",
+    "plugin",
+    "sdk",
+    "anthropic"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-26T08:34:37Z",
+  "analyzed_at": "2026-08-26T08:34:51Z",
+  "curated_at": "2026-08-26T08:34:54Z"
+}

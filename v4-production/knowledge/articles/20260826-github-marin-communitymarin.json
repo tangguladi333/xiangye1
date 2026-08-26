@@ -1,0 +1,30 @@
+{
+  "id": "20260826-github-marin-communitymarin",
+  "title": "marin-community/marin",
+  "source_url": "https://github.com/marin-community/marin",
+  "source_type": "github_trending",
+  "summary": "Marin 是一个面向多智能体系统的开源框架，提供轻量级编排、通信和工具集成能力，支持快速构建和部署 AI 代理应用。",
+  "highlights": [
+    "轻量级多智能体编排框架",
+    "内置通信协议和工具调用接口",
+    "活跃的社区维护和文档支持"
+  ],
+  "use_cases": [
+    "构建多智能体协作系统",
+    "快速原型开发 AI 代理应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "framework",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-26T08:34:37Z",
+  "analyzed_at": "2026-08-26T08:34:47Z",
+  "curated_at": "2026-08-26T08:34:54Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260826-github-asciimoohister",
+  "title": "asciimoo/hister",
+  "source_url": "https://github.com/asciimoo/hister",
+  "source_type": "github_trending",
+  "summary": "Hister 是一个轻量级的命令行历史记录管理工具，支持跨会话搜索、过滤和导出，提供类似 grep 的界面，适合开发者高效管理 shell 历史。",
+  "highlights": [
+    "支持多种 shell（bash, zsh, fish）的历史记录统一管理",
+    "提供交互式搜索和过滤功能，提升历史命令检索效率",
+    "轻量级实现，依赖少，易于安装和集成"
+  ],
+  "use_cases": [
+    "开发者日常 shell 历史命令的快速检索与复用",
+    "系统管理员审计或导出历史命令用于安全分析"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "cli",
+    "shell",
+    "history",
+    "productivity"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-26T08:34:37Z",
+  "analyzed_at": "2026-08-26T08:34:54Z",
+  "curated_at": "2026-08-26T08:34:54Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260826-github-dietrichgebertponyta",
+  "title": "DietrichGebert/ponytail",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "source_type": "github_trending",
+  "summary": "Ponytail 是一个轻量级的 LLM 工具库，专注于简化提示词管理和多模型调用，提供统一接口和缓存机制，适合快速原型开发。",
+  "highlights": [
+    "统一多模型接口，支持切换不同 LLM 提供商",
+    "内置提示词模板和版本管理功能",
+    "轻量级设计，无复杂依赖"
+  ],
+  "use_cases": [
+    "快速构建 LLM 原型应用",
+    "管理多个 LLM 提供商的调用"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "prompt-management",
+    "multi-model"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-26T08:34:37Z",
+  "analyzed_at": "2026-08-26T08:34:49Z",
+  "curated_at": "2026-08-26T08:34:54Z"
+}

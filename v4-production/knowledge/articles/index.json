@@ -13444,5 +13444,89 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-25T08:34:15Z"
+  },
+  {
+    "id": "20260826-github-anthropicsclaude-plu",
+    "title": "anthropics/claude-plugins-official",
+    "source_url": "https://github.com/anthropics/claude-plugins-official",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "plugin",
+      "sdk",
+      "anthropic"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-26T08:34:54Z"
+  },
+  {
+    "id": "20260826-github-asciimoohister",
+    "title": "asciimoo/hister",
+    "source_url": "https://github.com/asciimoo/hister",
+    "source_type": "github_trending",
+    "tags": [
+      "cli",
+      "shell",
+      "history",
+      "productivity"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-26T08:34:54Z"
+  },
+  {
+    "id": "20260826-github-dietrichgebertponyta",
+    "title": "DietrichGebert/ponytail",
+    "source_url": "https://github.com/DietrichGebert/ponytail",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "prompt-management",
+      "multi-model"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-26T08:34:54Z"
+  },
+  {
+    "id": "20260826-github-marin-communitymarin",
+    "title": "marin-community/marin",
+    "source_url": "https://github.com/marin-community/marin",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-26T08:34:54Z"
+  },
+  {
+    "id": "20260826-github-mintplex-labsanythin",
+    "title": "Mintplex-Labs/anything-llm",
+    "source_url": "https://github.com/Mintplex-Labs/anything-llm",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "knowledge-base",
+      "multi-user",
+      "fullstack"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-26T08:34:54Z"
+  },
+  {
+    "id": "20260826-github-tauricresearchtradin",
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "multi-agent",
+      "finance",
+      "trading",
+      "backtesting"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-26T08:34:54Z"
   }
 ]
