@@ -1,0 +1,31 @@
+{
+  "id": "20260827-github-nashsullmwiki",
+  "title": "nashsu/llm_wiki",
+  "source_url": "https://github.com/nashsu/llm_wiki",
+  "source_type": "github_trending",
+  "summary": "llm_wiki 是一个由社区维护的 LLM 相关资源百科，涵盖模型、工具、框架、论文等，持续更新，适合快速查阅和入门。",
+  "highlights": [
+    "覆盖范围广，从模型到应用层资源齐全",
+    "社区驱动，持续更新，紧跟 LLM 领域发展",
+    "分类清晰，便于快速检索和导航"
+  ],
+  "use_cases": [
+    "LLM 学习入门和知识梳理",
+    "查找特定工具或模型时的快速参考"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "awesome-list",
+    "resources",
+    "wiki"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:48Z",
+  "analyzed_at": "2026-08-27T18:43:35Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

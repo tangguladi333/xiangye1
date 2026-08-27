@@ -1,0 +1,31 @@
+{
+  "id": "20260827-github-composiohqawesome-cl",
+  "title": "ComposioHQ/awesome-claude-skills",
+  "source_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+  "source_type": "github_trending",
+  "summary": "这是一个精选的 Claude Skills 资源列表，汇集了社区构建的各类技能，涵盖开发、自动化、数据分析等领域，为 Claude 用户提供丰富的扩展能力。",
+  "highlights": [
+    "精选列表，便于发现高质量技能",
+    "覆盖多种应用场景，实用性强",
+    "社区驱动，持续更新"
+  ],
+  "use_cases": [
+    "扩展 Claude 的功能，如代码生成、自动化任务",
+    "作为开发者的参考资源，快速集成现成技能"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "awesome-list",
+    "skills",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:53Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

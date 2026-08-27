@@ -1,0 +1,31 @@
+{
+  "id": "20260827-github-conardligarden-skill",
+  "title": "ConardLi/garden-skills",
+  "source_url": "https://github.com/ConardLi/garden-skills",
+  "source_type": "github_trending",
+  "summary": "garden-skills 是一个基于 LLM 的智能园艺助手，提供植物识别、养护建议和病虫害诊断等功能，通过自然语言交互简化园艺管理。",
+  "highlights": [
+    "集成多模态 LLM，支持图像识别植物与病虫害",
+    "提供个性化养护计划与提醒",
+    "开源且易于扩展，支持自定义技能"
+  ],
+  "use_cases": [
+    "家庭园艺爱好者日常养护辅助",
+    "农业技术推广与教育场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "gardening",
+    "ai-assistant",
+    "multimodal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:48Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260827-github-zedeusnitter",
+  "title": "zedeus/nitter",
+  "source_url": "https://github.com/zedeus/nitter",
+  "source_type": "github_trending",
+  "summary": "Nitter 是一个注重隐私的 Twitter 前端替代品，无需登录即可浏览推文，且不追踪用户。它通过自托管实例提供轻量级、去中心化的 Twitter 访问体验。",
+  "highlights": [
+    "无需 JavaScript 或登录即可浏览 Twitter 内容，保护用户隐私",
+    "支持自托管，提供去中心化的 Twitter 访问方式",
+    "轻量级设计，加载速度快，适合低带宽环境"
+  ],
+  "use_cases": [
+    "隐私敏感用户浏览 Twitter 内容",
+    "在受限网络环境中访问 Twitter",
+    "开发者自建 Twitter 镜像服务"
+  ],
+  "maturity": {
+    "stars": 9800,
+    "last_updated": "2026-05-15",
+    "production_ready": true
+  },
+  "tags": [
+    "twitter",
+    "privacy",
+    "self-hosted",
+    "web-scraping"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:38Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

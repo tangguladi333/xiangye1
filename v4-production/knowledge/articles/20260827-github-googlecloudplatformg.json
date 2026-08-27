@@ -1,0 +1,32 @@
+{
+  "id": "20260827-github-googlecloudplatformg",
+  "title": "GoogleCloudPlatform/generative-ai",
+  "source_url": "https://github.com/GoogleCloudPlatform/generative-ai",
+  "source_type": "github_trending",
+  "summary": "Google Cloud 官方生成式 AI 示例仓库，涵盖 Gemini API、Vertex AI、LangChain 等，提供大量代码示例、教程和最佳实践，适合开发者快速上手。",
+  "highlights": [
+    "官方维护，示例丰富且更新频繁",
+    "覆盖多语言（Python、Java、Node.js）和多场景",
+    "包含详细的文档和 Jupyter Notebook 教程"
+  ],
+  "use_cases": [
+    "学习 Gemini 和 Vertex AI 的使用",
+    "快速原型开发和生产部署参考"
+  ],
+  "maturity": {
+    "stars": 8000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "generative-ai",
+    "gemini",
+    "vertex-ai",
+    "google-cloud",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:48Z",
+  "analyzed_at": "2026-08-27T18:43:01Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

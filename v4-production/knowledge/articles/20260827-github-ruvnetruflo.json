@@ -1,0 +1,31 @@
+{
+  "id": "20260827-github-ruvnetruflo",
+  "title": "ruvnet/ruflo",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "source_type": "github_trending",
+  "summary": "ruflo 是一个轻量级 AI 工作流编排框架，支持多模型协作、条件分支和可扩展节点，旨在简化复杂 AI 应用的构建与部署。",
+  "highlights": [
+    "轻量级设计，易于集成到现有项目",
+    "支持多模型协作与条件逻辑编排",
+    "提供可扩展节点接口，便于自定义功能"
+  ],
+  "use_cases": [
+    "构建多步骤 AI 自动化流程",
+    "快速原型开发与实验性 AI 应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "workflow",
+    "orchestration",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:47Z",
+  "analyzed_at": "2026-08-27T18:42:35Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

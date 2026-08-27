@@ -1,0 +1,30 @@
+{
+  "id": "20260827-github-k-dense-aiscientific",
+  "title": "K-Dense-AI/scientific-agent-skills",
+  "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "source_type": "github_trending",
+  "summary": "该项目为科学智能体提供可复用的技能库，涵盖数据获取、实验设计、文献分析等模块，旨在加速科研自动化流程。",
+  "highlights": [
+    "模块化技能设计，便于集成到现有智能体框架",
+    "覆盖科研全流程，从文献调研到实验执行",
+    "提供示例与文档，降低上手门槛"
+  ],
+  "use_cases": [
+    "科研自动化助手开发",
+    "实验室数据管理流程优化"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "scientific-agent",
+    "research-automation",
+    "skills-library"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:46Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

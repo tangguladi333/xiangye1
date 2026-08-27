@@ -1,0 +1,30 @@
+{
+  "id": "20260827-github-opencut-appopencut",
+  "title": "OpenCut-app/OpenCut",
+  "source_url": "https://github.com/OpenCut-app/OpenCut",
+  "source_type": "github_trending",
+  "summary": "OpenCut 是一款开源的视频剪辑应用，提供跨平台支持，强调隐私保护和本地处理，适合轻量级剪辑需求。",
+  "highlights": [
+    "跨平台支持（Windows/macOS/Linux）",
+    "本地处理，保护用户隐私",
+    "简洁易用的界面设计"
+  ],
+  "use_cases": [
+    "个人视频快速剪辑",
+    "隐私敏感场景下的视频处理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "video-editing",
+    "privacy",
+    "cross-platform"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:57Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260827-github-tt-a1iarchify",
+  "title": "tt-a1i/archify",
+  "source_url": "https://github.com/tt-a1i/archify",
+  "source_type": "github_trending",
+  "summary": "Archify 是一个面向 AI 代理的架构感知工具，帮助开发者设计、可视化和优化 LLM 应用架构。它提供模块化组件、交互式图表和最佳实践模板，简化从原型到生产的 AI 系统构建流程。",
+  "highlights": [
+    "提供可视化架构设计界面，支持拖拽式组件编排",
+    "内置多种 LLM 应用模板（如 RAG、Agent、多模态）",
+    "支持架构评估与优化建议，提升系统可靠性"
+  ],
+  "use_cases": [
+    "快速搭建 LLM 应用原型",
+    "团队协作设计 AI 系统架构",
+    "教学演示 AI 代理工作流"
+  ],
+  "maturity": {
+    "stars": 850,
+    "last_updated": "2026-05-20",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "architecture",
+    "visualization",
+    "design-tool"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:41Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

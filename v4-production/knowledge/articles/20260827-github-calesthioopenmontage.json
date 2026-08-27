@@ -1,0 +1,32 @@
+{
+  "id": "20260827-github-calesthioopenmontage",
+  "title": "calesthio/OpenMontage",
+  "source_url": "https://github.com/calesthio/OpenMontage",
+  "source_type": "github_trending",
+  "summary": "OpenMontage 是一个开源的多模态 AI 助手框架，支持文本、图像和音频输入，提供模块化设计和可扩展的插件系统，旨在简化多模态应用的开发。",
+  "highlights": [
+    "支持多种模态输入（文本、图像、音频），统一处理接口",
+    "模块化架构，易于集成自定义模型和工具",
+    "提供丰富的预构建组件和示例，降低开发门槛"
+  ],
+  "use_cases": [
+    "构建多模态聊天机器人或虚拟助手",
+    "开发图像/音频理解与生成应用",
+    "快速原型验证多模态 AI 想法"
+  ],
+  "maturity": {
+    "stars": 320,
+    "last_updated": "2025-11-15",
+    "production_ready": false
+  },
+  "tags": [
+    "multimodal",
+    "ai",
+    "framework",
+    "assistant"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:47Z",
+  "analyzed_at": "2026-08-27T18:42:43Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

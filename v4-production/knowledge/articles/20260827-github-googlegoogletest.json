@@ -1,0 +1,31 @@
+{
+  "id": "20260827-github-googlegoogletest",
+  "title": "google/googletest",
+  "source_url": "https://github.com/google/googletest",
+  "source_type": "github_trending",
+  "summary": "Google 官方 C++ 测试框架，支持单元测试、模拟对象和测试发现，广泛用于跨平台项目。",
+  "highlights": [
+    "Google 官方维护",
+    "支持 xUnit 风格断言",
+    "跨平台（Linux/macOS/Windows）"
+  ],
+  "use_cases": [
+    "C++ 单元测试",
+    "测试驱动开发",
+    "集成测试"
+  ],
+  "maturity": {
+    "stars": 34000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "testing",
+    "cpp",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:50Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

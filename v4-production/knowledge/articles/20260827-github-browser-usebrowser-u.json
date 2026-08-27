@@ -1,0 +1,32 @@
+{
+  "id": "20260827-github-browser-usebrowser-u",
+  "title": "browser-use/browser-use",
+  "source_url": "https://github.com/browser-use/browser-use",
+  "source_type": "github_trending",
+  "summary": "browser-use 是一个让 AI 代理通过自然语言控制浏览器的开源库，基于 LLM 实现网页自动化操作，支持任务规划、元素定位和交互执行。",
+  "highlights": [
+    "支持多种 LLM 后端（如 GPT、Claude、本地模型）",
+    "提供简单 API，快速构建浏览器自动化代理",
+    "活跃社区，持续更新，文档完善"
+  ],
+  "use_cases": [
+    "网页数据抓取与信息提取",
+    "自动化测试与表单填写",
+    "AI 驱动的网页导航与操作"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "browser-automation",
+    "web-scraping"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:46Z",
+  "analyzed_at": "2026-08-27T18:42:10Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

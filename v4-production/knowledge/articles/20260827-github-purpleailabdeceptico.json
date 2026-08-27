@@ -1,0 +1,32 @@
+{
+  "id": "20260827-github-purpleailabdeceptico",
+  "title": "PurpleAILAB/Decepticon",
+  "source_url": "https://github.com/PurpleAILAB/Decepticon",
+  "source_type": "github_trending",
+  "summary": "Decepticon 是一个专注于 AI 安全与对抗性攻击的开源框架，提供多种攻击算法和防御评估工具，帮助开发者测试和加固 AI 模型。",
+  "highlights": [
+    "集成多种对抗性攻击算法，覆盖图像、文本等场景",
+    "提供模型鲁棒性评估与防御策略建议",
+    "模块化设计，易于扩展和集成到现有 AI 流程"
+  ],
+  "use_cases": [
+    "AI 模型安全测试与漏洞扫描",
+    "对抗性训练与防御机制研究",
+    "安全合规评估中的模型鲁棒性验证"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-security",
+    "adversarial-attack",
+    "robustness",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:47Z",
+  "analyzed_at": "2026-08-27T18:42:22Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

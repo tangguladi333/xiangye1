@@ -1,0 +1,30 @@
+{
+  "id": "20260827-github-actionscheckout",
+  "title": "actions/checkout",
+  "source_url": "https://github.com/actions/checkout",
+  "source_type": "github_trending",
+  "summary": "GitHub 官方 Action，用于检出仓库代码，是 CI/CD 工作流的基础组件，支持多种参数配置，广泛使用且维护活跃。",
+  "highlights": [
+    "官方维护，稳定可靠",
+    "支持 fetch-depth、submodules 等丰富配置",
+    "与所有 GitHub 托管 runner 兼容"
+  ],
+  "use_cases": [
+    "CI/CD 流水线中拉取代码",
+    "多分支或指定提交的检出"
+  ],
+  "maturity": {
+    "stars": 5000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "github-actions",
+    "ci",
+    "checkout"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:55Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

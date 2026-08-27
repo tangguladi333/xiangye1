@@ -1,0 +1,32 @@
+{
+  "id": "20260827-github-patchy631ai-engineer",
+  "title": "patchy631/ai-engineering-hub",
+  "source_url": "https://github.com/patchy631/ai-engineering-hub",
+  "source_type": "github_trending",
+  "summary": "AI 工程中心是一个精选资源库，涵盖 LLM 应用开发、Agent 构建、RAG 系统及 MLOps 实践，提供教程、代码示例和最佳实践，适合 AI 工程师快速上手。",
+  "highlights": [
+    "覆盖从基础到高级的 AI 工程全栈内容",
+    "包含大量实战代码和案例",
+    "社区驱动，持续更新"
+  ],
+  "use_cases": [
+    "学习 LLM 应用开发",
+    "构建生产级 AI 系统参考"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "rag",
+    "mlops",
+    "tutorial"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:48Z",
+  "analyzed_at": "2026-08-27T18:43:18Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

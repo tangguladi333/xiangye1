@@ -1,0 +1,32 @@
+{
+  "id": "20260827-github-jetbrainsgo-modern-g",
+  "title": "JetBrains/go-modern-guidelines",
+  "source_url": "https://github.com/JetBrains/go-modern-guidelines",
+  "source_type": "github_trending",
+  "summary": "JetBrains 发布的 Go 语言现代实践指南，涵盖项目结构、并发、错误处理、测试等最佳实践，旨在帮助开发者编写高质量、可维护的 Go 代码。",
+  "highlights": [
+    "由 JetBrains 官方维护，权威性高",
+    "内容全面，覆盖 Go 开发核心领域",
+    "提供代码示例，实用性强"
+  ],
+  "use_cases": [
+    "Go 项目开发规范制定",
+    "团队代码评审标准参考",
+    "Go 开发者技能提升"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "go",
+    "best-practices",
+    "guidelines",
+    "jetbrains"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:49Z",
+  "analyzed_at": "2026-08-27T18:43:44Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260827-github-graphify-labsgraphif",
+  "title": "Graphify-Labs/graphify",
+  "source_url": "https://github.com/Graphify-Labs/graphify",
+  "source_type": "github_trending",
+  "summary": "Graphify 是一个基于知识图谱的 LLM 应用开发框架，支持结构化数据提取、图查询和智能问答，旨在提升 RAG 的语义理解能力。",
+  "highlights": [
+    "将知识图谱与 LLM 结合，增强多跳推理",
+    "提供可视化图构建与查询接口",
+    "支持多种图数据库后端"
+  ],
+  "use_cases": [
+    "复杂关系型知识问答",
+    "企业知识库语义检索"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "knowledge-graph",
+    "rag",
+    "graph-database"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:47Z",
+  "analyzed_at": "2026-08-27T18:42:28Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "20260827-github-thedotmackclaude-mem",
+  "title": "thedotmack/claude-mem",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "source_type": "github_trending",
+  "summary": "claude-mem 是一个为 Claude Code 提供持久记忆功能的开源工具，通过 SQLite 存储对话历史，支持语义搜索和自动记忆提取，增强 AI 助手的上下文连续性。",
+  "highlights": [
+    "自动记忆提取：从对话中自动识别并保存关键信息",
+    "语义搜索：基于嵌入的相似度搜索，快速检索历史对话",
+    "轻量级集成：作为 Claude Code 插件，无缝集成到现有工作流"
+  ],
+  "use_cases": [
+    "长期项目开发中保持上下文一致性",
+    "个人知识管理，从对话中积累信息",
+    "团队协作时共享项目记忆"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "memory",
+    "sqlite",
+    "semantic-search",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:47Z",
+  "analyzed_at": "2026-08-27T18:42:30Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

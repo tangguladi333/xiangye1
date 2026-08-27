@@ -1,0 +1,33 @@
+{
+  "id": "20260827-github-microsoftgenerative-",
+  "title": "microsoft/generative-ai-for-beginners",
+  "source_url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "source_type": "github_trending",
+  "summary": "微软出品的生成式AI入门课程，涵盖提示工程、RAG、Agent等核心主题，提供免费教程和代码示例，适合初学者系统学习。",
+  "highlights": [
+    "由微软官方维护，内容权威且更新频繁",
+    "包含18个章节，覆盖从基础到高级的完整学习路径",
+    "提供丰富的代码示例和实战项目，支持多种编程语言"
+  ],
+  "use_cases": [
+    "初学者入门生成式AI和LLM开发",
+    "教育机构或企业培训的课程素材",
+    "开发者快速上手Azure OpenAI和RAG模式"
+  ],
+  "maturity": {
+    "stars": 65000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "generative-ai",
+    "llm",
+    "education",
+    "azure-openai",
+    "rag"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:48Z",
+  "analyzed_at": "2026-08-27T18:42:50Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

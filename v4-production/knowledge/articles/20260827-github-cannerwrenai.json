@@ -1,0 +1,32 @@
+{
+  "id": "20260827-github-cannerwrenai",
+  "title": "Canner/WrenAI",
+  "source_url": "https://github.com/Canner/WrenAI",
+  "source_type": "github_trending",
+  "summary": "WrenAI 是一个开源的 AI 数据分析平台，通过自然语言交互让用户轻松查询数据库并生成可视化报告。它提供语义引擎、AI 代理和可嵌入的 UI，旨在简化数据洞察流程。",
+  "highlights": [
+    "支持自然语言查询数据库，降低数据分析门槛",
+    "包含语义引擎和 AI 代理，提升查询准确性和上下文理解",
+    "提供可嵌入的 UI 组件，便于集成到现有应用"
+  ],
+  "use_cases": [
+    "业务人员快速自助分析数据",
+    "在 SaaS 产品中嵌入 AI 驱动的数据分析功能"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "data-analytics",
+    "nl2sql",
+    "semantic-layer",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:48Z",
+  "analyzed_at": "2026-08-27T18:43:04Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}

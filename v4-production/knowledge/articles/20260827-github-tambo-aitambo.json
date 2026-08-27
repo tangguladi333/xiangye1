@@ -1,0 +1,31 @@
+{
+  "id": "20260827-github-tambo-aitambo",
+  "title": "tambo-ai/tambo",
+  "source_url": "https://github.com/tambo-ai/tambo",
+  "source_type": "github_trending",
+  "summary": "Tambo 是一个面向 AI 代理的实时状态同步与消息传递框架，支持多代理协作、事件流和持久化，旨在简化代理应用的开发与运维。",
+  "highlights": [
+    "提供实时事件流和状态同步机制，支持多代理协作",
+    "内置持久化存储，便于追溯和恢复代理状态",
+    "提供 Python 和 TypeScript SDK，易于集成"
+  ],
+  "use_cases": [
+    "构建复杂的多代理 AI 应用",
+    "需要实时监控和调试代理行为的场景"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agents",
+    "realtime",
+    "state-sync",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-27T18:41:48Z",
+  "analyzed_at": "2026-08-27T18:43:07Z",
+  "curated_at": "2026-08-27T18:43:57Z"
+}
