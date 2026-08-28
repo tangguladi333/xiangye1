@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-bilawalsidhugods-eye",
+  "title": "bilawalsidhu/gods-eye-view",
+  "source_url": "https://github.com/bilawalsidhu/gods-eye-view",
+  "source_type": "github_trending",
+  "summary": "God's Eye View 是一个基于 LLM 的智能监控系统，利用多模态模型分析实时视频流，自动检测异常事件并生成警报。项目提供可配置的摄像头接入、事件规则引擎和可视化仪表盘，适合安防与自动化监控场景。",
+  "highlights": [
+    "多模态 LLM 实时视频分析",
+    "可配置事件规则与警报通知",
+    "模块化架构，支持多摄像头接入"
+  ],
+  "use_cases": [
+    "智能安防监控",
+    "零售店客流与行为分析",
+    "工业现场安全合规检测"
+  ],
+  "maturity": {
+    "stars": 850,
+    "last_updated": "2026-05-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "computer-vision",
+    "surveillance",
+    "realtime"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:09Z",
+  "analyzed_at": "2026-08-28T19:50:06Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

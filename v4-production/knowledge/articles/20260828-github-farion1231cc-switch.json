@@ -1,0 +1,30 @@
+{
+  "id": "20260828-github-farion1231cc-switch",
+  "title": "farion1231/cc-switch",
+  "source_url": "https://github.com/farion1231/cc-switch",
+  "source_type": "github_trending",
+  "summary": "cc-switch 是一个用于切换 Claude Code 配置的工具，支持多账户管理和快速切换，提升开发效率。",
+  "highlights": [
+    "支持多账户配置管理",
+    "一键切换，操作简便",
+    "基于 Claude Code 生态，实用性强"
+  ],
+  "use_cases": [
+    "多账户开发环境管理",
+    "团队协作时快速切换配置"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "config",
+    "cli"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:07Z",
+  "analyzed_at": "2026-08-28T19:49:32Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

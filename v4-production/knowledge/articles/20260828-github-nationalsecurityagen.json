@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-nationalsecurityagen",
+  "title": "NationalSecurityAgency/ghidra",
+  "source_url": "https://github.com/NationalSecurityAgency/ghidra",
+  "source_type": "github_trending",
+  "summary": "Ghidra 是美国国家安全局（NSA）开发的开源软件逆向工程框架，提供反汇编、反编译、调试和脚本化分析功能，支持多种处理器架构和二进制格式，广泛应用于安全研究和漏洞分析。",
+  "highlights": [
+    "由 NSA 官方维护，具有高可信度和持续更新",
+    "提供强大的反编译器和交互式 GUI，支持插件和脚本扩展",
+    "支持多种处理器架构和文件格式，跨平台运行"
+  ],
+  "use_cases": [
+    "恶意软件分析和漏洞研究",
+    "二进制逆向工程和软件安全审计"
+  ],
+  "maturity": {
+    "stars": 52000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "reverse-engineering",
+    "disassembler",
+    "decompiler",
+    "security",
+    "framework"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:09Z",
+  "analyzed_at": "2026-08-28T19:50:15Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

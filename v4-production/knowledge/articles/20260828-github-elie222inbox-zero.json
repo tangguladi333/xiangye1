@@ -1,0 +1,31 @@
+{
+  "id": "20260828-github-elie222inbox-zero",
+  "title": "elie222/inbox-zero",
+  "source_url": "https://github.com/elie222/inbox-zero",
+  "source_type": "github_trending",
+  "summary": "Inbox Zero 是一个开源的 AI 邮件助手，帮助用户自动分类、摘要和起草邮件回复，实现收件箱零未读。项目活跃，社区关注度高。",
+  "highlights": [
+    "AI 驱动的邮件摘要与回复草稿生成",
+    "支持 Gmail 等主流邮件服务集成",
+    "提供自托管选项，注重隐私保护"
+  ],
+  "use_cases": [
+    "个人邮件管理，减少处理时间",
+    "团队协作中快速处理共享邮箱"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "email",
+    "productivity",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:08Z",
+  "analyzed_at": "2026-08-28T19:49:59Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

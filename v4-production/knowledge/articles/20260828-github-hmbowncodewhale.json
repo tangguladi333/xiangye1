@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-hmbowncodewhale",
+  "title": "Hmbown/CodeWhale",
+  "source_url": "https://github.com/Hmbown/CodeWhale",
+  "source_type": "github_trending",
+  "summary": "CodeWhale 是一个面向开发者的 AI 编程助手，通过自然语言交互生成、解释和重构代码，支持多种主流语言和 IDE 集成。",
+  "highlights": [
+    "支持多语言代码生成与解释",
+    "提供 IDE 插件和 CLI 工具",
+    "基于大语言模型，可自定义模型配置"
+  ],
+  "use_cases": [
+    "日常编码辅助与代码补全",
+    "代码审查与重构建议",
+    "教学场景中的代码示例生成"
+  ],
+  "maturity": {
+    "stars": 850,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "code-assistant",
+    "developer-tools",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:07Z",
+  "analyzed_at": "2026-08-28T19:49:43Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

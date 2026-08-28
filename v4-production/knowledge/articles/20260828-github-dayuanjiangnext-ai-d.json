@@ -1,0 +1,31 @@
+{
+  "id": "20260828-github-dayuanjiangnext-ai-d",
+  "title": "DayuanJiang/next-ai-draw-io",
+  "source_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+  "source_type": "github_trending",
+  "summary": "基于 Next.js 和 AI 的在线绘图工具，支持自然语言生成流程图、思维导图等，提供实时协作与导出功能。",
+  "highlights": [
+    "自然语言生成图表，降低绘图门槛",
+    "支持多种图表类型，如流程图、思维导图",
+    "集成实时协作与云存储"
+  ],
+  "use_cases": [
+    "快速创建技术架构图",
+    "团队头脑风暴与规划"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "drawing",
+    "nextjs",
+    "collaboration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:08Z",
+  "analyzed_at": "2026-08-28T19:49:50Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

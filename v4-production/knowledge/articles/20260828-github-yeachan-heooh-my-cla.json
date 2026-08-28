@@ -1,0 +1,31 @@
+{
+  "id": "20260828-github-yeachan-heooh-my-cla",
+  "title": "Yeachan-Heo/oh-my-claudecode",
+  "source_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+  "source_type": "github_trending",
+  "summary": "一个为 Claude Code CLI 提供增强功能的开源工具集，通过插件化配置和自动化脚本提升开发效率，支持自定义工作流和团队协作。",
+  "highlights": [
+    "提供丰富的预置插件和配置模板，简化 Claude Code 的日常使用",
+    "支持自动化任务和自定义工作流，适合团队标准化开发流程",
+    "活跃的社区维护，持续更新以适配 Claude Code 新特性"
+  ],
+  "use_cases": [
+    "开发者日常编码辅助，快速调用 Claude Code 进行代码生成和审查",
+    "团队统一开发环境配置，通过共享配置提升协作效率"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude-code",
+    "cli",
+    "developer-tools",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:07Z",
+  "analyzed_at": "2026-08-28T19:49:46Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-aishwaryanrawesome-g",
+  "title": "aishwaryanr/awesome-generative-ai-guide",
+  "source_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+  "source_type": "github_trending",
+  "summary": "这是一个精选的生成式AI资源指南，涵盖模型、工具、框架、教程和行业动态，为开发者提供一站式学习与参考入口。",
+  "highlights": [
+    "资源分类清晰，覆盖从基础到进阶的全面内容",
+    "持续更新，紧跟生成式AI领域最新进展",
+    "包含实用工具和框架的对比与推荐"
+  ],
+  "use_cases": [
+    "快速了解生成式AI技术栈和生态",
+    "查找特定任务的工具或模型",
+    "作为学习路径的起点和参考手册"
+  ],
+  "maturity": {
+    "stars": 5000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "generative-ai",
+    "awesome-list",
+    "resources",
+    "guide"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:05Z",
+  "analyzed_at": "2026-08-28T19:49:12Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

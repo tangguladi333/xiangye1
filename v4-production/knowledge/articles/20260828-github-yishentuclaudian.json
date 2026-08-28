@@ -1,0 +1,31 @@
+{
+  "id": "20260828-github-yishentuclaudian",
+  "title": "YishenTu/claudian",
+  "source_url": "https://github.com/YishenTu/claudian",
+  "source_type": "github_trending",
+  "summary": "Claudian 是一个将 Claude 模型封装为本地 API 服务的工具，提供统一接口和流式响应，便于集成到现有应用中。",
+  "highlights": [
+    "提供 OpenAI 兼容的 API 接口，易于替换",
+    "支持流式输出和多种 Claude 模型",
+    "轻量级设计，部署简单"
+  ],
+  "use_cases": [
+    "将 Claude 集成到现有 OpenAI 生态的应用中",
+    "本地开发测试 Claude 模型功能"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "api",
+    "llm",
+    "proxy"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:08Z",
+  "analyzed_at": "2026-08-28T19:49:57Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

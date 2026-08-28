@@ -1,0 +1,33 @@
+{
+  "id": "20260828-github-livekitagents",
+  "title": "livekit/agents",
+  "source_url": "https://github.com/livekit/agents",
+  "source_type": "github_trending",
+  "summary": "LiveKit Agents 是一个开源框架，用于构建实时多模态 AI 代理，支持语音、视频和数据传输，提供高并发、低延迟的通信能力。",
+  "highlights": [
+    "支持实时语音和视频交互",
+    "高并发、低延迟的通信架构",
+    "与 LiveKit 基础设施深度集成"
+  ],
+  "use_cases": [
+    "实时语音助手",
+    "视频会议 AI 代理",
+    "多模态交互应用"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "realtime",
+    "multimodal",
+    "voice",
+    "video",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:09Z",
+  "analyzed_at": "2026-08-28T19:50:21Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

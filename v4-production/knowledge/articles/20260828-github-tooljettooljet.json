@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-tooljettooljet",
+  "title": "ToolJet/ToolJet",
+  "source_url": "https://github.com/ToolJet/ToolJet",
+  "source_type": "github_trending",
+  "summary": "ToolJet 是一个开源的低代码平台，用于快速构建内部工具和业务应用。它提供可视化界面、数据源连接和自动化工作流，支持团队协作，旨在简化开发流程。",
+  "highlights": [
+    "可视化拖拽式应用构建器，无需前端编码",
+    "支持连接多种数据源（如数据库、API、SaaS）",
+    "内置自动化工作流和权限管理，适合团队协作"
+  ],
+  "use_cases": [
+    "快速搭建内部管理后台和运营工具",
+    "构建数据看板和报表应用",
+    "自动化业务流程和审批系统"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "low-code",
+    "internal-tools",
+    "workflow",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:06Z",
+  "analyzed_at": "2026-08-28T19:49:26Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

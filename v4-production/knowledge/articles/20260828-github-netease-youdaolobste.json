@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-netease-youdaolobste",
+  "title": "netease-youdao/LobsterAI",
+  "source_url": "https://github.com/netease-youdao/LobsterAI",
+  "source_type": "github_trending",
+  "summary": "LobsterAI 是网易有道开源的 AI 应用开发框架，提供模块化工具链，简化 LLM 应用构建与部署，支持多模型接入和高效推理。",
+  "highlights": [
+    "模块化设计，支持快速集成多种 LLM",
+    "提供高效推理优化，降低部署成本",
+    "由网易有道维护，企业级应用背景"
+  ],
+  "use_cases": [
+    "企业级 AI 应用快速开发",
+    "多模型统一管理平台",
+    "生产环境 LLM 服务部署"
+  ],
+  "maturity": {
+    "stars": 850,
+    "last_updated": "2026-05-20",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "framework",
+    "ai",
+    "deployment"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:08Z",
+  "analyzed_at": "2026-08-28T19:50:04Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

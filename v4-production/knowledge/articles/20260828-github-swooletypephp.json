@@ -1,0 +1,31 @@
+{
+  "id": "20260828-github-swooletypephp",
+  "title": "swoole/typephp",
+  "source_url": "https://github.com/swoole/typephp",
+  "source_type": "github_trending",
+  "summary": "TypePHP 是一个基于 Swoole 的 PHP 类型安全框架，提供强类型支持、协程和异步能力，旨在提升 PHP 应用的性能和代码质量。",
+  "highlights": [
+    "强类型系统，减少运行时错误",
+    "基于 Swoole 协程，支持高并发",
+    "提供丰富的开发工具和文档"
+  ],
+  "use_cases": [
+    "构建高性能 API 服务",
+    "开发需要类型安全的复杂业务系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "php",
+    "swoole",
+    "framework",
+    "type-safety"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:09Z",
+  "analyzed_at": "2026-08-28T19:50:17Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

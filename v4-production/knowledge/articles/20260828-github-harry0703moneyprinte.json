@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-harry0703moneyprinte",
+  "title": "harry0703/MoneyPrinterTurbo",
+  "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "source_type": "github_trending",
+  "summary": "MoneyPrinterTurbo 是一个利用大模型自动生成短视频的开源项目，支持文案生成、素材匹配、语音合成和视频合成，一键产出高质量视频。",
+  "highlights": [
+    "全自动流程：从文案到成片全自动生成",
+    "支持多种大模型和语音引擎",
+    "提供 Web 界面和 API 接口，易于使用"
+  ],
+  "use_cases": [
+    "自媒体快速制作短视频内容",
+    "营销推广视频的批量生成",
+    "个人创作者快速产出视频"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "llm",
+    "video-generation",
+    "automation",
+    "ai-content"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:06Z",
+  "analyzed_at": "2026-08-28T19:49:21Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}

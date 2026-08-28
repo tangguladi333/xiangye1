@@ -1,0 +1,32 @@
+{
+  "id": "20260828-github-danny-avilalibrechat",
+  "title": "danny-avila/LibreChat",
+  "source_url": "https://github.com/danny-avila/LibreChat",
+  "source_type": "github_trending",
+  "summary": "LibreChat 是一个开源、自托管的 AI 聊天平台，支持多种 AI 提供商（如 OpenAI、Anthropic、Google），提供类似 ChatGPT 的界面，并具备多模态、插件、代码解释器等高级功能。",
+  "highlights": [
+    "多模型支持：集成 OpenAI、Anthropic、Google 等多个 AI 提供商，用户可自由切换。",
+    "丰富功能：包含多模态交互、代码解释器、插件系统、对话搜索和分享等。",
+    "自托管与隐私：支持完全自托管，数据可控，适合注重隐私的用户和企业。"
+  ],
+  "use_cases": [
+    "个人用户自建 AI 聊天助手，替代 ChatGPT 等商业服务。",
+    "团队或企业部署内部 AI 交互平台，统一管理 API 密钥和用户权限。"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "chatbot",
+    "llm",
+    "self-hosted",
+    "multi-provider",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-28T19:49:07Z",
+  "analyzed_at": "2026-08-28T19:49:41Z",
+  "curated_at": "2026-08-28T19:50:21Z"
+}
