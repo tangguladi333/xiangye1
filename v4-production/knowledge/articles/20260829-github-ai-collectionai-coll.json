@@ -1,0 +1,32 @@
+{
+  "id": "20260829-github-ai-collectionai-coll",
+  "title": "ai-collection/ai-collection",
+  "source_url": "https://github.com/ai-collection/ai-collection",
+  "source_type": "github_trending",
+  "summary": "ai-collection 是一个汇集了众多 AI 工具和项目的精选列表，涵盖生成式 AI、机器学习、自然语言处理等多个领域，为开发者和研究者提供便捷的导航资源。",
+  "highlights": [
+    "收录了数百个高质量的 AI 项目，覆盖广泛",
+    "分类清晰，便于快速查找特定领域的工具",
+    "社区维护活跃，持续更新最新 AI 资源"
+  ],
+  "use_cases": [
+    "发现新的 AI 工具和框架",
+    "调研特定领域的 AI 解决方案",
+    "作为 AI 学习资源的导航入口"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "awesome-list",
+    "resources",
+    "curated"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-29T13:31:10Z",
+  "analyzed_at": "2026-08-29T13:31:30Z",
+  "curated_at": "2026-08-29T13:31:40Z"
+}

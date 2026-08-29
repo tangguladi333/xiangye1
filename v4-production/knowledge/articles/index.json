@@ -14624,5 +14624,147 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-28T19:50:21Z"
+  },
+  {
+    "id": "20260829-github-ai-collectionai-coll",
+    "title": "ai-collection/ai-collection",
+    "source_url": "https://github.com/ai-collection/ai-collection",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "awesome-list",
+      "resources",
+      "curated"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-cursorplugins",
+    "title": "cursor/plugins",
+    "source_url": "https://github.com/cursor/plugins",
+    "source_type": "github_trending",
+    "tags": [
+      "cursor",
+      "editor",
+      "plugin",
+      "ai"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-google-geminigemini-",
+    "title": "google-gemini/gemini-cli",
+    "source_url": "https://github.com/google-gemini/gemini-cli",
+    "source_type": "github_trending",
+    "tags": [
+      "cli",
+      "llm",
+      "google",
+      "multimodal",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-hkudsvibe-trading",
+    "title": "HKUDS/Vibe-Trading",
+    "source_url": "https://github.com/HKUDS/Vibe-Trading",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "quantitative-trading",
+      "sentiment-analysis",
+      "backtesting"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-kunagentkun",
+    "title": "KunAgent/Kun",
+    "source_url": "https://github.com/KunAgent/Kun",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-nirdiamantagents-tow",
+    "title": "NirDiamant/agents-towards-production",
+    "source_url": "https://github.com/NirDiamant/agents-towards-production",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agents",
+      "production",
+      "tutorial",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-nirdiamantgenaiagent",
+    "title": "NirDiamant/GenAI_Agents",
+    "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "tutorial",
+      "rag",
+      "multi-agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-obrasuperpowers",
+    "title": "obra/superpowers",
+    "source_url": "https://github.com/obra/superpowers",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "skills",
+      "plugin",
+      "ai-assistant"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-shubhamsabooawesome-",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "ai-agent",
+      "awesome-list",
+      "examples"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260829-github-zylon-aiprivate-gpt",
+    "title": "zylon-ai/private-gpt",
+    "source_url": "https://github.com/zylon-ai/private-gpt",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "privacy",
+      "document-qa"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-29T13:31:40Z"
   }
 ]

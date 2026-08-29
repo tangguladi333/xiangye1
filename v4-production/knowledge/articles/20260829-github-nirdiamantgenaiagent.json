@@ -1,0 +1,32 @@
+{
+  "id": "20260829-github-nirdiamantgenaiagent",
+  "title": "NirDiamant/GenAI_Agents",
+  "source_url": "https://github.com/NirDiamant/GenAI_Agents",
+  "source_type": "github_trending",
+  "summary": "GenAI_Agents 是一个全面的生成式 AI 智能体教程仓库，涵盖从基础到高级的智能体构建技术，包括 RAG、多智能体协作、工具调用等，提供丰富的代码示例和最佳实践。",
+  "highlights": [
+    "覆盖从入门到高级的智能体开发全流程",
+    "包含大量可运行的代码示例和实战项目",
+    "持续更新，紧跟最新 AI 技术趋势"
+  ],
+  "use_cases": [
+    "学习如何构建基于 LLM 的智能体应用",
+    "作为企业级 AI 智能体开发的参考指南"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "tutorial",
+    "rag",
+    "multi-agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-29T13:31:09Z",
+  "analyzed_at": "2026-08-29T13:31:23Z",
+  "curated_at": "2026-08-29T13:31:40Z"
+}

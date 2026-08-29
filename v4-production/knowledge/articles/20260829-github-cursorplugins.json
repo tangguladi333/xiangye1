@@ -1,0 +1,31 @@
+{
+  "id": "20260829-github-cursorplugins",
+  "title": "cursor/plugins",
+  "source_url": "https://github.com/cursor/plugins",
+  "source_type": "github_trending",
+  "summary": "Cursor 官方插件仓库，提供编辑器扩展能力，支持自定义命令、主题和集成，增强 AI 编程体验。",
+  "highlights": [
+    "官方维护，与 Cursor 编辑器深度集成",
+    "提供插件 API 和示例，便于开发者扩展",
+    "活跃更新，社区生态逐步完善"
+  ],
+  "use_cases": [
+    "扩展 Cursor 编辑器功能，如自定义快捷键和命令",
+    "集成外部工具或服务，提升 AI 辅助编程效率"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "cursor",
+    "editor",
+    "plugin",
+    "ai"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-29T13:31:13Z",
+  "analyzed_at": "2026-08-29T13:31:40Z",
+  "curated_at": "2026-08-29T13:31:40Z"
+}

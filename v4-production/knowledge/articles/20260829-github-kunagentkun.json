@@ -1,0 +1,31 @@
+{
+  "id": "20260829-github-kunagentkun",
+  "title": "KunAgent/Kun",
+  "source_url": "https://github.com/KunAgent/Kun",
+  "source_type": "github_trending",
+  "summary": "Kun 是一个面向多智能体协作的开源框架，提供灵活的编排、通信和工具集成能力，旨在简化复杂 AI 应用的构建。",
+  "highlights": [
+    "支持多种智能体通信模式",
+    "提供丰富的工具集成接口",
+    "模块化设计，易于扩展"
+  ],
+  "use_cases": [
+    "多智能体协作任务",
+    "复杂工作流自动化",
+    "AI 应用原型开发"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "framework",
+    "orchestration"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-29T13:31:12Z",
+  "analyzed_at": "2026-08-29T13:31:38Z",
+  "curated_at": "2026-08-29T13:31:40Z"
+}
