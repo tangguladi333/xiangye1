@@ -14766,5 +14766,185 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-29T13:31:40Z"
+  },
+  {
+    "id": "20260830-github-affaan-mecc",
+    "title": "affaan-m/ECC",
+    "source_url": "https://github.com/affaan-m/ECC",
+    "source_type": "github_trending",
+    "tags": [
+      "cryptography",
+      "ecc",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-checkstylecheckstyle",
+    "title": "checkstyle/checkstyle",
+    "source_url": "https://github.com/checkstyle/checkstyle",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "static-analysis",
+      "code-quality",
+      "linting"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-colinhackszod",
+    "title": "colinhacks/zod",
+    "source_url": "https://github.com/colinhacks/zod",
+    "source_type": "github_trending",
+    "tags": [
+      "typescript",
+      "validation",
+      "schema",
+      "type-safe"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-corsairdevcorsair",
+    "title": "corsairdev/corsair",
+    "source_url": "https://github.com/corsairdev/corsair",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "workflow",
+      "llm",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-every-appopen-seo",
+    "title": "every-app/open-seo",
+    "source_url": "https://github.com/every-app/open-seo",
+    "source_type": "github_trending",
+    "tags": [
+      "seo",
+      "analytics",
+      "self-hosted"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-handsomestweipatent-",
+    "title": "handsomestWei/patent-disclosure-skill",
+    "source_url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "source_type": "github_trending",
+    "tags": [
+      "patent",
+      "llm",
+      "document-generation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-lakr233vphone-cli",
+    "title": "Lakr233/vphone-cli",
+    "source_url": "https://github.com/Lakr233/vphone-cli",
+    "source_type": "github_trending",
+    "tags": [
+      "ios",
+      "virtualization",
+      "cli",
+      "macos",
+      "apple-silicon"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-langchain4jlangchain",
+    "title": "langchain4j/langchain4j",
+    "source_url": "https://github.com/langchain4j/langchain4j",
+    "source_type": "github_trending",
+    "tags": [
+      "java",
+      "llm",
+      "rag",
+      "spring-boot",
+      "agent"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-majdipatool",
+    "title": "majd/ipatool",
+    "source_url": "https://github.com/majd/ipatool",
+    "source_type": "github_trending",
+    "tags": [
+      "ios",
+      "app-store",
+      "ipa",
+      "cli"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-p-e-wheretic",
+    "title": "p-e-w/heretic",
+    "source_url": "https://github.com/p-e-w/heretic",
+    "source_type": "github_trending",
+    "tags": [
+      "cli",
+      "ai",
+      "llm",
+      "terminal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-pollen-roboticsmicro",
+    "title": "pollen-robotics/microduck_rl",
+    "source_url": "https://github.com/pollen-robotics/microduck_rl",
+    "source_type": "github_trending",
+    "tags": [
+      "reinforcement-learning",
+      "robotics",
+      "sim-to-real"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-thu-maicopenmaic",
+    "title": "THU-MAIC/OpenMAIC",
+    "source_url": "https://github.com/THU-MAIC/OpenMAIC",
+    "source_type": "github_trending",
+    "tags": [
+      "multimodal",
+      "ai-assistant",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260830-github-unclecodecrawl4ai",
+    "title": "unclecode/crawl4ai",
+    "source_url": "https://github.com/unclecode/crawl4ai",
+    "source_type": "github_trending",
+    "tags": [
+      "web-scraping",
+      "llm",
+      "ai-agent",
+      "markdown",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-30T13:27:57Z"
   }
 ]

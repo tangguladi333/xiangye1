@@ -1,0 +1,33 @@
+{
+  "id": "20260830-github-langchain4jlangchain",
+  "title": "langchain4j/langchain4j",
+  "source_url": "https://github.com/langchain4j/langchain4j",
+  "source_type": "github_trending",
+  "summary": "langchain4j 是 Java 生态的 LangChain 实现，提供统一 API 构建 LLM 应用，支持多种模型、工具调用和 RAG，简化开发流程。",
+  "highlights": [
+    "Java 原生支持，与 Spring Boot 集成良好",
+    "支持多种 LLM 提供商（OpenAI、HuggingFace 等）",
+    "提供 RAG、工具调用、记忆管理等高级功能"
+  ],
+  "use_cases": [
+    "企业级 Java 应用集成 LLM 能力",
+    "构建聊天机器人、文档问答系统",
+    "快速原型开发与生产部署"
+  ],
+  "maturity": {
+    "stars": 12000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "java",
+    "llm",
+    "rag",
+    "spring-boot",
+    "agent"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-30T13:27:19Z",
+  "analyzed_at": "2026-08-30T13:27:26Z",
+  "curated_at": "2026-08-30T13:27:57Z"
+}

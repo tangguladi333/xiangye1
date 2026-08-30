@@ -1,0 +1,30 @@
+{
+  "id": "20260830-github-every-appopen-seo",
+  "title": "every-app/open-seo",
+  "source_url": "https://github.com/every-app/open-seo",
+  "source_type": "github_trending",
+  "summary": "open-seo 是一个开源 SEO 工具，提供关键词研究、排名追踪和站点审计功能，支持多语言和自定义报告，适合中小企业和独立开发者使用。",
+  "highlights": [
+    "提供全面的 SEO 功能模块，包括关键词研究、排名追踪和站点审计",
+    "支持多语言界面和自定义报告，满足不同用户需求",
+    "开源免费，可自托管，数据隐私有保障"
+  ],
+  "use_cases": [
+    "中小企业的 SEO 优化和监控",
+    "独立开发者的网站排名追踪和内容策略制定"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "seo",
+    "analytics",
+    "self-hosted"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-30T13:27:21Z",
+  "analyzed_at": "2026-08-30T13:27:55Z",
+  "curated_at": "2026-08-30T13:27:57Z"
+}

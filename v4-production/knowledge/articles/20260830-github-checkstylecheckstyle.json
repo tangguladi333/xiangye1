@@ -1,0 +1,32 @@
+{
+  "id": "20260830-github-checkstylecheckstyle",
+  "title": "checkstyle/checkstyle",
+  "source_url": "https://github.com/checkstyle/checkstyle",
+  "source_type": "github_trending",
+  "summary": "Checkstyle 是 Java 开发中广泛使用的静态代码分析工具，帮助开发者遵循编码标准，检查代码风格、潜在缺陷和设计问题，支持高度可配置的规则集。",
+  "highlights": [
+    "高度可配置，支持自定义检查规则和抑制策略",
+    "与主流构建工具（Maven、Gradle）和 IDE 深度集成",
+    "活跃的社区和持续的维护，定期发布新版本"
+  ],
+  "use_cases": [
+    "在 CI/CD 流程中强制执行代码规范",
+    "在开发阶段实时检查代码风格，提升代码可读性",
+    "作为代码审查的辅助工具，自动发现常见问题"
+  ],
+  "maturity": {
+    "stars": 2300,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "java",
+    "static-analysis",
+    "code-quality",
+    "linting"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-30T13:27:21Z",
+  "analyzed_at": "2026-08-30T13:27:45Z",
+  "curated_at": "2026-08-30T13:27:57Z"
+}

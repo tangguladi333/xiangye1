@@ -1,0 +1,31 @@
+{
+  "id": "20260830-github-p-e-wheretic",
+  "title": "p-e-w/heretic",
+  "source_url": "https://github.com/p-e-w/heretic",
+  "source_type": "github_trending",
+  "summary": "Heretic 是一个极简的终端 AI 助手，通过命令行界面与多种大语言模型交互，支持流式输出和上下文记忆，注重隐私和本地控制。",
+  "highlights": [
+    "极简设计，无 GUI 依赖，专注终端效率",
+    "支持多模型后端，可灵活切换",
+    "强调隐私，数据本地处理，无云端强制"
+  ],
+  "use_cases": [
+    "开发者快速获取代码建议或解释",
+    "系统管理员在终端中执行自然语言运维查询"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "cli",
+    "ai",
+    "llm",
+    "terminal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-30T13:27:21Z",
+  "analyzed_at": "2026-08-30T13:27:35Z",
+  "curated_at": "2026-08-30T13:27:57Z"
+}

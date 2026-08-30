@@ -1,0 +1,30 @@
+{
+  "id": "20260830-github-handsomestweipatent-",
+  "title": "handsomestWei/patent-disclosure-skill",
+  "source_url": "https://github.com/handsomestWei/patent-disclosure-skill",
+  "source_type": "github_trending",
+  "summary": "这是一个用于生成专利交底书的技能库，基于大语言模型，帮助用户快速撰写专利披露文档，提升专利申请效率。",
+  "highlights": [
+    "自动化生成专利交底书，减少人工撰写时间",
+    "支持自定义模板和结构化输出，适配不同专利类型",
+    "集成大语言模型，提供智能建议和格式优化"
+  ],
+  "use_cases": [
+    "企业研发人员快速准备专利交底材料",
+    "专利代理机构辅助撰写和审核交底书"
+  ],
+  "maturity": {
+    "stars": 45,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "patent",
+    "llm",
+    "document-generation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-30T13:27:21Z",
+  "analyzed_at": "2026-08-30T13:27:50Z",
+  "curated_at": "2026-08-30T13:27:57Z"
+}

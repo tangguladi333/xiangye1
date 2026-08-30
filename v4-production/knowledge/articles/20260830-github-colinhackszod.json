@@ -1,0 +1,32 @@
+{
+  "id": "20260830-github-colinhackszod",
+  "title": "colinhacks/zod",
+  "source_url": "https://github.com/colinhacks/zod",
+  "source_type": "github_trending",
+  "summary": "Zod 是一个 TypeScript 优先的 schema 声明与验证库，以静态类型推断为核心，提供简洁的 API 和强大的类型安全，广受开发者欢迎。",
+  "highlights": [
+    "TypeScript 优先，自动推断静态类型，消除重复类型定义",
+    "API 简洁直观，支持链式调用和丰富的校验规则",
+    "生态完善，集成广泛，社区活跃，文档详尽"
+  ],
+  "use_cases": [
+    "表单数据验证与类型安全",
+    "API 请求/响应数据校验",
+    "配置文件和环境变量的运行时校验"
+  ],
+  "maturity": {
+    "stars": 35000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "typescript",
+    "validation",
+    "schema",
+    "type-safe"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-30T13:27:21Z",
+  "analyzed_at": "2026-08-30T13:27:57Z",
+  "curated_at": "2026-08-30T13:27:57Z"
+}

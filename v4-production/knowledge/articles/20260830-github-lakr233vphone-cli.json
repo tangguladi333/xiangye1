@@ -1,0 +1,33 @@
+{
+  "id": "20260830-github-lakr233vphone-cli",
+  "title": "Lakr233/vphone-cli",
+  "source_url": "https://github.com/Lakr233/vphone-cli",
+  "source_type": "github_trending",
+  "summary": "vphone-cli 是一个基于 Apple Virtualization 框架的 macOS 虚拟化 CLI 工具，用于在 Apple Silicon 上运行 iOS 应用，提供轻量级、无 GUI 的虚拟设备管理方案。",
+  "highlights": [
+    "基于 Apple Virtualization 框架，原生支持 Apple Silicon",
+    "命令行界面，适合自动化与脚本集成",
+    "支持启动、停止、快照等虚拟设备管理操作"
+  ],
+  "use_cases": [
+    "iOS 应用自动化测试",
+    "CI/CD 流水线中的虚拟设备管理",
+    "开发环境快速搭建与隔离"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ios",
+    "virtualization",
+    "cli",
+    "macos",
+    "apple-silicon"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-30T13:27:21Z",
+  "analyzed_at": "2026-08-30T13:27:33Z",
+  "curated_at": "2026-08-30T13:27:57Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260830-github-corsairdevcorsair",
+  "title": "corsairdev/corsair",
+  "source_url": "https://github.com/corsairdev/corsair",
+  "source_type": "github_trending",
+  "summary": "Corsair 是一个用于构建和部署 AI 代理的开发者平台，提供可视化工作流编辑、模型无关的推理引擎和可观测性工具，旨在简化从原型到生产的 AI 应用开发流程。",
+  "highlights": [
+    "可视化工作流编辑器，支持拖拽式构建 AI 代理",
+    "模型无关架构，支持多种 LLM 提供商",
+    "内置可观测性和调试工具，便于生产环境监控"
+  ],
+  "use_cases": [
+    "快速原型设计 AI 代理应用",
+    "生产环境中的 AI 工作流编排与监控"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-agent",
+    "workflow",
+    "llm",
+    "developer-tools"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-30T13:27:21Z",
+  "analyzed_at": "2026-08-30T13:27:52Z",
+  "curated_at": "2026-08-30T13:27:57Z"
+}
