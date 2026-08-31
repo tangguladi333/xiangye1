@@ -1,0 +1,31 @@
+{
+  "id": "20260831-github-kaifcodecuser-scanne",
+  "title": "kaifcodec/user-scanner",
+  "source_url": "https://github.com/kaifcodec/user-scanner",
+  "source_type": "github_trending",
+  "summary": "user-scanner 是一个用于扫描和分析 GitHub 用户信息的工具，通过 API 获取用户仓库、贡献等数据，帮助开发者快速了解目标用户的技术画像。",
+  "highlights": [
+    "提供简洁的 CLI 接口，易于集成",
+    "支持多维度用户数据分析",
+    "基于 GitHub API，数据实时准确"
+  ],
+  "use_cases": [
+    "开发者背景调查",
+    "开源贡献者评估",
+    "人才招聘筛选"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2025-01-01",
+    "production_ready": false
+  },
+  "tags": [
+    "github",
+    "cli",
+    "user-analysis"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-31T15:44:00Z",
+  "analyzed_at": "2026-08-31T15:44:20Z",
+  "curated_at": "2026-08-31T15:44:23Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "20260831-github-wshobsonagents",
+  "title": "wshobson/agents",
+  "source_url": "https://github.com/wshobson/agents",
+  "source_type": "github_trending",
+  "summary": "这是一个专注于AI代理（agents）开发的开源项目，提供多种代理框架和工具，支持构建自主决策系统。项目活跃，文档齐全，适合开发者快速上手。",
+  "highlights": [
+    "提供多种代理框架，覆盖不同应用场景",
+    "文档详尽，包含示例和最佳实践",
+    "社区活跃，持续更新维护"
+  ],
+  "use_cases": [
+    "构建自主决策的AI助手",
+    "自动化工作流和任务执行"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "agents",
+    "automation"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-31T15:43:57Z",
+  "analyzed_at": "2026-08-31T15:44:07Z",
+  "curated_at": "2026-08-31T15:44:23Z"
+}

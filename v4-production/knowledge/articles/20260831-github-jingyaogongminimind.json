@@ -1,0 +1,31 @@
+{
+  "id": "20260831-github-jingyaogongminimind",
+  "title": "jingyaogong/minimind",
+  "source_url": "https://github.com/jingyaogong/minimind",
+  "source_type": "github_trending",
+  "summary": "MiniMind 是一个极简的从零开始训练的大语言模型项目，旨在用最小代码量（约 1000 行）实现类似 GPT 的预训练、微调和推理流程，适合教学和快速原型验证。",
+  "highlights": [
+    "代码极简，核心逻辑清晰，易于学习和二次开发",
+    "支持从数据准备到预训练、SFT、RLHF 的完整流程",
+    "提供多种小规模模型配置，可在消费级 GPU 上运行"
+  ],
+  "use_cases": [
+    "教学演示：理解 LLM 训练全流程",
+    "快速实验：在资源受限环境下验证新想法"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "training",
+    "minimal",
+    "education"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-31T15:44:00Z",
+  "analyzed_at": "2026-08-31T15:44:13Z",
+  "curated_at": "2026-08-31T15:44:23Z"
+}

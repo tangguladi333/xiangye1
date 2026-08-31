@@ -14946,5 +14946,114 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-30T13:27:57Z"
+  },
+  {
+    "id": "20260831-github-bojieliai-agent-book",
+    "title": "bojieli/ai-agent-book",
+    "source_url": "https://github.com/bojieli/ai-agent-book",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "book",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-31T15:44:23Z"
+  },
+  {
+    "id": "20260831-github-firecrawlpdf-inspect",
+    "title": "firecrawl/pdf-inspector",
+    "source_url": "https://github.com/firecrawl/pdf-inspector",
+    "source_type": "github_trending",
+    "tags": [
+      "pdf",
+      "parser",
+      "cli",
+      "debugging"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-31T15:44:23Z"
+  },
+  {
+    "id": "20260831-github-jingyaogongminimind",
+    "title": "jingyaogong/minimind",
+    "source_url": "https://github.com/jingyaogong/minimind",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "training",
+      "minimal",
+      "education"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-31T15:44:23Z"
+  },
+  {
+    "id": "20260831-github-k1tbytewand-enhancer",
+    "title": "k1tbyte/Wand-Enhancer",
+    "source_url": "https://github.com/k1tbyte/Wand-Enhancer",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-art",
+      "image-enhancement",
+      "stable-diffusion",
+      "upscaling"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-31T15:44:23Z"
+  },
+  {
+    "id": "20260831-github-kaifcodecuser-scanne",
+    "title": "kaifcodec/user-scanner",
+    "source_url": "https://github.com/kaifcodec/user-scanner",
+    "source_type": "github_trending",
+    "tags": [
+      "github",
+      "cli",
+      "user-analysis"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-31T15:44:23Z"
+  },
+  {
+    "id": "20260831-github-osmanticods",
+    "title": "Osmantic/ODS",
+    "source_url": "https://github.com/Osmantic/ODS",
+    "source_type": "github_trending",
+    "tags": [
+      "data-sync",
+      "database",
+      "cloud-storage",
+      "etl"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-31T15:44:23Z"
+  },
+  {
+    "id": "20260831-github-wshobsonagents",
+    "title": "wshobson/agents",
+    "source_url": "https://github.com/wshobson/agents",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "agents",
+      "automation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-31T15:44:23Z"
+  },
+  {
+    "id": "20260831-github-zhaoxuya520reverse-s",
+    "title": "zhaoxuya520/reverse-skill",
+    "source_url": "https://github.com/zhaoxuya520/reverse-skill",
+    "source_type": "github_trending",
+    "tags": [
+      "reverse-engineering",
+      "security",
+      "tutorial"
+    ],
+    "status": "curated",
+    "curated_at": "2026-08-31T15:44:23Z"
   }
 ]

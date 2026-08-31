@@ -1,0 +1,32 @@
+{
+  "id": "20260831-github-k1tbytewand-enhancer",
+  "title": "k1tbyte/Wand-Enhancer",
+  "source_url": "https://github.com/k1tbyte/Wand-Enhancer",
+  "source_type": "github_trending",
+  "summary": "Wand-Enhancer 是一个用于增强 AI 绘画工具（如 Stable Diffusion）的插件，提供图像放大、细节增强和风格化处理功能，提升生成图像的质量和分辨率。",
+  "highlights": [
+    "支持多种放大算法，如 ESRGAN、Real-ESRGAN",
+    "提供批量处理能力，适合工作流集成",
+    "与主流 AI 绘画工具无缝集成，易于安装使用"
+  ],
+  "use_cases": [
+    "AI 生成图像的后处理增强",
+    "图像放大用于打印或高清展示",
+    "批量处理图像数据集"
+  ],
+  "maturity": {
+    "stars": 450,
+    "last_updated": "2025-11-20",
+    "production_ready": true
+  },
+  "tags": [
+    "ai-art",
+    "image-enhancement",
+    "stable-diffusion",
+    "upscaling"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-31T15:44:00Z",
+  "analyzed_at": "2026-08-31T15:44:10Z",
+  "curated_at": "2026-08-31T15:44:23Z"
+}

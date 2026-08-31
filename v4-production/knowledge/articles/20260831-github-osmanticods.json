@@ -1,0 +1,32 @@
+{
+  "id": "20260831-github-osmanticods",
+  "title": "Osmantic/ODS",
+  "source_url": "https://github.com/Osmantic/ODS",
+  "source_type": "github_trending",
+  "summary": "ODS 是一个面向开发者的开源数据同步工具，支持多种数据库和云存储，提供实时同步与增量同步功能，配置简单，性能高效。",
+  "highlights": [
+    "支持多种数据源和目标，包括 MySQL、PostgreSQL、S3 等",
+    "提供实时同步与增量同步，确保数据一致性",
+    "配置简单，提供 CLI 和 Web 界面，易于集成"
+  ],
+  "use_cases": [
+    "数据库迁移与备份",
+    "多云存储数据同步",
+    "实时数据仓库构建"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "data-sync",
+    "database",
+    "cloud-storage",
+    "etl"
+  ],
+  "status": "curated",
+  "collected_at": "2026-08-31T15:44:00Z",
+  "analyzed_at": "2026-08-31T15:44:16Z",
+  "curated_at": "2026-08-31T15:44:23Z"
+}
