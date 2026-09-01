@@ -1,0 +1,30 @@
+{
+  "id": "20260901-github-xerrorsyuxi",
+  "title": "xerrors/Yuxi",
+  "source_url": "https://github.com/xerrors/Yuxi",
+  "source_type": "github_trending",
+  "summary": "Yuxi 是一个基于 Go 的高性能、可扩展的分布式任务调度系统，支持多种任务类型和动态扩缩容，适合大规模数据处理场景。",
+  "highlights": [
+    "采用分布式架构，支持水平扩展和高可用",
+    "提供丰富的任务调度策略和实时监控",
+    "代码质量高，文档完善，社区活跃"
+  ],
+  "use_cases": [
+    "大规模数据处理和批处理任务调度",
+    "微服务架构中的异步任务管理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "go",
+    "distributed-systems",
+    "task-scheduler"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:20Z",
+  "analyzed_at": "2026-09-01T12:56:30Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

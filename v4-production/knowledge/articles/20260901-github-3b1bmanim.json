@@ -1,0 +1,31 @@
+{
+  "id": "20260901-github-3b1bmanim",
+  "title": "3b1b/manim",
+  "source_url": "https://github.com/3b1b/manim",
+  "source_type": "github_trending",
+  "summary": "Manim 是 3Blue1Brown 开发的数学动画引擎，用于创建精确的数学可视化视频。它提供 Python API，支持几何、图形、坐标变换等，广泛用于教育内容创作。",
+  "highlights": [
+    "由知名数学教育频道 3Blue1Brown 维护，质量有保障",
+    "支持丰富的数学对象和动画，如函数、几何、矩阵变换",
+    "社区活跃，有大量教程和扩展生态"
+  ],
+  "use_cases": [
+    "制作数学教学视频和动画",
+    "科学可视化演示和讲座"
+  ],
+  "maturity": {
+    "stars": 20000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "math",
+    "animation",
+    "visualization",
+    "education"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:26Z",
+  "analyzed_at": "2026-09-01T12:56:57Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

@@ -15055,5 +15055,230 @@
     ],
     "status": "curated",
     "curated_at": "2026-08-31T15:44:23Z"
+  },
+  {
+    "id": "20260901-github-3b1bmanim",
+    "title": "3b1b/manim",
+    "source_url": "https://github.com/3b1b/manim",
+    "source_type": "github_trending",
+    "tags": [
+      "math",
+      "animation",
+      "visualization",
+      "education"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-adongwanaiagentguide",
+    "title": "adongwanai/AgentGuide",
+    "source_url": "https://github.com/adongwanai/AgentGuide",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-agent",
+      "guide",
+      "llm",
+      "framework"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-averyganreclip",
+    "title": "averygan/reclip",
+    "source_url": "https://github.com/averygan/reclip",
+    "source_type": "github_trending",
+    "tags": [
+      "clip",
+      "video",
+      "multimodal",
+      "zero-shot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-browser-usevideo-use",
+    "title": "browser-use/video-use",
+    "source_url": "https://github.com/browser-use/video-use",
+    "source_type": "github_trending",
+    "tags": [
+      "video",
+      "agent",
+      "browser-use",
+      "multimodal"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-cloudwegoeino",
+    "title": "cloudwego/eino",
+    "source_url": "https://github.com/cloudwego/eino",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "framework",
+      "go",
+      "agent",
+      "orchestration"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-conductor-ossconduct",
+    "title": "conductor-oss/conductor",
+    "source_url": "https://github.com/conductor-oss/conductor",
+    "source_type": "github_trending",
+    "tags": [
+      "workflow",
+      "orchestration",
+      "microservices",
+      "cloud-native"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-debpalashvoicestudio",
+    "title": "debpalash/VoiceStudio",
+    "source_url": "https://github.com/debpalash/VoiceStudio",
+    "source_type": "github_trending",
+    "tags": [
+      "tts",
+      "voice",
+      "api",
+      "web-ui"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-gitlawbopenclaude",
+    "title": "Gitlawb/openclaude",
+    "source_url": "https://github.com/Gitlawb/openclaude",
+    "source_type": "github_trending",
+    "tags": [
+      "claude",
+      "api",
+      "llm",
+      "proxy",
+      "self-hosted"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-imbad0202academic-re",
+    "title": "Imbad0202/academic-research-skills",
+    "source_url": "https://github.com/Imbad0202/academic-research-skills",
+    "source_type": "github_trending",
+    "tags": [
+      "research",
+      "academic",
+      "guide"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-iv-orginvidious",
+    "title": "iv-org/invidious",
+    "source_url": "https://github.com/iv-org/invidious",
+    "source_type": "github_trending",
+    "tags": [
+      "youtube",
+      "privacy",
+      "self-hosted",
+      "open-source"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-koala73worldmonitor",
+    "title": "koala73/worldmonitor",
+    "source_url": "https://github.com/koala73/worldmonitor",
+    "source_type": "github_trending",
+    "tags": [
+      "monitoring",
+      "alerting",
+      "dashboard",
+      "real-time"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-microsoftrd-agent",
+    "title": "microsoft/RD-Agent",
+    "source_url": "https://github.com/microsoft/RD-Agent",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "automl",
+      "data-science",
+      "microsoft"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-usestrixstrix",
+    "title": "usestrix/strix",
+    "source_url": "https://github.com/usestrix/strix",
+    "source_type": "github_trending",
+    "tags": [
+      "observability",
+      "llm",
+      "agent",
+      "monitoring"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-voltagentawesome-des",
+    "title": "VoltAgent/awesome-design-md",
+    "source_url": "https://github.com/VoltAgent/awesome-design-md",
+    "source_type": "github_trending",
+    "tags": [
+      "markdown",
+      "design",
+      "resources",
+      "documentation"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-xerrorsyuxi",
+    "title": "xerrors/Yuxi",
+    "source_url": "https://github.com/xerrors/Yuxi",
+    "source_type": "github_trending",
+    "tags": [
+      "go",
+      "distributed-systems",
+      "task-scheduler"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260901-github-ykdojoclaude-code-ti",
+    "title": "ykdojo/claude-code-tips",
+    "source_url": "https://github.com/ykdojo/claude-code-tips",
+    "source_type": "github_trending",
+    "tags": [
+      "claude-code",
+      "tips",
+      "best-practices",
+      "llm"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-01T12:57:05Z"
   }
 ]

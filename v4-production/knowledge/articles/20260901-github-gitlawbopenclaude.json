@@ -1,0 +1,33 @@
+{
+  "id": "20260901-github-gitlawbopenclaude",
+  "title": "Gitlawb/openclaude",
+  "source_url": "https://github.com/Gitlawb/openclaude",
+  "source_type": "github_trending",
+  "summary": "openclaude 是一个开源项目，旨在提供 Claude API 的开放替代实现，支持多模型接入和本地部署，便于开发者构建 AI 应用。",
+  "highlights": [
+    "提供 Claude API 兼容接口，便于迁移",
+    "支持多模型后端（如 Anthropic、OpenAI）",
+    "轻量级设计，易于本地部署和扩展"
+  ],
+  "use_cases": [
+    "构建自定义 AI 助手或聊天机器人",
+    "在本地或私有环境部署 Claude 兼容服务",
+    "作为教学或研究用途的 API 模拟层"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude",
+    "api",
+    "llm",
+    "proxy",
+    "self-hosted"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:25Z",
+  "analyzed_at": "2026-09-01T12:56:48Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

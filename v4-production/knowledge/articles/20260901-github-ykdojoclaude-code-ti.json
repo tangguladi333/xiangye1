@@ -1,0 +1,31 @@
+{
+  "id": "20260901-github-ykdojoclaude-code-ti",
+  "title": "ykdojo/claude-code-tips",
+  "source_url": "https://github.com/ykdojo/claude-code-tips",
+  "source_type": "github_trending",
+  "summary": "该仓库收集了关于 Claude Code 的实用技巧和最佳实践，涵盖提示词优化、工作流配置和常见问题解决方案，旨在帮助开发者更高效地使用 Claude Code 进行编码。",
+  "highlights": [
+    "精选的 Claude Code 使用技巧，覆盖多种场景",
+    "社区驱动的持续更新，内容实用性强",
+    "提供工作流和提示词示例，易于上手"
+  ],
+  "use_cases": [
+    "开发者学习 Claude Code 高级用法",
+    "团队内部共享 Claude Code 最佳实践"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "claude-code",
+    "tips",
+    "best-practices",
+    "llm"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:24Z",
+  "analyzed_at": "2026-09-01T12:56:46Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

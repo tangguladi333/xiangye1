@@ -1,0 +1,32 @@
+{
+  "id": "20260901-github-koala73worldmonitor",
+  "title": "koala73/worldmonitor",
+  "source_url": "https://github.com/koala73/worldmonitor",
+  "source_type": "github_trending",
+  "summary": "WorldMonitor 是一个开源的世界状态监控框架，支持多数据源接入、实时告警和可视化仪表盘，帮助开发者快速构建定制化监控系统。",
+  "highlights": [
+    "多数据源插件化架构，支持 HTTP、数据库、消息队列等",
+    "内置实时告警引擎，支持多种通知渠道（邮件、Slack、Webhook）",
+    "提供可配置的可视化仪表盘，无需前端开发即可展示监控数据"
+  ],
+  "use_cases": [
+    "微服务健康状态监控与告警",
+    "业务指标实时追踪与异常检测",
+    "IoT 设备状态汇聚与可视化"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "monitoring",
+    "alerting",
+    "dashboard",
+    "real-time"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:23Z",
+  "analyzed_at": "2026-09-01T12:56:41Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

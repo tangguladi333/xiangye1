@@ -1,0 +1,32 @@
+{
+  "id": "20260901-github-averyganreclip",
+  "title": "averygan/reclip",
+  "source_url": "https://github.com/averygan/reclip",
+  "source_type": "github_trending",
+  "summary": "Reclip 是一个用于视频-语言理解的轻量级框架，通过重新利用 CLIP 模型实现高效视频检索与描述生成，无需额外训练。",
+  "highlights": [
+    "无需训练即可实现视频-文本匹配",
+    "基于 CLIP 的零样本视频理解",
+    "支持视频检索与描述生成"
+  ],
+  "use_cases": [
+    "视频内容检索",
+    "视频自动描述",
+    "多模态理解研究"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "未知",
+    "production_ready": false
+  },
+  "tags": [
+    "clip",
+    "video",
+    "multimodal",
+    "zero-shot"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:26Z",
+  "analyzed_at": "2026-09-01T12:57:05Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "20260901-github-iv-orginvidious",
+  "title": "iv-org/invidious",
+  "source_url": "https://github.com/iv-org/invidious",
+  "source_type": "github_trending",
+  "summary": "Invidious 是一个开源的 YouTube 前端替代品，注重隐私保护，无广告、无追踪，支持订阅、播放列表和评论等功能，可自托管。",
+  "highlights": [
+    "隐私优先：无 Google 追踪和广告",
+    "支持自托管，提供公共实例",
+    "API 兼容，支持第三方客户端"
+  ],
+  "use_cases": [
+    "隐私敏感用户观看 YouTube",
+    "开发者构建第三方 YouTube 客户端",
+    "教育或企业环境屏蔽广告和追踪"
+  ],
+  "maturity": {
+    "stars": 17000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "youtube",
+    "privacy",
+    "self-hosted",
+    "open-source"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:26Z",
+  "analyzed_at": "2026-09-01T12:56:53Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

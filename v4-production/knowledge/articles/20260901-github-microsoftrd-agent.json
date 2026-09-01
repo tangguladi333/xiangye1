@@ -1,0 +1,33 @@
+{
+  "id": "20260901-github-microsoftrd-agent",
+  "title": "microsoft/RD-Agent",
+  "source_url": "https://github.com/microsoft/RD-Agent",
+  "source_type": "github_trending",
+  "summary": "RD-Agent 是微软开源的研发自动化智能体框架，利用 LLM 自动完成数据科学和机器学习任务，涵盖问题定义、特征工程、模型训练与报告生成，提升研发效率。",
+  "highlights": [
+    "端到端自动化：从数据探索到模型部署的全流程自动化",
+    "模块化设计：支持自定义工具和插件，易于扩展",
+    "基于 LLM 的智能决策：自动选择算法和调参"
+  ],
+  "use_cases": [
+    "数据科学项目快速原型开发",
+    "机器学习模型自动化训练与优化",
+    "研发流程标准化与效率提升"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "automl",
+    "data-science",
+    "microsoft"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:24Z",
+  "analyzed_at": "2026-09-01T12:56:44Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

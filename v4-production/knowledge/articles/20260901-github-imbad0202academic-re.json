@@ -1,0 +1,30 @@
+{
+  "id": "20260901-github-imbad0202academic-re",
+  "title": "Imbad0202/academic-research-skills",
+  "source_url": "https://github.com/Imbad0202/academic-research-skills",
+  "source_type": "github_trending",
+  "summary": "该项目提供学术研究技能指南，涵盖文献检索、论文写作、数据分析等核心能力，以实用教程和资源清单形式呈现，适合初学者快速入门。",
+  "highlights": [
+    "系统化覆盖研究全流程，从选题到发表",
+    "包含可操作的模板和检查清单",
+    "资源精选，避免信息过载"
+  ],
+  "use_cases": [
+    "研究生新生科研入门培训",
+    "科研人员快速查阅方法参考"
+  ],
+  "maturity": {
+    "stars": 0,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "research",
+    "academic",
+    "guide"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:25Z",
+  "analyzed_at": "2026-09-01T12:56:50Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}

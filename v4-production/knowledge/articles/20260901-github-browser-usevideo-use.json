@@ -1,0 +1,32 @@
+{
+  "id": "20260901-github-browser-usevideo-use",
+  "title": "browser-use/video-use",
+  "source_url": "https://github.com/browser-use/video-use",
+  "source_type": "github_trending",
+  "summary": "video-use 是 browser-use 生态的视频智能体框架，支持多模态模型驱动浏览器完成视频理解、生成与编辑任务，提供自动化工作流与可视化界面。",
+  "highlights": [
+    "基于 browser-use 扩展，无缝集成浏览器自动化与视频处理",
+    "支持多种视频任务（理解、生成、编辑）的智能体编排",
+    "提供可视化操作界面，降低使用门槛"
+  ],
+  "use_cases": [
+    "自动化视频内容分析与摘要生成",
+    "基于自然语言指令的视频编辑与生成",
+    "视频相关的浏览器自动化测试与监控"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "video",
+    "agent",
+    "browser-use",
+    "multimodal"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-01T12:56:26Z",
+  "analyzed_at": "2026-09-01T12:57:00Z",
+  "curated_at": "2026-09-01T12:57:05Z"
+}
