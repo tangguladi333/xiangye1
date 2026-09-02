@@ -1,0 +1,31 @@
+{
+  "id": "20260902-github-hmbowncodewhale",
+  "title": "Hmbown/Codewhale",
+  "source_url": "https://github.com/Hmbown/Codewhale",
+  "source_type": "github_trending",
+  "summary": "Codewhale 是一个面向代码生成与审查的 AI 辅助工具，集成多种 LLM 后端，提供上下文感知的代码建议与自动修复功能。",
+  "highlights": [
+    "支持多模型切换（如 GPT、Claude）",
+    "提供代码审查与自动修复工作流",
+    "轻量级 CLI 与 IDE 插件集成"
+  ],
+  "use_cases": [
+    "日常编码辅助与代码补全",
+    "代码质量审查与安全漏洞检测"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai",
+    "code-generation",
+    "code-review",
+    "cli"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:27Z",
+  "analyzed_at": "2026-09-02T12:26:45Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

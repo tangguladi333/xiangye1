@@ -15280,5 +15280,280 @@
     ],
     "status": "curated",
     "curated_at": "2026-09-01T12:57:05Z"
+  },
+  {
+    "id": "20260902-github-bladerhumanizer",
+    "title": "blader/humanizer",
+    "source_url": "https://github.com/blader/humanizer",
+    "source_type": "github_trending",
+    "tags": [
+      "ai-text",
+      "humanizer",
+      "paraphrase",
+      "nlp"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-dietrichgebertponyta",
+    "title": "DietrichGebert/ponytail",
+    "source_url": "https://github.com/DietrichGebert/ponytail",
+    "source_type": "github_trending",
+    "tags": [
+      "rust",
+      "async",
+      "runtime",
+      "networking"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-fmtlibfmt",
+    "title": "fmtlib/fmt",
+    "source_url": "https://github.com/fmtlib/fmt",
+    "source_type": "github_trending",
+    "tags": [
+      "c++",
+      "formatting",
+      "library"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-google-researchtimes",
+    "title": "google-research/timesfm",
+    "source_url": "https://github.com/google-research/timesfm",
+    "source_type": "github_trending",
+    "tags": [
+      "time-series",
+      "transformer",
+      "foundation-model",
+      "forecasting"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-hmbowncodewhale",
+    "title": "Hmbown/Codewhale",
+    "source_url": "https://github.com/Hmbown/Codewhale",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "code-generation",
+      "code-review",
+      "cli"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-hugohe3ppt-master",
+    "title": "hugohe3/ppt-master",
+    "source_url": "https://github.com/hugohe3/ppt-master",
+    "source_type": "github_trending",
+    "tags": [
+      "ppt",
+      "ai",
+      "generation",
+      "productivity"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-joshuac215agent-serv",
+    "title": "JoshuaC215/agent-service-toolkit",
+    "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+    "source_type": "github_trending",
+    "tags": [
+      "fastapi",
+      "langgraph",
+      "agent",
+      "aws"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-juliusbrusseecaveman",
+    "title": "JuliusBrussee/caveman",
+    "source_url": "https://github.com/JuliusBrussee/caveman",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "agent",
+      "python",
+      "lightweight"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-mattpocockskills",
+    "title": "mattpocock/skills",
+    "source_url": "https://github.com/mattpocock/skills",
+    "source_type": "github_trending",
+    "tags": [
+      "ai",
+      "skills",
+      "framework",
+      "typescript"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-mintplex-labsanythin",
+    "title": "Mintplex-Labs/anything-llm",
+    "source_url": "https://github.com/Mintplex-Labs/anything-llm",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "rag",
+      "knowledge-base",
+      "chatbot"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-pacifioatlas",
+    "title": "pacifio/atlas",
+    "source_url": "https://github.com/pacifio/atlas",
+    "source_type": "github_trending",
+    "tags": [
+      "vector-database",
+      "embeddings",
+      "similarity-search",
+      "cpp",
+      "python"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-protocolbuffersproto",
+    "title": "protocolbuffers/protobuf",
+    "source_url": "https://github.com/protocolbuffers/protobuf",
+    "source_type": "github_trending",
+    "tags": [
+      "serialization",
+      "protocol",
+      "rpc",
+      "data-interchange"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-sngyaisequoia-x",
+    "title": "sngyai/Sequoia-X",
+    "source_url": "https://github.com/sngyai/Sequoia-X",
+    "source_type": "github_trending",
+    "tags": [
+      "multi-agent",
+      "framework",
+      "distributed-systems"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-startrail-orgleann",
+    "title": "StarTrail-org/LEANN",
+    "source_url": "https://github.com/StarTrail-org/LEANN",
+    "source_type": "github_trending",
+    "tags": [
+      "edge-ai",
+      "inference",
+      "quantization"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-steven2358awesome-ge",
+    "title": "steven2358/awesome-generative-ai",
+    "source_url": "https://github.com/steven2358/awesome-generative-ai",
+    "source_type": "github_trending",
+    "tags": [
+      "awesome-list",
+      "generative-ai",
+      "resources"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-superlinkedsie",
+    "title": "superlinked/sie",
+    "source_url": "https://github.com/superlinked/sie",
+    "source_type": "github_trending",
+    "tags": [
+      "vector-search",
+      "semantic-search",
+      "indexing",
+      "ai-infrastructure"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-tauricresearchtradin",
+    "title": "TauricResearch/TradingAgents",
+    "source_url": "https://github.com/TauricResearch/TradingAgents",
+    "source_type": "github_trending",
+    "tags": [
+      "llm",
+      "multi-agent",
+      "finance",
+      "trading"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-vercel-labsportless",
+    "title": "vercel-labs/portless",
+    "source_url": "https://github.com/vercel-labs/portless",
+    "source_type": "github_trending",
+    "tags": [
+      "developer-tools",
+      "tunneling",
+      "local-development"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-wavetermdevwaveterm",
+    "title": "wavetermdev/waveterm",
+    "source_url": "https://github.com/wavetermdev/waveterm",
+    "source_type": "github_trending",
+    "tags": [
+      "terminal",
+      "ai",
+      "web",
+      "developer-tools"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
+  },
+  {
+    "id": "20260902-github-zyronontypewords",
+    "title": "zyronon/TypeWords",
+    "source_url": "https://github.com/zyronon/TypeWords",
+    "source_type": "github_trending",
+    "tags": [
+      "typing",
+      "web-app",
+      "practice"
+    ],
+    "status": "curated",
+    "curated_at": "2026-09-02T12:27:15Z"
   }
 ]

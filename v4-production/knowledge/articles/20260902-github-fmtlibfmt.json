@@ -1,0 +1,31 @@
+{
+  "id": "20260902-github-fmtlibfmt",
+  "title": "fmtlib/fmt",
+  "source_url": "https://github.com/fmtlib/fmt",
+  "source_type": "github_trending",
+  "summary": "fmt 是一个现代 C++ 格式化库，提供类似 Python 的格式化语法，性能优异，是 iostream 和 printf 的替代品。",
+  "highlights": [
+    "高性能格式化，比 iostream 快数倍",
+    "类型安全，支持自定义类型格式化",
+    "API 简洁，易于集成，头文件库"
+  ],
+  "use_cases": [
+    "日志系统",
+    "用户界面输出",
+    "通用字符串格式化"
+  ],
+  "maturity": {
+    "stars": 21000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "c++",
+    "formatting",
+    "library"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:26:50Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

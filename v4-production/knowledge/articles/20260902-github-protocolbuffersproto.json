@@ -1,0 +1,32 @@
+{
+  "id": "20260902-github-protocolbuffersproto",
+  "title": "protocolbuffers/protobuf",
+  "source_url": "https://github.com/protocolbuffers/protobuf",
+  "source_type": "github_trending",
+  "summary": "Protocol Buffers 是 Google 开发的跨语言、跨平台的数据序列化协议，提供高效的二进制编码格式和编译器工具，支持多种编程语言，广泛用于通信协议和数据存储。",
+  "highlights": [
+    "高效的二进制序列化，比 XML/JSON 更小更快",
+    "支持 C++、Java、Python、Go 等十余种语言",
+    "提供向后兼容的版本演进机制"
+  ],
+  "use_cases": [
+    "网络通信协议定义",
+    "分布式系统数据交换",
+    "大数据存储与传输"
+  ],
+  "maturity": {
+    "stars": 68000,
+    "last_updated": "2026-06-01",
+    "production_ready": true
+  },
+  "tags": [
+    "serialization",
+    "protocol",
+    "rpc",
+    "data-interchange"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:27:05Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

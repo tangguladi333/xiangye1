@@ -1,0 +1,32 @@
+{
+  "id": "20260902-github-bladerhumanizer",
+  "title": "blader/humanizer",
+  "source_url": "https://github.com/blader/humanizer",
+  "source_type": "github_trending",
+  "summary": "Humanizer 是一个将 AI 生成文本转化为更自然、类人写作风格的开源工具，通过多种改写策略降低机器痕迹，提升文本的不可检测性。",
+  "highlights": [
+    "提供多种人性化改写模式，如简化、增强、趣闻化等",
+    "支持自定义 API 端点，兼容 OpenAI 格式",
+    "提供 CLI 和 Python 库，便于集成"
+  ],
+  "use_cases": [
+    "内容创作者规避 AI 检测",
+    "学术写作润色",
+    "营销文案自然化"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ai-text",
+    "humanizer",
+    "paraphrase",
+    "nlp"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:27:09Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

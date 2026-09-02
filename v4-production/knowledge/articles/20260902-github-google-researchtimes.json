@@ -1,0 +1,32 @@
+{
+  "id": "20260902-github-google-researchtimes",
+  "title": "google-research/timesfm",
+  "source_url": "https://github.com/google-research/timesfm",
+  "source_type": "github_trending",
+  "summary": "TimesFM 是谷歌研究团队开发的时间序列预测基础模型，采用基于 Transformer 的架构，支持零样本预测，在多个基准上表现优异。",
+  "highlights": [
+    "零样本时间序列预测能力，无需针对特定数据集进行微调",
+    "基于 Transformer 架构，支持长序列预测",
+    "提供预训练模型和开源代码，便于研究和应用"
+  ],
+  "use_cases": [
+    "零售销售预测",
+    "能源需求预测",
+    "金融时间序列分析"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "time-series",
+    "transformer",
+    "foundation-model",
+    "forecasting"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:26:52Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

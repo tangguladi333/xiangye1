@@ -1,0 +1,32 @@
+{
+  "id": "20260902-github-hugohe3ppt-master",
+  "title": "hugohe3/ppt-master",
+  "source_url": "https://github.com/hugohe3/ppt-master",
+  "source_type": "github_trending",
+  "summary": "ppt-master 是一个基于 AI 的 PPT 自动生成工具，通过自然语言描述即可快速创建演示文稿，支持模板定制与在线预览。",
+  "highlights": [
+    "自然语言生成 PPT，降低制作门槛",
+    "支持多种模板与自定义主题",
+    "提供在线预览与导出功能"
+  ],
+  "use_cases": [
+    "快速制作演示文稿",
+    "教育场景课件生成",
+    "商务汇报初稿生成"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "ppt",
+    "ai",
+    "generation",
+    "productivity"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:27:15Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

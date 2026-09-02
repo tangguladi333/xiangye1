@@ -1,0 +1,31 @@
+{
+  "id": "20260902-github-sngyaisequoia-x",
+  "title": "sngyai/Sequoia-X",
+  "source_url": "https://github.com/sngyai/Sequoia-X",
+  "source_type": "github_trending",
+  "summary": "Sequoia-X 是一个面向多智能体协作的框架，提供高效的任务分配与通信机制，支持动态扩展和容错，适用于复杂分布式AI系统。",
+  "highlights": [
+    "动态任务分配算法",
+    "低延迟通信协议",
+    "模块化设计支持自定义智能体"
+  ],
+  "use_cases": [
+    "多智能体协作研究",
+    "分布式AI系统开发",
+    "自动化工作流管理"
+  ],
+  "maturity": {
+    "stars": 150,
+    "last_updated": "2025-11-20",
+    "production_ready": false
+  },
+  "tags": [
+    "multi-agent",
+    "framework",
+    "distributed-systems"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:26:56Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

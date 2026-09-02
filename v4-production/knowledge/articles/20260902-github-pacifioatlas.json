@@ -1,0 +1,33 @@
+{
+  "id": "20260902-github-pacifioatlas",
+  "title": "pacifio/atlas",
+  "source_url": "https://github.com/pacifio/atlas",
+  "source_type": "github_trending",
+  "summary": "Atlas 是一个轻量级、高性能的嵌入式向量数据库，专为 AI 应用设计，支持实时相似性搜索和元数据过滤，易于集成。",
+  "highlights": [
+    "纯 C++ 实现，无外部依赖，性能优异",
+    "支持多种索引类型（HNSW、IVF）和过滤",
+    "提供简洁的 API 和 Python 绑定，易于使用"
+  ],
+  "use_cases": [
+    "RAG 应用中的文档检索",
+    "推荐系统中的相似物品匹配",
+    "边缘设备上的本地语义搜索"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "vector-database",
+    "embeddings",
+    "similarity-search",
+    "cpp",
+    "python"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:27:01Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

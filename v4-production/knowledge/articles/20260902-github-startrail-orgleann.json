@@ -1,0 +1,31 @@
+{
+  "id": "20260902-github-startrail-orgleann",
+  "title": "StarTrail-org/LEANN",
+  "source_url": "https://github.com/StarTrail-org/LEANN",
+  "source_type": "github_trending",
+  "summary": "LEANN 是一个面向轻量级边缘 AI 推理的神经网络框架，专注于低功耗设备上的高效模型部署，支持量化与剪枝优化。",
+  "highlights": [
+    "专为边缘设备设计，内存占用极低",
+    "内置量化与剪枝工具，压缩模型体积",
+    "提供跨平台 C++ API，易于集成"
+  ],
+  "use_cases": [
+    "物联网设备上的实时物体检测",
+    "嵌入式系统的语音识别",
+    "资源受限环境下的模型推理"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "edge-ai",
+    "inference",
+    "quantization"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:26Z",
+  "analyzed_at": "2026-09-02T12:26:41Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

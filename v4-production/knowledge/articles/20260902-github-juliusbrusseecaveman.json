@@ -1,0 +1,31 @@
+{
+  "id": "20260902-github-juliusbrusseecaveman",
+  "title": "JuliusBrussee/caveman",
+  "source_url": "https://github.com/JuliusBrussee/caveman",
+  "source_type": "github_trending",
+  "summary": "Caveman 是一个轻量级的 Python 库，用于构建基于 LLM 的智能体，提供简洁的 API 和工具调用支持，适合快速原型开发。",
+  "highlights": [
+    "极简设计，易于上手",
+    "支持工具调用和上下文管理",
+    "纯 Python 实现，依赖少"
+  ],
+  "use_cases": [
+    "快速构建对话式 AI 助手",
+    "教学演示和原型验证"
+  ],
+  "maturity": {
+    "stars": 120,
+    "last_updated": "2025-03-15",
+    "production_ready": false
+  },
+  "tags": [
+    "llm",
+    "agent",
+    "python",
+    "lightweight"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:27:11Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "20260902-github-joshuac215agent-serv",
+  "title": "JoshuaC215/agent-service-toolkit",
+  "source_url": "https://github.com/JoshuaC215/agent-service-toolkit",
+  "source_type": "github_trending",
+  "summary": "这是一个基于 FastAPI 和 LangGraph 构建的多智能体服务工具包，提供流式响应、任务管理和可观测性功能，支持快速部署到 AWS 等云平台。",
+  "highlights": [
+    "完整的 FastAPI + LangGraph 集成示例",
+    "支持流式响应和任务管理",
+    "提供 AWS 部署模板和可观测性集成"
+  ],
+  "use_cases": [
+    "构建生产级多智能体 API 服务",
+    "快速原型验证和云部署"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "fastapi",
+    "langgraph",
+    "agent",
+    "aws"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:24Z",
+  "analyzed_at": "2026-09-02T12:26:32Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

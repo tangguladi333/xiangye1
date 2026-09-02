@@ -1,0 +1,31 @@
+{
+  "id": "20260902-github-dietrichgebertponyta",
+  "title": "DietrichGebert/ponytail",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "source_type": "github_trending",
+  "summary": "Ponytail 是一个轻量级、高性能的 Rust 异步运行时，专注于低延迟和可扩展性，适用于网络服务和微服务场景。",
+  "highlights": [
+    "基于 Rust 的异步运行时，提供高吞吐量和低延迟",
+    "支持多线程调度和任务窃取，优化 CPU 利用率",
+    "简洁的 API 设计，易于集成到现有项目"
+  ],
+  "use_cases": [
+    "构建高性能网络服务（如 HTTP 服务器、代理）",
+    "开发低延迟微服务或实时数据处理系统"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "rust",
+    "async",
+    "runtime",
+    "networking"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:26:54Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}

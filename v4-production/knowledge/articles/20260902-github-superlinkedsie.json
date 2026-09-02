@@ -1,0 +1,31 @@
+{
+  "id": "20260902-github-superlinkedsie",
+  "title": "superlinked/sie",
+  "source_url": "https://github.com/superlinked/sie",
+  "source_type": "github_trending",
+  "summary": "SIE 是 Superlinked 推出的开源语义索引引擎，用于高效构建和查询向量索引，支持多模态数据与混合搜索，旨在简化 AI 应用的检索基础设施。",
+  "highlights": [
+    "提供高性能的向量索引与混合搜索能力",
+    "支持多模态数据（文本、图像等）的语义检索",
+    "易于集成，降低构建 AI 检索系统的复杂度"
+  ],
+  "use_cases": [
+    "构建基于语义搜索的推荐系统",
+    "为 RAG 应用提供可扩展的向量存储与检索"
+  ],
+  "maturity": {
+    "stars": 1200,
+    "last_updated": "2026-06-01",
+    "production_ready": false
+  },
+  "tags": [
+    "vector-search",
+    "semantic-search",
+    "indexing",
+    "ai-infrastructure"
+  ],
+  "status": "curated",
+  "collected_at": "2026-09-02T12:26:29Z",
+  "analyzed_at": "2026-09-02T12:26:59Z",
+  "curated_at": "2026-09-02T12:27:15Z"
+}
